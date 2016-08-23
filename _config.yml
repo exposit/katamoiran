@@ -8,6 +8,7 @@ tagline: python and pen and paper
 email:
 description: 
 baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
+plusurl: "https://exposit.github.io/katamoiran/" # used for comments
 url: "https://exposit.github.io/katamoiran" # the base hostname & protocol for your site
 
 
