@@ -3,10 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Kata Moiran
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+description: 
+baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
+url: "https://exposit.github.io/" # the base hostname & protocol for your site
 
 
 #
@@ -14,7 +15,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Los Angelos/America
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,7 +34,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: kata
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
