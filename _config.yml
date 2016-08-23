@@ -3,7 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Kata Moiran
+title: katamoiran
+tagline: python and pen and paper
 email:
 description: 
 baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
@@ -34,10 +35,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: kata
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: katamoiran
+  avatar: logo.png
+  job: "python & pen & paper"
+  bio: ""
   email:
   disqus-shortname:
   twitter: #username
