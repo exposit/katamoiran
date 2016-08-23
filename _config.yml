@@ -7,7 +7,7 @@ title: Kata Moiran
 email:
 description: 
 baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
-url: "https://exposit.github.io" # the base hostname & protocol for your site
+url: "https://exposit.github.io/katamoiran" # the base hostname & protocol for your site
 
 
 #
