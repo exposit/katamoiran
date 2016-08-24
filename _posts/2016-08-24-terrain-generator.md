@@ -16,18 +16,18 @@ For the Kyneros campaign I knew I wanted to do a lot of overland exploration, wi
 
 Enter a ton of reading about pointcrawls that eventually led to a very simple and fluid system based partly on [Hill Cantons'](http://hillcantons.blogspot.com/2014/11/reader-query-random-solo-wilderness.html) incredibly useful posts on the subject, and partly on an idea inspired by them at [Mazes, Monsters, Minions, and Madness](http://mmmnm.blogspot.com/2014/11/random-solo-hexless-wilderness.html). When I saw the suggested items to define in the latter post my mind immediately went to the exploration lua game I've been working on, which uses a similar step by step generation method (only utilizing real world landmarks and terrain) to map out a huge area of land. The amount of bookkeeping as written was just too much to generate on the fly; I wanted to know where my heroes were and what they were facing, but I didn't want to generate anything superfluous that I'd then have to keep track of and refer back to. So here's what I've hashed out that works for me.
 
-First, pull up your favorite blank map in your favorite mapping system. I suggest a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial or google it). Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. Pick a starting square; in this example, I chose Seraxis since my party was leaving there and headed to Helase. (I rolled up which square Seraxis was in earlier.)
+First, pull up your favorite blank map in your favorite mapping system. I suggest a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial or google it). Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. Pick a starting square; in this example, I chose the capital city of Seraxis since my party was leaving there (headed to Helase, a city about which I knew very little).
 
 Note, bolded text is taken from my play log; bold and italicized text denotes random results.
 
 <center>
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/><br>
-<i> the blue square means nothing!</i>
+<i> the blue square means nothing</i>
 </center>
 
-Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can do entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what types of ruins are present, and how many settlements you're likely to run into. It's all based on what feels right to me, so feel free to tailor the numbers to your tastes. 
+Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what type and how many ruins are present, and what type and how many settlements are present. The random parts are based on what feels right to me, so you should tailor the numbers to your tastes. 
 
-Note that the settlement types are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
+Note that the settlement levels are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
 
 <center>
 <b><i>[Settled Level] Dense [Seed] 5</i></b><br>
