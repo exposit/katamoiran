@@ -10,7 +10,7 @@ pinned: true
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="success">terrain generator scripts</a></div>
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn btn-success">terrain generator scripts</a></div>
 
 So I've always had a love for random generation, and it's an essential part of my solo adventuring experience. But when it comes to terrain I don't have the patience (or attention span) for hexcrawls or pre-generating lots of details, or really more than "jot down a few notes" and move on.
 
