@@ -44,9 +44,9 @@ Step 2. [Optional] If your characters are headed somewhere in particular, use di
 <b><i>[Time Units] 4 [Road?] No</i></b>
 </center>
 
-Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast", so my first square to fill in is to the southeast of Seraxis.
+Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast". My first square to fill in is to the southeast of Seraxis.
 
-Step 4. Move the direction indicated. As your characters move into a square, use next.py with the current seed to get the terrain and modify *time units* by this terrain. For example, if we moved one *time unit* to the southeast, and got Heavy Forest (which we did) which has a value of half speed, it'll take two time units to cross.
+Step 4. Move the direction indicated. As your characters move into a square, use next.py with the current seed to get the terrain and modify *time units* by this terrain. For example, if we moved one *time unit* to the southeast, and got Heavy Forest (we did) which has a value of half speed, it'll take two *time units* to cross.
 
 If time is already set in the fiction -- for example, if you've determined through roleplay that it will take about six days to get there -- and roll up incompatible terrain ("That's the third mountain in a row, but that NPC told us it was a three day trip!"), perhaps your heroes stumble over a road or game trail, or a secret pass, or the weather is extremely favorable. Or maybe the intel was just wrong.
 
