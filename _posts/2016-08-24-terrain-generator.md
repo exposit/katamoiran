@@ -25,7 +25,7 @@ Note, bolded text is taken from my play log; bold and italicized text denotes ra
 <i> the blue square means nothing</i>
 </center>
 
-Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what type and how many ruins are present, and what type and how many settlements are present. The random parts are based on what feels right to me, so you should tailor the numbers to your tastes. 
+Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. The random parts are based on what feels right to me, so you should tailor the numbers to your tastes. 
 
 Note that the settlement levels are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
 
