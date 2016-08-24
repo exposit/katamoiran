@@ -30,7 +30,7 @@ Now pick a starting square; in this example, I chose the capital city of Seraxis
 <i> the blue square means nothing</i>
 </center>
 
-Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information generated, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. 
+Step 1. Roll up a current region using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information generated, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. 
 
 The settlement levels use the naming scheme from the [d30 Sandbox Companion](http://www.drivethrurpg.com/product/124392/d30-Sandbox-Companion), more or less (numbers are not related; I realized there were charts for this stuff in d30 after I'd already written this and was too lazy to rewrite it from scratch -- plus it'd be overkill) and terrain types are generally matched to Scarlet Heroes. Also, you will need to interpret the results (or edit the script) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or steppes or taiga (or lava fields or something really weird).
 
@@ -58,7 +58,7 @@ Step 4. Move your heroes in the direction indicated. As they move into a square,
 
 Step 5. Handle all of your "enter a new hex" bookkeeping as your system indicates. Roll for encounters, features, events, weather changes. Dock rations. Run a scene if something interesting occurs. Mark off any time units spent in travel. Repeat this step for any additional time units spent in this square.
 
-Now repeat steps three to five as many times as needed. If you're using a set number of *time units*, then when you run out of the original number of *time units* you've reached your destination. This means if the innkeeper tells you something is "three days away" he'll end up being generally accurate (unless he's lying or something).
+Now repeat steps three to five as many times as needed. If you're using a set number of *time units*, then when you run out of the original number of *time units* you've reached your destination. This means if the innkeeper tells you something is "three days away" he'll end up being generally accurate (unless he's lying or something). When you reach your destination, if it seems appropriate, roll up a new base region using base.py.
 
 And that's about all there is to it; the goal is to have enough info for a decently repeatable experience if your heroes come this way again, but not have a ton of information to keep track of that you likely won't need. My heroes' four day journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
