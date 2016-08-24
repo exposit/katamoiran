@@ -3,7 +3,7 @@ layout: post
 title: Pointcrawl Terrain Generator
 imagefolder: 2016-08-24
 modified: 2016-08-23
-tags: [mapping, random generator, script, python, terrain]
+tags: [mapping, random generator, script, python, terrain, solo, mechanic]
 comments: true
 pinned: true
 published: true
@@ -13,10 +13,11 @@ published: true
 
 For the Kyneros campaign I knew I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and entirely oracle-generated world-building. I've always had a love for random generation, and it's an essential part of my solo adventuring experience -- but I know my limits, and when it comes to terrain I don't have the patience (or attention span) for a literal hexcrawl.
 
+<!--more-->
+
 Enter a ton of reading about pointcrawls that eventually led to a very simple and fluid system based partly on [Hill Cantons'](http://hillcantons.blogspot.com/2014/11/reader-query-random-solo-wilderness.html) incredibly useful posts on the subject, and partly on an idea inspired by them at [Mazes, Monsters, Minions, and Madness](http://mmmnm.blogspot.com/2014/11/random-solo-hexless-wilderness.html). When I saw the suggested items to define in the latter post my mind immediately went to the exploration lua game I've been working on, which uses a similar step by step generation method (only utilizing real world landmarks and terrain) to map out a huge area of land. The amount of bookkeeping as written was just too much to generate on the fly; I wanted to know where my heroes were and what they were facing, but I didn't want to generate anything superfluous that I'd then have to keep track of and refer back to.
 
 So here's the method I've hashed out that works for me.
-<!--more-->
 
 First, pull up your favorite blank map in your favorite mapping system. Or don't; this works equally well with plain text, jotting down each area as it is encountered, maybe making a rough grid with pipes and dashes. Either way, you're basically making a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial). 
 
@@ -59,7 +60,7 @@ Step 5. Handle all of your "enter a new hex" bookkeeping as your system indicate
 
 Now repeat steps three to five as many times as needed. If you're using a set number of *time units*, then when you run out of the original number of *time units* you've reached your destination. This means if the innkeeper tells you something is "three days away" he'll end up being generally accurate (unless he's lying or something).
 
-And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. My heroes' four day journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
+And that's about all there is to it; the goal is to have enough info for a decently repeatable experience if your heroes come this way again, but not have a ton of information to keep track of that you likely won't need. My heroes' four day journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <center>
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 350px; height: 300px"/>
