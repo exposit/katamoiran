@@ -2,7 +2,7 @@
 layout: post
 title: Terrain Generator
 excerpt: "Three part terrain generator for solo point crawls."
-images: 2016-08-24
+imagefolder: 2016-08-24
 modified: 2016-08-23
 tags: [mapping, random generator, script, python, terrain]
 comments: true
@@ -10,7 +10,7 @@ pinned: true
 published: true
 ---
 
-**[all your base scripts](https://github.com/exposit/katamoiran/tree/master/python/terrain_generator)**
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn">terrain generator scripts</a></div>
 
 So I've always had a love for random generation, and it's an essential part of my solo adventuring experience. But when it comes to terrain I don't have the patience for hexcrawls or pre-generating lots of details, or really more than "jot down a few notes" and move on. After all, my heroes might travel through an area once, maybe twice if they're returning the same way, and I can always flesh things out more the second pass (if there even is one). Plus I hate getting up a good head of steam playing a scene and having to stop for more than a moment or two to figure out the next area. And then there's the issue of "if I add it to the fiction, I need to keep track of it".
 
