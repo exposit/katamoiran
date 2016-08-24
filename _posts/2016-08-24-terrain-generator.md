@@ -37,21 +37,19 @@ Step 2. [Optional] If your characters are headed somewhere in particular, use di
 
 Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast", so my first square to fill in is to the southeast of Seraxis.
 
-Step 4. Move to the direction indicated. As your characters move into a square, using next.py with the current seed to get the terrain and modify *time units* by this terrain. For example, if we moved one *time unit* to the southeast, and got Heavy Forest (which we did) which has a value of -50% to speed, it'd take two time units to cross. I've built into the script a chance of a road or river, but you can interpret that as going your way or going across; it's up to you or your oracle. You might notice in the play log for this I had to oracle it; I added the road chance later.
+Step 4. Move the direction indicated. As your characters move into a square, use next.py with the current seed to get the terrain and modify *time units* by this terrain. For example, if we moved one *time unit* to the southeast, and got Heavy Forest (which we did) which has a value of half speed, it'll take two time units to cross.
 
-If time is already set in the fiction, by the way -- for example, if you've determined it will take about six days to get there -- and roll up incompatible terrain ("That's the third mountain in a row, but that NPC told us it was a three day trip!"), perhaps your heroes stumble over a road or game trail, or a secret pass, or the weather is extremely favorable. Or maybe the NPC was just wrong.
+If time is already set in the fiction -- for example, if you've determined through roleplay that it will take about six days to get there -- and roll up incompatible terrain ("That's the third mountain in a row, but that NPC told us it was a three day trip!"), perhaps your heroes stumble over a road or game trail, or a secret pass, or the weather is extremely favorable. Or maybe the intel was just wrong.
 
 **Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.**<br>
 **_[Terrain] heavy forest (2)_**<br>
-**Is there anything resembling a road?**<br>
-**_[very likely, 47<=85] YES_**<br>
 
 <img src="{{ site.url }}/img/posted/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 
 Step 5. Handle all of your "enter a new hex" bookkeeping. Roll for encounters, features, events, weather changes. Dock rations. Run a scene if something interesting occurs. Repeat this step for any additional time units spent in this hex.
 
-Now repeat steps three to five as many times as indicated by the original distance roll. If you know the ending terrain, check base.py for a suitable seed and fiat that the last leg of the journey is something compatible with the seed you're leaving and the seed you're entering instead of rolling.
+Now repeat steps three to five as many times as indicated by the original distance roll. If you know the ending terrain, you can check base.py for a suitable seed and fiat that the last leg of the journey is something compatible with the seed you're leaving and the seed you're entering instead of rolling. I don't bother.
 
-And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. During my heroes' four time unit journey to Helase they encountered a lawman with a prisoner, a wounded bull, and ended up taking refuge from a thunderstorm in a haunted temple. It took about five days and the final map looked like this:
+And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. My heroes' four time unit journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <img src="{{ site.url }}/img/posted/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 200px; height: 200px"/>
