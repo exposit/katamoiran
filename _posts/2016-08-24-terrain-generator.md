@@ -2,6 +2,7 @@
 layout: post
 title: Terrain Generator
 excerpt: "Three part terrain generator for solo point crawls."
+images: 2016-08-24
 modified: 2016-08-23
 tags: [mapping, random generator, script, python, terrain]
 comments: true
@@ -20,7 +21,7 @@ First, pull up your favorite blank map in your favorite mapping system. I sugges
 Note, bolded text is taken from my play log.
 
 <center>
-<img src="{{ site.url }}/img/posted/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/>
 <i> the blue square means nothing!</i>
 </center>
 
@@ -53,7 +54,7 @@ If time is already set in the fiction -- for example, if you've determined throu
 <b>Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.</b><br>
 <b></i>[Terrain] heavy forest (2)</i></b><br>
 
-<img src="{{ site.url }}/img/posted/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 </center>
 
 Step 5. Handle all of your "enter a new hex" bookkeeping. Roll for encounters, features, events, weather changes. Dock rations. Run a scene if something interesting occurs. Repeat this step for any additional time units spent in this hex.
@@ -63,5 +64,5 @@ Now repeat steps three to five as many times as indicated by the original distan
 And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. My heroes' four time unit journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <center>
-<img src="{{ site.url }}/img/posted/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 200px; height: 200px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 200px; height: 200px"/>
 </center>
