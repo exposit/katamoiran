@@ -18,8 +18,7 @@ Yet I knew for the Kyneros campaign I wanted to do a lot of overland exploration
 
 First, pull up your favorite blank map in your favorite mapping system. I suggest a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial or google it). Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. Pick a starting square; in this example, I chose Seraxis since my party was leaving there and headed to Helase. (I rolled up which square Seraxis was in earlier.)
 
-![Seraxis]({{ site.url }}/img/posted/seraxis.png =100x100)
-{: .pull-right}
+<img src="{{ site.url }}/img/posted/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/>
 
 Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can do entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what types of ruins are present, and how many settlements you're likely to run into. It's all based on what feels right to me, so feel free to tailor the numbers to your tastes. 
 
@@ -38,8 +37,7 @@ Step 2. [Optional] If your characters are headed somewhere in particular, use di
 
 Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast", so my first square to fill in is to the southeast of Seraxis.
 
-![Seraxis to Helase, first leg]({{ site.url }}/img/posted/seraxis_to_helase_leg1.png  =100x100)
-{: .pull-right}
+<img src="{{ site.url }}/img/posted/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 
 Step 4. Move to the direction indicated. As your characters move into a square, using next.py with the current seed to get the terrain and modify *time units* by this terrain. For example, if we moved one *time unit* to the southeast, and got Heavy Forest (which we did) which has a value of -50% to speed, it'd take two time units to cross. I've built into the script a chance of a road or river, but you can interpret that as going your way or going across; it's up to you or your oracle. You might notice in the play log for this I had to oracle it; I added the road chance later.
 
@@ -47,7 +45,7 @@ If time is already set in the fiction, by the way -- for example, if you've dete
 
 **Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.**<br>
 **_[Terrain] heavy forest (2)_**<br>
-**"Is there anything resembling a road?**<br>
+**Is there anything resembling a road?**<br>
 **_[very likely, 47<=85] YES_**<br>
 
 Step 5. Handle all of your "enter a new hex" bookkeeping. Roll for encounters, features, events, weather changes. Dock rations. Run a scene if something interesting occurs. Repeat this step for any additional time units spent in this hex.
@@ -56,5 +54,4 @@ Now repeat steps three to five as many times as indicated by the original distan
 
 And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. During my heroes' four time unit journey to Helase they encountered a lawman with a prisoner, a wounded bull, and ended up taking refuge from a thunderstorm in a haunted temple. It took about five days and the final map looked like this:
 
-![Seraxis to Helase]({{ site.url }}/img/posted/seraxis_to_helase.png  =100x100)
-{: .pull-right}
+<img src="{{ site.url }}/img/posted/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 200px; height: 200px"/>
