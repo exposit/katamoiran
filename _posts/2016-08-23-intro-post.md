@@ -4,8 +4,9 @@ title: Here We Go
 excerpt: "Not sure what to say. Just a place for my stuff."
 modified: 2016-08-23
 tags: [intro, general, site]
-comments: false
+comments: true
 pinned: true
+published: true
 ---
 
 #### pen and paper and python

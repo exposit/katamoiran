@@ -5,7 +5,7 @@
 #
 title: katamoiran
 tagline: python and pen and paper
-email:
+email: 
 description: 
 baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
 plusurl: "https://exposit.github.io/katamoiran/" # used for comments
