@@ -88,10 +88,10 @@ pre code {
   .m { color: #666666 } /* Literal.Number */
   .s { color: #BB4444 } /* Literal.String */
   .na { color: #BB4444 } /* Name.Attribute */
-  .nb { color: #0000FF } /* Name.Builtin */
+  .nb { color: #AA22FF } /* Name.Builtin */
   .nc { color: #0000FF } /* Name.Class */
   .no { color: #880000 } /* Name.Constant */
-  .nd { color: #0000FF } /* Name.Decorator */
+  .nd { color: #AA22FF } /* Name.Decorator */
   .ni { color: #999999; font-weight: bold } /* Name.Entity */
   .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
   .nf { color: #00A000 } /* Name.Function */
@@ -99,7 +99,7 @@ pre code {
   .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
   .nt { color: #008000; font-weight: bold } /* Name.Tag */
   .nv { color: #B8860B } /* Name.Variable */
-  .ow { color: #0000FF; font-weight: bold } /* Operator.Word */
+  .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
   .w { color: #bbbbbb } /* Text.Whitespace */
   .mf { color: #666666 } /* Literal.Number.Float */
   .mh { color: #666666 } /* Literal.Number.Hex */
