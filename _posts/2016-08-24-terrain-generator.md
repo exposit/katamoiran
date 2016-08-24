@@ -17,16 +17,20 @@ Enter a ton of reading about pointcrawls that eventually led to a very simple an
 
 So here's the method I've hashed out that works for me.
 <!--more-->
-First, pull up your favorite blank map in your favorite mapping system. I suggest a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial or google it). Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. Pick a starting square; in this example, I chose the capital city of Seraxis since my party was leaving there (headed to Helase, a city about which I knew very little).
+First, pull up your favorite blank map in your favorite mapping system. Or don't; this works equally well with plain text, jotting down each area as it is encountered, maybe making a rough grid with pipes and dashes. Either way, you're basically making a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial). 
+
+Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. 
+
+Now pick a starting square; in this example, I chose the capital city of Seraxis since my party was leaving there (headed to Helase, a city about which I knew very little).
 
 <center>
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/><br>
 <i> the blue square means nothing</i>
 </center>
 
-Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information there, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. The random parts are based on what feels right to me, so you should tailor the numbers to your tastes. 
+Step 1. Roll up a current terrain using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information generated, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. 
 
-Note that the settlement levels are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
+The settlement levels use the naming scheme from the [d30 Sandbox Companion](http://www.drivethrurpg.com/product/124392/d30-Sandbox-Companion), more or less (numbers are not related; I realized there were charts for this stuff in d30 after I'd already written this and was too lazy to rewrite it from scratch -- plus it'd be overkill) and terrain types are generally matched to Scarlet Heroes. Also, you will need to interpret the results (or edit the script) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or steppes or taiga (or lava fields or something really weird).
 
 ><b>[Settled Level] Dense [Seed] 5<br>
 >[Terrain Type] hills (1), heavy forest (2), light forest (3), plains (4)<br>
