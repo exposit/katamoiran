@@ -1,2 +1,4 @@
-# katamoiran
-python scripts for P&amp;P rpgs
+Blog:
+
+A simple place to share solo adventures, mechanics/classes, and scripts related to gaming (things like random generators).
+
