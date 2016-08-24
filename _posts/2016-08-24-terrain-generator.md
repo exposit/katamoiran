@@ -39,10 +39,8 @@ Note that the settlement levels are based on d30 Sandbox settlement levels and t
     
 Step 2. [Optional] If your characters are headed somewhere in particular, use distance.py, roll a die, or use an oracle to get an idea of how many *time units* separate your starting and ending squares. The number of *time units* should be interpreted as "in ideal terrain and conditions, a human could cover one *time unit* a day". Roll multiple times if necessary.
 
-<center>
-<b>And finally let's get the distance to Helase from here.</b><br>
-<b><i>[Time Units] 4 [Road?] No</i></b>
-</center>
+><b>And finally let's get the distance to Helase from here.</b><br>
+><b><i>[Time Units] 4 [Road?] No</i></b>
 
 Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast". My first square to fill in is to the southeast of Seraxis.
 
@@ -52,7 +50,7 @@ If time is already set in the fiction -- for example, if you've determined throu
 
 <center>
 <b>Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.</b><br>
-<b><i>[Terrain] heavy forest (2)</i></b><br>
+<b><i>[Terrain] heavy forest (2)</i></b><br><br>
 
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 </center>
@@ -64,5 +62,5 @@ Now repeat steps three to five as many times as indicated by the original distan
 And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. My heroes' four time unit journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 200px; height: 200px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 300px; height: 300px"/>
 </center>
