@@ -29,16 +29,16 @@ Step 1. Roll up a current terrain using base.py, making a note of the resulting 
 
 Note that the settlement levels are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
 
-><b><i>[Settled Level] Dense [Seed] 5</i></b><br>
-><b><i>[Terrain Type] hills (1), heavy forest (2), light forest (3), plains (4)</i></b><br>
-><b><i>[Settlements] ['Village', 'City']</i></b><br>
-><b><i>[Beneath] Caves</i></b><br>
-><b><i>[Known Ruins] ['habitation', 'fortress', 'sewer']</i></b>
+>[Settled Level] Dense [Seed] 5
+>[Terrain Type] hills (1), heavy forest (2), light forest (3), plains (4)
+>[Settlements] ['Village', 'City']
+>[Beneath] Caves
+>[Known Ruins] ['habitation', 'fortress', 'sewer']
     
 Step 2. [Optional] If your characters are headed somewhere in particular, use distance.py, roll a die, or use an oracle to get an idea of how many *time units* separate your starting and ending squares. The number of *time units* should be interpreted as "in ideal terrain and conditions, a human could cover one *time unit* a day". Roll multiple times if necessary.
 
-><b>And finally let's get the distance to Helase from here.</b><br>
-><b><i>[Time Units] 4 [Road?] No</i></b>
+>And finally let's get the distance to Helase from here.
+>[Time Units] 4 [Road?] No
 
 Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast". My first square to fill in is to the southeast of Seraxis.
 
@@ -46,9 +46,8 @@ Step 4. Move the direction indicated. As your characters move into a square, use
 
 If time is already set in the fiction -- for example, if you've determined through roleplay that it will take about six days to get there -- and roll up incompatible terrain ("That's the third mountain in a row, but that NPC told us it was a three day trip!"), perhaps your heroes stumble over a road or game trail, or a secret pass, or the weather is extremely favorable. Or maybe the intel was just wrong.
 
-
-><b>Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.</b><br>
-><b><i>[Terrain] heavy forest (2)</i></b>
+>Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.
+>>[Terrain] heavy forest (2)
 
 <center>
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
@@ -61,5 +60,5 @@ Now repeat steps three to five as many times as indicated by the original distan
 And that's about all there is to it; the goal is to leave lots of options but to have enough info for a decently repeatable experience if your heroes come this way again. My heroes' four time unit journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 325px; height: 300px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 350px; height: 300px"/>
 </center>
