@@ -23,6 +23,9 @@ highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 
+future: false
+show_drafts: false
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
