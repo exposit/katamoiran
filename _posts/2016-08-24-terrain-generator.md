@@ -10,18 +10,18 @@ pinned: true
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn">terrain generator scripts</a></div>
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="success">terrain generator scripts</a></div>
 
-So I've always had a love for random generation, and it's an essential part of my solo adventuring experience. But when it comes to terrain I don't have the patience for hexcrawls or pre-generating lots of details, or really more than "jot down a few notes" and move on. After all, my heroes might travel through an area once, maybe twice if they're returning the same way, and I can always flesh things out more the second pass (if there even is one). Plus I hate getting up a good head of steam playing a scene and having to stop for more than a moment or two to figure out the next area. And then there's the issue of "if I add it to the fiction, I need to keep track of it".
+So I've always had a love for random generation, and it's an essential part of my solo adventuring experience. But when it comes to terrain I don't have the patience (or attention span) for hexcrawls or pre-generating lots of details, or really more than "jot down a few notes" and move on.
 
-Yet I knew for the Kyneros campaign I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and fairly specific world-building. Enter a ton of reading about pointcrawls that eventually led to a very simple and fluid system based partly on [Hill Cantons'](http://hillcantons.blogspot.com/2014/11/reader-query-random-solo-wilderness.html) incredibly useful posts on the subject, and partly on an idea inspired by them at [Mazes, Monsters, Minions, and Madness](http://mmmnm.blogspot.com/2014/11/random-solo-hexless-wilderness.html). When I saw the suggested items to define in the latter post my mind immediately went to the exploration lua game I've been working on, which uses a similar step by step generation method (only utilizing real world landmarks and terrain) to map out a huge area of land. However, I could tell that the amount of bookkeeping was just too much for me if I was generating it on the fly; I wanted to know where my heroes were and what they were facing, but I didn't want to generate anything superfluous that I'd then have to keep track of and refer back to. So here's what I've hashed out that works for me.
+Yet I knew for the Kyneros campaign I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and fairly specific world-building. Enter a ton of reading about pointcrawls that eventually led to a very simple and fluid system based partly on [Hill Cantons'](http://hillcantons.blogspot.com/2014/11/reader-query-random-solo-wilderness.html) incredibly useful posts on the subject, and partly on an idea inspired by them at [Mazes, Monsters, Minions, and Madness](http://mmmnm.blogspot.com/2014/11/random-solo-hexless-wilderness.html). When I saw the suggested items to define in the latter post my mind immediately went to the exploration lua game I've been working on, which uses a similar step by step generation method (only utilizing real world landmarks and terrain) to map out a huge area of land. However, I could tell that the amount of bookkeeping as written was just too much for me if I was going to be generating it on the fly; I wanted to know where my heroes were and what they were facing, but I didn't want to generate anything superfluous that I'd then have to keep track of and refer back to. So here's what I've hashed out that works for me.
 
 First, pull up your favorite blank map in your favorite mapping system. I suggest a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial or google it). Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. Pick a starting square; in this example, I chose Seraxis since my party was leaving there and headed to Helase. (I rolled up which square Seraxis was in earlier.)
 
-Note, bolded text is taken from my play log.
+Note, bolded text is taken from my play log; bold and italicized text denotes random results.
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/>
+<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/><br>
 <i> the blue square means nothing!</i>
 </center>
 
@@ -30,18 +30,18 @@ Step 1. Roll up a current terrain using base.py, making a note of the resulting 
 Note that the settlement types are based on d30 Sandbox settlement levels and terrain types are generally matched to Scarlet Heroes, but they should be easily mappable to whatever system. Also, you will need to interpret the results (or edit the script for your world) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or scrublands or steppes or taiga.
 
 <center>
-<b></i>[Settled Level] Dense [Seed] 5</i></b><br>
-<b></i>[Terrain Type] hills (1), heavy forest (2), light forest (3), plains (4)</i></b><br>
-<b></i>[Settlements] ['Village', 'City']</i></b><br>
-<b></i>[Beneath] Caves</i></b><br>
-<b></i>[Known Ruins] ['habitation', 'fortress', 'sewer']</i></b>
+<b><i>[Settled Level] Dense [Seed] 5</i></b><br>
+<b><i>[Terrain Type] hills (1), heavy forest (2), light forest (3), plains (4)</i></b><br>
+<b><i>[Settlements] ['Village', 'City']</i></b><br>
+<b><i>[Beneath] Caves</i></b><br>
+<b><i>[Known Ruins] ['habitation', 'fortress', 'sewer']</i></b>
 </center>
     
 Step 2. [Optional] If your characters are headed somewhere in particular, use distance.py, roll a die, or use an oracle to get an idea of how many *time units* separate your starting and ending squares. The number of *time units* should be interpreted as "in ideal terrain and conditions, a human could cover one *time unit* a day". Roll multiple times if necessary.
 
 <center>
 <b>And finally let's get the distance to Helase from here.</b><br>
-<b></i>[Time Units] 4 [Road?] No</i></b>
+<b><i>[Time Units] 4 [Road?] No</i></b>
 </center>
 
 Step 3. Pick, roll up, or otherwise determine which direction your characters are headed. In my game, I knew they were headed to Helase, but nothing about Helase, not even the direction it lay from Seraxis, so I rolled for it and got "southeast", so my first square to fill in is to the southeast of Seraxis.
@@ -52,7 +52,7 @@ If time is already set in the fiction -- for example, if you've determined throu
 
 <center>
 <b>Ok, so, I've already plotted on the map the four blocks between Seraxis and Helase. Seraxis is terrain seed 5, so we'll use that as our starting seed.</b><br>
-<b></i>[Terrain] heavy forest (2)</i></b><br>
+<b><i>[Terrain] heavy forest (2)</i></b><br>
 
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 </center>
