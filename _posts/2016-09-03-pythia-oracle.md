@@ -1,11 +1,6 @@
 ---
 layout: post
 title: Introducing Pythia Oracle
-excerpt: I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming (inspired by reading blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1)). 
-
-From the [Readme](https://github.com/exposit/pythia-oracle):
-
->Pythia is a framework to run solo adventures. It uses Python 2.7 and Kivy and will probably run on any platform they will. I wrote it with two goals in mind; first, I wanted to be able to generate content on the fly for my multi-player sandbox campaign while keeping track of that content and second, I wanted to be able to run solo characters through adventures that would surprise me. There are many great GM emulating tools out there, software and print. This is what works for me.
 modified: 2016-09-03
 tags: [solo, pythia, python, tool]
 comments: true
