@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introducing Pythia Oracle
+link: https://exposit.github.io/pythia-oracle/
+excerpt: I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming (inspired by reading blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1)).
 modified: 2016-09-03
 tags: [solo, pythia, python, tool]
 comments: true
@@ -8,7 +10,7 @@ pinned: false
 published: true
 ---
 
-I've been working on [a tool](https://exposit.github.io/pythia-oracle/) -- originally designed for solo gaming (and inspired by reading blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1)). 
+I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming (inspired by reading blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1)) and [FU](http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG). 
 
 <!--more-->
 The problem is that, while I love randomly generated content, and it's necessary for me to enjoy playing, it's also a huge pain<a href='#footnote1'>*</a> to flip over to a new PDF (when I likely have a bunch open already) and pull up a dice roller (or tab over to it) and roll for every little thing. Then actually remember the roll result long enough to return to the chart and look it up (yes, this is an issue for me, I'm sleep-deprived and often distracted). All of this is compounded when I'm actually playing a session and just want to see what happens to my characters next so I can write about it! I'm also big on "local files" and "plain text".
