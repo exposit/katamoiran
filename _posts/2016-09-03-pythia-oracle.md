@@ -10,7 +10,7 @@ link: https://exposit.github.io/pythia-oracle/
 share: true
 ---
 
-For the past month or so I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming (inspired by reading blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1)) and [FU](http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG).
+For the past month or so I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming inspired by blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1) and [FU](http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG). (Note, Mythic isn't included as of yet because I want to clear it with the author, but FU is included and it works wonderfully for solo gaming).
 
 From the [Readme](https://github.com/exposit/pythia-oracle):
 
