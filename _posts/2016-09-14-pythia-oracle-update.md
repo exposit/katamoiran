@@ -48,6 +48,6 @@ With this, the author-provided content is still interpreted in the context of th
 
 Obviously the reader will still need to do a lot of interpreting and be very open about judging the results. But there's an enormous amount of flexibility here to mimic a MUD, or a text adventure, or a gamebook, or an event-driven CYOA, or some sort of unique mad scientist hybrid.
 
-Anyway, I wrote up a sample dungeon using part of the one page [Oracle's Decree](blog.trilemma.com/2015/10/the-oracles-decree.html) (note, I did a really lackluster job, not even close to justice to the original piece). It's not worth rolling a character up for or anything but it does demonstrate the basics the system (but not very cleverly, due to my lack of imagination and a deep desire to get a working copy out).
+Anyway, I wrote up a sample dungeon using part of the one page [Oracle's Decree](http://blog.trilemma.com/2015/10/the-oracles-decree.html) (note, I did a really lackluster job, not even close to justice to the original piece). It's not worth rolling a character up for or anything but it does demonstrate the basics the system (but not very cleverly, due to my lack of imagination and a deep desire to get a working copy out).
 
 If you can't tell, I'm very excited about the scenarios capability. I've been tinkering with interactive fiction for... ha, let's just say "a long time". If you have any questions, comments, or suggestions, feel free to leave them here or in the github issues section of the Pythia repository!
