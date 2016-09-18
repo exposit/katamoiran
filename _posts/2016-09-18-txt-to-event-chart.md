@@ -11,7 +11,7 @@ published: true
 
 <div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>
 
-Inspired by the slew of Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses nltk and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
+Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses nltk and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
 
 It's not perfect; the resulting chart needs quite a bit of curation, but it's a lot easier than doing it manually!
 
@@ -60,7 +60,7 @@ Flags:
      Convert verbs to base form, ie, "asked" to "ask". Default is true.
 * -p, --proper,	True or False,
    Include proper nouns or not. Default is false.
-* -p, --print,	True or False,
+* -t, --print,	True or False,
     Print results to terminal. This makes it easy to copy and paste without having to open up the saved file. Default is False.
 
 If you don't want to mess with this stuff, just do:
