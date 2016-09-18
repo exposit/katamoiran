@@ -48,19 +48,19 @@ python seedparser.py <filename>
 
 Flags:
 
-* -x, --max	number
+* -x, --max,	number,
     The max number of elements in each final list or chart. Should be 10% to 25% higher than your intended final total to give you spares to replace miscategorized or boring words. Default is 110.
-* -f, --fill	True or False
+* -f, --fill,	True or False,
     Keep trying until the list is at the max number or a maximum number of tries is exceeded. Default is True.
-* -c, --case	u[pper], l[ower]
+* -c, --case,	u[pper], l[ower],
     Set the initial letter of each element of each list to uppercase or lowercase. Defaults to lowercase.
-* -m, --min	number
+* -m, --min,	number,
      Minimum length of words to include; default is 4, to eliminate things like "get", "got", "put", "say". If you lower this, increase the max elements substantially to compensate for the useless entries.
-* -l, --lemmatize	True or False
+* -l, --lemmatize,	True or False,
      Convert verbs to base form, ie, "asked" to "ask". Default is true.
-* -p, --proper	True or False
+* -p, --proper,	True or False,
    Include proper nouns or not. Default is false.
-* -p, --print	True or False
+* -p, --print,	True or False,
     Print results to terminal. This makes it easy to copy and paste without having to open up the saved file. Default is False.
 
 If you don't want to mess with this stuff, just do:
