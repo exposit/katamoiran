@@ -1,4 +1,6 @@
 #
+#  https://exposit.github.io/katamoiran/articles/2016-09/txt-to-event-chart
+#
 #  Seed List Parser
 #
 #  Simple script to take text from a plain text file, sort it into rough parts of speech, and
@@ -10,8 +12,11 @@
 #
 #	Flags:
 #
-#	    -m, --max	integer
-#	    	Max number of elements in final lists. Set higher than target so you have extras for curated lists.
+#	    -x, --max	integer
+#	    	Max number of elements in final lists. Set higher than target so you have extras for curated lists. Default 100.
+#
+#	    -m, --min	integer
+#	    	Minimum length of words from source to include. Default is 4.
 #
 #	    -f, --fill	True or False
 #		    Keep trying until the list is full (max 3x limiter), default is True
@@ -22,7 +27,10 @@
 #	    -l, --lemmatize	True or False
 #	    	Convert verbs to base form, default is True
 #
-#	    -p, --print	True or False
+#       -p, --proper  True or False
+#           Include proper nouns, default is False.
+#
+#	    -t, --print	True or False
 #	    	Print results to terminal, default is False
 #
 
@@ -34,31 +42,41 @@ from nltk.stem.wordnet import WordNetLemmatizer
 import os
 import sys
 import string
+import time
 
 import random
 from random import sample
 
+# a few logging variables
+start_time = time.time()
+paramstr = ""
+wordcount = 0
+usedcount = 0
+total_string = ""
+
 # declare defaults here
-limiter = 100
+limiter = 110
 repeat = True
 case = 'lower'
 lemmatize_verbs = True
+include_proper_nouns = False
 print_to_terminal = False
+min_word_length = 4
 
 try:
     filename = sys.argv[1]
 except:
     print("\tUsage:\n\t\tpython seedparser.py <filename>")
     print("\tFlags:")
-    print("\t-m, --max\tnumber\n\t\tMax number of elements in final lists. Set higher than target so you have extras for curated lists.")
+    print("\t-x, --max\tnumber\n\t\tMax number of elements in final lists. Set higher than target so you have extras for curated lists.")
     print("\t-f, --fill\tTrue or False\n\t\tKeep trying until the list is full (max 3x limiter), default is True")
     print("\t-c, --case\tu[pper] or l[ower\n\t\tResults in title case or lowercase, default is lowercase")
+    print("\t-m, --min\tnumber\n\t\tMinimum length of words to include.")
     print("\t-l, --lemmatize\tTrue or False\n\t\tConvert verbs to base form, default is True")
-    print("\t-p, --print\tTrue or False\n\t\tPrint results to terminal, default is False")
+    print("\t-p, --proper\tTrue or False\n\t\tInclude proper nouns, default is False")
+    print("\t-t, --print\tTrue or False\n\t\tPrint results to terminal, default is False")
     sys.exit(1)
-
-para_string = filename
-
+    
 try:
     for i in range(1, len(sys.argv)):
         flag = sys.argv[i]
@@ -66,29 +84,26 @@ try:
         if flag == '-f' or flag == '--fill':
             if parameter == 'False':
                 repeat = False
-            para_string = para_string + ", fill: " + str(repeat)
         elif flag == '-c' or flag == '--case':
             if parameter == 'upper' or parameter == 'lower' or parameter == 'u' or parameter == 'l':
                 case = parameter
-            para_string = para_string + ", case: " + str(case)
         elif flag == '-l' or flag == '--lemmatize':
             if parameter == 'False':
                 lemmatize_verbs = False
-            para_string = para_string + ", lemmatize: " + str(lemmatize_verbs)
-        elif flag == '-p' or flag == '--print':
+        elif flag == '-p' or flag == '--proper':
+            if parameter == 'True':
+                include_proper_nouns = True
+        elif flag == '-t' or flag == '--print':
             if parameter == 'True':
                 print_to_terminal = True
-            para_string = para_string + ", print to terminal: " + str(print_to_terminal)
-        elif flag == '-m' or flag == '--max':
+        elif flag == '-x' or flag == '--max':
             limiter = int(parameter)
-            para_string = para_string + ", max elements: " + str(limiter)
+        elif flag == '-m' or flag == '--min':
+            min_word_length = int(parameter)
 except:  
     pass
-
-if print_to_terminal == True:
-    print(para_string)
     
-# first, set up lists
+# set up lists
 def parseFile(filename):
 
     words = []
@@ -97,8 +112,6 @@ def parseFile(filename):
     with open("." + os.sep + filename, 'r') as f:
         lines = f.readlines()
 
-    wordcount = 0
-
     adverbs = []
     adjectives = []
     nouns = []
@@ -106,24 +119,29 @@ def parseFile(filename):
 
     postuples = word_tokenize(' '.join(lines))
     postuples = nltk.pos_tag(postuples)
-
+    
     for word, pos in postuples:
-        if len(word) > 3:
+        if len(word) >= min_word_length:
             if pos.startswith('J'):
                 adjectives.append(word)
             if pos.startswith('V'):
-                # convert to base form of the verb if possible
+                # convert to base form of the verb if requested
                 if lemmatize_verbs == True:
                     word = WordNetLemmatizer().lemmatize(word,'v')
                 verbs.append(word)
             if pos == 'NN' or pos == 'NNS':
                 nouns.append(word)
+            if pos == 'NNP' and include_proper_nouns == True:
+                nouns.append(word + " (P)")
             if pos.startswith('RB'):
                 adverbs.append(word)
+    
+    wordcount = len(postuples)
+    usedcount = len(adverbs) + len(adjectives) + len(nouns) + len(verbs)
+    
+    return [adverbs, adjectives, nouns, verbs], wordcount, usedcount
 
-    return [adverbs, adjectives, nouns, verbs]
-
-# now do some processing on the words and save things
+# processing on the words in a list and saving
 def processList(posList, limiter, wordtype, filename):
 
     nameList=["adverb", "adjective", "noun", "verb"]
@@ -139,7 +157,10 @@ def processList(posList, limiter, wordtype, filename):
         if case == 'upper':
             posList[i] = string.capwords(posList[i])
         else:
-            posList[i] = posList[i].lower()
+            if posList[i].endswith('(P)') == False:
+                posList[i] = posList[i].lower()
+            else:
+                posList[i] = posList[i].replace('(P)', '')
     
     # remove any duplicates
     posList = list(set(posList))
@@ -162,8 +183,9 @@ def processList(posList, limiter, wordtype, filename):
             
     posList.sort()
 
-    # print for using in python script
-    format_py = '\n\'' + name + '\' : [\"' + '\", \"'.join(posList).replace('\n','') + "\"],"
+    # format as a list for using in python script
+    format_py = '#!/usr/bin/env python \n # -*- coding: utf-8 -*-'
+    format_py = 'chart = [\"' + '\", \"'.join(posList).replace('\n','') + "\"],"
     
     if print_to_terminal == True:
         print(format_py)
@@ -172,37 +194,47 @@ def processList(posList, limiter, wordtype, filename):
     with open("." + os.sep + filename + "_" + name + ".py", 'w') as f:
         f.write(format_py)
 
-    # print as d100 table in comma-separated list
+    # format as dXX table in comma-separated list
     format_csv = ""
     count = 0
     
-    result = "\n" + name + " [" + str(len(posList)) + "]:\n"
+    result = "\n" + string.capwords(name) + ":\n\t"
     
     for i in range(len(posList)):
         count = count + 1
         result = result + str(count) + ", " + posList[i].rstrip()
         if count % 5 == 0:
-            result = result + "\n     "
+            result = result + "\n\t"
         else:
-            result = result + ", , "
+            result = result + ", "
 
     format_csv = result
     
     if print_to_terminal == True:
         print(format_csv)
     
-    if print_to_terminal == True:
-        print(name + " [" + str(len(posList)) + "]" )
-    
     # and save it
     with open("." + os.sep + filename + "_" + name + ".csv", 'w') as f:
         f.write(format_csv)
+        
+    # now return a string for logging
+    return " " + string.capwords(name) + "s [" + str(len(posList)) + "]"
 
-typeList = parseFile(filename)
+# break the source file down into word lists sorted by type
+typeList, wordcount, usedcount = parseFile(filename)
 
+# process each word type
 for i in range(len(typeList)):
     length = 0
     wordList = typeList[i]
-    processList(wordList, limiter, i, filename)
+    total_string = total_string + processList(wordList, limiter, i, filename)
     
+# print a log of what happened and why
+paramstr = "\nFile: " + filename + "\n" + "-"*50 + "\n\tfill: " + str(repeat) + "\n\tnumber of elements: " + str(limiter) + "\n\tcase: " + str(case) + "\n\tlemmatize: " + str(lemmatize_verbs) + "\n\tinclude proper nouns: " + str(include_proper_nouns) + "\n\tprint to terminal: " + str(print_to_terminal) + "\n\tminimum word length allowed: " + str(min_word_length)
+
+print(paramstr)
+print("-"*50)
+print("Total Words: " + str(wordcount) + "\tSample Pool: " + str(usedcount) + "\n\t" + total_string)
+print("\n--- in %s seconds ---" % (time.time() - start_time))
+
     
