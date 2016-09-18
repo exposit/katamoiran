@@ -1,3 +1,12 @@
+#
+#
+#  Simple script to take a word list or text file, sort it into rough parts of speech, and
+# then save it as a python lists and csv-formatted dXX chart.
+#
+# Usage is 'python cloudtolist <filename> <limiter>'
+#
+
+
 import nltk
 from nltk import *
 from nltk.stem.wordnet import WordNetLemmatizer
