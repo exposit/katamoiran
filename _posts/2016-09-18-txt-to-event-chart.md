@@ -36,7 +36,7 @@ If you have Python installed, it's pretty straightforward to use the seedparser.
 
 Detailed instructions are [here](http://www.nltk.org/data.html).
 
-Source text files can be weighted lists (run through, say, wordclouds.com) or raw text, doesn't really matter as long as it is plain text, though older files or ones with a lot of underscores and odd formatting might choke the script. Very long files (over ~165K words) take a while though.
+Source text files can be weighted lists (run through, say, wordclouds.com) or raw text, doesn't really matter as long as it is plain text, though older files or ones with a lot of underscores and odd formatting might choke the script. Very long files (over ~165K words) take a while though. Note that it ignores word order, so if weighting is important to you, remove any low ranked words from the source before running the script.
 
 Run the script in the same directory as your word file; it will output a .csv file and a .py file for each of the four required parts of speech (noun, adjective, adverb, verb). The .py is in python dictionary/list format and the csv has a comma-separated, numbered chart that should be straightforward to import into Google spreadsheets or a similar program.
 
