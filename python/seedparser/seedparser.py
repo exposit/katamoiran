@@ -4,7 +4,26 @@
 #  Simple script to take text from a plain text file, sort it into rough parts of speech, and
 # then save it as python lists and csv-formatted dXX charts for use in seeding 
 #
-# Usage is 'python seedparser.py <filename> <limiter> <-f True/False> <-c u[pper]/l[ower]> <-l True/False>'
+#	Usage:
+#
+#		python seedparser.py <filename>
+#
+#	Flags:
+#
+#	    -m, --max	integer
+#	    	Max number of elements in final lists. Set higher than target so you have extras for curated lists.
+#
+#	    -f, --fill	True or False
+#		    Keep trying until the list is full (max 3x limiter), default is True
+#
+#	    -c, --case	u[pper] or l[ower
+#	    	Results in title case or lowercase, default is lowercase
+#
+#	    -l, --lemmatize	True or False
+#	    	Convert verbs to base form, default is True
+#
+#	    -p, --print	True or False
+#	    	Print results to terminal, default is False
 #
 
 
