@@ -28,7 +28,7 @@ Verbs tend to be in the concrete, present tense ("coerce", "demand", "mend"). Su
 If you have Python installed, it's pretty straightforward to use the seedparser. First, install nltk. Open a terminal and type:
 
 ~~~
- pip install -U nltk
+ pip install nltk
  python
  import nltk
  nltk.download('wordnet')
