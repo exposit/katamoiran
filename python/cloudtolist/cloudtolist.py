@@ -6,6 +6,9 @@
 #
 # Usage is 'python cloudtolist <filename> <limiter>'
 #
+# you should set the limiter pretty high, say, 125 or so, and run a few times until you get enough to replace any
+# 'misses' or inappropriate words
+#
 
 
 import nltk
@@ -20,7 +23,7 @@ from random import sample
 # declare filename Here
 
 filename = 'one_chunk.txt'
-limiter = 100
+limiter = 125
 
 try:
     filename = sys.argv[1]
