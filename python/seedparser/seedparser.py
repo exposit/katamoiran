@@ -1,3 +1,4 @@
+# # -*- coding: utf-8 -*-
 #
 #  https://exposit.github.io/katamoiran/articles/2016-09/txt-to-event-chart
 #
@@ -33,7 +34,9 @@
 #	    -t, --print	True or False
 #	    	Print results to terminal, default is False
 #
-
+#       -o, --output string
+#           Short string used for output file names appended with '_adverb' or whatever pos. Default is original file name.
+#
 
 import nltk
 from nltk import *
@@ -62,6 +65,7 @@ lemmatize_verbs = True
 include_proper_nouns = False
 print_to_terminal = False
 min_word_length = 4
+output_filename = ''
 
 try:
     filename = sys.argv[1]
@@ -75,6 +79,7 @@ except:
     print("\t-l, --lemmatize\tTrue or False\n\t\tConvert verbs to base form, default is True")
     print("\t-p, --proper\tTrue or False\n\t\tInclude proper nouns, default is False")
     print("\t-t, --print\tTrue or False\n\t\tPrint results to terminal, default is False")
+    print("\t-o, --output\tOutput name\n\t\tShort string used for output name plus '_<pos>'. Default is original file name.")
     sys.exit(1)
     
 try:
@@ -100,6 +105,8 @@ try:
             limiter = int(parameter)
         elif flag == '-m' or flag == '--min':
             min_word_length = int(parameter)
+        elif flag == '-o' or flag == '--output':
+            output_filename = parameter
 except:  
     pass
     
@@ -184,14 +191,18 @@ def processList(posList, limiter, wordtype, filename):
     posList.sort()
 
     # format as a list for using in python script
-    format_py = '#!/usr/bin/env python \n # -*- coding: utf-8 -*-'
-    format_py = 'chart = [\"' + '\", \"'.join(posList).replace('\n','') + "\"],"
+    format_py = '#!/usr/bin/env python \n # -*- coding: utf-8 -*-\n'
+    format_py = format_py + 'chart = [\"' + '\", \"'.join(posList).replace('\n','') + "\"],"
     
     if print_to_terminal == True:
         print(format_py)
 
     # and save it
-    with open("." + os.sep + filename + "_" + name + ".py", 'w') as f:
+    savefile = "." + os.sep + filename + "_" + name + ".py"
+    if len(output_filename) > 0:
+        savefile = "." + os.sep + output_filename + "_" + name + ".py"
+        
+    with open(savefile, 'w') as f:
         f.write(format_py)
 
     # format as dXX table in comma-separated list
@@ -214,7 +225,11 @@ def processList(posList, limiter, wordtype, filename):
         print(format_csv)
     
     # and save it
-    with open("." + os.sep + filename + "_" + name + ".csv", 'w') as f:
+    savefile = "." + os.sep + filename + "_" + name + ".csv"
+    if len(output_filename) > 0:
+        savefile = "." + os.sep + output_filename + "_" + name + ".csv"
+        
+    with open(savefile, 'w') as f:
         f.write(format_csv)
         
     # now return a string for logging
