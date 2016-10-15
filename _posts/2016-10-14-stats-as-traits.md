@@ -11,18 +11,18 @@ share: true
 
 I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that.
 
-First precept, for me, is that the rules have to be present, or I'm just telling a story, not playing a game. Even if that just means that I set personal rules on how often I ask the oracle for story direction. But mostly, I like making up a full character and then playing to see what happens.
+For me, even when solo gaming, rules have to be present and followed, or I'm just telling a story, not playing a game (and believe me, I end up in that mode often enough as it is). Even if "rules" just means that I set personal rules on how often I ask the oracle for story direction. Don't get me wrong, I like making up a full character, it's just that it's always so hard to work with randomly rolled attributes.
 
-But for a while now I've felt like attributes just get in the way. Here's the functions they serve (as far as I can tell). 
+Here's the functions attributes serve (as far as I can tell). 
 
 1. To give a baseline of what your character is like, physically and mentally. Are they smart, dumb, strong, weak? 
 2. Generally combined with another aspect of the character (skills) to see if they accomplish something of value. 
 3. Almost always winnowed down to a much smaller number between -3 and +3.
-4. And finally, used to inflict non-HP injuries like drains.
+4. And finally, used as another way track injuries, separately from HP, like drains.
 
 Nothing that seems like it HAS to be defined by an array of six items, rated from 3 to 18 with some random throws of the dice. So here's what I've started using, almost entirely based on the Scarlet Heroes' idea of 'traits', with a lot of other indie rpgs weighing in. It's written with the assumption that you're familiar with the core Scarlet Heroes rules.
 
-I should also be clear; this is primarily intended for solo play, which doesn't have the same balance requirements group play does. And it only works if you approach it in the context of defining a character, not in 'winning' a game. The rules assume you're playing for your own enjoyment and to see what happens, and are geared towards facilitating that.
+I should be upfront; this is primarily intended for solo play, which doesn't have the same balance requirements group play does. And I'm sure I don't need to say it, but like pretty much any other system it only works if you approach it in the context of defining a character, not in 'winning' a game. The rules assume you're playing for your own enjoyment and to see what happens, and are geared towards facilitating that.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Don't worry too much about 'positive' versus 'negative' -- if it comes up in pla
 
 Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative trait negates some of that advantage, the hero might still need to roll.
 
-*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 2, for a net of -2 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties,  his* athletic *trait might have been enough for an automatic success.*
+*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 2, for a net of -2 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field, his* athletic *trait might have been enough for an automatic success.*
 
 #### Setting limits
 
@@ -44,7 +44,7 @@ Everything is now based around traits; each trait has a value, positive or negat
 
 **There Are No Classes**
 
-Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes. These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does. 
+Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes (you can pretty much follow those rules verbatim). These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does. 
 
 The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this.
 
@@ -54,17 +54,17 @@ By default, you get six additional trait points (one per default OSR attribute) 
 
 The assumption is these will be spent on things like "athletic", "very good endurance", or "has memorized an encyclopedia" -- traits that are roughly analogous to normal attributes. But you don't have to -- any attribute (or aspect of an attribute) that's not covered by a trait is considered to be no penalty and no bonus, ie, a 0 modifier. In fact, you can think of the trait points as normal stat modifiers -- a hero with a strength 18 has a +3 modifier, for example.
 
-Finally, you can combine things down to save space. For example, the trait "street smart but not book smart (+2/-2)" would be treated as a positive in the case of street smarts and a penalty if the hero needed to do research.
+Finally, you can combine things down to save space. For example, the trait "street smart but not book smart (+2/-2)" would be treated as a positive in the case of street smarts and a penalty if the hero needed to do research. It still counts towards your point totals, though, as if it were two traits, one positive and one negative.
 
 **Regular Traits**
 
-Combine your trait points with any left over from the attributes section, then assign these just like the core book says to for humans. If you want to play a specific species, use the given examples or just put a trait down for it. For example, if you want to play a dwarf and have a pretty good idea what that entails (beards, beer, digging), put "Is a dwarf" down as a trait. 
+Combine your trait points with any left over from the attributes section, then assign these just like the core book says to for humans. If you want to play a specific species, use the given examples or just put a trait down for it. For example, if you want to play a dwarf and have a pretty good idea what that entails (beards, beer, digging), put "Is a dwarf" down as a trait. Heck, use 'is a dwarf' as your archetype if you want to.
 
-You can spend these trait points on your archetype if you want, too.
+You can spend these trait points on your archetype if you want, too. I tend to put one of my regular trait points into archetype (for a max of 3) if the character is a skilled archetype, but no more than that at first level. But if YOU want to, go for it, just be aware that the higher your archetype, the more likely you'll tend to solve every problem with your archetype.
 
 **Poisoned! Temporary Trait Adjustments**
 
-If something would normally affect an attribute in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2". Then apply the negatives as usual, to any rolls where they apply. Bonuses work the same way. If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case.
+If something would normally affect an attribute in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2". Then apply the negatives as usual, to any rolls where they apply. Bonuses work the same way. If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case. These temporary traits go away when they logically would -- poison wears off when you make your save, freezing goes away when your hero gets warm, a broken limb heals up in six weeks or so, and so on.
 
 **Derived Stats**
 
