@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dispensing with Attributes
-modified: 2016-10-13
+modified: 2016-10-14
 tags: [solo, rules, scarlet heroes, traits]
 comments: true
 pinned: false
@@ -23,6 +23,8 @@ But for a while now I've felt like attributes just get in the way. Here's the fu
 Nothing that seems like it HAS to be defined by an array of six items, rated from 3 to 18 with some random throws of the dice. So here's what I've started using, almost entirely based on the Scarlet Heroes' idea of 'traits', with a lot of other indie rpgs weighing in. It's written with the assumption that you're familiar with the core Scarlet Heroes rules.
 
 I should also be clear; this is primarily intended for solo play, which doesn't have the same balance requirements group play does. And it only works if you approach it in the context of defining a character, not in 'winning' a game. The rules assume you're playing for your own enjoyment and to see what happens, and are geared towards facilitating that.
+
+<!--more-->
 
 #### Basic rules
 

@@ -21,4 +21,6 @@ I also merged down the various main/status files so there's just one now, which 
 * image support -- you can now make an images subdirectory and drop image files in there, and view them in Pythia on the map stack. Pretty handy for character portraits (and maybe monsters?), or static maps.
 * triggers -- want to be surprised by a perception check you-as-gm called for? or have Pythia call one for you? Triggers let you do this. Any suggestions for more stuff for the 'secrets & triggers' panel would be great. (Okay, okay, this is technically slightly post 1.0.0 but since it's working I decided just to add it to the 1.0.0 announcement.)
 
+I'm going to be focusing on getting some actual plays up for a while! Maybe editing some of the dozen or so games I've run while building Pythia. Or, you know, maybe trying to run a game where my hero never has to ask "am I wearing clothes" in conjunction with "am I tied up". Hahaha. Just kidding, those are the best.
+
 As always, if you have any questions, comments, or suggestions, feel free to leave them here or in the github issues section of the Pythia repository!
