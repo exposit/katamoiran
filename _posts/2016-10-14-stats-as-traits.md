@@ -9,9 +9,9 @@ published: true
 share: true
 ---
 
-I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that.
+I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that. Never fails -- I have a great character backstory, a cool climbing mechanic I want to try, I can practically see the master thief in my mind, and I roll up middling-to-fair barbarian stats instead. I'm playing solo, I can scrap it and start over, but then why don't I just make the stats up instead of maintaining the fiction that I'm actually rolling them up? Because then it's not *playing by the rules*. And then I almost always get annoyed and just fudge it.
 
-For me, even when solo gaming, rules have to be present and followed, or I'm just telling a story, not playing a game (and believe me, I end up in that mode often enough as it is). Even if "rules" just means that I set personal rules on how often I ask the oracle for story direction. Don't get me wrong, I like making up a full character, it's just that it's always so hard to work with randomly rolled attributes.
+For me, even when solo gaming, rules have to be present and followed, or I'm just telling a story, not playing a game (and believe me, I end up in that mode often enough as it is). Even if "rules" just means that I set personal rules on how often I ask the oracle for story direction. Don't get me wrong, I like making up a full character, it's just that it's always so hard to work with randomly rolled attributes. And they're so broad -- what if my character is a pretty normal guy, no genius, but has a great memory for trivia? Or fairly normal as far as getting colds and jogging goes, but lousy at marathons?
 
 Here's the functions attributes serve (as far as I can tell). 
 
