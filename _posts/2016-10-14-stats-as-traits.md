@@ -13,9 +13,9 @@ I've said it before: I don't really like attributes. I'm interested in making ch
 
 First precept, for me, is that the rules have to be present, or I'm just telling a story, not playing a game. Even if that just means that I set personal rules on how often I ask the oracle for story direction. But mostly, I like making up a full character and then playing to see what happens.
 
-But for a while now I've felt like attributes just get in the way. Here's the functions they serve. 
+But for a while now I've felt like attributes just get in the way. Here's the functions they serve (as far as I can tell). 
 
-1. To give a baseline of what your character can accomplish. 
+1. To give a baseline of what your character is like, physically and mentally. Are they smart, dumb, strong, weak? 
 2. Generally combined with another aspect of the character (skills) to see if they accomplish something of value. 
 3. Almost always winnowed down to a much smaller number between -3 and +3.
 4. And finally, used to inflict non-HP injuries like drains.
