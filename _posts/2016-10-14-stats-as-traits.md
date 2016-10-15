@@ -26,7 +26,7 @@ I should be upfront; this is primarily intended for solo play, which doesn't hav
 
 <!--more-->
 
-#### Basic rules
+#### Basic stuff
 
 Instead of the usual one trait plus one attribute per roll, you can combine any two applicable positive value traits on a given roll. This will generally be one representing the attribute and one representing the normally allowed trait, but any two you can justify can be applied. 
 
