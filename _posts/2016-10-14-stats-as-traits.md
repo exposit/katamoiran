@@ -6,7 +6,6 @@ tags: [solo, rules, scarlet heroes, traits]
 comments: true
 pinned: false
 published: true
-share: true
 ---
 
 I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that. Never fails -- I have a great character backstory, a cool climbing mechanic I want to try, I can practically see the master thief in my mind, and I roll up middling-to-fair barbarian stats instead. I'm playing solo, I can scrap it and start over, but then why don't I just make the stats up instead of maintaining the fiction that I'm actually rolling them up? Because then it's not *playing by the rules*. And then I almost always get annoyed and just fudge it.
@@ -20,7 +19,7 @@ Here's the functions attributes serve (as far as I can tell).
 3. Almost always winnowed down to a much smaller number between -3 and +3.
 4. And finally, used as another way track injuries, separately from HP, like drains.
 
-Nothing that seems like it HAS to be defined by an array of six items, rated from 3 to 18 with some random throws of the dice. So here's what I've started using, almost entirely based on the Scarlet Heroes' idea of 'traits', with a lot of other indie rpgs weighing in. It's written with the assumption that you're familiar with the core Scarlet Heroes rules.
+Nothing that seems like it HAS to be defined by an array of six items, rated from 3 to 18 with some random throws of the dice. So here's what I've started using, almost entirely based on the idea, from [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) and Godbound, of 'traits' (with a lot of other indie rpgs I've read weighing in). It's written with the assumption that you're familiar with the Scarlet Heroes rules and probably won't make much sense unless you've read Scarlet Heroes (which you should, it's fantastic).
 
 I should be upfront; this is primarily intended for solo play, which doesn't have the same balance requirements group play does. And I'm sure I don't need to say it, but like pretty much any other system it only works if you approach it in the context of defining a character, not in 'winning' a game. The rules assume you're playing for your own enjoyment and to see what happens, and are geared towards facilitating that.
 
