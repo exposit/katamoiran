@@ -93,3 +93,5 @@ You can instead choose to spend a point to buy a point in a new archetype. This 
 
 Whenever your character does something that would justify a trait changing on the spot, change the trait on the spot. Maybe he shakes off a phobia of the water long enough to help someone drowning, and loses that phobia trait entirely. Or maybe he takes an axe to the arm and loses 'ambidextrous'. Or maybe he gives an impromptu speech on the eve of battle so amazing, so heartfelt and overwhelmingly moving, that he immediately gains a point of 'master orator'.
 
+
+That's a lot of words for something that's actually pretty simple! And I'm sure not revolutionary or anything, but it satisfies my need not to have to agonize over where to put my lone 14!
