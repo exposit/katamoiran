@@ -12,10 +12,10 @@ I've said it before: I don't really like attributes. I'm interested in making ch
 
 For me, even when solo gaming, rules have to be present and followed, or I'm just telling a story, not playing a game (and believe me, I end up in that mode often enough as it is). Even if "rules" just means that I set personal rules on how often I ask the oracle for story direction. Don't get me wrong, I like making up a full character, it's just that it's always so hard to work with randomly rolled attributes. And they're so broad -- what if my character is a pretty normal guy, no genius, but has a great memory for trivia? Or fairly normal as far as getting colds and jogging goes, but lousy at marathons?
 
-Here's the functions attributes serve (as far as I can tell). 
+Here's the functions attributes serve (as far as I can tell).
 
-1. To give a baseline of what your character is like, physically and mentally. Are they smart, dumb, strong, weak? 
-2. Generally combined with another aspect of the character (skills) to see if they accomplish something of value. 
+1. To give a baseline of what your character is like, physically and mentally. Are they smart, dumb, strong, weak?
+2. Generally combined with another aspect of the character (skills) to see if they accomplish something of value.
 3. Almost always winnowed down to a much smaller number between -3 and +3.
 4. And finally, used as another way track injuries, separately from HP, like drains.
 
@@ -27,7 +27,7 @@ I should be upfront; this is primarily intended for solo play, which doesn't hav
 
 #### Basic stuff
 
-Instead of the usual one trait plus one attribute per roll, you can combine any two applicable positive value traits on a given roll. This will generally be one representing the attribute and one representing the normally allowed trait, but any two you can justify can be applied. 
+Instead of the usual one trait plus one attribute per roll, you can combine any two applicable positive value traits on a given roll. This will generally be one representing the attribute and one representing the normally allowed trait, but any two you can justify can be applied.
 
 Traits can now have a negative value. When a roll is called for, add any (and all) negative value traits to the roll in addition to the up to two positive traits.
 
@@ -43,13 +43,13 @@ Everything is now based around traits; each trait has a value, positive or negat
 
 **There Are No Classes**
 
-Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes (you can pretty much follow those rules verbatim). These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does. 
+Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes (you can pretty much follow those rules verbatim). These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does.
 
 The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this.
 
 **There Are No Attributes**
 
-By default, you get six additional trait points (one per default OSR attribute) and can take up to that number in negative trait points if you'd like. This is in addition to the standard starting trait points. 
+By default, you get six additional trait points (one per default OSR attribute) and can take up to that number in negative trait points if you'd like. This is in addition to the standard starting trait points.
 
 The assumption is these will be spent on things like "athletic", "very good endurance", or "has memorized an encyclopedia" -- traits that are roughly analogous to normal attributes. But you don't have to -- any attribute (or aspect of an attribute) that's not covered by a trait is considered to be no penalty and no bonus, ie, a 0 modifier. In fact, you can think of the trait points as normal stat modifiers -- a hero with a strength 18 has a +3 modifier, for example.
 
