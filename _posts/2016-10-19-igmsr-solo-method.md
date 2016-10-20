@@ -11,6 +11,8 @@ Imaginary GM System Redux (iGMsr)
 
 So, after a bit more reading and thinking, I've come up with a modified version of my iGM system using two d6s that I think serves the same general purpose as my original concept. I wanted to explore the idea that consensus further; if my imaginary GM agrees with me that a path or action is the most interesting one, why should I have to roll for it? As long as it is within the scope of my hero's abilities and the world's physics, of course.
 
+<!--more-->
+
 __*Basics*__
 
 The only tools needed are two six-sided dice.
@@ -21,7 +23,7 @@ On a "Yes", the hero achieves his goal because the fiction demands it and the im
 
 On a "No", the situation is not so easily resolved. Roll 2d6 (if you haven't already) and add the current World State.
 
-From this point forward, the system doesn't adjudicate success or failure at a task (that's what your mechanics are for), but instead determines if the hero has a chance to get what he wants, if complications arise or if what he wanted was never really possible in the first place. 
+From this point forward, the system doesn't adjudicate success or failure at a task (that's what your mechanics are for), but instead determines if the hero has a chance to get what he wants, if complications arise or if what he wanted was never really possible in the first place.
 
 On a 10+, the hero has a shot at getting exactly what he wants (note that this might be different from what he needs). Roll your mechanics as usual; on a success, he succeeds exactly as he intended. On a failure, he fails, and a new minor (immediate or long-term) complication, wrinkle, or drawback is introduced to the situation.
 
@@ -39,6 +41,6 @@ __*World State*__
 
 World State starts at 3. It can be between -3 (worn-down and battle-weary) and +3 (fresh and ready to face new challenges). At the beginning of each scene, determine your hero's state of readiness and set the starting World State accordingly. If a scene naturally flows from the prior one, leave the World State unchanged. Every time you roll a "Yes", subtract one World State. If your hero is refreshed in some way, either by resting, reconnecting with the world, or a personal victory, gain back one World State.
 
---- 
+---
 
 Obviously this isn't a revolutionary or novel system, just something that's occurred to me over play. Seems to work pretty well, too. I think this will be my 'go to' system for a while, and hopefully I'll come up with some new refinements and tweaks to it in play!

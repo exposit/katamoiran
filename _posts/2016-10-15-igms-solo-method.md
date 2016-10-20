@@ -16,6 +16,8 @@ http://lumpley.com/index.php/anyway/thread/259
 
 ...and a bunch more along those lines. The title is pretty lackluster, but nothing better occurred to me.
 
+<!--more-->
+
 __*What It Is*__
 
 A simple method of arbitrating 'what happens' in a fluid, story-based solo RPG session. The goal is to concentrate attention on the rolls that involve conflict, where the player -- you -- and the gm -- also you but played for this bit by some dice -- want different things out of a situation.
@@ -26,7 +28,7 @@ It is also helpful to have some way to generate random events, event seeds, twis
 
 __*Basics*__
 
-A "statement of intent" is a clear and unambiguous phrase that indicates some way you want to change the game world via the agency of your character. 
+A "statement of intent" is a clear and unambiguous phrase that indicates some way you want to change the game world via the agency of your character.
 
 An "outcome" is the logical consequences of that statement of intent coming to fruition or being made part of the game's fiction.
 
@@ -62,7 +64,7 @@ __Is there a qualifier?__
 
 If not, continue playing or make a roll as indicted. Things play out pretty much as intended by your, uh, intent, or contrary to it in a logical way if you fail a required roll.
 
-If there is, the GM wants to do something GM-y that subverts the intent of the hero's action. You should consider any qualifiers separately from the 'yes' or 'no' aspect of a result. The modifications stemming from a qualifier might be positive or negative or neutral; the only requirement is that it subverts the intent of the hero's action -- however, if the primary result is "Yes" the hero will succeed at his statement of intent and on a "No" he has to roll or use a mechanic to see if he fails or succeeds. 
+If there is, the GM wants to do something GM-y that subverts the intent of the hero's action. You should consider any qualifiers separately from the 'yes' or 'no' aspect of a result. The modifications stemming from a qualifier might be positive or negative or neutral; the only requirement is that it subverts the intent of the hero's action -- however, if the primary result is "Yes" the hero will succeed at his statement of intent and on a "No" he has to roll or use a mechanic to see if he fails or succeeds.
 
 On a "But", there's an unintended consequence that runs directly counter to your intent. Introduce a wrinkle, complication, sudden change, previously hidden thing, random event, or drawback that subverts the hero's intent and changes the immediate outcome in some way that directly counters what the hero wanted. If in doubt, remember that "... without injury" is implicit in pretty much every statement of intent a hero makes!
 
@@ -84,7 +86,7 @@ Note, there's a lot of good drama to be had from the fallout of decisions that i
 
 __*Notes on Odds*__
 
-As written, your hero will succeed at anything he attempts about half the time outright, as the GM agrees with you and there's no conflict. The other half, he'll be required to engage with a mechanic. 
+As written, your hero will succeed at anything he attempts about half the time outright, as the GM agrees with you and there's no conflict. The other half, he'll be required to engage with a mechanic.
 
 If this is too successful for you, feel free to count an unmodified 'yes' and 'no' as the same unmodified 'no', increasing the chances you'll need to roll a mechanic and removing unqualified successes from play. If you're using two d6s, just reduce the odds of a "Yes" to 1-2.
 
