@@ -11,10 +11,11 @@ Imaginary GM System (iGMs)
 
 Largely inspired by reading old Forge posts and threads on game theory from the years 2005 to 2008. What can I say, I'm a little behind the times.
 
-http://www.story-games.com/forums/discussion/1845/
-http://lumpley.com/index.php/anyway/thread/259
+<a href="http://www.story-games.com/forums/discussion/1845/">http://www.story-games.com/forums/discussion/1845/</a>
 
-...and a bunch more along those lines. The title is pretty lackluster, but nothing better occurred to me.
+<a href="http://lumpley.com/index.php/anyway/thread/259">http://lumpley.com/index.php/anyway/thread/259</a>
+
+...and a bunch more along those lines.
 
 <!--more-->
 
@@ -94,4 +95,4 @@ If you want every iGM system oracle result to involve a mechanic, just remove th
 
 ---
 
-I've been trialling this in my pulpy noir game, and it works pretty well to give scenes direction and focus. I'm not 100% satisfied with it, though -- the 'but' and 'and' outcomes are just a little hard to come up with on the spot in play, and I'm not happy with what tacking it onto an existing oracle does to the odds. But it's undeniable (at least to me) that it increases the drama of the fiction!
+I've been trialling this in my pulpy noir game, and it works pretty well to give scenes direction and focus. I'm not 100% satisfied with it, though -- the 'but' and 'and' outcomes are just a little hard to come up with on the spot in play, and I'm not happy with what tacking it onto an existing oracle does to the odds. But it does seem to streamline play and add lots of opportunities for making my character's lives more interesting.

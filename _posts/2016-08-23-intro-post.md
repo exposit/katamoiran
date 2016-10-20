@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Here We Go
-excerpt: "This is my place on the web to store my rpg stuff and python stuff and general stuff and stuff stuff."
 modified: 2016-08-23
 tags: [intro, general, site]
 comments: false
