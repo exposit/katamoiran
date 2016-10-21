@@ -42,7 +42,9 @@ The statement of intent should be something that is driven by your character and
 Remember, too, YOU control your character. If the motivation for an action is coming from what your character would logically want but you, the player, don't want that action to happen, just come up with a plausible way to avoid it in game. You don't have to ask the the iGM to force you into the action or give you a reprieve from it. Or do, and let the dice fall where they may!
 
 >My hero will successfully navigate the maze.
+
 >My hero wants to dodge out of the way of the hail of bullets.
+
 >My hero successfully wins the duel with style and panache.
 
 You shouldn't use this system every single time your hero attempts something. If a statement of intent is within the hero's scope of abilities and the challenge is easy enough that it's a foregone conclusion for one of his skill (ie, you wouldn't even bother making him roll mechanics for it normally), don't waste time asking, it just happens. If the statement of intent is unopposed by in game forces, it stands. If the statement of intent would be the most interesting thing to happen and you can't think of immediate alternatives, just have it happen. And finally, if you're on a roll and don't think to ask (or think asking would derail things), don't sweat it.
