@@ -5,7 +5,7 @@ imagefolder: 2016-08-24
 modified: 2016-08-23
 tags: [mapping, random generator, script, python, terrain, solo, mechanic]
 comments: true
-pinned: true
+pinned: false
 published: true
 ---
 
@@ -19,9 +19,9 @@ Enter a ton of reading about pointcrawls that eventually led to a very simple an
 
 So here's the method I've hashed out that works for me.
 
-First, pull up your favorite blank map in your favorite mapping system. Or don't; this works equally well with plain text, jotting down each area as it is encountered, maybe making a rough grid with pipes and dashes. Either way, you're basically making a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial). 
+First, pull up your favorite blank map in your favorite mapping system. Or don't; this works equally well with plain text, jotting down each area as it is encountered, maybe making a rough grid with pipes and dashes. Either way, you're basically making a diagram dungeon (see [Scarlet Heroes](http://www.drivethrurpg.com/product/127180/Scarlet-Heroes) for an excellent tutorial).
 
-Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator. 
+Decide on a way to generate content for each square and if you're using weather and such. For the Kyneros campaign I am using Scarlet Heroes' wilderness travel for things like encounters, features, and events, and a weighted weather generator.
 
 Now pick a starting square; in this example, I chose the capital city of Seraxis since my party was leaving there (headed to Helase, a city about which I knew very little). Each 'square' on your map is going to represent a block of terrain, generally the amount of terrain a normal human could cross in a single *time unit* if it were flat ground. What exactly a *time unit* is is up to you and your system. I use "the distance an uninjured, average human could travel in a single day over good terrain in nice weather" or roughly 30 miles.
 
@@ -30,7 +30,7 @@ Now pick a starting square; in this example, I chose the capital city of Seraxis
 <i> the blue square means nothing</i>
 </center>
 
-Step 1. Roll up a current region using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information generated, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present. 
+Step 1. Roll up a current region using base.py, making a note of the resulting seed. You can go entirely random or select a starting seed and/or settlement density. There's other good information generated, too, like what's under the region, what type and how many ruins are present (with a little wiggle room for unknown ruins), and what type and how many settlements are present.
 
 The settlement levels use the naming scheme from the [d30 Sandbox Companion](http://www.drivethrurpg.com/product/124392/d30-Sandbox-Companion), more or less (numbers are not related; I realized there were charts for this stuff in d30 after I'd already written this and was too lazy to rewrite it from scratch -- plus it'd be overkill) and terrain types are generally matched to Scarlet Heroes. Also, you will need to interpret the results (or edit the script) -- heavy forest in a tropical climate is jungle, for example, or plains might be badlands or steppes or taiga (or lava fields or something really weird).
 
@@ -39,7 +39,7 @@ The settlement levels use the naming scheme from the [d30 Sandbox Companion](htt
 >[Settlements] ['Village', 'City']<br>
 >[Beneath] Caves<br>
 >[Known Ruins] ['habitation', 'fortress', 'sewer']</b><br>
-    
+
 Step 2. [Optional] If your characters are headed somewhere in particular, use distance.py, roll a die, or use an oracle to get an idea of how many *time units* separate your starting and ending points. If it's a long journey, roll multiple times and add the results together.
 
 >"And finally let's get the distance to Helase from here."<br>
