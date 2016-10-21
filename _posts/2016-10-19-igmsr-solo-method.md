@@ -7,8 +7,6 @@ comments: true
 published: true
 ---
 
-Imaginary GM System Redux (iGMsr)
-
 So, after a bit more reading and thinking, I've come up with a modified version of my iGM system using two d6s (and inspired by Apocalypse World's "10+/6-" mechanic) that I think serves the same general purpose as my original concept, but with a clearer way to handle the outcomes as they come up in play.
 
 I wanted to explore the idea of consensus further; if my imaginary GM agrees with me that a path or action is the most interesting one, why should I have to roll for it? As long as it is within the scope of my hero's abilities and the world's physics, of course.

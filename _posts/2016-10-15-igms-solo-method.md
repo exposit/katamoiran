@@ -7,8 +7,6 @@ comments: true
 published: true
 ---
 
-Imaginary GM System (iGMs)
-
 Largely inspired by reading old Forge posts and threads on game theory from the years 2005 to 2008. What can I say, I'm a little behind the times.
 
 <a href="http://www.story-games.com/forums/discussion/1845/">http://www.story-games.com/forums/discussion/1845/</a>

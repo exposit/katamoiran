@@ -2,7 +2,7 @@
 layout: post
 title: Stat Rolling With Python
 modified: 2016-10-08
-tags: [solo, cheat, python, tool]
+tags: [solo, cheat, python, script]
 comments: true
 pinned: false
 published: true

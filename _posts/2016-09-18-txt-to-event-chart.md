@@ -2,7 +2,7 @@
 layout: post
 title: Creating Mythic-Style Charts From a Text File
 modified: 2016-09-18
-tags: [solo, mythic, python, tool, diy]
+tags: [solo, mythic, python, tool, mod, script]
 excerpt: Inspired by the slew of Mythic and similar style charts on the google+ community over the last few days, I wrote a simple script that takes a text file, sorts it by word type, and outputs each type as a separate, numbered chart.
 comments: true
 pinned: false
