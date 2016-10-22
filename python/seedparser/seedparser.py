@@ -83,7 +83,7 @@ except:
     sys.exit(1)
     
 try:
-    for i in range(1, len(sys.argv)):
+    for i in range(1, len(sys.argv)-1):
         flag = sys.argv[i]
         parameter = sys.argv[i+1]
         if flag == '-f' or flag == '--fill':
