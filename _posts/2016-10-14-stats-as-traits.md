@@ -2,13 +2,15 @@
 layout: post
 title: Dispensing with Attributes
 modified: 2016-10-14
-tags: [solo, rules, scarlet heroes, traits]
+tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
 pinned: false
 published: true
 ---
 
-I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that. Never fails -- I have a great character backstory, a cool climbing mechanic I want to try, I can practically see the master thief in my mind, and I roll up middling-to-fair barbarian stats instead. I'm playing solo, I can scrap it and start over, but then why don't I just make the stats up instead of maintaining the fiction that I'm actually rolling them up? Because then it's not *playing by the rules*. And then I almost always get annoyed and just fudge it.
+I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that.
+
+Never fails -- I have a great character backstory, a cool climbing mechanic I want to try, I can practically see the master thief in my mind, and I roll up middling-to-fair barbarian stats instead. I'm playing solo, I can scrap it and start over, but then why don't I just make the stats up instead of maintaining the fiction that I'm actually rolling them up? Because then it's not *playing by the rules*. And then I almost always get annoyed and just fudge it.
 
 <!--more-->
 

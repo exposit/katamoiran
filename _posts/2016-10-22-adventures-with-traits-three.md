@@ -2,14 +2,14 @@
 layout: post
 title: Adventures with Traits Three
 modified: 2016-10-22
-tags: [solo, solo gaming, mechanics, traits]
+tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
 published: false
 ---
 
 So I got to thinking, why use any special abilities at all? Why not just go ahead and make *everything a trait*. So I did. Should I probably just finish slogging through FATE? Probably. But this is more fun.
 
-Warning, only some of this is play-tested yet. Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
+Warning, only some of this is play-tested yet (which is why it's not published yet). Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
 
 <!--more-->
 
@@ -17,11 +17,11 @@ __*New Stuff*__
 
 Remember that under my modified trait system, you always apply up to two positive traits to any roll, in addition to any and all negative ones.
 
-"Pools" are generally filled with "tokens" that are earned in some way through play. You can spend tokens from your pool to achieve various ends.
+"Token pools" are point reserves generally filled with "tokens" that are earned in some way through play. You can spend tokens from your pool to achieve various ends, depending on what powers you have. Token abilities are applied in addition to any traits that are applied and are considered separate. This means a trait might end up being applied twice (or even three times).
 
-It is also possible to apply only a portion of a trait to a roll; if you have a trait you think might be relevant but not entirely ("I know a ton about dinosaurs, and dragons are really just big lizards, aren't they?") you can use the semi-relevant trait as one of your allowed two, and apply half its value.
+It is also possible to apply only a portion of a trait to a roll; if you have a trait you think might be relevant but not entirely ("I know a ton about dinosaurs, and dragons are really just big lizards, aren't they?") you can use the semi-relevant trait as one of your allowed two, and apply half its value. If you do this, and fail, it's always amusing to have your character proceed on incorrect information.
 
-"Advancing" traits are traits that have their own rules for advancement and may not be subject to the usual trait cap.
+"independently Advancing" traits are traits that have their own rules for advancement and may not be subject to the usual trait cap.
 
 __*Spells & Magic*__
 
@@ -64,7 +64,7 @@ HP loss from spell casting is regained exactly as any other HP is.
 
 __Magic Pools__
 
-If you don't like burning HP outright, you can always give the hero a magic token pool. This option makes for a more powerful, more magical campaign where people with magic will sometimes choose to use it frivolously. This pool is equal to half his HP, plus two positive traits, minus any negative ones. Once he burns through those points (at the default cost per spell), he can start working through his HP at double the cost.
+If you don't like burning HP outright, you can always give the hero a magic token pool. This option makes for a more magical campaign where people with magic will sometimes choose to use it frivolously (even if they're sane). This pool is equal to half his HP, plus two positive traits, minus any negative ones. Once he burns through those points (at the default cost per spell), he can start working through his HP at double the cost.
 
 This magic pool returns to full after a good night's rest.
 
@@ -84,19 +84,21 @@ For a trait-based wizard, look at the OSR Boring Spells as a guide, counting eac
 3. Change an area of effect of your size or smaller in a small way (change its appearance, cure or cause a mild, non-life-threatening disease or disorder, speed or slow its conversion from one state to another) that last for a short time (a scene).
 4. Impose status effects or a minor penalty on a group of people standing near each other, with each getting a save at +1.
 
-__*Vampires and Other Fancy Stuff*__
+__*Vampires, Half-Dryads, and Other Fancy Stuff*__
 
 Just about any specialty "race" or state of being can be captured by a trait quite easily.
 
-First, assign your hero the proper trait. This could be his archetype, or it could be a regular trait, or it could be an independently advancing trait. If it's an archetype, he'll go up in power every level; if it's a regular trait, the player can choose whether or not to advance it, and if it's an independently advancing trait, it will go up on a set schedule (or under set circumstances).
+First, assign your hero the proper trait. This could be his archetype, or it could be a regular trait, or it could be an independently advancing trait, depending on which you feel is the best model for the race or state of being.
+
+If it's an archetype, it'll go up in power every level; if it's a regular trait, the player can choose whether or not to advance it, and if it's an independently advancing trait, it will go up on a set schedule (or under set circumstances).
 
 For a vampire, this might be "gain 1 point every hundred years or so". For a Highlander-style swordsman, it might be 'gain 1 point every time you chop another Highlander's head off'. For a gelatinous cube, it might be 'gain 1 point every time you digest enough mass to double in size'.
 
-Also decide if the hero will pay for the trait at character generation or if it's free, and if it's subject to the normal caps (or a different cap).
+Also decide if the hero will pay for the trait at character generation or if it's free, and if it's subject to the normal caps (or a different cap or no cap at all).
 
-Next, sketch out the scope of the trait. For a typical vampire, we might put "A vampire; quick, strong, and tough, bane sunlight, running water, garlic, wood, 1". This gives us a general idea of what he can do, what to apply the trait to as a positive, and what to apply it to as a negative.
+Next, sketch out the scope of the trait. For a typical vampire, we might put "A vampire; quick, strong, and tough, bane sunlight, running water, garlic, wood, 1". This gives us a general idea of what he can do, what to apply the trait to as a positive, and what to apply it to as a negative. Note that even if he's not spending any tokens, or doesn't even have a pool, the trait still applies (and might let him do superhuman things) in situations where being a vampire might be helpful or hindering.
 
-Now, determine if your trait requires a token pool, and if so, what the limits are on it. In this case, we'll give our hero a blood pool; he can have blood tokens in his blood pool equal to his class level times his vampire trait score. Name a condition for replenishing the pool; in this case, it's 'drain blood from a human, one HD is worth tokens equal to the vampire trait's value'. We can get a little fancier than that, but for now it's fine (and you can easily use rules from an existing system like LotFP for the mechanics).
+Now determine if your trait requires a token pool, and if so, what the limits are on it. In this case, we'll give our hero a blood pool; he can have blood tokens in his blood pool equal to his class level times his vampire trait score. Name a condition for replenishing the pool; in this case, it's 'drain blood from a human, one HD is worth tokens equal to the vampire trait's value'. We can get a little fancier than that, but for now it's fine (and you can easily use rules from an existing system like LotFP for the mechanics).
 
 Now comes the fun part; define the things you can spend your pool's tokens on. These can be passive abilities or active ones, and can require token expenditure or simply remaining tokens. Feel free to boost the power for 'iconic' abilities and drop ones that don't make sense. Here are a few sample powers:
 
@@ -105,10 +107,10 @@ Now comes the fun part; define the things you can spend your pool's tokens on. T
 3. An ability that keeps the hero alive or brings him back to life if a certain condition is met, at the cost of all remaining tokens.
 4. An ability that changes how the hero heals, with a benefit and a drawback, as long as he has at least one token.
 
-For our vampire, it's:
+For our vampire:
 
 1. Spend a blood token point and add the value of the vampire trait as a bonus trait to physical rolls for the rest of the scene.
-2. Spend a token, look deep into the victim's eyes. If they have as many or fewer HD as your vampire trait, they succumb; otherwise, they get a saving throw. If they fail, treat as if under the effects of a Love Philtre or a Charm Person spell (with future saving throws as listed), your choice.
+2. Spend a token, look deep into the victim's eyes. If they have as many or fewer HD as your vampire trait, they succumb; otherwise, they get a saving throw. If they fail, treat as if under the effects of a Love Philtre or a Charm Person spell (with future saving throws as per the source material), your choice.
 3. If you have one or more tokens left and take a mortal wound, instead lose all blood tokens and fall into a state indiscernible from death. Unless your head is severed, your heart is staked, or you are exposed fully to sunlight, you will regenerate and awaken at the next sunset with 1 HP.
 4. As long as you have at least one blood token remaining, you heal much faster than a normal human. At the end of any scene in which you've taken damage not from the sun or fire and that you have at least one blood token, automatically heal 1d8+1 times your vampire trait in HP. If you're still damaged, spend tokens involuntarily at the same rate until you are or until you run out of tokens.
 
