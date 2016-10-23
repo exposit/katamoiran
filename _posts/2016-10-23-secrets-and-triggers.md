@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythia Spotlight: Triggers
+title: Pythia Spotlight on Triggers
 modified: 2016-10-23
 tags: [solo, pythia, python, tool, tutorial]
 comments: true
