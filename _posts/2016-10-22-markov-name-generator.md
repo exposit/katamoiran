@@ -9,9 +9,11 @@ published: true
 
 <div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/markov" class="btn btn-info">markov name scripts</a></div>
 
-Similar to this <a href="https://www.samcodes.co.uk/project/markov-namegen/">Procedural Name Generator</a> (which is a great resource if you don't want to compile your own files locally) except much less sophisticated. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe. Now I will probably go reinstall haxe.
+Similar in spirit to this <a href="https://www.samcodes.co.uk/project/markov-namegen/">Procedural Name Generator</a> except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.
 
-It's just a wrapper for an existing markov script name generator I found in the public domain (details in the markov.py file). The lists are from wikipedia and various baby name sites and such.
+<!--more-->
+
+The script is just a wrapper for an existing markov script name generator I found in the public domain (details in the markov.py file). The lists are from wikipedia and various baby name sites and such.
 
 You can add more files in as many sub directories as you'd like. There's a rudimentary interface and you can also control things via command line.
 
