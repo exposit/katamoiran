@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secrets and Triggers Panel in Pythia
+title: Pythia Spotlight: Triggers
 modified: 2016-10-23
 tags: [solo, pythia, python, tool, tutorial]
 comments: true
@@ -8,6 +8,8 @@ published: true
 ---
 
 I wanted to highlight one of my favorite parts of Pythia today! The <a href="https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers">"Secrets & Triggers"</a> panel in the Oracle Stack.
+
+Essentially, it's a way to inject a bit of the suspense and action that occur when a GM calls for a Perception or similar check, and to add more random events, into a GM-less game. Well, technically Pythia is kind of filling that role, but you know what I mean.
 
 <!--more-->
 
