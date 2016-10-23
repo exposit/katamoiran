@@ -70,7 +70,7 @@ This magic pool returns to full after a good night's rest.
 
 __Variations & Extra Applications__
 
-1. Choose an alternate method of regaining magic tokens, either instead of or in addition to the regular method, available to just you or to everyone. Human sacrifice, meditation, sex, maintaining a taboo.
+1. Choose an alternate method of regaining magic tokens, either instead of or in addition to the regular method, available to just you or to everyone. Human sacrifice, meditation, sex, maintaining a taboo, you get the picture.
 2. Counterspelling. Someone with a magic pool or trait can always choose to burn tokens or HP to boost a saving DC against magic or deflect damage from it, on a one for one basis. You can also choose to sacrifice all remaining magic tokens (or if you're out of tokens or don't have any, drop to 1 HP) to succeed on that saving throw if it is failed or to mitigate all damage and effects from that spell.
 3. Counterspelling, Other. As Counterspelling, but can be used to protect others, one for each point you have in your magic trait. Choose if you want to be included in the effect; if so, divide the number of tokens and/or HP sacrificed by the number of people being protected; that's the bonus to the saving throw or amount subtracted from the damage. If not, each person protected gets the full bonus, but you don't get any.
 4. Curse-Eating. As Counterspelling, but can be used for dispelling magic that is already in place, whether on someone else or on an area or an object. On a failure, choose whether the curse remains OR whether it transfers from the original victim or object to you, leaving them free of it.
