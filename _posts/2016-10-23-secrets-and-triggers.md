@@ -23,7 +23,7 @@ Or this:
 
 At which point, make the roll at the requested difficulty or press the requested generator button with the specified settings. If it's a roll, you can just ask your oracle what the roll means and if something is really there, based on the type of test and the difficulty.
 
-><span style="font-weight:normal;">She looked down at the floor for a moment. "We're going to impose on a-- a friend," she said.</span><br>
+>She looked down at the floor for a moment. "We're going to impose on a-- a friend," she said.<br>
 >*[Trigger (3Z60F3GH)] Test of Perception, difficulty, easy*<br>
 >*Hmm, interesting. Fortunately that's a good skill for him.*<br>
 >*Rolling 2d8 1 times.*<br>
