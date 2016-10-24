@@ -37,7 +37,7 @@ Don't worry too much about 'positive' versus 'negative' -- if it comes up in pla
 
 Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative trait negates some of that advantage, the hero might still need to roll.
 
-*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 2, for a net of -2 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field, his* athletic *trait might have been enough for an automatic success.*
+*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 3, for a net of -1 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field, his* athletic *trait might have been enough for an automatic success.*
 
 #### Setting limits
 
@@ -47,7 +47,7 @@ Everything is now based around traits; each trait has a value, positive or negat
 
 Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes (you can pretty much follow those rules verbatim). These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does.
 
-The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this.
+The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this. If you want to stay more in line with standard Scarlet Heroes, then AB is the base combat trait's value divided by 2.
 
 **There Are No Attributes**
 
@@ -55,7 +55,7 @@ By default, you get six additional trait points (one per default OSR attribute) 
 
 The assumption is these will be spent on things like "athletic", "very good endurance", or "has memorized an encyclopedia" -- traits that are roughly analogous to normal attributes. But you don't have to -- any attribute (or aspect of an attribute) that's not covered by a trait is considered to be no penalty and no bonus, ie, a 0 modifier. In fact, you can think of the trait points as normal stat modifiers -- a hero with a strength 18 has a +3 modifier, for example.
 
-Finally, you can combine things down to save space. For example, the trait "street smart but not book smart (+2/-2)" would be treated as a positive in the case of street smarts and a penalty if the hero needed to do research. It still counts towards your point totals, though, as if it were two traits, one positive and one negative.
+Finally, you can combine things down to save space. For example, the trait "street smart but not book smart (+2/-2)" would be treated as a positive in the case of street smarts and a penalty if the hero needed to do research. It still counts towards your point totals, though, as if it were two traits, one positive and one negative. As noted above, it's not too important a distinction, since traits will often flip from positive to negative situationally.
 
 **Regular Traits**
 
