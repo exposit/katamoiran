@@ -1,17 +1,45 @@
-(original docs)
+[These docs are from the template's site and not this one.]
 
+## 5 steps to get started blogging on GitHub with [Prose.io](http://prose.io/)
 
-# Leonids Jekyll Themes
+### Step.1
+Fork this repository.
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
+### Step.2
+From **Admin** > **Options** > **Settings**, rename the repository to 
+`USERNAME.github.com` for your [GitHub pages](http://pages.github.com/).
 
-## What is Leonids?
+After ten minutes, you can find a sample page at `http://USERNAME.github.com`
+(like [this](http://tokkono.github.com/)).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+### Step.3
+Login to [Prose.io](http://prose.io/). 
+Make sure to authorize Prose to access your repositories.
 
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
+### Step.4
+Write your article. Access to the repository `USERNAME.github.com` 
+and go to `_post` directory, then `+ NEW FILE` to create new article.
+ 
+Make sure to change `Metadata` as follows.
 
+	layout: post
+	title: my first article
+	published: true
+
+### Step.5
+Publish your article. Save and Commit. Then you can see your article at 
+`http://USERNAME.github.com/`.
+
+## References
+* [Blogging with Jekyll Tutorial | Jekyll-Bootstrap](http://jekyllbootstrap.com/)  
+	You can find an awesome tutorial about blogging with jekyll.
+* [Home - mojombo/jekyll Wiki](https://github.com/mojombo/jekyll/wiki)
+* [Home - Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki)
+
+## Want to customize ?
+Sure, first and foremost, you should edit `_config.yml` file.
+check the [wiki](https://github.com/tokkonopapa/jekyll-experiment/wiki) out !
+
+## License
+Licensed under the [MIT License][mit].
+[MIT]: http://www.opensource.org/licenses/mit-license.php

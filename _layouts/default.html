@@ -1,22 +1,42 @@
+---
+layout: nil
+---
 <!DOCTYPE html>
-<html lang="en">
-
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="{{ site.lang }}"> <![endif]-->
+<!--[if IE 7]>    <html class="lt-ie9 lt-ie8" lang="{{ site.lang }}"> <![endif]-->
+<!--[if IE 8]>    <html class="lt-ie9" lang="{{ site.lang }}"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="{{ site.lang }}"> <!--<![endif]-->
+<head>
 {% include head.html %}
-
+{% if site.asides.themes %}{% include script.html %}{% endif %}
+</head>
 <body>
-  <div class="row">
-    <div class="col s12 m3">
-      <div class="table cover">
-        {% include sidebar.html %}
-      </div>
-    </div>
-    <div class="col s12 m9">
-      <div class="post-listing">
-        {{ content }}
-        {% include footer.html %}
-      </div>
-    </div>
-  </div>
-  {% include js.html %}
+<header id="header">
+{% include header.html %}
+</header>
+
+<nav id="navbar">
+{% include navbar.html %}
+</nav>
+
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div id="main" class="span9">
+{{ content }}
+		</div>
+
+		<aside id="sidebar" class="span3">
+{% include asides.html %}
+		</aside><!--/span-->
+	</div><!--/row-->
+</div> <!-- /container -->
+
+<hr>
+
+<footer id="footer">
+{% include footer.html %}
+</footer>
+{% unless site.asides.themes %}{% include script.html %}{% endunless %}
+{% include bottom.html %}
 </body>
 </html>

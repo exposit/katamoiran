@@ -1,72 +1,126 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: katamoiran
-tagline: python and pen and paper
-email: 
-description: 
-baseurl: "/katamoiran/" # the subpath of your site, e.g. /blog/
-plusurl: "https://exposit.github.io/katamoiran/" # used for comments
-url: "https://exposit.github.io/katamoiran" # the base hostname & protocol for your site
+# Configuration for jekyll
+# NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
+safe: false
+source: .
+destination: ./_site
+plugins: ./_plugins
+lsi: true
+pygments: true
+markdown: rdiscount
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 
+# Configuration for url/path
+# NOTICE:
+# * `baseurl`: Being set as absolute path is recommended.
+# * No need '/' at the end of url/path.
+# * Project page:
+#   url: http://USERNAME.github.com/REPOSITORY
+#   baseurl: /REPOSITORY
+url: http://exposit.github.com/katamoiran
+baseurl:  /katamoiran
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Los Angelos/America
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+# Configuration for permalink
+# `permalink`: none, pretty or /blog/:categories/:title.html
+permalink: /blog/:year/:month/:title/
 
-future: false
-show_drafts: false
+# Configuration for site
+title: Katamoiran
+description: Pen & Paper & Python.
+author: exposit
+email: alto.dizi@gmail.com
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# Configuration for blog
+lang: ja
+paginate: 4
+columns: 3
+date_format: "%B %d, %Y"
+truncate_len: 200
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: katamoiran
-  avatar: little_guy_cc0_oga.png
-  job: "python & pen & paper"
-  bio: ""
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+# Configuration for asides/recent_posts.html
+recent_posts: 5
+
+# Configuration for navbar.html
+navbar_list:
+- name: Blog
+  link: /
+  dropdown: &dropdown
+  - name: Archives
+    link: /blog/archives.html
+  - name: Categories
+    link: /blog/categories.html
+  - name: Tags
+    link: /blog/tags.html
+- name: Project
+  link: /project/
+- name: About
+  link: /about.html
+
+# Configuration for bootstrap and color theme
+# `bootstrap`:
+# custom, original, amelia, cerulean, cyborg, journal,
+# readable, simplex, slate, spacelab, spruce, superhero, united
+bootstrap: custom
+bootstrap_ver: 2.3.2
+bootswatch_ver: 2.3.2
+
+# Configuration for responsive break point when using 'custom'.
+responsive_bp: 768
+
+# Configuration for asides.html
+# CAUTION: `themes` should be false to put the script.html at the bottom.
+asides:
+    about: true
+    search: true
+    themes: true
+    recent_posts: true
+    archive_tabs: true
+    tweets: false
+    github: false
+
+# Configuration for pygments
+# `pygments_style`:
+# autumn, borland, bw, colorful, default, emacs, friendly, fruity,
+# github, manni, monokai, murphy, native, pastie, perldoc, tango, trac, vs
+pygments_style: github
+
+# Configuration for jQuery
+jquery_ver: 1.10.2
+
+#-----------------------------------
+# Configuration for 3rd party script
+#-----------------------------------
+#disqus:
+#    short_name: USERNAME
+#    comment_count: true
+#    developer_mode: true
+
+#feedburner:
+#    id: YOUR_SITE_ID
+
+#google_analytics:
+#    account: UA-XXXXX-X
+
+google_plus_one:
+    size: medium
+
+# `xfbml` will break some styles on android 2.3 native browser (Optimus L-01D).
+# `locale`: ja_JP, en_US, es_LA, fr_FR, de_DE, it_IT, zh_CN, ko_KR, ...
+#facebook:
+#    xfbml: false
+#    locale: ja_JP
+
+#twitter:
+#    username: twitterapi
+#    count: 5
+#    exclude_replies: true
+#    show_screen_name: true
+#    show_follower_count: false
+#    widget_id: 243046062967885824
+
+#github:
+#    username: USERNAME
+#    count: 5
+
+#pocket: true
+
+#hatena: true

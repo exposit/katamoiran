@@ -1,4 +1,61 @@
 ---
-layout: post_listing
-permalink: /
+layout: default
+group: Blog
+title: Blog
 ---
+{% include libs/truncate_start %}
+{% for post in paginator.posts limit: 1 %}
+			<!-- Featured Article -->
+			<article class="hero-unit">
+				<header><hgroup>
+					<h1>
+						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+					</h1>
+					<h4>
+						<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+					</h4>
+				</hgroup></header>
+				<div class="content">
+					{% include libs/thumbnail %}
+					{% include libs/truncate_exec %}
+				</div>
+				<footer>
+					<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-large">Read this &raquo;</a></p>
+				</footer>
+			</article>
+{% endfor %}
+{% assign m = 0 %}
+{% capture M %}{{ site.columns }}{% endcapture %}
+{% capture n %}{{ site.paginate | minus: 1 }}{% endcapture %}
+{% for post in paginator.posts limit: n offset: 1 %}
+	{% if m == 0 %}
+			<!-- Followed Articles -->
+			<div class="row-fluid">
+	{% endif %}
+				<article class="span{{ 12 | divided_by: site.columns }}">
+					<header>
+						{% include libs/thumbnail %}
+						<hgroup>
+							<h2>
+								<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+							</h2>
+							<h5>
+								<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+							</h5>
+						</hgroup>
+					</header>
+					<div class="content">
+						{% include libs/truncate_exec %}
+					</div>
+					<footer>
+						<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">Read this &raquo;</a></p>
+					</footer>
+				</article><!--/span-->
+	{% capture m %}{{ m | plus: 1 }}{% endcapture %}
+	{% if m == M or forloop.last %}
+			</div><!--/row-fluid-->
+		{% assign m = 0 %}
+	{% endif %}
+{% endfor %}
+{% include libs/truncate_end %}
+{% include pagenation.html %}
