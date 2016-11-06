@@ -16,8 +16,8 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 # * Project page:
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
-url: http://USERNAME.github.com
-baseurl: 
+url: http://exposit.github.com
+baseurl: /katamoiran
 
 # Configuration for permalink
 # `permalink`: none, pretty or /blog/:categories/:title.html
