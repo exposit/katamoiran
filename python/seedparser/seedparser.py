@@ -14,7 +14,7 @@
 #	Flags:
 #
 #	    -x, --max	integer
-#	    	Max number of elements in final lists. Set higher than target so you have extras for curated lists. Default 100.
+#	    	Max number of elements in final lists. Set higher than target so you have extras for curated lists. Default 110.
 #
 #	    -m, --min	integer
 #	    	Minimum length of words from source to include. Default is 4.
@@ -37,10 +37,15 @@
 #       -o, --output string
 #           Short string used for output file names appended with '_adverb' or whatever pos. Default is original file name.
 #
+#       -s, --second
+#           Do a second pass on testing parts of speech. Improves result quality but may winnow your pool down too far. Default is True.
+#
 
-import nltk
-from nltk import *
-from nltk.stem.wordnet import WordNetLemmatizer
+#import nltk
+#from nltk import *
+#from nltk.stem.wordnet import WordNetLemmatizer
+from textblob import TextBlob
+from textblob import Word
 
 import os
 import sys
@@ -56,6 +61,7 @@ paramstr = ""
 wordcount = 0
 usedcount = 0
 total_string = ""
+poolstring = ""
 
 # declare defaults here
 limiter = 110
@@ -66,6 +72,7 @@ include_proper_nouns = False
 print_to_terminal = False
 min_word_length = 4
 output_filename = ''
+second_pass = True
 
 try:
     filename = sys.argv[1]
@@ -73,13 +80,14 @@ except:
     print("\tUsage:\n\t\tpython seedparser.py <filename>")
     print("\tFlags:")
     print("\t-x, --max\tnumber\n\t\tMax number of elements in final lists. Set higher than target so you have extras for curated lists.")
-    print("\t-f, --fill\tTrue or False\n\t\tKeep trying until the list is full (max 3x limiter), default is True")
-    print("\t-c, --case\tu[pper] or l[ower\n\t\tResults in title case or lowercase, default is lowercase")
+    print("\t-f, --fill\tTrue or False\n\t\tKeep trying until the list is full (max 3x limiter), default is True.")
+    print("\t-c, --case\tu[pper] or l[ower\n\t\tResults in title case or lowercase, default is lowercase.")
     print("\t-m, --min\tnumber\n\t\tMinimum length of words to include.")
-    print("\t-l, --lemmatize\tTrue or False\n\t\tConvert verbs to base form, default is True")
-    print("\t-p, --proper\tTrue or False\n\t\tInclude proper nouns, default is False")
-    print("\t-t, --print\tTrue or False\n\t\tPrint results to terminal, default is False")
+    print("\t-l, --lemmatize\tTrue or False\n\t\tConvert verbs to base form, default is True.")
+    print("\t-p, --proper\tTrue or False\n\t\tInclude proper nouns, default is False.")
+    print("\t-t, --print\tTrue or False\n\t\tPrint results to terminal, default is False.")
     print("\t-o, --output\tOutput name\n\t\tShort string used for output name plus '_<pos>'. Default is original file name.")
+    print("\t-s, --print\tTrue or False\n\t\tRun a second pass while testing part of speech. Default is True.")
     sys.exit(1)
     
 try:
@@ -107,6 +115,9 @@ try:
             min_word_length = int(parameter)
         elif flag == '-o' or flag == '--output':
             output_filename = parameter
+        elif flag == '-s' or flag == '--second':
+            if parameter == 'False':
+                second_pass = False
 except:  
     pass
     
@@ -124,8 +135,11 @@ def parseFile(filename):
     nouns = []
     verbs = []
 
-    postuples = word_tokenize(' '.join(lines))
-    postuples = nltk.pos_tag(postuples)
+    #postuples = word_tokenize(' '.join(lines))
+    #postuples = nltk.pos_tag(postuples)
+    
+    pos = TextBlob(' '.join(lines))
+    postuples = pos.tags
     
     for word, pos in postuples:
         if len(word) >= min_word_length:
@@ -134,15 +148,54 @@ def parseFile(filename):
             if pos.startswith('V'):
                 # convert to base form of the verb if requested
                 if lemmatize_verbs == True:
-                    word = WordNetLemmatizer().lemmatize(word,'v')
+                    #word = WordNetLemmatizer().lemmatize(word,'v')
+                    w = Word(word)
+                    word = w.lemmatize('v')
                 verbs.append(word)
             if pos == 'NN' or pos == 'NNS':
                 nouns.append(word)
             if pos == 'NNP' and include_proper_nouns == True:
-                nouns.append(word + " (P)")
+                nouns.append(word)
             if pos.startswith('RB'):
                 adverbs.append(word)
+                
+    # now a second round of testing
+    if second_pass == True:
+        print("\n[First Pass] Adv: " + str(len(adverbs)) + " Adj: " + str(len(adjectives)) + " Nouns: " + str(len(nouns)) + " Verbs: " + str(len(verbs)))
+        fadverbs = []
+        for word in adverbs:
+            if word[-2:] == "ly":
+                fadverbs.append(word)
+            
+        adverbs = fadverbs
     
+        nouns = TextBlob(' '.join(nouns))
+        fnouns = []
+        for word, pos in nouns.tags:
+            if pos == 'NN' or pos == 'NNS' or pos == 'NNP':
+                fnouns.append(word)
+    
+        nouns = fnouns
+    
+        verbs = TextBlob(' '.join(verbs))
+        fverbs = []
+        for word, pos in verbs.tags:
+            if pos.startswith('V'):
+                fverbs.append(word)
+    
+        verbs = fverbs
+    
+        adjectives = TextBlob(' '.join(adjectives))
+        fadjectives = []
+        for word, pos in adjectives.tags:
+            if pos.startswith('J'):
+                fadjectives.append(word)
+    
+        adjectives = fadjectives
+        
+    global poolstring
+    poolstring = "[Final Pool] Adv: " + str(len(adverbs)) + " Adj: " + str(len(adjectives)) + " Nouns: " + str(len(nouns)) + " Verbs: " + str(len(verbs))
+   
     wordcount = len(postuples)
     usedcount = len(adverbs) + len(adjectives) + len(nouns) + len(verbs)
     
@@ -245,11 +298,13 @@ for i in range(len(typeList)):
     total_string = total_string + processList(wordList, limiter, i, filename)
     
 # print a log of what happened and why
-paramstr = "\nFile: " + filename + "\n" + "-"*50 + "\n\tfill: " + str(repeat) + "\n\tnumber of elements: " + str(limiter) + "\n\tcase: " + str(case) + "\n\tlemmatize: " + str(lemmatize_verbs) + "\n\tinclude proper nouns: " + str(include_proper_nouns) + "\n\tprint to terminal: " + str(print_to_terminal) + "\n\tminimum word length allowed: " + str(min_word_length)
+paramstr = "\nFile: " + filename + "\n" + "-"*50 + "\n\tfill: " + str(repeat) + "\n\tnumber of elements: " + str(limiter) + "\n\tcase: " + str(case) + "\n\tlemmatize: " + str(lemmatize_verbs) + "\n\tinclude proper nouns: " + str(include_proper_nouns) + "\n\tprint to terminal: " + str(print_to_terminal) + "\n\tminimum word length allowed: " + str(min_word_length) + "\n\tdo second pos pass: " + str(second_pass)
 
 print(paramstr)
 print("-"*50)
-print("Total Words: " + str(wordcount) + "\tSample Pool: " + str(usedcount) + "\n\t" + total_string)
+print("Total Words: " + str(wordcount) + "\tSample Pool: " + str(usedcount))
+print(poolstring)
+print("[Final Per List] " + total_string)
 print("\n--- in %s seconds ---" % (time.time() - start_time))
 
     
