@@ -2,7 +2,7 @@
 layout: post
 title: Pythia Oracle Update 0.6.0
 modified: 2016-09-14
-tags: [solo, pythia, python, tool]
+tags: [solo, pythia, python, tool, update]
 comments: true
 pinned: false
 published: true
@@ -22,7 +22,7 @@ Second, I've laid the foundations for scenario support in the classic style of C
 
 At the most basic, Pythia has a lot in common with a CYOA or an old school gamebook framework. The big difference is that, instead of a static, author-written chunk of content being presented to you for you to respond to, you're expected to use the interpretive generators in Pythia (and outside it) to create that content yourself.
 
-With this update, I've added in support for a scenario author to write up static chunks of text to present to a potential player using Pythia as the framework. Scenarios are written in blocks, and each block is shown to the player under the right circumstances (usually when a link is clicked). That's about all there is to it. 
+With this update, I've added in support for a scenario author to write up static chunks of text to present to a potential player using Pythia as the framework. Scenarios are written in blocks, and each block is shown to the player under the right circumstances (usually when a link is clicked). That's about all there is to it.
 
 >"If you succeed, go to page 92, if you fail, go to page 18."
 
@@ -49,8 +49,8 @@ With this, the author-provided content is still interpreted in the context of th
 
 Obviously the reader will still need to do a lot of interpreting and be very open about judging the results. But there's an enormous amount of flexibility here to mimic a MUD-style dungeon crawl, or a text adventure, or a gamebook, or an event-driven CYOA, or some sort of unique mad scientist hybrid thing that's not been done before (or even if it has, the more the merrier).
 
-Anyway, I wrote up a sample tutorial dungeon using part of the one page [Oracle's Decree](http://blog.trilemma.com/2015/10/the-oracles-decree.html) (note, I did a really lackluster job, not even close to justice to the original piece). It's not worth rolling a character up for or anything but it does demonstrate the basics the system (but not very cleverly, due to my lack of imagination and a deep desire to get a working copy out). 
+Anyway, I wrote up a sample tutorial dungeon using part of the one page [Oracle's Decree](http://blog.trilemma.com/2015/10/the-oracles-decree.html) (note, I did a really lackluster job, not even close to justice to the original piece). It's not worth rolling a character up for or anything but it does demonstrate the basics the system (but not very cleverly, due to my lack of imagination and a deep desire to get a working copy out).
 
-If you can't tell, I'm very excited about the scenarios capability. I've been tinkering with interactive fiction for... ha, let's just say "a long time". My hope is to put together a scenario that's a lot more substantial and actually playable eventually. 
+If you can't tell, I'm very excited about the scenarios capability. I've been tinkering with interactive fiction for... ha, let's just say "a long time". My hope is to put together a scenario that's a lot more substantial and actually playable eventually.
 
 As always, if you have any questions, comments, or suggestions, feel free to leave them here or in the github issues section of the Pythia repository!

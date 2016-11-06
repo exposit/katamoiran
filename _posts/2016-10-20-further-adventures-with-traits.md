@@ -4,12 +4,12 @@ title: Further Adventures with Traits
 modified: 2016-10-20
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
-published: false
+published: true
 ---
 
 Inspired by a post at <a href="http://www.lastgaspgrimoire.com/category/role-playing/">Last Gasp</a> (link warning, some NSFW content, LotFP alert) on turning things into dice progressions, I decided to see how many systems I could convert into traits. Hahaha. It turns out *everything* can be represented by traits if you look at it hard enough.
 
-Warning, almost none of this is play-tested yet (which is why it's not published yet). All theory. All speculation. Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
+Warning, almost none of this is play-tested yet (``which is why it's not published yet``). All theory. All speculation. Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
 
 <!--more-->
 
