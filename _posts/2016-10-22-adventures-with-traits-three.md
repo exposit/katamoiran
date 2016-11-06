@@ -21,7 +21,7 @@ Remember that under my modified trait system, you always apply up to two positiv
 
 It is also possible to apply only a portion of a trait to a roll; if you have a trait you think might be relevant but not entirely ("I know a ton about dinosaurs, and dragons are really just big lizards, aren't they?") you can use the semi-relevant trait as one of your allowed two, and apply half its value. If you do this, and fail, it's always amusing to have your character proceed on incorrect information.
 
-"independently Advancing" traits are traits that have their own rules for advancement and may not be subject to the usual trait cap.
+"Independently Advancing" traits are traits that have their own rules for advancement and may not be subject to the usual trait cap.
 
 __*Spells & Magic*__
 
