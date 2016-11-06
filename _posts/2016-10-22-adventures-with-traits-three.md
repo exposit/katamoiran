@@ -9,7 +9,7 @@ published: true
 
 So I got to thinking, why use any special abilities at all? Why not just go ahead and make *everything a trait*. So I did. Should I probably just finish slogging through FATE? Probably. But this is more fun.
 
-Warning, only some of this is play-tested yet (``which is why it's not published yet``). Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
+Warning, only some of this is play-tested yet (<strike>which is why it's not published yet</strike>). Probably contains at least a few logical errors and mathematical flaws. And the usual disclaimer regarding solo play versus shared play applies -- I have no idea how well any of this would work in a group game.
 
 <!--more-->
 
