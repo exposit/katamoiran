@@ -3,7 +3,7 @@
 safe: true
 source: .
 destination: ./_site
-plugins: ./_plugins
+#plugins: ./_plugins
 lsi: true
 pygments: true
 markdown: rdiscount
@@ -25,13 +25,13 @@ baseurl: /katamoiran
 permalink: /blog/:year/:month/:title/
 
 # Configuration for site
-title: The Code Folio
-description: A personal log of life coding.
-author: USERNAME
-email: USERNAME@example.com
+title: katamoiran
+description: Pen & Paper & Python.
+author: alto dizi
+email: alto.dizi@gmail.com
 
 # Configuration for blog
-lang: ja
+lang: en
 paginate: 4
 columns: 3
 date_format: "%B %d, %Y"
@@ -60,7 +60,7 @@ navbar_list:
 # `bootstrap`:
 # custom, original, amelia, cerulean, cyborg, journal,
 # readable, simplex, slate, spacelab, spruce, superhero, united
-bootstrap: custom
+bootstrap: united
 bootstrap_ver: 2.3.2
 bootswatch_ver: 2.3.2
 
@@ -71,11 +71,11 @@ responsive_bp: 768
 # CAUTION: `themes` should be false to put the script.html at the bottom.
 asides:
     about: true
-    search: true
-    themes: true
+    search: false
+    themes: false
     recent_posts: true
     archive_tabs: true
-    tweets: true
+    tweets: false
     github: false
 
 # Configuration for pygments
@@ -122,6 +122,6 @@ twitter:
 #    username: USERNAME
 #    count: 5
 
-pocket: true
+#pocket: true
 
 #hatena: true
