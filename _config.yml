@@ -1,7 +1,6 @@
 # Configuration for jekyll
 # NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
 safe: false
-relative_permalinks: false
 source: .
 destination: ./_site
 plugins: ./_plugins
@@ -9,7 +8,6 @@ lsi: true
 pygments: true
 markdown: rdiscount
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
-include: ['_pages']
 
 # Configuration for url/path
 # NOTICE:
@@ -18,18 +16,18 @@ include: ['_pages']
 # * Project page:
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
-url: http://exposit.github.com/katamoiran
-baseurl:  /katamoiran
+url: http://USERNAME.github.com
+baseurl: 
 
 # Configuration for permalink
 # `permalink`: none, pretty or /blog/:categories/:title.html
-permalink: /:year/:month/:title/
+permalink: /blog/:year/:month/:title/
 
 # Configuration for site
-title: Katamoiran
-description: Pen & Paper & Python.
-author: exposit
-email: alto.dizi@gmail.com
+title: The Code Folio
+description: A personal log of life coding.
+author: USERNAME
+email: USERNAME@example.com
 
 # Configuration for blog
 lang: ja
@@ -47,11 +45,11 @@ navbar_list:
   link: /
   dropdown: &dropdown
   - name: Archives
-    link: /archives.html
+    link: /blog/archives.html
   - name: Categories
-    link: /categories.html
+    link: /blog/categories.html
   - name: Tags
-    link: /tags.html
+    link: /blog/tags.html
 - name: Project
   link: /project/
 - name: About
@@ -76,7 +74,7 @@ asides:
     themes: true
     recent_posts: true
     archive_tabs: true
-    tweets: false
+    tweets: true
     github: false
 
 # Configuration for pygments
@@ -91,10 +89,10 @@ jquery_ver: 1.10.2
 #-----------------------------------
 # Configuration for 3rd party script
 #-----------------------------------
-#disqus:
-#    short_name: USERNAME
-#    comment_count: true
-#    developer_mode: true
+disqus:
+    short_name: USERNAME
+    comment_count: true
+    developer_mode: true
 
 #feedburner:
 #    id: YOUR_SITE_ID
@@ -107,22 +105,22 @@ google_plus_one:
 
 # `xfbml` will break some styles on android 2.3 native browser (Optimus L-01D).
 # `locale`: ja_JP, en_US, es_LA, fr_FR, de_DE, it_IT, zh_CN, ko_KR, ...
-#facebook:
-#    xfbml: false
-#    locale: ja_JP
+facebook:
+    xfbml: false
+    locale: ja_JP
 
-#twitter:
-#    username: twitterapi
-#    count: 5
-#    exclude_replies: true
-#    show_screen_name: true
-#    show_follower_count: false
+twitter:
+    username: twitterapi
+    count: 5
+    exclude_replies: true
+    show_screen_name: true
+    show_follower_count: false
 #    widget_id: 243046062967885824
 
 #github:
 #    username: USERNAME
 #    count: 5
 
-#pocket: true
+pocket: true
 
 #hatena: true
