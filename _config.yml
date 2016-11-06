@@ -9,6 +9,7 @@ lsi: true
 pygments: true
 markdown: rdiscount
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
+include: ['blog']
 
 # Configuration for url/path
 # NOTICE:
