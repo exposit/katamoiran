@@ -23,7 +23,7 @@ baseurl:  /katamoiran
 
 # Configuration for permalink
 # `permalink`: none, pretty or /blog/:categories/:title.html
-permalink: /blog/:year/:month/:title/
+permalink: /:year/:month/:title/
 
 # Configuration for site
 title: Katamoiran
@@ -47,11 +47,11 @@ navbar_list:
   link: /
   dropdown: &dropdown
   - name: Archives
-    link: /blog/archives.html
+    link: /archives.html
   - name: Categories
-    link: /blog/categories.html
+    link: /categories.html
   - name: Tags
-    link: /blog/tags.html
+    link: /tags.html
 - name: Project
   link: /project/
 - name: About
