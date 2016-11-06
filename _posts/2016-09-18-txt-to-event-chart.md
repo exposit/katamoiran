@@ -25,14 +25,7 @@ Verbs tend to be in the concrete, present tense ("coerce", "demand", "mend"). Su
 
 #### Using Seed Parser
 
-If you have Python installed, it's pretty straightforward to use the seedparser. <strike>First, install nltk. Open a terminal and type:
-
-...
-
-Detailed instructions are [here](http://www.nltk.org/data.html).
-</strike>
-
-Install TextBlob with these two commands:
+If you have Python installed, it's pretty straightforward to use the seedparser. <strike>First, install nltk.</strike> Install TextBlob, which will install what you need from nltk automatically. Open a terminal and type:
 
 ~~~
 $ pip install -U textblob
