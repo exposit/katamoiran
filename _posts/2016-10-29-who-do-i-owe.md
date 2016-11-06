@@ -9,7 +9,7 @@ published: true
 
 <div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">roll one each script</a></div>
 
-Here's a random generator to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.
+Here's a random table to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.
 
 <!--more-->
 
@@ -95,4 +95,4 @@ Riffing on the idea of a "one roll" from Stars Without Number, roll a d4, a d6, 
 19. Roll until you have two results and combine them.
 20. You actually owe money to 1+1d4 different groups. Roll a d4, then roll up that many more groups.
 
-Finally, figure out how much you owe. If your system already has rules for this, use them. For a quick version, take the highest value from all of the dice you just rolled and multiply it by 100 (or 1000).
+Finally, figure out how much you owe. If your system already has rules for this, use them. For a quick version, take the highest value from all of the dice you just rolled and multiply it by 100 or 1000 .

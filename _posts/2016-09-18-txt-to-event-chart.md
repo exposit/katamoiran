@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating Mythic-Style Charts From a Text File
-modified: 2016-09-18
+modified: 2016-11-06
 tags: [solo, mythic, python, tool, mod, script]
 excerpt: Inspired by the slew of Mythic and similar style charts on the google+ community over the last few days, I wrote a simple script that takes a text file, sorts it by word type, and outputs each type as a separate, numbered chart.
 comments: true
@@ -11,7 +11,7 @@ published: true
 
 <div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>
 
-Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses nltk and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
+Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses <strike>nltk</strike> [TextBlob](http://textblob.readthedocs.io/en/dev/index.html) and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
 
 It's not perfect; the resulting chart needs quite a bit of curation, but it's a lot easier than doing it manually!
 
@@ -21,11 +21,11 @@ It's not perfect; the resulting chart needs quite a bit of curation, but it's a 
 
 Extremely brief research (I looked at the pdfs for a couple of seconds) and foggy grammar skills suggest that the Mythic pattern is "verb (or adjective) noun". Location Crafter (as near as I can tell) uses "verb noun" for actions and "adverb adjective" for descriptions.
 
-Verbs tend to be in the concrete, present tense ("coerce", "demand", "mend"). Subjects can be any noun. Adverbs tend to end in "ly" but you'll probably need to convert some of the verbs manually to make up more than 50 or so suitable ones. And 100 elements seems pretty standard.
+Verbs tend to be in the concrete, present tense ("coerce", "demand", "mend"). Subjects can be any noun. Adverbs tend to end in "ly" but you'll probably need to convert some of the verbs manually to make up more than 50 or so suitable ones. And 100 elements seems pretty standard per list.
 
 #### Using Seed Parser
 
-If you have Python installed, it's pretty straightforward to use the seedparser. First, install nltk. Open a terminal and type:
+If you have Python installed, it's pretty straightforward to use the seedparser. <strike>First, install nltk. Open a terminal and type:
 
 ~~~
  pip install nltk
@@ -35,8 +35,16 @@ If you have Python installed, it's pretty straightforward to use the seedparser.
 ~~~
 
 Detailed instructions are [here](http://www.nltk.org/data.html).
+</strike>
 
-Source text files can be weighted lists (run through, say, wordclouds.com) or raw text, doesn't really matter as long as it is plain text, though older files or ones with a lot of underscores and odd formatting might choke the script. Very long files (over ~165K words) take a while though. Note that it ignores word order, so if weighting is important to you, remove any low ranked words from the source before running the script.
+Install TextBlob with these two commands:
+
+~~~
+$ pip install -U textblob
+$ python -m textblob.download_corpora
+~~~
+
+Source text files can be weighted lists (run through, say, wordclouds.com) or raw text. It doesn't really matter as long as it is plain text, though older files or ones with a lot of underscores and odd formatting might choke the script. Very long files (over ~165K words) take a while though. Note that it ignores word order, so if weighting is important to you, remove any low ranked words from the source before running the script.
 
 Run the script in the same directory as your word file; it will output a .csv file and a .py file for each of the four required parts of speech (noun, adjective, adverb, verb). The .py is in python dictionary/list format and the csv has a comma-separated, numbered chart that should be straightforward to import into Google spreadsheets or a similar program.
 
@@ -62,6 +70,8 @@ Flags:
    Include proper nouns or not. Default is false.
 * -t, --print,	True or False,
     Print results to terminal. This makes it easy to copy and paste without having to open up the saved file. Default is False.
+* -s, --second, True or False,
+    Makes a second pass through the parts of speech filter. Also removes any adverbs not ending in 'ly'. Set to False if you're coming up short in the adverbs.
 
 If you don't want to mess with this stuff, just do:
 
