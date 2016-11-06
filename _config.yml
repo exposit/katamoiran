@@ -1,6 +1,6 @@
 # Configuration for jekyll
 # NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
-safe: false
+safe: true
 source: .
 destination: ./_site
 plugins: ./_plugins
