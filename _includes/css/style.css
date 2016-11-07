@@ -16,6 +16,7 @@
 body {
 	padding-top: 0;
 	padding-bottom: 20px;
+	font-family: 'Lora', serif;
 }
 body > footer {
 	padding-left: 20px;
@@ -273,8 +274,4 @@ li.social {
 }
 #myCarousel img {
 	margin: 0 auto;
-}
-
-*{
-  font-family: 'Lora', serif;
 }
