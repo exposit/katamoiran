@@ -278,3 +278,8 @@ li.social {
 *:not(.hero-unit){
   font-family: 'Lora', serif;
 }
+
+.hero-unit header h1 {
+	margin-bottom: 0.125em;
+	font-family: 'Poiret One', cursive;
+}
