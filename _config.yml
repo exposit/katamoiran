@@ -53,8 +53,8 @@ navbar_list:
     link: /blog/tags.html
 - name: Project
   link: /project/
-- name: About
-  link: /about.html
+#- name: About
+#  link: /about.html
 
 # Configuration for bootstrap and color theme
 # `bootstrap`:
