@@ -114,4 +114,4 @@ If you'd like a little more flavor, or your wrinkle suggests you owe more than m
 
 ---
 
-Now my rogues -- who always owe somebody something -- will have something more interesting than "you own d10x100 gold coins to Jabba the Hutt".
+Now my rogues -- who always owe somebody something -- will have something more interesting in their backstories than "you own d10x100 gold coins to Jabba the Hutt".
