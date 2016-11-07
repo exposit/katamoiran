@@ -764,7 +764,7 @@ h3 {
 }
 
 h1 {
-  font-size: 33.5px;
+  font-size: 38.5px;
 }
 
 h2 {
@@ -6132,7 +6132,7 @@ a.badge:focus {
 
 .hero-unit h1 {
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 40px;
   line-height: 1;
   letter-spacing: -1px;
   color: inherit;
