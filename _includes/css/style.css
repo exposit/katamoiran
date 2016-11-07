@@ -10,12 +10,12 @@
 }
 .hero-unit header h1 {
 	margin-bottom: 0.125em;
+	font-family: 'Shrikhand', cursive;
 }
 
 body {
 	padding-top: 0;
 	padding-bottom: 20px;
-	font-family: 'Shrikhand', cursive;
 }
 body > footer {
 	padding-left: 20px;
