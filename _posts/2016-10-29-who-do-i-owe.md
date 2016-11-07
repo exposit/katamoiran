@@ -92,8 +92,26 @@ Riffing on the idea of a "one roll" from Stars Without Number, roll a d4, a d6, 
 15. An innocent paid a terrible price when you incurred the debt and their family will do something about it. Roll again on the d6 chart and on the d4 chart to see what.
 16. Someone who didn't deserve it was ruined or suffered terribly because of your actions or lack of action.
 17. You're wracked with terrible nightmares about the money and you don't know why.
-18. You've been framed for the most heinous crime your character can think of -- not just larceny or petty theft. The person you owe is *just that vindictive*.
+18. You've been framed for the most heinous crime you can think of -- not just larceny or petty theft. The person you owe is *just that vindictive*.
 19. Roll until you have two results and combine them.
 20. You actually owe money to 1+1d4 different groups. Roll a d4, then roll up that many more groups.
 
-Finally, figure out how much you owe. If your system already has rules for this, use them. For a quick version, take the highest value from all of the dice you just rolled and multiply it by 100 or 1000 .
+Finally, figure out how much you owe. If your system already has rules for this, use them. For a quick version, take the highest value from all of the dice you just rolled and multiply it by 100 or 1000.
+
+If you'd like a little more flavor, or your wrinkle suggests you owe more than money, or if you'd like to owe something instead of money, add together the two lowest numbers you rolled and apply that number to the next chart. You still owe the value you already figured out; this just indicates what the person you owe is upset about.
+
+*You owe something more difficult to repay than mere money. You owe...*
+
+2. A favor.
+3. A life. Yours, perhaps, or maybe a sacrificial victim's. Or a fellow debtor you could turn in...
+4. A rare spell component that's going to be hell to replace.
+5. A rare antique in a specific style.
+6. A rare animal. Don't even ask.
+7. A magic effect or power that you usurped from the expected owner. You can do something extraordinary now but have no control over it. And they're mad they lost out.
+8. An inconvenient magical animal that has imprinted on you instead of the intended owner (or died in your care if you don't want a pet).
+9. Your skin. Part of a powerful ritual is inked indelibly on your skin. You're the last copy.
+10. A powerful magical item, now bonded to you. Not necessarily a useful item, just a powerful one.
+
+---
+
+Now my rogues -- who always owe somebody something -- will have something more interesting than "you own d10x100 gold coins to Jabba the Hutt".
