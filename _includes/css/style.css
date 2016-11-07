@@ -10,7 +10,6 @@
 }
 .hero-unit header h1 {
 	margin-bottom: 0.125em;
-	font-family: 'Arima Madurai', cursive;
 }
 
 body {
@@ -313,3 +312,8 @@ blockquote:after {
 blockquote:after {
     content: "</blockquote>";
     margin: 6px 0 0 0;
+}
+
+h1 {
+		font-family: 'Arima Madurai', cursive;
+}
