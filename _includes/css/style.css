@@ -317,3 +317,7 @@ blockquote:after {
 h1 {
 		font-family: 'Arima Madurai', cursive;
 }
+
+#site-title {
+	background-image: url('/img/little_guy_cc0_oga.png');
+}
