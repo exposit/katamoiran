@@ -32,8 +32,8 @@ email: alto.dizi@gmail.com
 
 # Configuration for blog
 lang: en
-paginate: 4
-columns: 3
+paginate: 8
+columns: 4
 date_format: "%B %d, %Y"
 truncate_len: 200
 
@@ -112,12 +112,12 @@ google_plus_one:
 #    xfbml: false
 #    locale: ja_JP
 
-twitter:
-    username: twitterapi
-    count: 5
-    exclude_replies: true
-    show_screen_name: true
-    show_follower_count: false
+#twitter:
+#    username: twitterapi
+#    count: 5
+#    exclude_replies: true
+#    show_screen_name: true
+#    show_follower_count: false
 #    widget_id: 243046062967885824
 
 #github:
