@@ -60,7 +60,7 @@ navbar_list:
 # `bootstrap`:
 # custom, original, amelia, cerulean, cyborg, journal,
 # readable, simplex, slate, spacelab, spruce, superhero, united
-bootstrap: united
+bootstrap: custom
 bootstrap_ver: 2.3.2
 bootswatch_ver: 2.3.2
 
