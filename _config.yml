@@ -17,7 +17,7 @@ include: ['_pages', 'img']
 # * Project page:
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
-url: http://exposit.github.com
+url: http://exposit.github.com/katamoiran
 baseurl: /katamoiran
 
 # Configuration for permalink
