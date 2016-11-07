@@ -7,6 +7,7 @@ comments: true
 pinned: false
 published: true
 link: https://exposit.github.io/pythia-oracle/
+categories: pythia
 ---
 
 Version 1.2.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. Big new features are a plot panel and [Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1) support, with the kind permission of the author.
