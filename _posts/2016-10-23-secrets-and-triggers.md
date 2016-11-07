@@ -2,7 +2,7 @@
 layout: post
 title: Pythia Spotlight Secrets and Triggers
 modified: 2016-10-23
-categories: [house rules]
+categories: [house rules,]
 tags: [solo, pythia, python, tool, tutorial]
 comments: true
 published: true
