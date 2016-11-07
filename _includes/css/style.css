@@ -284,7 +284,6 @@ blockquote {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
-	font-size: 80%;
 }
 blockquote:before {
   color: #ccc;
@@ -296,8 +295,5 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
-}
-
-.btn-info {
-	padding-bottom: 8px;
+	font-size: 14.5px;
 }
