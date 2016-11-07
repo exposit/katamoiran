@@ -8,8 +8,6 @@ comments: true
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/markov" class="btn btn-info">markov name scripts</a></div>
-
 Similar in spirit to this <a href="https://www.samcodes.co.uk/project/markov-namegen/">Procedural Name Generator</a> except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.
 
 <!--more-->
@@ -26,3 +24,5 @@ You can add more files in as many sub directories as you'd like. There's a rudim
 > -k &lt;word or phrase&gt; will only grab files containing that word in the name. Note that 'male' would normally match 'female' or 'male' but I've given it a special clause.<br>
 
 You're likely better off using the linked generator if you don't need "local" and "add permanent source files".
+
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/markov" class="btn btn-info">markov name scripts</a></div>

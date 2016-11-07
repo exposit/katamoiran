@@ -10,8 +10,6 @@ pinned: false
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn btn-info">terrain generator scripts</a></div>
-
 For the Kyneros campaign I knew I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and entirely oracle-generated world-building. I've always had a love for random generation, and it's an essential part of my solo adventuring experience -- but I know my limits, and when it comes to terrain I don't have the patience (or attention span) for a literal hexcrawl.
 
 <!--more-->
@@ -66,3 +64,5 @@ And that's about all there is to it; the goal is to have enough info for a decen
 <center>
 <img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 350px; height: 300px"/>
 </center>
+
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn btn-info">terrain generator scripts</a></div>

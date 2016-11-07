@@ -8,8 +8,6 @@ comments: true
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">roll one each script</a></div>
-
 Here's a random table to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.
 
 <!--more-->
@@ -115,3 +113,5 @@ If you'd like a little more flavor, or your wrinkle suggests you owe more than m
 ---
 
 Now my rogues -- who always owe somebody something -- will have something more interesting in their backstories than "you own d10x100 gold coins to Jabba the Hutt".
+
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">one each & who do I owe scripts</a></div>

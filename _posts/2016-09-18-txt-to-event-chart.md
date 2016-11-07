@@ -10,8 +10,6 @@ pinned: false
 published: true
 ---
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>
-
 Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses <strike>nltk</strike> [TextBlob](http://textblob.readthedocs.io/en/dev/index.html) and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
 
 It's not perfect; the resulting chart needs quite a bit of curation, but it's a lot easier than doing it manually!
@@ -106,3 +104,5 @@ python seed.py <filename> -a verb -b noun
 You can optionally specify an "-a" and a "-b" for which of the four parts of speech you want to grab. If they aren't specified they default to "verb" and "noun" for a Mythic-style result.
 
 And there you go. A very simple, probably way more work to write than it would have been to just make a damn list by hand, unitasker script for turning texts into event lists.
+
+<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>
