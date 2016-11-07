@@ -2,6 +2,7 @@
 layout: post
 title: Markov Name Generator
 modified: 2016-10-22
+categories: ['scripts']
 tags: [tool, python, script]
 comments: true
 published: true

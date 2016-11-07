@@ -2,10 +2,10 @@
 layout: post
 title: Who Do I Owe Random Chart
 modified: 2016-10-29
+categories: ['random content', 'scripts']
 tags: [random chart, one roll, backstory, character]
 comments: true
 published: true
-categories: random
 ---
 
 <div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">roll one each script</a></div>

@@ -2,6 +2,7 @@
 layout: post
 title: Imaginary GM System (iGMs)
 modified: 2016-08-23
+categories: ['house rules', 'soloing', 'solo frameworks']
 tags: [solo, solo gaming, tool, emulator, igms]
 comments: true
 published: true

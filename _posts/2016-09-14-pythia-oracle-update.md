@@ -2,7 +2,7 @@
 layout: post
 title: Pythia Oracle Update 0.6.0
 modified: 2016-09-14
-categories: [pythia]
+categories: ['pythia']
 tags: [pythia, python, tool, update]
 comments: true
 pinned: false
