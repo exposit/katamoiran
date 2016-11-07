@@ -275,6 +275,6 @@ li.social {
 	margin: 0 auto;
 }
 
-*:not(.fa){
+*:not(.hero-unit){
   font-family: 'Shrikhand', cursive;
 }
