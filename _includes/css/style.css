@@ -291,9 +291,21 @@ blockquote:before {
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
-  vertical-align: -0.4em;
+  /*vertical-align: -0.4em;*/
 }
 blockquote p {
   display: inline;
 	font-size: 14.5px;
 }
+
+blockquote::after {
+    display: block;
+    text-transform: uppercase;
+    color: rgba(0,0,0,0.5);
+    font-size: 0.6rem;
+    letter-spacing: 0.05rem;
+}
+
+blockquote::after {
+    content: "</blockquote>";
+    margin: 6px 0 0 0;
