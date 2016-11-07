@@ -297,3 +297,7 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.btn {
+	margin-bottom: 4px;
+}
