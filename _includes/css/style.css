@@ -298,6 +298,6 @@ blockquote p {
   display: inline;
 }
 
-.btn {
-	margin-bottom: 4px;
+.btn-info {
+	padding-bottom: 8px;
 }
