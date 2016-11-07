@@ -1,6 +1,6 @@
 /* Adjust Original Styles */
 *:not(.fa){
-  font-family:Lora;
+  font-family: 'Shrikhand', cursive;
 }
 
 @media (max-width: {{ site.responsive_bp | minus:1 }}px) {
@@ -14,7 +14,7 @@
 }
 .hero-unit header h1 {
 	margin-bottom: 0.125em;
-	font-family: 'Arima Madurai', cursive;
+	font-family: 'Poiret', cursive;
 }
 
 body {
