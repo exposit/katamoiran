@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who Do I Owe Random Chart
+title: Who Do I Owe
 modified: 2016-10-29
 categories: ['random content', 'scripts']
 tags: [random chart, one roll, backstory, character, python]
