@@ -278,6 +278,10 @@ li.social {
 
 /* my noodling */
 
+.btn {
+	margin-bottom: auto;
+}
+
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
@@ -298,7 +302,7 @@ blockquote p {
 	font-size: 14.5px;
 }
 
-blockquote::after {
+blockquote:after {
     display: block;
     text-transform: uppercase;
     color: rgba(0,0,0,0.5);
@@ -306,6 +310,6 @@ blockquote::after {
     letter-spacing: 0.05rem;
 }
 
-blockquote::after {
+blockquote:after {
     content: "</blockquote>";
     margin: 6px 0 0 0;
