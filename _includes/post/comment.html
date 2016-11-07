@@ -2,12 +2,16 @@
 			<section id="comment-thread">
 				<h2>Comments</h2>
 
-			<div class="g-comments"
-      data-href="{{site.baseurl}}{{page.url}}"
-      data-width="642"
-      data-first_party_property="BLOGGER"
-      data-view_type="FILTERED_POSTMOD">
-		  </div>
+				<script src="https://apis.google.com/js/plusone.js"></script>
+				<div id="comments"></div>
+				<script>
+				gapi.comments.render('comments', {
+				    href: window.location,
+				    width: '624',
+				    first_party_property: 'BLOGGER',
+				    view_type: 'FILTERED_POSTMOD'
+				});
+				</script>
 
 			</section>
 {% endif %}{% endif %}
