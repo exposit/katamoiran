@@ -61,10 +61,10 @@ navbar_list:
 # custom, original, amelia, cerulean, cyborg, journal,
 # readable, simplex, slate, spacelab, spruce, superhero, united
 bootstrap: united
-#bootstrap_ver: 2.3.2
-#bootswatch_ver: 2.3.2
-bootstrap_ver: 3.3.7
-bootswatch_ver: 3.3.7
+bootstrap_ver: 2.3.2
+bootswatch_ver: 2.3.2
+#bootstrap_ver: 3.3.7
+#bootswatch_ver: 3.3.7
 
 # Configuration for responsive break point when using 'custom'.
 responsive_bp: 768
