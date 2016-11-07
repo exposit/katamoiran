@@ -9,7 +9,7 @@ roll.append(random.randint(0,11))
 print(["1. a sibling or close relative", "2. a noble", "3. a government body", "4. a church", "5. a gangster", "6. an outcast or monster", "7. a warlord or barbarian", "8. a wizard", "9. a thief", "10. a merchant", "11. a spymaster", "12. a courtesan"][roll[-1]])
 
 print("\nYou owe the money because...")
-roll.append(random.randint(0,8))
+roll.append(random.randint(0,7))
 print(["1. of gambling", "2. of an expensive vice", "3. of someone else", "4. of a joke or prank gone wrong", "5. they trusted you and you messed up", "6. you trusted a pretty face", "7. you stole it and they know", "8. it wasn't your fault but they hold you accountable anyway"][roll[-1]])
 
 print("\nIf you don't pay up they'll...")
@@ -35,7 +35,7 @@ if "19" in wrinkle:
 
 print(wrinkle)
 
-print("\nThe amount you owe is %s" % (max(roll) * 1000))
+print("\nThe amount you owe is %s" % ((max(roll) + 1) * 1000))
 
 print("\nYou owe something more difficult to repay than mere money. You owe...")
 s = min(roll)
