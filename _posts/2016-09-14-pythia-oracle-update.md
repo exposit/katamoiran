@@ -2,7 +2,8 @@
 layout: post
 title: Pythia Oracle Update 0.6.0
 modified: 2016-09-14
-tags: [solo, pythia, python, tool, update]
+categories: [pythia]
+tags: [pythia, python, tool, update]
 comments: true
 pinned: false
 published: true

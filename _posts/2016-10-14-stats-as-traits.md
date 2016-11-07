@@ -2,6 +2,7 @@
 layout: post
 title: Dispensing with Attributes
 modified: 2016-10-14
+categories: ['house rules', soloing]
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
 pinned: false

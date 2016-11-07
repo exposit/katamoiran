@@ -2,7 +2,8 @@
 layout: post
 title: Introducing Pythia Oracle
 modified: 2016-09-03
-tags: [solo, pythia, python, tool]
+categories: [pythia]
+tags: [pythia, python, tool]
 comments: true
 pinned: false
 published: true

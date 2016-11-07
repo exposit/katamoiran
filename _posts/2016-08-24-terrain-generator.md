@@ -3,6 +3,7 @@ layout: post
 title: Pointcrawl Terrain Generator
 imagefolder: 2016-08-24
 modified: 2016-08-23
+categories: ['random content', 'scripts']
 tags: [mapping, random generator, script, python, terrain, solo, mechanic]
 comments: true
 pinned: false
