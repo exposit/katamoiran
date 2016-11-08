@@ -331,7 +331,7 @@ a:hover {
 .logo {
 	position:absolute;
 	top:0;
-	right:-100;
+	right:100;
 }
 
 #site-title {
