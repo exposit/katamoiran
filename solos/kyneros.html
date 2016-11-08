@@ -16,7 +16,6 @@ title: Kyneros Campaign
   {% for post in site.categories.scripts %}
     {% if post.url %}
 
-    <article class="span{{ 12 | divided_by: site.columns }}">
       <header>
         {% include libs/thumbnail %}
         <hgroup>
@@ -34,7 +33,6 @@ title: Kyneros Campaign
       <footer>
         <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">Read this &raquo;</a></p>
       </footer>
-    </article><!--/span-->
 
     {% endif %}
   {% endfor %}
