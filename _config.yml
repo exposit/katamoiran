@@ -93,7 +93,7 @@ asides:
 # `pygments_style`:
 # autumn, borland, bw, colorful, default, emacs, friendly, fruity,
 # github, manni, monokai, murphy, native, pastie, perldoc, tango, trac, vs
-pygments_style: github
+pygments_style: gruvbox
 
 # Configuration for jQuery
 jquery_ver: 1.10.2
