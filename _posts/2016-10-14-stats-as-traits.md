@@ -100,5 +100,7 @@ At each level, you get two trait points to spend. These can be spent on any trai
 
 Whenever your character does something that would justify a trait changing on the spot, change the trait on the spot. Maybe he shakes off a phobia of the water long enough to help someone drowning, and loses that phobia trait entirely. Or maybe he takes an axe to the arm and loses 'ambidextrous'. Or maybe he gives an impromptu speech on the eve of battle so amazing, so heartfelt and overwhelmingly moving, that he immediately gains a point of 'master orator'.
 
+Note that you don't automatically gain back points if you lose some (or the other way around). It just is what it is -- if your character loses a leg, he might lose his "graceful dancer, 2" trait and gain "peg leg, -1" instead. That's just tough luck.
+
 
 That's a lot of words for something that's actually pretty simple! And I'm sure not revolutionary or anything, but it satisfies my need not to have to agonize over where to put my lone 14!
