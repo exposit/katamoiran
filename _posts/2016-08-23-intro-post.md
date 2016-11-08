@@ -15,6 +15,6 @@ Pretty much what it says on the tin. This is my place on the web to store my rpg
 
 {% highlight python %}
 def hello():
-  print 'hello world'
+  print('hello world')
 end
 {% endhighlight %}

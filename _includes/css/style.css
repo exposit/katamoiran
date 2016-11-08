@@ -319,24 +319,13 @@ h1 {
 		color: #cc241d,
 }
 
-/* unvisited link */
 a {
     color: #cc241d;
 }
 
-/* visited link */
-a:visited {
-    color: #458588;
-}
-
 /* mouse over link */
 a:hover {
-    color: #98971a;
-}
-
-/* selected link */
-a:active {
-    color: #b162b6;
+    color: #458588;
 }
 
 .logo {
