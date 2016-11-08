@@ -52,7 +52,7 @@ navbar_list:
   - name: Tags
     link: /blog/tags.html
 - name: Projects
-  link: /project/
+  link: /projects/
 - name: Solos
   link: /
   dropdown: &dropdown
