@@ -331,13 +331,5 @@ a:hover {
 .logo {
 	position:absolute;
 	top:0;
-	right:100;
-}
-
-#site-title {
-	position: relative;
-}
-
-#site-description {
-	position: relative;
+	right:-100;
 }
