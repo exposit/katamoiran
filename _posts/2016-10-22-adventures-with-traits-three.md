@@ -16,7 +16,7 @@ Warning, only some of this is play-tested yet (<strike>which is why it's not pub
 
 __*New Stuff*__
 
-Remember that under my modified trait system, you always apply up to two positive traits to any roll, in addition to any and all negative ones.
+Remember that under my modified trait system, you always apply up to two positive traits to any roll, in addition to any and all negative ones (and any temporary traits).
 
 "Token pools" are point reserves generally filled with "tokens" that are earned in some way through play. You can spend tokens from your pool to achieve various ends, depending on what powers you have. Token abilities are applied in addition to any traits that are applied and are considered separate. This means a trait might end up being applied twice (or even three times).
 

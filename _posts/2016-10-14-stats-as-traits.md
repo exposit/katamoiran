@@ -36,9 +36,13 @@ Traits can now have a negative value. When a roll is called for, add any (and al
 
 Don't worry too much about 'positive' versus 'negative' -- if it comes up in play that a usually positive trait should be applied as a negative, just go ahead and do so for that roll as if it were a negative value, regardless of if it's explicitly listed as such.
 
-Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative trait negates some of that advantage, the hero might still need to roll.
+Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added or subtracted from any roll they apply to, generally last. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
 
-*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 3, for a net of -1 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field, his* athletic *trait might have been enough for an automatic success.*
+Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative traits negate some of that advantage, the hero might need to roll for a complex task he normally wouldn't.
+
+*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 3, for a net of -1 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field in pursuit of a killer, his* athletic *trait might have been enough for an automatic success -- unless, of course, he had a* sprained ankle, 1 *that was slowing him down!*
+
+See the section on "derived stats" for how combat works.
 
 #### Setting limits
 
@@ -49,6 +53,8 @@ Everything is now based around traits; each trait has a value, positive or negat
 Instead, assign your character an archetype trait, at 2 points, ala the thief in Scarlet Heroes (you can pretty much follow those rules verbatim). These two points are free and do not count out of your pool. It is also exempt from the per trait cap. The archetype should be a pithy but relatively broad statement of what your character is and does.
 
 The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this. If you want to stay more in line with standard Scarlet Heroes, then AB is the base combat trait's value divided by 2.
+
+Once per character, at any time (including character generation), you can choose a second archetype. This second archetype gains no free points but otherwise works exactly as the first does, If appropriate, it comes with two or three suitable class abilities. Use the better of the two archetypes when a class derived number is needed or to determine attack bonus if both seem relevant.
 
 **There Are No Attributes**
 
@@ -62,21 +68,29 @@ Finally, you can combine things down to save space. For example, the trait "stre
 
 Combine your trait points with any left over from the attributes section, then assign these just like the core book says to for humans. If you want to play a specific species, use the given examples or just put a trait down for it. For example, if you want to play a dwarf and have a pretty good idea what that entails (beards, beer, digging), put "Is a dwarf" down as a trait. Heck, use 'is a dwarf' as your archetype if you want to.
 
-You can spend these trait points on your archetype if you want, too. I tend to put one of my regular trait points into archetype (for a max of 3) if the character is a skilled archetype, but no more than that at first level. But if YOU want to, go for it, just be aware that the higher your archetype, the more likely you'll tend to solve every problem with your archetype.
+You can spend these trait points on your archetype if you want, too. I tend to put one of my regular trait points into archetype (for a starting rating of 3) if the character is a skilled archetype, but no more than that at first level. But if YOU want to, go for it, just be aware that the higher your archetype, the more likely you'll tend to solve every problem with your archetype.
 
 **Poisoned! Temporary Trait Adjustments**
 
-If something would normally affect an attribute in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2". Then apply the negatives as usual, to any rolls where they apply. Bonuses work the same way. If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case. These temporary traits go away when they logically would -- poison wears off when you make your save, freezing goes away when your hero gets warm, a broken limb heals up in six weeks or so, and so on.
+If something would normally affect an attribute or aspect of your character in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2", or "Behind cover, 2" or "Wielding Excalibur, 2". Remember to add or subtract any and all temporary traits on any roll they apply to, in addition to the normal two positive and all negatives.
+
+If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case. These temporary traits go away when they logically would -- poison wears off when you make your save, freezing goes away when your hero gets warm, a broken limb heals up in six weeks or so, and so on.
 
 **Derived Stats**
 
 Starting HP is 6, plus up to two applicable positive traits and minus any and all negative ones, to a minimum of 1. When you level up, use the same rule, except the base gained is 3, not 6.
 
-AC is computed the same way; base 9, subtract any two applicable positive traits and add all negative ones.
+AC is computed much the same way; base 9, subtract any two applicable positive traits and add all negative ones.
 
-For attack bonus, if your archetype doesn't encompass violence, you can mark one appropriate trait as your 'AB'. You may swap this designation every time you level up, if it makes sense to. When attacking, use your AB-designated trait plus any one other trait that applies. Negative traits (temporary and permanent) apply as usual.
+For attack bonus, if your archetype doesn't encompass violence, you can mark one appropriate trait as your 'AB', if it makes sense to do so. When attacking, use your AB-designated trait plus any __one__ other trait that applies (giving you two positive traits to apply). All negative traits apply as normal, as do any temporary traits.
 
-The modifier for damage is situational. Use the single trait that best reflects the type of damage your hero is doing (which might be the same as the AB-marked trait).
+Note that a non-archetype trait is still covered under any usual caps, even if it is designated your AB, so your hero might eventually "cap out" how good he it at combat. You can get around this by designating it as a second archetype.
+
+If this seems too simplistic and you'd really like to make use of your hero's "hit stuff with blunt objects, 2" when he's facing zombies and his "poke things with sharp sticks, 3" when he's facing BEMs, feel free to move your "AB-designation" on a case-by-case basis. You'd probably be better served just making a single "good at hitting things with rocks and sticks, 3" trait to use as your AB, though, and putting the other two points somewhere else (unless your cap is really high in which case, by all means be a 5 point stabbing-rock-pummeling prodigy).
+
+The modifier for damage is situational. Use the single trait that best reflects the type of damage your hero is doing, usually whatever trait you selected to represent the dexterity or strength factor. When in doubt, use the AB-designated trait.
+
+Finally, if you can't find any suitable AB trait on your character sheet, your character is just not good at violence. He has a 0, same as if he had no trait for Strength or Intelligence.
 
 **Special Abilities**
 
@@ -91,8 +105,6 @@ Finally, choose a Fray die based on your archetype; if in doubt, use the core SH
 **Advancement**
 
 At each level, you get two trait points to spend. These can be spent on any trait your character currently possesses or on a new trait to reflect a great deed, newly developed backstory element, or intense training. Any traits boosted must make sense in context, however, and must be supported by in game actions.
-
-You can instead choose to spend a point to buy a point in a new archetype. This second archetype works exactly as the first does and comes with two suitable class abilities. Use the better of the two archetypes when a class derived number is needed or to determine attack bonus.
 
 Whenever your character does something that would justify a trait changing on the spot, change the trait on the spot. Maybe he shakes off a phobia of the water long enough to help someone drowning, and loses that phobia trait entirely. Or maybe he takes an axe to the arm and loses 'ambidextrous'. Or maybe he gives an impromptu speech on the eve of battle so amazing, so heartfelt and overwhelmingly moving, that he immediately gains a point of 'master orator'.
 

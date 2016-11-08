@@ -16,7 +16,7 @@ Warning, almost none of this is play-tested yet (<strike>which is why it's not p
 
 __*New Stuff*__
 
-Remember that under my modified trait system, you always apply up to two positive traits to any roll, in addition to any and all negative ones.
+Remember that under my modified trait system, you always apply up to two positive traits to any roll, in addition to any and all negative ones and any temporary (situational) traits, positive or negative.
 
 A new concept for this post is the idea of "bonus" traits; these are traits that, under very specific circumstances, may be combined with the normal two positive traits on a roll. You should only use one bonus trait per roll. (Yes. Power creep after ONE post. That has to be a new record.)
 
@@ -36,11 +36,13 @@ On a successful hit, any creature of HD equal to the trait's value or less is ki
 
 __*Two Weapon Fighting*__
 
-When using two weapons, assign your hero a temporary trait of 'two weapon fighting -2/-4". Whenever you get an attack in a round, you can choose to make two, applying the first penalty to the first roll and the second penalty to the second. Apply any other negatives and up to two positives as usual, treating each roll as a separate attack.
+When using two weapons, assign your hero a temporary trait of 'two weapon fighting -2/-4". Whenever you get an attack in a round, you can choose to make two, applying the first penalty to the first roll and the second penalty to the second. Apply any other negatives, your AB, and one positive trait as usual to each roll.
 
-When you purchase a point in this trait, raise each of the penalties by one, ie, to -1/-3, then 0/-2, and so on.
+When you purchase a point in this trait, raise each of the penalties by one, ie, to -1/-3, then 0/-2, and so on -- but you can't raise your primary over 0; any points spent will continue to reduce the penalties for your off-hand until you hit 0/0.
 
-Note that even if you're not armed with two weapons in the traditional sense, you can always decide to throw a punch or kick as part of your attack, taking the additional -2 to your primary attack and the -4 to the kick or punch (or vice versa).
+Note that even if you're not armed with two weapons in the traditional sense, you can always decide to throw a punch or kick as part of your attack, taking the penalties as above.
+
+How does this combine with Quick Death? You make two quick death attacks, obviously, taking a -2 to the first one and a -4 to the second (or whatever you've bought the trait up to).
 
 __*Light*__
 
