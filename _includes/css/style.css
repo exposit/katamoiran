@@ -329,13 +329,7 @@ a:hover {
 }
 
 .logo {
-  float: right;
-  height: 45px;
-  width: 45px;
-  font-family: 'Lora', serif;
-	margin: 0px 0px 15px 20px;
-}
-
-.floatclear {
-	clear: both;
+	position:absolute;
+	top:0;
+	right:0;
 }
