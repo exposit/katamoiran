@@ -319,10 +319,6 @@ h1 {
 		color: #cc241d,
 }
 
-#site-title {
-	background-image: url('/katamoiran/img/little_guy_cc0_oga.png');
-}
-
 /* unvisited link */
 a {
     color: #cc241d;
@@ -341,4 +337,18 @@ a:hover {
 /* selected link */
 a:active {
     color: #b162b6;
+}
+
+.logo {
+  float: left;
+  height: 80px;
+  width: 80px;
+  font-family: 'Lora', serif;
+}
+#site-title {
+  float: right;
+}
+
+.floatclear {
+	clear: both;
 }
