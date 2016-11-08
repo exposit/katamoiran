@@ -82,7 +82,7 @@ Starting HP is 6, plus up to two applicable positive traits and minus any and al
 
 AC is computed much the same way; base 9, subtract any two applicable positive traits and add all negative ones.
 
-For attack bonus, if your archetype doesn't encompass violence, you can mark one appropriate trait as your 'AB', if it makes sense to do so. When attacking, use your AB-designated trait plus any __one__ other trait that applies (giving you two positive traits to apply). All negative traits apply as normal, as do any temporary traits.
+For attack bonus, use your archetype trait. If your archetype doesn't encompass violence, you can mark any one appropriate trait as your 'AB', if it makes sense to do so. When attacking, use your AB-designated trait plus any __one__ other trait that applies (giving you two positive traits to apply). All negative traits apply as normal, as do any temporary traits.
 
 Note that a non-archetype trait is still covered under any usual caps, even if it is designated your AB, so your hero might eventually "cap out" how good he it at combat. You can get around this by designating it as a second archetype.
 
