@@ -324,7 +324,7 @@ h1 {
 }
 
 /* unvisited link */
-a:link {
+a {
     color: #cc241d;
 }
 
