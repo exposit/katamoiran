@@ -28,15 +28,13 @@ Nothing that seems like it HAS to be defined by an array of six items, rated fro
 
 I should be upfront; this is primarily intended for solo play, which doesn't have the same balance requirements group play does. And I'm sure I don't need to say it, but like pretty much any other system it only works if you approach it in the context of defining a character, not in 'winning' a game. The rules assume you're playing for your own enjoyment and to see what happens, and are geared towards facilitating that.
 
-#### Basic stuff
+#### Basic Stuff
 
-Instead of the usual one trait plus one attribute per roll, you can combine any two applicable positive value traits on a given roll. This will generally be one representing the attribute and one representing the normally allowed trait, but any two you can justify can be applied.
+Instead of the usual one trait plus one attribute per roll, you can combine any two applicable positive value traits on a given roll. This will generally be one representing an attribute (or natural prowess) and one representing a trait (or skill), but any two you can justify can be applied. If you can't find two that fit, just use one, or, worst case, none.
 
-Traits can now have a negative value. When a roll is called for, add any (and all) negative value traits to the roll in addition to the up to two positive traits.
+Traits can now have a negative value. When a roll is called for, add any (and all) negative value traits to the roll. But don't worry too much about 'positive' versus 'negative' -- if it comes up in play that a usually positive trait should be applied as a negative, just go ahead and do so for that roll as if it were a negative value, regardless of if it's explicitly listed as such (and vice versa).
 
-Don't worry too much about 'positive' versus 'negative' -- if it comes up in play that a usually positive trait should be applied as a negative, just go ahead and do so for that roll as if it were a negative value, regardless of if it's explicitly listed as such.
-
-Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added or subtracted from any roll they apply to, generally last. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
+Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added or subtracted from any roll they apply to. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
 
 Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative traits negate some of that advantage, the hero might need to roll for a complex task he normally wouldn't.
 
@@ -44,9 +42,9 @@ Generally, use the Scarlet Heroes default rules for overusing checks; if your he
 
 See the section on "derived stats" for how combat works.
 
-#### Setting limits
+#### Setting Limits
 
-Everything is now based around traits; each trait has a value, positive or negative. At character creation, decide on the total number of assigned traits, a cap for each trait's max value, and how many negative traits (which 'buy' positives at a 1 for 1 basis) are allowed. Standard would be 5 starting trait points, max of 3 in any one trait, and 0 negative traits. I tend to use 10 starting trait points, max of 5 in any one trait, and up to 5 negative points (giving me a net of 15 positive trait points).
+Everything is now based around traits; each trait has a value, positive or negative, and a type, regular or temporary. At character creation, decide on the total number of assigned traits, a cap for each trait's max value, and how many negative traits (which 'buy' positives at a 1 for 1 basis) are allowed. Standard would be 5 starting trait points, max of 3 in any one trait, and 0 negative traits. I tend to use 10 starting trait points, max of 5 in any one trait, and up to 5 negative points (giving me a net of 15 positive trait points).
 
 **There Are No Classes**
 
@@ -68,11 +66,11 @@ Finally, you can combine things down to save space. For example, the trait "stre
 
 Combine your trait points with any left over from the attributes section, then assign these just like the core book says to for humans. If you want to play a specific species, use the given examples or just put a trait down for it. For example, if you want to play a dwarf and have a pretty good idea what that entails (beards, beer, digging), put "Is a dwarf" down as a trait. Heck, use 'is a dwarf' as your archetype if you want to.
 
-You can spend these trait points on your archetype if you want, too. I tend to put one of my regular trait points into archetype (for a starting rating of 3) if the character is a skilled archetype, but no more than that at first level. But if YOU want to, go for it, just be aware that the higher your archetype, the more likely you'll tend to solve every problem with your archetype.
+You can spend these trait points on your archetype if you want, too. I tend to put one of my regular trait points into archetype (for a starting rating of 3) if the character is a skilled archetype, but no more than that at first level. But if you want to, go for it, just be aware that the higher your archetype, the more likely you'll tend to solve every problem with your archetype.
 
 **Poisoned! Temporary Trait Adjustments**
 
-If something would normally affect an attribute or aspect of your character in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2", or "Behind cover, 2" or "Wielding Excalibur, 2". Remember to add or subtract any and all temporary traits on any roll they apply to, in addition to the normal two positive and all negatives.
+If something would normally affect an attribute or aspect of your character in play, give the hero a temporary trait reflecting the penalty. "Poisoned and hallucinating, -2" for example, or "Freezing and soaking wet, -2", or "Behind cover, 2" or "Wielding Excalibur, 2". Remember to add or subtract any and all temporary traits on any roll they apply to, in addition to the normal two positives and all negatives.
 
 If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case. These temporary traits go away when they logically would -- poison wears off when you make your save, freezing goes away when your hero gets warm, a broken limb heals up in six weeks or so, and so on.
 
@@ -82,15 +80,9 @@ Starting HP is 6, plus up to two applicable positive traits and minus any and al
 
 AC is computed much the same way; base 9, subtract any two applicable positive traits and add all negative ones.
 
-For attack bonus, use your archetype trait. If your archetype doesn't encompass violence, you can mark any one appropriate trait as your 'AB', if it makes sense to do so. When attacking, use your AB-designated trait plus any __one__ other trait that applies (giving you two positive traits to apply). All negative traits apply as normal, as do any temporary traits.
+For combat, use the same procedure as any other roll; pick two positive traits (generally one representing your character's skill in combat, often his archetype, the other his raw natural ability) to apply. All relevant negative traits apply as normal, as do any temporary traits.
 
-Note that a non-archetype trait is still covered under any usual caps, even if it is designated your AB, so your hero might eventually "cap out" how good he it at combat. You can get around this by designating it as a second archetype.
-
-If this seems too simplistic and you'd really like to make use of your hero's "hit stuff with blunt objects, 2" when he's facing zombies and his "poke things with sharp sticks, 3" when he's facing BEMs, feel free to move your "AB-designation" on a case-by-case basis. You'd probably be better served just making a single "good at hitting things with rocks and sticks, 3" trait to use as your AB, though, and putting the other two points somewhere else (unless your cap is really high in which case, by all means be a 5 point stabbing-rock-pummeling prodigy).
-
-The modifier for damage is situational. Use the single trait that best reflects the type of damage your hero is doing, usually whatever trait you selected to represent the dexterity or strength factor. When in doubt, use the AB-designated trait.
-
-Finally, if you can't find any suitable AB trait on your character sheet, your character is just not good at violence. He has a 0, same as if he had no trait for Strength or Intelligence.
+The modifier for damage is situational. Use whichever of the two traits you applied to the combat roll best reflects the type of damage your hero is doing, usually whatever trait you selected to represent the natural ability factor.
 
 **Special Abilities**
 
