@@ -333,6 +333,7 @@ a:hover {
   height: 45px;
   width: 45px;
   font-family: 'Lora', serif;
+	margin: 0px 0px 15px 20px;
 }
 
 .floatclear {
