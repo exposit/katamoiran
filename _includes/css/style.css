@@ -330,12 +330,9 @@ a:hover {
 
 .logo {
   float: left;
-  height: 80px;
-  width: 80px;
+  height: 45px;
+  width: 45px;
   font-family: 'Lora', serif;
-}
-#site-title {
-  float: right;
 }
 
 .floatclear {
