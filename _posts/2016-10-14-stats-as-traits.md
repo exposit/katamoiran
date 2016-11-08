@@ -34,11 +34,11 @@ Instead of the usual one trait plus one attribute per roll, you can combine any 
 
 Traits can now have a negative value. When a roll is called for, add any (and all) negative value traits to the roll. But don't worry too much about 'positive' versus 'negative' -- if it comes up in play that a usually positive trait should be applied as a negative, just go ahead and do so for that roll as if it were a negative value, regardless of if it's explicitly listed as such (and vice versa).
 
-Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added or subtracted from any roll they apply to. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
+Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added to or subtracted from any roll they apply to. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
 
 Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative traits negate some of that advantage, the hero might need to roll for a complex task he normally wouldn't.
 
-*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 3, for a net of -1 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field in pursuit of a killer, his* athletic *trait might have been enough for an automatic success -- unless, of course, he had a* sprained ankle, 1 *that was slowing him down!*
+*Cole has the traits* phobia of water (-2) *and* has a hard time physically affecting the Real world (-2)*. He also has the trait* athletic (+3)*. If he needs to swim out to save someone drowning, the roll will take a penalty of -4 since negatives are always applied, and he can use his* athletic *trait to add 3, for a net of -1 to the check. If he had a second applicable positive trait he could also apply that. If he had no penalties, say, he was sprinting across a field in pursuit of a killer, his* athletic *trait might have been enough for an automatic success -- unless, of course, he had a temporary* sprained ankle, 1 *that was slowing him down!*
 
 See the section on "derived stats" for how combat works.
 
