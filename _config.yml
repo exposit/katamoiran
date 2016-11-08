@@ -54,7 +54,7 @@ navbar_list:
 - name: Projects
   link: /projects/
 - name: Solos
-  link: /
+  link: /solos/index.html
   dropdown: &dropdown
   - name: Kyneros
     link: /solos/kyneros.html
