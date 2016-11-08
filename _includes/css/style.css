@@ -30,7 +30,6 @@ body {
 	font-family: 'Sail', cursive;
 	font-family: 'Flamenco', cursive;
 	font-family: 'Overlock SC', cursive;
-	font-family: 'Glass Antiqua', cursive;
 }
 body > footer {
 	padding-left: 20px;
@@ -330,6 +329,7 @@ blockquote:after {
 }
 
 h1 {
+		font-family: 'Glass Antiqua', cursive;
 		font-family: 'Arima Madurai', cursive;
 		font-family: 'Dancing Script', cursive;
 		font-family: 'Yellowtail', cursive;
@@ -345,7 +345,6 @@ h1 {
 		font-family: 'Sail', cursive;
 		font-family: 'Flamenco', cursive;
 		font-family: 'Overlock SC', cursive;
-		font-family: 'Glass Antiqua', cursive;
 		color: #cc241d,
 }
 
