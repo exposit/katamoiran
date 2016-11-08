@@ -19,9 +19,9 @@ title: Kyneros Campaign
       <header>
         {% include libs/thumbnail %}
         <hgroup>
-          <h2>
+          <h3>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          </h2>
+          </h3>
           <h5>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
           </h5>
@@ -31,7 +31,7 @@ title: Kyneros Campaign
         {% include libs/truncate_exec %}
       </div>
       <footer>
-        <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">Read this &raquo;</a></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">more &raquo;</a></p>
       </footer>
 
     {% endif %}
