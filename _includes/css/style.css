@@ -16,6 +16,21 @@ body {
 	padding-top: 0;
 	padding-bottom: 20px;
 	font-family: 'Lora', serif;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Yellowtail', cursive;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Righteous', cursive;
+	font-family: 'Courgette', cursive;
+	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Fontdiner Swanky', cursive;
+	font-family: 'Fredericka the Great', cursive;
+	font-family: 'Press Start 2P', cursive;
+	font-family: 'Forum', cursive;
+	font-family: 'Cherry Swash', cursive;
+	font-family: 'Sail', cursive;
+	font-family: 'Flamenco', cursive;
+	font-family: 'Overlock SC', cursive;
+	font-family: 'Glass Antiqua', cursive;
 }
 body > footer {
 	padding-left: 20px;
@@ -326,6 +341,11 @@ h1 {
 		font-family: 'Fredericka the Great', cursive;
 		font-family: 'Press Start 2P', cursive;
 		font-family: 'Forum', cursive;
+		font-family: 'Cherry Swash', cursive;
+		font-family: 'Sail', cursive;
+		font-family: 'Flamenco', cursive;
+		font-family: 'Overlock SC', cursive;
+		font-family: 'Glass Antiqua', cursive;
 		color: #cc241d,
 }
 
