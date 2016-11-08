@@ -34,7 +34,7 @@ Instead of the usual one trait plus one attribute per roll, you can combine any 
 
 Traits can now have a negative value. When a roll is called for, add any (and all) negative value traits to the roll. But don't worry too much about 'positive' versus 'negative' -- if it comes up in play that a usually positive trait should be applied as a negative, just go ahead and do so for that roll as if it were a negative value, regardless of if it's explicitly listed as such (and vice versa).
 
-Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added to or subtracted from any roll they apply to. For simplicity, treat these as situational modifiers, only writing them down if they're not likely to change for a scene or two.
+Traits may also be temporary (situational, representing magical or extremely appropriate items, or status effects); these are all added to or subtracted from any roll they apply to.
 
 Generally, use the Scarlet Heroes default rules for overusing checks; if your hero is a Skilled Navigator, he likely never needs to roll to steer a boat. However, if negative traits negate some of that advantage, the hero might need to roll for a complex task he normally wouldn't.
 
@@ -52,7 +52,7 @@ Instead, assign your character an archetype trait, at 2 points, ala the thief in
 
 The archetype trait functions as a normal trait for rolling for tasks under its scope. It also serves as a class bonus if one is needed and as your primary attack bonus if no other trait is earmarked for this. If you want to stay more in line with standard Scarlet Heroes, then AB is the base combat trait's value divided by 2.
 
-Once per character, at any time (including character generation), you can choose a second archetype. This second archetype gains no free points but otherwise works exactly as the first does, If appropriate, it comes with two or three suitable class abilities. Use the better of the two archetypes when a class derived number is needed or to determine attack bonus if both seem relevant.
+Once per character, at any time (including character generation), you can choose a second archetype. This second archetype gains no free points but otherwise works exactly as the first does. It also provides two or three class abilities, if relevant. Use the better of the two archetypes when a class derived number is needed or to determine attack bonus if both seem relevant.
 
 **There Are No Attributes**
 
@@ -74,6 +74,8 @@ If something would normally affect an attribute or aspect of your character in p
 
 If a temporary trait hits -5 (say, multiple failed saves agains a poison or cumulative effects), consider it the same as a relevant attribute hitting 0 and proceed as normal for that case. These temporary traits go away when they logically would -- poison wears off when you make your save, freezing goes away when your hero gets warm, a broken limb heals up in six weeks or so, and so on.
 
+For simplicity, only write these down if they're not likely to change for a scene or two.
+
 **Derived Stats**
 
 Starting HP is 6, plus up to two applicable positive traits and minus any and all negative ones, to a minimum of 1. When you level up, use the same rule, except the base gained is 3, not 6.
@@ -92,7 +94,12 @@ You might choose the thief's sneak attack and the cleric's turn undead, for exam
 
 The only limit on this is that you must be able to justify it with your character's backstory AND you have to be happy playing the resulting character. You also have to abide by any restrictions on the ability in the original class, for example, the magic user's inability to cast in heavy armor or the thief's inability to sneak attack wearing heavy armor.
 
-Finally, choose a Fray die based on your archetype; if in doubt, use the core SH thief or cleric.
+Finally, choose a Fray die based on your archetype. If it comes up in play that you need a class, use the one your Fray die is based on.
+
+Thief: skilled, expert, rogue, pilot
+Cleric: well-rounded, fighter with a little magic, healer
+Fighter: fighter, barbarian, soldier
+Magic User: mage, psychic, wild talent
 
 **Advancement**
 
