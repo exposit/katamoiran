@@ -333,3 +333,11 @@ a:hover {
 	top:0;
 	right:0;
 }
+
+#site-title {
+	position: relative;
+}
+
+#site-description {
+	position: relative;
+}
