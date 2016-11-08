@@ -1,0 +1,27 @@
+---
+permalink: "/solos/kyneros.html"
+layout: default
+group: Solos
+title: Kyneros Campaign
+---
+			<article>
+				<header>
+					<h1>{{ page.title }}</h1>
+				</header>
+
+				<section>
+<p>Placeholder for testing solo campaign structure.</p>
+
+<ul>
+  {% for post in site.categories.scripts %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+</section>
+
+<footer>
+</footer>
+</article>

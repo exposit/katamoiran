@@ -8,7 +8,7 @@ lsi: true
 pygments: true
 markdown: rdiscount
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
-include: ['_pages', 'img']
+include: ['_pages', 'img', 'solos']
 
 # Configuration for url/path
 # NOTICE:
@@ -51,8 +51,17 @@ navbar_list:
     link: /blog/categories.html
   - name: Tags
     link: /blog/tags.html
-- name: Project
+- name: Projects
   link: /project/
+- name: Solos
+  link: /
+  dropdown: &dropdown
+  - name: Kyneros
+    link: /solos/kyneros.html
+  - name: Noir Nights
+    link: /blog/categories.html
+  - name: Ylinde
+    link: /blog/tags.html
 #- name: About
 #  link: /about.html
 
