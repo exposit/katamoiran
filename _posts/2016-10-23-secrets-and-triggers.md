@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythia Spotlight Secrets and Triggers
+title: Pythia Spotlight on Secrets and Triggers
 modified: 2016-10-23
 categories: ['pythia']
 tags: [solo, pythia, python, tool, tutorial]
