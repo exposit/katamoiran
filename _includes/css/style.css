@@ -29,7 +29,7 @@ body {
 	font-family: 'Cherry Swash', cursive;
 	font-family: 'Sail', cursive;
 	font-family: 'Flamenco', cursive;
-	font-family: 'Overlock SC', cursive;
+
 }
 body > footer {
 	padding-left: 20px;
@@ -328,24 +328,26 @@ blockquote:after {
     margin: 6px 0 0 0;
 }
 
-h1 {
-		font-family: 'Glass Antiqua', cursive;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 		font-family: 'Arima Madurai', cursive;
-		font-family: 'Dancing Script', cursive;
-		font-family: 'Yellowtail', cursive;
-		font-family: 'Comfortaa', cursive;
-		font-family: 'Righteous', cursive;
-		font-family: 'Courgette', cursive;
-		font-family: 'Cinzel Decorative', cursive;
-		font-family: 'Fontdiner Swanky', cursive;
-		font-family: 'Fredericka the Great', cursive;
-		font-family: 'Press Start 2P', cursive;
-		font-family: 'Forum', cursive;
+}
+
+h1 {
+		color: #cc241d;
+		font-size: 2.0em;
+}
+
+#sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar h5 {
 		font-family: 'Cherry Swash', cursive;
-		font-family: 'Sail', cursive;
-		font-family: 'Flamenco', cursive;
-		font-family: 'Overlock SC', cursive;
-		color: #cc241d,
+}
+
+#main h1, #main h2, #main h3, #main h4, #main h5 {
+	   font-family: 'Lora', serif;
 }
 
 a {
@@ -354,11 +356,10 @@ a {
 
 /* mouse over link */
 a:hover {
-    color: #458588;
+    color: #9d0006;
 }
 
 .logo {
-	position:absolute;
-	top:10;
-	right:0;
+	float: right;
+	margin: 0 0 0px 0px;
 }
