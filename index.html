@@ -25,14 +25,10 @@ title: Blog
 				</footer>
 			</article>
 {% endfor %}
-{% assign m = 0 %}
-{% capture M %}{{ site.columns }}{% endcapture %}
-{% capture n %}{{ site.posts | minus: 1 }}{% endcapture %}
-{% for post in site.posts limit: n offset: 1 %}
-	{% if m == 0 %}
+
+{% for post in site.posts limit: 3 offset: 1 %}
 			<!-- Followed Articles -->
 			<div class="row-fluid">
-	{% endif %}
 				<article class="span{{ 12 | divided_by: site.columns }}">
 					<header>
 						{% include libs/thumbnail %}
@@ -52,10 +48,5 @@ title: Blog
 						<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">more &raquo;</a></p>
 					</footer>
 				</article><!--/span-->
-	{% capture m %}{{ m | plus: 1 }}{% endcapture %}
-	{% if m == M or forloop.last %}
-			</div><!--/row-fluid-->
-		{% assign m = 0 %}
-	{% endif %}
 {% endfor %}
 {% include libs/truncate_end %}
