@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
 exclude:
   - Gemfile
