@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: katamoiran
-description: Pen & Paper & Python.
+description: Pen & Paper & Python
 author: exposit
 email: alto.dizi@gmail.com
-#url: localhost
-#baseurl: /
-twitter_username: jekyllrb
-github_username:  jekyll
+url: http://exposit.github.io/katamoiran
+baseurl: /katamoiran
+#twitter_username: jekyllrb
+github_username:  exposit
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
+  - jekyll-gist
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -50,6 +50,7 @@ permalink: /blog/:year/:month/:title/
 # Configuration for blog
 lang: en
 paginate: 4
+paginate_path: "page:num"
 columns: 3
 date_format: "%B %d, %Y"
 truncate_len: 200
