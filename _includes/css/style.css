@@ -325,11 +325,11 @@ h6 {
 
 h1 {
 		color: #cc241d;
-		font-size: 1.2em;
+		font-size: 26px;
 }
 
 .hero-unit h1 {
-	font-size: 1.2em;
+	font-size: 26px;
 }
 
 #sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar h5 {
@@ -338,6 +338,10 @@ h1 {
 
 #main h1, #main h2, #main h3, #main h4, #main h5 {
 	   font-family: 'Lora', serif;
+}
+
+#main h2 {
+	font-height: 20px;
 }
 
 a {
