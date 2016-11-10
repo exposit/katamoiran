@@ -105,15 +105,15 @@ __Outward Feedback (2d6)__
 
 __Lingering Effects Feedback (2d4)__
 
-"Original creature" refers to the type of creature that supplied the highest power in repertoire; all minor effects end when the hero uses a power from repertoire.
+Lingering effects generally end when the hero loses the associated repertoire power. If the hero is allowed a saving throw, he can choose to waive it. Otherwise, treat exactly a Feedback roll.
 {% highlight mkd %}
-2. Take 1d4+1 hp damage
-3. Gain one drawback or weakness, mental or physical, of the original creature
-4. Develop a mild mental quirk or physical appearance quirk related to the original creature
-5. Take a -1 to all ability checks and saving throws for the rest of the day
-6. Develop a craving based on one of the creature's known predilections; must save to resist if presented with the opportunity to indulge (treat exactly as a Feedback save)
-7. Everyone sees an image of the monster when they look at you for the next 1d4 hours or until you use another power
-8. The nearest person is touched by your mutability, gaining a noticeable transformation that lasts the rest of the day
+2. Develop an obsession based on one of the creature's predilections; must save daily to resist or seek out the obsession, and also as #3.
+3. Develop a craving based on one of the creature's predilections; must save to resist if presented with the opportunity to indulge
+4. Gain one mental drawback or weakness of the original creature
+5. Develop a mild mental or physical quirk related to the original creature
+6. Gain one physical drawback or weakness of the original creature
+7. The nearest person who can see or sense you can no longer see or sense you as anything but the monster (1-2), sees and senses you as a merged chimera creature (3-4), or sees and senses subtly "off" aspects of the monster in you constantly (and unnervingly).
+8. As #7, except d100 people in the area are affected. Only those who can see or otherwise sense you at the moment this effect occurs are affected.
 {% endhighlight %}
 
 __Venting__

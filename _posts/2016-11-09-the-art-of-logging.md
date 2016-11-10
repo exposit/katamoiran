@@ -5,7 +5,7 @@ modified: 2016-11-09
 categories: ['house rules', 'soloing']
 tags: [solo, solo gaming, theory]
 comments: true
-published: true
+published: false
 ---
 
 If you happen to read over the various logs I've posted, you'll notice my play style has shifted quite a bit since I first started out experimenting with solo gaming while building Pythia. It's all part of the natural evolution of practice, of course. I've gotten better at some things, improved my tools, dispensed with things I used to think were essential, and discovered a lot about what I like about the process, and what I like in the finished product -- and the discrepancy between the two is something I really wrestle with.
