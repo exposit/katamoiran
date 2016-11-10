@@ -359,3 +359,41 @@ a:hover {
 	float: right;
 	margin: 0 0 0px 0px;
 }
+
+.single.post {
+	float: right;
+	width: 70%;
+}
+
+#sidebar-info {
+	float: left;
+	width: 25%;
+
+}
+
+#comment-thread {
+	float:right;
+}
+
+#post_pagenation {
+	width: 842px;
+	float: right;
+}
+
+.constrained {
+	float: right;
+	width: 75%;
+	text-align: right;
+}
+
+.floatclear{
+	clear: both;
+}
+
+.main{
+	width: 100%;
+}
+.subpage {
+  width: 70%;
+	float: right;
+}

@@ -4,16 +4,16 @@ layout: default
 group: Solos
 title: Kyneros Campaign
 ---
-			<article>
-				<header>
-					<h1>{{ page.title }}</h1>
-				</header>
 
-				<section>
-<p>Placeholder for testing solo campaign structure. This will be an overview of the campaign, followed by links to blog posts for each play session.</p>
+<div class='subpage'>
+<section id="categories">
+	<h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+	<ul class="tag-list clearfix">
+
+<p>Kyneros is a sandbox world, infested with monsters and magic, and having a vaguely "Rome after the fall" kind of feel.</p>
 
 <ul>
-  {% for post in site.categories.scripts %}
+  {% for post in site.categories.kyneros reversed %}
     {% if post.url %}
 
       <header>
@@ -39,7 +39,7 @@ title: Kyneros Campaign
 </ul>
 
 </section>
-
+</div>
 <footer>
 </footer>
 </article>

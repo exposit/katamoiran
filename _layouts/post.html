@@ -2,6 +2,8 @@
 layout: default
 group: Blog
 ---
+
+	{% include asides/infoblock.html %}
 			<article class="single post">
 				<header>
 					<h1>
@@ -11,6 +13,7 @@ group: Blog
 						<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
 					</p>
 				</header>
+
 				<div class="content">
 {{ content }}
 				</div>
@@ -20,5 +23,7 @@ group: Blog
 {% include post/related_posts.html %}
 				</footer>
 			</article>
+			<div class="floatclear"></div>
 {% include post/post_pagenation.html %}
 {% include post/comment.html %}
+			<div class="floatclear"></div>
