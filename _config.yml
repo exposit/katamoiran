@@ -50,7 +50,6 @@ permalink: /blog/:year/:month/:title/
 # Configuration for blog
 lang: en
 paginate: 4
-paginate_path: "page:num"
 columns: 3
 date_format: "%B %d, %Y"
 truncate_len: 200
