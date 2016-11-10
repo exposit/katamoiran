@@ -29,9 +29,9 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-gist
-#exclude:
-#  - Gemfile
-#  - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 # Configuration for jekyll
 # NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
@@ -110,7 +110,7 @@ asides:
 # `pygments_style`:
 # autumn, borland, bw, colorful, default, emacs, friendly, fruity,
 # github, manni, monokai, murphy, native, pastie, perldoc, tango, trac, vs
-pygments_style: gruvbox
+#pygments_style: gruvbox
 
 # Configuration for jQuery
 jquery_ver: 1.10.2
