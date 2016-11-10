@@ -328,6 +328,10 @@ h1 {
 		font-size: 1.2em;
 }
 
+.hero-unit h1 {
+	font-size: 1.2em;
+}
+
 #sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar h5 {
 		font-family: 'Arima Madurai', cursive;
 }
