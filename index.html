@@ -26,7 +26,7 @@ title: Blog
 			</article>
 {% endfor %}
 
-{% for post in site.posts limit: 3 offset: 1 %}
+{% for post in site.posts offset: 1 limit: 3 %}
 			<!-- Followed Articles -->
 			<div class="row-fluid">
 				<article class="span{{ 12 | divided_by: site.columns }}">
@@ -48,5 +48,6 @@ title: Blog
 						<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">more &raquo;</a></p>
 					</footer>
 				</article><!--/span-->
+			</div>
 {% endfor %}
 {% include libs/truncate_end %}
