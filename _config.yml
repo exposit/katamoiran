@@ -33,6 +33,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+highlighter: pygments
+
 # Configuration for jekyll
 # NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
 #safe: true
