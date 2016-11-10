@@ -105,7 +105,7 @@ __Outward Feedback (2d6)__
 
 __Lingering Effects Feedback (2d4)__
 
-"Original creature" refers to the type of creature that supplied the power; a lingering effect ends when the hero loses the associated power from his repertoire.
+"Creature" refers to the type of creature that supplied the triggering power; lingering effects relatd to a power end when the hero loses the associated power from his repertoire.
 {% highlight mkd %}
 2. Develop a craving based on one of the creature's known predilections; must save to resist if presented with the opportunity to indulge (treat as requiring a Feedback save)
 3. Gain one drawback or weakness, mental or physical, of the original creature
