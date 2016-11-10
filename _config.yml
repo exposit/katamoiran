@@ -29,9 +29,9 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-gist
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
 
 highlighter: pygments
 
