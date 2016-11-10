@@ -22,6 +22,7 @@ campaigns: ['kyneros', 'noir nights']
 	<ul style='display: inline'>
 	{% for post in site.categories[campaign] %}
 		{% if post.url %}
+		{{post.url}}
 			<li style='padding-right: 1.8em'><a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}
 	{% endfor %}
