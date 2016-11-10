@@ -100,7 +100,7 @@ __Outward Feedback (2d6)__
 9. The nearest person develops an aversion or fascination for you, seeing in you the aspect of the creature whose power you've stolen.
 10. You learn something about the nearest person they'd rather not share and they learn a similar secret about you
 11. The nearest person's subconscious twists some aspect of you, physical or mental. This change persists for a week. A saving throw may be made each morning to revert to normal.
-12. Roll again on this chart and once on the Lingering effects chart. If this result occurs again count that roll as 'no effect'.
+12. Roll again on the Lingering effects chart.
 {% endhighlight %}
 
 __Lingering Effects Feedback (2d4)__
