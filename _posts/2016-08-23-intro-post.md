@@ -3,7 +3,7 @@ layout: post
 title: Here We Go
 modified: 2016-08-23
 categories: ['site']
-tags: [general, site]
+tags: [intro, general, site]
 comments: false
 pinned: true
 published: true

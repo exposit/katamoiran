@@ -13,7 +13,6 @@
 	{% when 'emacs'    %}{% include css/pygments/emacs.css    %}
 	{% when 'friendly' %}{% include css/pygments/friendly.css %}
 	{% when 'fruity'   %}{% include css/pygments/fruity.css   %}
-	{% when 'gruvbox'  %}{% include css/pygments/gruvbox.css  %}
 	{% when 'github'   %}{% include css/pygments/github.css   %}
 	{% when 'manni'    %}{% include css/pygments/manni.css    %}
 	{% when 'monokai'  %}{% include css/pygments/monokai.css  %}

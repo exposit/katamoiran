@@ -2,8 +2,8 @@
 layout: post
 title: Kyneros Overview
 modified: 2016-08-23
-categories: ['character generation', 'campaign']
-tags: [solo, kyneros, overview]
+categories: ['character generation', 'kyneros']
+tags: [solo, kyneros, kai, overview]
 comments: false
 published: true
 ---

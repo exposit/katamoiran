@@ -3,7 +3,7 @@ layout: post
 title: OSR Mutable Class
 modified: 2016-08-24
 categories: ['mechanics']
-tags: [osr, class, mutable, 'kyneros', 'scarlet heroes']
+tags: [osr, class, mutable, kyneros ,'scarlet heroes']
 comments: true
 published: true
 ---
@@ -105,15 +105,15 @@ __Outward Feedback (2d6)__
 
 __Lingering Effects Feedback (2d4)__
 
-"Creature" refers to the type of creature that supplied the triggering power; lingering effects related to a power end when the hero loses the associated power from his repertoire.
+"Original creature" refers to the type of creature that supplied the highest power in repertoire; all minor effects end when the hero uses a power from repertoire.
 {% highlight mkd %}
-2. Develop a craving based on one of the creature's known predilections; must save to resist if presented with the opportunity to indulge (treat as requiring a Feedback save)
+2. Take 1d4+1 hp damage
 3. Gain one drawback or weakness, mental or physical, of the original creature
 4. Develop a mild mental quirk or physical appearance quirk related to the original creature
 5. Take a -1 to all ability checks and saving throws for the rest of the day
-6. Take 1d10+1 hp damage immediately.
-7. Anyone looking at you sees or otherwise senses the similarity between you and the creature who lent you the power whenever you use it.
-8. Someone near you gains insight; whenever they look at or sense you, they sense both you and the creature that donated the power, merged together overtly (1-2), or they just sense the creature and can no longer see you (3-4), or they sense subtle but unmistakable reminders of it, constantly (5-6).
+6. Develop a craving based on one of the creature's known predilections; must save to resist if presented with the opportunity to indulge (treat exactly as a Feedback save)
+7. Everyone sees an image of the monster when they look at you for the next 1d4 hours or until you use another power
+8. The nearest person is touched by your mutability, gaining a noticeable transformation that lasts the rest of the day
 {% endhighlight %}
 
 __Venting__
