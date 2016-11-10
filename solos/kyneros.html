@@ -13,8 +13,8 @@ title: Kyneros Campaign
 <p>Kyneros is a sandbox world, infested with monsters and magic, and having a vaguely "Rome after the fall" kind of feel.</p>
 
 <ul>
-  {% for post in site.categories.kyneros reversed %}
-    {% if post.url %}
+  {% for post in site.categories.campaign reversed %}
+    {% if post.tags contains 'kyneros' %}
 
       <header>
         {% include libs/thumbnail %}
