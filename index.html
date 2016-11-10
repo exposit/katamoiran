@@ -4,7 +4,7 @@ group: Blog
 title: Blog
 ---
 {% include libs/truncate_start %}
-{% for post in paginator.posts limit: 1 %}
+{% for post in site.posts limit: 1 %}
 			<!-- Featured Article -->
 			<article class="hero-unit">
 				<header><hgroup>
@@ -26,8 +26,8 @@ title: Blog
 {% endfor %}
 {% assign m = 0 %}
 {% capture M %}{{ site.columns }}{% endcapture %}
-{% capture n %}{{ site.paginate | minus: 1 }}{% endcapture %}
-{% for post in paginator.posts limit: n offset: 1 %}
+{% capture n %}{{ site.posts | minus: 1 }}{% endcapture %}
+{% for post in site.posts limit: n offset: 1 %}
 	{% if m == 0 %}
 			<!-- Followed Articles -->
 			<div class="row-fluid">
@@ -58,4 +58,3 @@ title: Blog
 	{% endif %}
 {% endfor %}
 {% include libs/truncate_end %}
-{% include pagenation.html %}
