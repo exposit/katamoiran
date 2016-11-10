@@ -105,10 +105,10 @@ __Outward Feedback (2d6)__
 
 __Lingering Effects Feedback (2d4)__
 
-Lingering effects generally end when the hero loses the associated repertoire power. If the hero is allowed a saving throw, he can choose to waive it. Otherwise, treat exactly a Feedback roll.
+Lingering effects generally end when the hero loses the associated repertoire power. A repertoire power may be voluntarily relinquished at any time. Other methods of removal might exist as well.
 {% highlight mkd %}
-2. Develop an obsession based on one of the creature's predilections; must save daily to resist or seek out the obsession, and also as #3.
-3. Develop a craving based on one of the creature's predilections; must save to resist if presented with the opportunity to indulge
+2. As #3. In addition, either indulge your craving once per day or make a Feedback roll daily.
+3. Develop a craving based on one of the creature's predilections; when presented with the opportunity to indulge, do so or make an immediate Feedback roll.
 4. Gain one mental drawback or weakness of the original creature
 5. Develop a mild mental or physical quirk related to the original creature
 6. Gain one physical drawback or weakness of the original creature
