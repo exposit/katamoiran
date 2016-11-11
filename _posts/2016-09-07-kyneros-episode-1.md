@@ -6,6 +6,8 @@ categories: ['play logs', 'kyneros']
 tags: [kyneros, kai, 'kairael valeyn', 'mutable', 'scarlet heroes', 'pre-1.0.0']
 comments: true
 published: true
+tagline: "the first part of the adventure of Kai Valeyn, currently a statue with no history"
+extender: 'kyneros'
 ---
 
 11/09: I'm posting this but backdating it to roughly when I wrote it. I'd actually decided not to post it given that I was using my own personal Mythic panel and Pythia core used FU. It definitely shouldn't be taken as a good representation of what Pythia is like now. More as part of the history of Pythia! I should probably break these into more and shorter chunks but I'll let it stay as is for now.

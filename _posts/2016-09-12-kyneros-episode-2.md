@@ -6,9 +6,11 @@ categories: ['play logs', 'kyneros']
 tags: [kyneros, kai, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
 comments: true
 published: true
+tagline: "preparing for the journey -- and an unwelcome addition to the party"
+extender: 'kyneros'
 ---
 
-11/09: This is a pretty good representtion of how I run a game, though, warts and all. It's trivial to document your mechanics if you're working in Pythia. And with the updated oracles and generators now there's very little you need to bring to the session except your game mechanics and a list of randomly generated names.
+11/09: This is a decent representation of how I run sandbox, though. It's trivial to document your mechanics if you're working in Pythia. And with the updated oracles and generators now there's very little you need to bring to the session except your game mechanics and a list of randomly generated names. Note that the generators and oracles used in this campaign (through the end of the fifth log) are at least pre-1.0 (and probably much earlier).
 
 *Being the second part of the adventure of Kai Valeyn, a man without a country, adrift seventeen centuries after the fall of his magically advanced civilization.*
 

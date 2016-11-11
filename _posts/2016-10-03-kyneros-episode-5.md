@@ -6,6 +6,8 @@ categories: ['play logs', 'kyneros']
 tags: [kyneros, kai, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
 comments: true
 published: true
+tagline: "the rocky approach to the medusa's cave"
+extender: 'kyneros'
 ---
 
 11/09: It's after the end of this segment, by the way, that I realize I've been doing XP all wrong. Good thing this was all a learning exercise.

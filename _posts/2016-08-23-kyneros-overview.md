@@ -6,6 +6,8 @@ categories: ['character generation', 'kyneros']
 tags: [solo, kyneros, kai, overview]
 comments: false
 published: true
+tagline: "a sandbox world with a Rome-after-the-Fall feel"
+extender: 'kyneros'
 ---
 
 For Kyneros, I knew I wanted to feature psionics heavily, along with open world exploration.  Basically a psionics-based world built as a sandbox, as randomly generated as I could make it.
