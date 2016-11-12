@@ -17,8 +17,12 @@
             {% endfor %}
           </ul>
       {% else %}
-
-            <li><a href="{{ site.baseurl }}{{ node.link }}">{{ node.name }}</a></li>
+      {% if active %}
+          <li class="active">
+      {% else %}
+          <li>
+      {% endif %}
+            <a href="{{ site.baseurl }}{{ node.link }}">{{ node.name }}</a></li>
 
       {% endif %}
     {% endfor %}
