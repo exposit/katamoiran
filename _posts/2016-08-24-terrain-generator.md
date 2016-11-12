@@ -5,7 +5,7 @@ imagefolder: 2016-08-24
 date: 2016-08-24T12:00:00ZUS
 modified: 2016-08-24
 categories: ['random content', 'scripts', 'mechanics']
-tags: [mapping, random generator, script, python, terrain, solo, mechanics]
+tags: [mapping, random generator, script, python, terrain, solo, mechanics, kyneros]
 comments: true
 published: true
 links:
