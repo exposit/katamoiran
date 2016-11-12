@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{{ post.content | size }}
+{{ page.content | size }}
     <article class="post-unit rounded">
       <header>
         <h1>
@@ -10,7 +10,7 @@ layout: default
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
 
-        <p class="meta"><time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, words: {% assign wordCount = post.content | number_of_words %}</p>
+        <p class="meta"><time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, words: {% assign wordCount = page.content | number_of_words %}{{ wordCount }}</p>
       </header>
 
       <div class="content">
