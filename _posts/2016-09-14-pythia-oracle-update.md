@@ -1,14 +1,21 @@
 ---
 layout: post
 title: Pythia Oracle Update 0.6.0
+date: 2016-09-14T12:00:00ZUS
 modified: 2016-09-14
 categories: ['pythia']
 tags: [pythia, python, tool, update]
 comments: true
-pinned: false
 published: true
-link: https://exposit.github.io/pythia-oracle/
-share: true
+links:
+  - url: https://exposit.github.io/pythia-oracle/
+    title: Pythia Oracle
+  - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
+    title: Pythia Oracle Changelog
+  - url: http://www.drivethrurpg.com/product/127180/Scarlet-Heroes
+    title: Scarlet Heroes
+  - url: http://blog.trilemma.com/2015/10/the-oracles-decree.html
+    title: Oracle's Decree (Trilemma)
 ---
 
 Version 0.6.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. This release comes with a whole bunch of new features. And bugfixes. See the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list.

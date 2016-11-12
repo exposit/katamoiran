@@ -1,14 +1,21 @@
 ---
 layout: post
 title: Introducing Pythia Oracle
+date: 2016-09-03T12:00:00ZUS
 modified: 2016-09-03
 categories: ['pythia']
 tags: [pythia, python, tool]
 comments: true
-pinned: false
 published: true
-link: https://exposit.github.io/pythia-oracle/
-share: true
+links:
+  - url: https://exposit.github.io/pythia-oracle/
+    title: Pythia Oracle
+  - url: http://dieheart.net/useful-stuff/solo-rpg-resources/
+    title: Solo RPG Resources (dieheart)
+  - url: http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1
+    title: Mythic Game Master Emulator
+  - url: http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG
+    title: FU The Freeform Universal RPG
 ---
 
 For the past month or so I've been working on [a tool](https://exposit.github.io/pythia-oracle/) for solo gaming inspired by blogs like [dieheart](http://dieheart.net/useful-stuff/solo-rpg-resources/) and tools like [the Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1) and [FU](http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG). (Note, Mythic isn't included as of yet because I want to clear it with the author, but FU is included and it works wonderfully for solo gaming).

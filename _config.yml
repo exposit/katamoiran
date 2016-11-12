@@ -14,103 +14,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: katamoiran
-description: Pen & Paper & Python
-author: exposit
+author: e
 email: alto.dizi@gmail.com
-url: http://exposit.github.io/katamoiran
-baseurl: /katamoiran
-#twitter_username: jekyllrb
+shorttitle: Pen & Paper & Python
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/katamoiran" # the subpath of your site, e.g. /blog
+url: "http://exposit.github.io/katamoiran" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  exposit
 
 # Build settings
 markdown: kramdown
-theme: minima
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#theme: minima
 gems:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-gist
 exclude:
   - Gemfile
   - Gemfile.lock
+include:
+  - _pages
+  - img
 
-# Configuration for jekyll
-# NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
-safe: true
-#source: .
-#destination: ./_site
-#plugins: ./_plugins
-#lsi: true
-include: ['_pages', 'img', 'solos']
-
-permalink: /blog/:year/:month/:title/
-
-# Configuration for site
-
-
-# Configuration for blog
-lang: en
-paginate: 4
-columns: 3
-date_format: "%B %d, %Y"
-truncate_len: 200
-
-# Configuration for asides/recent_posts.html
-recent_posts: 5
-
-# Configuration for navbar.html
-navbar_list:
-- name: Blog
-  link: /
-  dropdown: &dropdown
-  - name: Archives
-    link: /blog/archives.html
-  - name: Categories
-    link: /blog/categories.html
-  - name: Tags
-    link: /blog/tags.html
-- name: Projects
-  link: /projects/
-- name: Solos
-  link: /solos/index.html
-  dropdown: &dropdown
-  - name: Kyneros
-    link: /solos/kyneros.html
-  - name: Noir Nights
-    link: /blog/categories.html
-  - name: Ylinde
-    link: /blog/tags.html
-#- name: About
-#  link: /about.html
-
-# Configuration for bootstrap and color theme
-# `bootstrap`:
-# custom, original, amelia, cerulean, cyborg, journal,
-# readable, simplex, slate, spacelab, spruce, superhero, united
-bootstrap: custom
-bootstrap_ver: 2.3.2
-bootswatch_ver: 2.3.2
-#bootstrap_ver: 3.3.7
-#bootswatch_ver: 3.3.7
-
-# Configuration for responsive break point when using 'custom'.
-responsive_bp: 768
-
-# Configuration for asides.html
-# CAUTION: `themes` should be false to put the script.html at the bottom.
-asides:
-    about: true
-    search: false
-    themes: false
-    recent_posts: true
-    archive_tabs: true
-    tweets: false
-    github: false
-
-# Configuration for pygments
-# `pygments_style`:
-# autumn, borland, bw, colorful, default, emacs, friendly, fruity,
-# github, manni, monokai, murphy, native, pastie, perldoc, tango, trac, vs
-#pygments_style: gruvbox
-
-# Configuration for jQuery
-jquery_ver: 1.10.2
+collections:
+  solos:
+    permalink: /:path/
+    output: false;

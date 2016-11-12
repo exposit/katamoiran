@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Who Do I Owe
+title: Who Do I Owe and Why? Chart
+date: 2016-10-29T12:00:00ZUS
 modified: 2016-10-29
 categories: ['random content', 'scripts']
 tags: [random chart, one roll, backstory, character, python]
 comments: true
 published: true
+links:
+  - url: https://github.com/exposit/katamoiran/tree/master/python/oneroll
+    title: One Roll scripts (katamoiran)
 ---
 
 Here's a random table to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.
@@ -115,6 +119,6 @@ If you'd like a little more flavor, or your wrinkle suggests you owe more than m
 
 ---
 
-Now my rogues -- who always owe somebody something -- will have something more interesting in their backstories than "you own d10x100 gold coins to Jabba the Hutt".
+Now my rogues -- who always owe somebody something -- will have something more interesting in their backstories than "you owe d10x100 gold coins to Jabba the Hutt".
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">one each & who do I owe scripts</a></div>
+<div id='button'><a href="https://github.com/exposit/katamoiran/tree/master/python/oneroll" class="btn btn-info">one each & who do I owe scripts</a></div>

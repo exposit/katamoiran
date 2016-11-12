@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Dispensing with Attributes
+date: 2016-10-14T12:00:00ZUS
 modified: 2016-10-14
 categories: ['house rules', 'soloing']
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
-pinned: false
 published: true
+links:
+  - url: http://www.drivethrurpg.com/product/127180/Scarlet-Heroes
+    title: Scarlet Heroes
 ---
 
 I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that.
@@ -109,5 +112,6 @@ Whenever your character does something that would justify a trait changing on th
 
 Note that you don't automatically gain back points if you lose some (or the other way around). It just is what it is -- if your character loses a leg, he might lose his "graceful dancer, 2" trait and gain "peg leg, -1" instead. That's just tough luck.
 
+***
 
 That's a lot of words for something that's actually pretty simple! And I'm sure not revolutionary or anything, but it satisfies my need not to have to agonize over where to put my lone 14!

@@ -1,13 +1,23 @@
 ---
 layout: post
-title: Creating Mythic-Style Charts From a Text File
+title: Creating Mythic-Style Charts
+date: 2016-09-18T12:00:00ZUS
 modified: 2016-11-06
 categories: ['soloing', 'scripts']
 tags: [solo, mythic, python, tool, mod, script]
-excerpt: Inspired by the slew of Mythic and similar style charts on the google+ community over the last few days, I wrote a simple script that takes a text file, sorts it by word type, and outputs each type as a separate, numbered chart.
 comments: true
-pinned: false
 published: true
+links:
+  - url: https://plus.google.com/u/0/communities/116965157741523529510
+    title: Lone Wolf Roleplaying google+ community
+  - url: http://textblob.readthedocs.io/en/dev/index.html
+    title: TextBlob
+  - url: http://www.wordclouds.com/
+    title: Wordclouds.com
+  - url: https://donatstudios.com/CsvToMarkdownTable
+    title: csv to markdown table converter (Donat Studios)
+  - url: https://github.com/exposit/katamoiran/tree/master/python/seedparser
+    title: Mythic-style Seed Charts (katamoiran)
 ---
 
 Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses <strike>nltk</strike> [TextBlob](http://textblob.readthedocs.io/en/dev/index.html) and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.
@@ -105,4 +115,4 @@ You can optionally specify an "-a" and a "-b" for which of the four parts of spe
 
 And there you go. A very simple, probably way more work to write than it would have been to just make a damn list by hand, unitasker script for turning texts into event lists.
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>
+<div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/python/seedparser" class="btn btn-info">text to event chart converter scripts</a></div>

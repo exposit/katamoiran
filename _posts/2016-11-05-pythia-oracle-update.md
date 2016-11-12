@@ -1,13 +1,21 @@
 ---
 layout: post
 title: Pythia Oracle Update 1.2.0
+date: 2016-11-05T00:00:00ZUS
 modified: 2016-11-05
 categories: ['pythia']
 tags: [solo, pythia, python, tool, update]
 comments: true
-pinned: false
 published: true
-link: https://exposit.github.io/pythia-oracle/
+links:
+  - url: https://exposit.github.io/pythia-oracle/
+    title: Pythia Oracle
+  - url: http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1
+    title: Mythic GM Emulator
+  - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
+    title: Pythia Changelog v. 1.2.0
+  - url: http://thealexandrian.net/wordpress/2781/roleplaying-games/dice-of-destiny
+    title: Dice of Destiny (The Alexandrian)
 ---
 
 Version 1.2.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. Big new features are a plot panel and [Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1) support, with the kind permission of the author.

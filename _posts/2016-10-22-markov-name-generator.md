@@ -1,14 +1,20 @@
 ---
 layout: post
 title: Markov Name Generator
+date: 2016-10-22T12:01:00ZUS
 modified: 2016-10-22
 categories: ['scripts']
 tags: [tool, python, script]
 comments: true
 published: true
+links:
+  - url: https://www.samcodes.co.uk/project/markov-namegen/
+    title: Procedural Name Generator
+  - url: https://github.com/exposit/katamoiran/tree/master/python/markov
+    title: Markov Name Generator script (katamoiran)
 ---
 
-Similar in spirit to this <a href="https://www.samcodes.co.uk/project/markov-namegen/">Procedural Name Generator</a> except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.
+Similar in spirit to this [Procedural Name Generator](https://www.samcodes.co.uk/project/markov-namegen/) except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.
 
 <!--more-->
 
@@ -27,4 +33,4 @@ You can add more files in as many sub directories as you'd like. There's a rudim
 
 You're likely better off using the linked generator if you don't need "local" and "add permanent source files".
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/markov" class="btn btn-info">markov name scripts</a></div>
+<div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/python/markov" class="btn btn-info">markov name scripts</a></div>

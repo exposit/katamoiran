@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Pythia Oracle Update 1.0.0
+date: 2016-10-12T12:00:00ZUS
 modified: 2016-10-12
 categories: ['pythia']
 tags: [solo, pythia, python, tool, update]
 comments: true
-pinned: false
 published: true
-link: https://exposit.github.io/pythia-oracle/
+links:
+  - url: https://exposit.github.io/pythia-oracle/
+    title: Pythia Oracle
+  - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
+    title: Pythia Oracle Changelog
 ---
 
 Version 1.0.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. This release comes with a whole bunch of new features. And bugfixes. See the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list. (Yes, I know I haven't updated these notices between 0.6.0 and now).

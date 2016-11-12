@@ -1,51 +1,74 @@
 ---
 layout: default
-group: Blog
-title: Blog
 ---
-<!--test-->
-{% include libs/truncate_start %}
-{% for post in site.posts limit: 1 %}
-			<!-- Featured Article -->
-			<article class="hero-unit">
-				<header><hgroup>
-					<h1>
-						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-					</h1>
-					<h4>
-						<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
-					</h4>
-				</hgroup></header>
-				<div class="content">
-					{% include libs/thumbnail %}
-					{% include libs/truncate_exec %}
-				</div>
-				<footer>
-					<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn gbtn-large">more &raquo;</a></p>
-				</footer>
-			</article>
-{% endfor %}
 
-{% for post in site.posts offset: 1 limit: 3 %}
-			<!-- Followed Articles -->
-				<article class="span{{ 12 | divided_by: site.columns }}">
-					<header>
-						{% include libs/thumbnail %}
-						<hgroup>
-							<h2>
-								<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-							</h2>
-							<h5>
-								<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
-							</h5>
-						</hgroup>
-					</header>
-					<div class="content">
-						{% include libs/truncate_exec %}
-					</div>
-					<footer>
-						<p><a href="{{ site.baseurl }}{{ post.url }}" class="btn">more &raquo;</a></p>
-					</footer>
-				</article><!--/span-->
-{% endfor %}
-{% include libs/truncate_end %}
+<section class="hero">
+  {% for post in site.posts limit:1 %}
+
+  <article class="hero-unit rounded">
+    <header><hgroup>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <h4>
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
+      </h4>
+    </hgroup></header>
+    <div class="content">
+      {% if post.content contains '<!--more-->' %}
+        {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+        {{ post.content |truncatehtml | truncatewords: 60 }}
+      {% endif %}
+    </div>
+    <footer>
+      <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+    </footer>
+  </article>
+
+  {% endfor %}
+</section>
+
+<section class="zero">
+
+  {% for post in site.posts offset:1 limit:2 %}
+
+  <article class="zero-unit rounded">
+    <header><hgroup>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <h4>
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
+      </h4>
+    </hgroup></header>
+    <div class="content">
+      {% if post.content contains '<!--more-->' %}
+        {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+        {{ post.content |truncatehtml | truncatewords: 60 }}
+      {% endif %}
+    </div>
+    <footer>
+      <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+    </footer>
+  </article>
+
+
+  {% endfor %}
+</section>
+
+<section class="previous-posts">
+  <article class="previous-posts-unit rounded inlinelist">
+      <ul>
+        {% for post in site.posts limit:6 offset:3 %}
+        <li>
+          <time>{{ post.date | date: "%B %d, %Y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+          {% unless forloop.last %}
+          <li>|</li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+  </article>
+</section>

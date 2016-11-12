@@ -1,29 +1,25 @@
 ---
 layout: default
-group: Blog
 ---
 
-	{% include asides/infoblock.html %}
-			<article class="single post">
-				<header>
-					<h1>
-						<a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a>
-					</h1>
-					<p class="meta">
-						<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
-					</p>
-				</header>
+    <article class="post-unit rounded">
+      <header>
+        <h1>
+        {% if page.series %}
+          {{page.series}}:
+        {% endif %}
+        <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
+        <time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
+        <p class="meta"><time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time></p>
+      </header>
 
-				<div class="content">
-{{ content }}
-				</div>
-				<footer>
-{% include post/post_meta.html %}
-{% include post/socials_large.html %}
-{% include post/related_posts.html %}
-				</footer>
-			</article>
-			<div class="floatclear"></div>
-{% include post/post_pagenation.html %}
-{% include post/comment.html %}
-			<div class="floatclear"></div>
+      <div class="content">
+      {{ content }}
+      </div>
+      <footer>
+      {% include post_meta.html %}
+      <!--</footer>-->
+    </article>
+    {% include post_extender.html %}
+    <!--{% include post_recent_posts.html %}-->
+    {% include post_comment.html %}

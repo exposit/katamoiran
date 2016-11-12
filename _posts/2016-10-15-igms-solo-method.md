@@ -1,18 +1,24 @@
 ---
 layout: post
 title: Imaginary GM System (iGMs)
+date: 2016-10-15T12:00:00ZUS
 modified: 2016-08-23
 categories: ['house rules', 'soloing', 'solo frameworks']
 tags: [solo, solo gaming, tool, emulator, igms]
 comments: true
 published: true
+links:
+  - url: http://www.story-games.com/forums/discussion/1845/
+    title: Story Games forum 1845
+  - url: http://lumpley.com/index.php/anyway/thread/259
+    title: Lumpley's forum 259
 ---
 
 Largely inspired by reading old Forge posts and threads on game theory from the years 2005 to 2008. What can I say, I'm a little behind the times.
 
-<a href="http://www.story-games.com/forums/discussion/1845/">http://www.story-games.com/forums/discussion/1845/</a>
+[story games 1845](http://www.story-games.com/forums/discussion/1845/)
 
-<a href="http://lumpley.com/index.php/anyway/thread/259">http://lumpley.com/index.php/anyway/thread/259</a>
+[lumpley forums 259](http://lumpley.com/index.php/anyway/thread/259)
 
 ...and a bunch more along those lines.
 

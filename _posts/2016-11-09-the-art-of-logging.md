@@ -1,14 +1,17 @@
 ---
 layout: post
 title: The Art of Logging
+date: 2016-11-09T14:20:00Z
 modified: 2016-11-09
 categories: ['house rules', 'soloing']
 tags: [solo, solo gaming, theory]
 comments: true
-published: false
+published: true
 ---
 
 If you happen to read over the various logs I've posted, you'll notice my play style has shifted quite a bit since I first started out experimenting with solo gaming while building Pythia. It's all part of the natural evolution of practice, of course. I've gotten better at some things, improved my tools, dispensed with things I used to think were essential, and discovered a lot about what I like about the process, and what I like in the finished product -- and the discrepancy between the two is something I really wrestle with.
+
+<!--more-->
 
 There seem to be two styles for logging solo adventures in a way that contains a narrative component, and I've drifted between them as I've played.
 
@@ -24,4 +27,6 @@ Sometimes I get carried away, especially if I know the hero well, and I end up w
 
 Ultimately, though, I think the mechanics are necessary. That's the "game" part, and the mechanics do -- and should -- influence every part of it. Part of the challenge, the fun, is incorporating chance results into the narrative in a way that "makes sense" even if it's not narratively perfect. Just like in a shared gaming experience.
 
-Yes, this whole rambly piece is an apology for the enthusiastic but sloppy writing in my solo logs.
+Yes, this whole rambling piece is an apology for the enthusiastic but sloppy writing in my solo logs. Which I hope you enjoy reading; I certainly enjoyed creating them.
+
+***

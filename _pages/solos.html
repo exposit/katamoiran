@@ -1,0 +1,33 @@
+---
+layout: default
+title: Solo Adventures
+permalink: "/solos.html"
+group: Solos
+---
+
+<div class='rounded'>
+	<article>
+		<header>
+		<h1>{{ page.title }}</h1>
+		</header>
+
+		<section>
+			<p>This is a landing page for the entire category of solo adventures and campaigns. It should really just cover actual solo sessions; will likely have it pull campaign tags from all solo campaigns and describe how I use Pythia to run my adventures.</p>
+
+			<ul>
+			{% for node in site.solos %}
+				<li><a href="{{ node.url }}">{{ node.title }}</a></li>
+				<ul style='display: inline'>
+				{% for post in site.categories[node.subcat] %}
+					{% if post.url %}
+						<li><a href="{{site.url}}/{{ post.url }}">{{ post.title }}</a>    </li>
+					{% endif %}
+				{% endfor %}
+				</ul>
+			{% endfor %}
+			</ul>
+
+		</section>
+
+	</article>
+</div>

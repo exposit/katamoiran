@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Stat Rolling With Python
+date: 2016-10-08T12:00:00ZUS
 modified: 2016-10-08
 categories: ['scripts']
 tags: [solo, cheating, python, script]
 comments: true
-pinned: false
 published: true
+links:
+  - url: https://github.com/exposit/katamoiran/tree/master/python/statrollers
+    title: Python Stat Rollers (katamoiran)
 ---
 
 I hate rolling stats. By the time I get to stat rolling, I've usually already got the character 'in mind' that I'm creating. Maybe I rolled up an interesting hook for the backstory, maybe I've got a mechanic I want to try out, maybe there's a class that inspired me, or maybe there's just a new supplement I want to explore. And then I get a 60 point dud stat array.
@@ -27,4 +30,4 @@ What I generally do is roll 1d50 and add it to a base 50 to get my minimum pool.
 
 But anyway, here's a couple of scripts that, to be honest, if you're at the point of using, you should probably just make the stats up yourself. Hahaha. But useful for legitimate ACKs or rolling up multiple characters at once.
 
-<div markdown="0"><a href="https://github.com/exposit/katamoiran/tree/master/python/statrollers" class="btn btn-info">stat roller scripts</a></div>
+<div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/python/statrollers" class="btn btn-info">stat roller scripts</a></div>

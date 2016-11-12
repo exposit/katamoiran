@@ -1,0 +1,15 @@
+
+<section id="sidebar-post-links" class="color2 rounded">
+
+  <div>
+{% if page.links %}
+    <h3>Links In This Post:</a></h3>
+    <ul>
+      {% for link in page.links %}
+        <li><a href='{{ link.url }}'>{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+{% endif %}
+  </div>
+
+</section>

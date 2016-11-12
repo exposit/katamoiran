@@ -1,0 +1,39 @@
+<section id="sidebar-cloud" class='color2 rounded'>
+
+  <div id="tab">
+
+    <section>
+
+    <input id="tab-one" type="radio" name="grp" checked="checked"/>
+    <label for="tab-one">Categories</label>
+    <div>
+      <ul>
+      {% include blocks/list_categories.html %}
+      </ul>
+    </div>
+
+    <input id="tab-two" type="radio" name="grp" />
+    <label for="tab-two">Tags</label>
+    <div>
+      <ul class='inlinelist'>
+      {% include blocks/list_tags.html %}
+      </ul>
+    </div>
+
+    <input id="tab-three" type="radio" name="grp" />
+    <label for="tab-three">Solos</label>
+    <div>
+      <ul>
+      {% include blocks/list_solos.html %}
+      </ul>
+    </div>
+
+    </section>
+
+  </div>
+
+  <div class='archivelink'>
+  <a href="{{ site.baseurl }}/archives.html">Archives</a>
+  </div>
+
+</section>

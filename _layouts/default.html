@@ -1,42 +1,41 @@
----
-layout: nil
----
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="{{ site.lang }}"> <![endif]-->
-<!--[if IE 7]>    <html class="lt-ie9 lt-ie8" lang="{{ site.lang }}"> <![endif]-->
-<!--[if IE 8]>    <html class="lt-ie9" lang="{{ site.lang }}"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="{{ site.lang }}"> <!--<![endif]-->
-<head>
+<!doctype html>
+<html lang="en">
+
 {% include head.html %}
-{% if site.asides.themes %}{% include script.html %}{% endif %}
-</head>
-<body>
-<header id="header">
-{% include header.html %}
-</header>
 
-<nav id="navbar">
-{% include navbar.html %}
-</nav>
+  <body>
+    <div class="page-container">
 
-<div class="container-fluid">
-	<div class="row-fluid">
-		<div id="main" class="span9">
-{{ content }}
-		</div>
+      <header>
+        {% include header.html %}
+      </header>
 
-		<aside id="sidebar" class="span3">
-{% include asides.html %}
-		</aside><!--/span-->
-	</div><!--/row-->
-</div> <!-- /container -->
+      <nav>
+        {% include navbar.html %}
+      </nav>
 
-<hr>
+      <div class="floatclear"></div>
 
-<footer id="footer">
-{% include footer.html %}
-</footer>
-{% unless site.asides.themes %}{% include script.html %}{% endunless %}
-{% include bottom.html %}
-</body>
+      <div class="container-fluid">
+      	<div class="row-fluid">
+      		<div id="main">
+            {{ content }}
+      		</div>
+
+      		<aside id="sidebar">
+            {% include side_about.html %}
+            {% include side_post_links.html %}
+            {% include side_recent_posts.html %}
+            {% include side_clouds.html %}
+            {% include side_extender.html %}
+      		</aside><!--/span-->
+      	</div><!--/row-->
+      </div> <!-- /container -->
+
+      <div id="footer">
+        {% include footer.html %}
+      </div><!-- /footer -->
+    </div><!-- /page-container-->
+
+  </body>
 </html>

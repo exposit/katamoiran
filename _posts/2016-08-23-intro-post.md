@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Here We Go
+date: 2016-08-23T12:00:00ZUS
 modified: 2016-08-23
 categories: ['site']
 tags: [intro, general, site]
 comments: false
-pinned: true
 published: true
 ---
 
@@ -13,8 +13,8 @@ published: true
 
 Pretty much what it says on the tin. This is my place on the web to store my rpg stuff and python stuff and general stuff and stuff stuff. OSR & DIY mechanics, characters, and classes. Random charts. Thoughts on game design. Scripts for random charts. Solo adventure recaps. Solo adventure scripts. Random chart scripts for solo adventures. All that good stuff.
 
-{% highlight python %}
+```python
 def hello():
   print('hello world')
 end
-{% endhighlight %}
+```
