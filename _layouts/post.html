@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{{ page.content | size }}
+
     <article class="post-unit rounded">
       <header>
         <h1>
@@ -10,7 +10,7 @@ layout: default
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
 
-        <p class="meta"><time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, words: {% assign wordCount = page.content | number_of_words %}{{ wordCount }}</p>
+        <p><time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, words: {% assign wordCount = page.content | number_of_words %}{{ wordCount }}</p></p>
       </header>
 
       <div class="content">
@@ -20,6 +20,9 @@ layout: default
       {% include post_meta.html %}
       <!--</footer>-->
     </article>
-    {% include post_extender.html %}
+    {% assign charCount = page.content | size %}
+    {% if charCount > 4000 %}
+      {% include post_extender.html %}
+    {% endif %}
     <!--{% include post_recent_posts.html %}-->
     {% include post_comment.html %}
