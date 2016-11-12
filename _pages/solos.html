@@ -17,13 +17,6 @@ group: Solos
 			<ul>
 			{% for node in site.solos %}
 				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
-				<ul style='display: inline'>
-				{% for post in site.categories[node.category] %}
-					{% if post.url %}
-						<li><a href="{{site.url}}/{{ post.url }}">{{ post.title }}</a>    </li>
-					{% endif %}
-				{% endfor %}
-				</ul>
 			{% endfor %}
 			</ul>
 
