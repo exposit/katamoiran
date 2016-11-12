@@ -109,7 +109,7 @@ pre {
 #header {
   padding: 20px;
   height: 85px;
-	background-image: url('/img/header1r.png');
+	background-image: url('header1r.png');
 	background-position: -10px, 0px;
 }
 
