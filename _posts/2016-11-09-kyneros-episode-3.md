@@ -21,284 +21,241 @@ Rambling in Hindsight: It's trivial to document your mechanics if you're working
 
 ***
 
-*Thread Added: travel to Helase and to the medusa's lair*
+<p id="mechanic" class="aside">Thread Added: travel to Helase and to the medusa's lair</p>
 
-*They're in the largest city, as we figured out earlier. Let's give it a name...*
+<p id="mechanic" class="aside">They're in the largest city, as we figured out earlier. Let's give it a name...</p>
 
-*Seraxis. A city of 70,000 people.*
+<p id="mechanic" class="aside">Seraxis. A city of 70,000 people.</p>
 
-**Is Helase near to Seraxis?**
+<p id="mechanic" class="query">Is Helase near to Seraxis?</p>
 
-**_[fifty-fifty, 12<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 12 &le; 50] YES</p>
 
-*Logically, it'd be relatively close; this city must be a good place to set off on expeditions. So it's relatively central and located on a river or coast.*
+<p id="mechanic" class="result">Logically, it'd be relatively close; this city must be a good place to set off on expeditions. So it's relatively central and located on a river or coast.</p>
 
-**Is it a river?**
+<p id="mechanic" class="query">Is it a river?</p>
 
-**_[fifty-fifty, 35<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 35 &le; 50] YES</p>
 
-**Is it a meeting point of two rivers?**
+<p id="mechanic" class="query">Is it a meeting point of two rivers?</p>
 
-**_[fifty-fifty, 13<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 13 &le; 50] YES</p>
 
-**Is Helase a ruined city?**
+<p id="mechanic" class="query">Is Helase a ruined city?</p>
 
-**_[fifty-fifty, 42<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 42 &le; 50] YES</p>
 
-*An exit is southeast. If there is already an explored room in the direction you’ve rolled, draw in a passage to it and roll again, or add a stairway up or down.*
+<p id="mechanic" class="result">An exit is southeast. If there is already an explored room in the direction you’ve rolled, draw in a passage to it and roll again, or add a stairway up or down.</p>
 
-*And finally let's get the distance to Helase from here.*
+<p id="mechanic" class="aside">And finally let's get the distance to Helase from here.</p>
 
-*[Time Units] 4 [Road?] No*
+<p id="mechanic" class="result">[Time Units] 4 [Road?] No</p>
 
-**Does one of the rivers flow that way?**
+<p id="mechanic" class="query">Does one of the rivers flow that way?</p>
 
-**_[fifty-fifty, 78>=50] NO_**
+<p id="mechanic" class="oracle">[fifty-fifty, 78 &ge; 50] NO</p>
 
-*Rolling 1d9 1 times.*
+<p id="mechanic" class="result">Rolling 1d9 1 times.<br>[  7  ] 7</p>
 
-*[  7  ] 7*
+<p id="mechanic" class="result">[Settled Level] Dense[Seed] 5<br>[Terrain Type] hills (1) | heavy forest (2) | light forest (3) | plains (4)<br>[Settlements] ['Village', 'City']<br>[Beneath] Caves<br>[Known Ruins] ['habitation', 'fortress', 'sewer']</p>
 
-*[Settled Level] Dense[Seed] 5*
-*[Terrain Type] hills (1) | heavy forest (2) | light forest (3) | plains (4)*
-*[Settlements] ['Village', 'City']*
+<p id="mechanic" class="aside">So our units for this map will be 1 day; 30 miles. It's 4 days to Helase; since this is an expedition I will assume most of the goods are on mules.</p>
 
-*[Beneath] Caves*
+<p id="mechanic" class="aside">But Kai has more pressing issues; the day after he is freed from the stone he'll need to make a save or vent his powers.</p>
 
-*[Known Ruins] ['habitation', 'fortress', 'sewer']*
+<p id="mechanic" class="aside">How many days will it take to get things started? A week?</p>
 
-*So our units for this map will be 1 day; 30 miles. It's 4 days to Helase; since this is an expedition I will assume most of the goods are on mules.*
+<p id="mechanic" class="result">[How Much?] Almost entirely.</p>
 
-*But Kai has more pressing issues; the day after he is freed from the stone he'll need to make a save or vent his powers.*
+<p id="mechanic" class="aside">So six days. I'll make a check for each day and see if he fails any.</p>
 
-*How many days will it take to get things started? A week?*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  3 1  ] 4</p>
 
-*[How Much?] Almost entirely.*
+<p id="mechanic" class="aside">... and he fails on day one.</p>
 
-*So six days. I'll make a check for each day and see if he fails any.*
+<p id="mechanic" class="aside">I had a 67% chance of succeeding, too.</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="aside">Ok, so, let's roll up the scene.</p>
 
-*[  3 1  ] 4*
+<p id="mechanic" class="result">Event: A new NPC.<br>Action: Stow<br>Thing:  Secret Affair<br>Plot Device: Our Hero! - The surrounding area has reason to believe one of the PCs is a dashing hero.<br>Opposition: Spy/Saboteur<br>Location: Leatherworks Shop</p>
 
-*... and he fails on day one.*
+<p id="fiction">"Your clothing is odd," Kai said, "But your armor is acceptable."</p>
 
-*I had a 67% chance of succeeding, too.*
+<p id="fiction">Dac grinned at him. The kid -- Kai knew he was quite likely a year or two older than he was, but his round face and open, generous enthusiasm made him seem a lot younger -- had taken him to get new clothes and armor while Turen organized the expedition.</p>
 
-*Ok, so, let's roll up the scene.*
+<p id="mechanic" class="query">Does this civilization have access to high level magic?</p>
 
-*Event: A new NPC.*
+<p id="mechanic" class="oracle">[fifty-fifty, 96 &ge; 91] Exceptional NO</p>
 
-*Action: Stow*
+<p id="mechanic" class="aside">Wow. Exceptional no. So they have very little magic; 1 to 3 only. No 4 to 7.</p>
 
-*Thing:  Secret Affair*
+<p id="mechanic" class="aside">Which means I better hope I don't roll poorly on the feedback table or someone is going to die.</p>
 
-*Plot Device: Our Hero! - The surrounding area has reason to believe one of the PCs is a dashing hero.*
+<p id="fiction">This city was a strange and foreign place, carved from wood and stone and huddled inside magic crafted walls from his own time. It smelled bad. The people were relatively clean, though, perhaps unsurprisingly for people who lived at the center of two rivers.</p>
 
-*Opposition: Spy/Saboteur*
+<p id="fiction">The doors did not open of their own accord, nor did the lights light as people approached; Kai was not used to them doing so for him, but he was used to seeing them activate for other people.</p>
 
-*Location: Leatherworks Shop*
+<p id="fiction">Dac had been amazed and baffled when asked about it; Kai mourned how much had been lost in the past seventeen centuries.</p>
 
-"Your clothing is odd," Kai said, "But your armor is acceptable."
+<p id="fiction">But a decent night's sleep -- and some clothes that fit -- had restored some of his spirits, though he felt out of sorts in an odd way he couldn't quite identify.</p>
 
-Dac grinned at him. The kid -- Kai knew he was quite likely a year or two older than he was, but his round face and open, generous enthusiasm made him seem a lot younger -- had taken him to get new clothes and armor while Turen organized the expedition.
+<p id="mechanic" class="query">New NPC! Is the new NPC the spy/saboteur AND pretending to be an innocent?</p>
 
-**Does this civilization have access to high level magic?**
+<p id="mechanic" class="oracle">[likely, 88 &ge; 75] NO</p>
 
-**_[fifty-fifty, 96>=91] Exceptional NO_**
+<p id="mechanic" class="aside">So not pretending to be innocent, but still a spy.</p>
 
-*Wow. Exceptional no. So they have very little magic; 1 to 3 only. No 4 to 7.*
+<p id="mechanic" class="aside">Is she working for another country?</p>
 
-*Which means I better hope I don't roll poorly on the feedback table or someone is going to die.*
+<p id="mechanic" class="oracle">[likely, 55 &le; 75] YES<br>[RANDOM] Ambiguous event "Neglect Illusions"</p>
 
-This city was a strange and foreign place, carved from wood and stone and huddled inside magic crafted walls from his own time. It smelled bad. The people were relatively clean, though, perhaps unsurprisingly for people who lived at the center of two rivers.
+<p id="mechanic" class="aside">Hmm. So they're at the armor shop, looking at pieces. Kai has just tried on some scale much like his old armor, and is feeling a bit more out of sorts.</p>
 
-The doors did not open of their own accord, nor did the lights light as people approached; Kai was not used to them doing so for him, but he was used to seeing them activate for other people.
+<p id="mechanic" class="aside">So, I rolled up a female in her thirties. Let's see her wheel motives.</p>
 
-Dac had been amazed and baffled when asked about it; Kai mourned how much had been lost in the past seventeen centuries.
+<p id="mechanic" class="result">[Motive] Loving &amp; compassionate [1], [Focus] nearby person and class [1].</p>
 
-But a decent night's sleep -- and some clothes that fit -- had restored some of his spirits, though he felt out of sorts in an odd way he couldn't quite identify.
+<p id="mechanic" class="aside">She's generally loving and compassionate, and she's focused on someone nearby and their class. Huh.</p>
 
-**New NPC! Is the new NPC the spy/saboteur AND pretending to be an innocent?**
+<p id="mechanic" class="result">[Motive] Loving &amp; compassionate and Generous [3], [Focus] wine and money [6].</p>
 
-**_[likely, 88>=75] NO_**
+<p id="mechanic" class="aside">Secretly she's loving and generous towards wine and money? Sounds like a courtesan or mistress, which would fit in with the "secret affair" bit. Oh, I know -- neglect illusions; she's an actress, she knows they're headed to Helase, and she intends to stow along.</p>
 
-*So not pretending to be innocent, but still a spy.*
+<p id="mechanic" class="aside">So, what's her plan? To seduce Kai and get him to take her along? And to that end, she'll make it appear she's been attacked and he's her 'hero' which fits in with the scene set up.</p>
 
-*Is she working for another country?*
+<p id="fiction">A piercing female scream echoed through the shop from somewhere outside. Kai was out the door in a moment, his quick reflexes and even quicker feet carrying him into the alley even as he reached for the two short swords he'd picked up earlier in the day.</p>
 
-**_[likely, 55<=75] YES_**
+<p id="mechanic" class="result">[How Much?] A moderate amount.</p>
 
-**_[RANDOM] Ambiguous event "Neglect Illusions"_**
+<p id="mechanic" class="aside">How many assailants?</p>
 
-*Hmm. So they're at the armor shop, looking at pieces. Kai has just tried on some scale much like his old armor, and is feeling a bit more out of sorts.*
+<p id="mechanic" class="aside">Ok,  moderate amount; she's paid three men to pretend to menace her.</p>
 
-*So, I rolled up a female in her thirties. Let's see her wheel motives.*
+<p id="mechanic" class="aside">So, since Kai failed his saving throw against venting, I'm going to let the oracle decide which turn the venting occurs on.</p>
 
-*[Motive] Loving & compassionate [1], [Focus] nearby person and class [1].*
+<p id="fiction">As he pulled his swords free, he felt a surge of dizziness, followed quickly by an almost euphoric giddiness that came from deep inside him. He flashed back to the moment in the seer's cave...</p>
 
-*She's generally loving and compassionate, and she's focused on someone nearby and their class. Huh.*
+<p id="fiction">The three men half circling the woman turned and ran, and she immediately sagged to the ground. Reflexively, Kai caught her.</p>
 
-*[Motive] Loving & compassionate and Generous [3], [Focus] wine and money [6].*
+<p id="mechanic" class="query">Does his Vent event happen now?</p>
 
-*Secretly she's loving and generous towards wine and money? Sounds like a courtesan or mistress, which would fit in with the "secret affair" bit. Oh, I know -- neglect illusions; she's an actress, she knows they're headed to Helase, and she intends to stow along.*
+<p id="mechanic" class="oracle">[likely, 14 &le; 15] Exceptional YES</p>
 
-*So, what's her plan? To seduce Kai and get him to take her along? And to that end, she'll make it appear she's been attacked and he's her 'hero' which fits in with the scene set up.*
+<p id="mechanic" class="aside">Damn. Exceptional yes... it's extra severe?</p>
 
-A piercing female scream echoed through the shop from somewhere outside. Kai was out the door in a moment, his quick reflexes and even quicker feet carrying him into the alley even as he reached for the two short swords he'd picked up earlier in the day.
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  2  ] 2</p>
 
-*[How Much?] A moderate amount.*
+<p id="mechanic" class="aside">Inward feedback, plus I'm going to rule 'extra severe' means a roll on Outward, too.</p>
 
-*How many assailants?*
+<p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  3 4  ] 7</p>
 
-*Ok,  moderate amount; she's paid three men to pretend to menace her.*
+<p id="mechanic" class="aside">So, take hp damage equal to the power's HD, which puts him at 0 so he's unconscious -- which means another roll.</p>
 
-*So, since Kai failed his saving throw against venting, I'm going to let the oracle decide which turn the venting occurs on.*
+<p id="mechanic" class="aside">Let's do the Outward exceptional roll first, then decide which chart to roll on.</p>
 
-As he pulled his swords free, he felt a surge of dizziness, followed quickly by an almost euphoric giddiness that came from deep inside him. He flashed back to the moment in the seer's cave; he had felt like this--
+<p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  6 6  ] 12</p>
 
-The three men half circling the woman turned and ran, and she immediately sagged to the ground. Reflexively, Kai caught her.
+<p id="mechanic" class="aside">Well, thats awful.</p>
 
-**Does his Vent event happen now?**
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  1  ] 1</p>
 
-**_[likely, 14<=15] Exceptional YES_**
+<p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  1 2  ] 3</p>
 
-*Damn. Exceptional yes... it's extra severe?*
+<p id="mechanic" class="aside">That's 'other people knocked unconscious'. So Dak and the girl need to make saving throws versus 12.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="result">Rolling 2d8 2 times.<br>[  3 2  ] 5<br>[  5 4  ] 9</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="aside">Great, we're all unconscious. Let's see what the exception yes roll landed us.</p>
 
-*Inward feedback, plus I'm going to rule 'extra severe' means a roll on Outward, too.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  4  ] 4</p>
 
-*Rolling 2d6 1 times.*
+<p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  1 1  ] 2</p>
 
-*[  3 4  ] 7*
+<p id="mechanic" class="aside">That's actually not so bad; he loses all remaining powers for the day and has to spend extra HP to keep using them. Which he can't anyway because he's at 1 HP.</p>
 
-*So, take hp damage equal to the power's HD, which puts him at 0 so he's unconscious -- which means another roll.*
+<p id="mechanic" class="aside">Actually, I'm going to say she made hers, given that she'd only need 3 class levels or a combination of class levels and attribute points to get to 12. Dac, on the other hand, is out cold.</p>
 
-*Let's do the Outward exceptional roll first, then decide which chart to roll on.*
+<p id="fiction">Kai groaned a little, half opening his eyes which refused to focus.</p>
 
-*Rolling 2d6 1 times.*
+<p id="fiction">At least he was in a bed this time, he thought, and sat up. His head was ringing -- the last thing he remembered was looking into violet eyes ringed with dark lashes and then... nothing.</p>
 
-*[  6 6  ] 12*
+<p id="fiction">His shirt was casually thrown over the chair next to the bed, his boots and pants under it. The room was small, but clean. An inn room, he thought, given the wafting smells and rumble of voices.</p>
 
-*Well, thats awful.*
+<p id="mechanic" class="query">Is she curious about what happened?</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="oracle">[very likely, 56 &le; 85] YES</p>
 
-*[  1  ] 1*
+<p id="mechanic" class="query">Does she know the effect originated with him?</p>
 
-*Rolling 2d6 1 times.*
+<p id="mechanic" class="oracle">[very likely, 9 &le; 16] Exceptional YES</p>
 
-*[  1 2  ] 3*
+<p id="fiction">The door opened, and the woman slipped through. She was beautiful, with a cascade of pale blonde hair and elegant features. "How did you do that?" she asked bluntly.</p>
 
-*That's 'other people knocked unconscious'. So Dac and the girl need to make saving throws versus 12.*
+<p id="fiction">Kai looked at her, baffled. "Do what?"</p>
 
-*Rolling 2d8 2 times.*
+<p id="fiction">She shook her head. "You really don't know, do you."</p>
 
-*[  3 2  ] 5*
+<p id="fiction">"A black, glowing mist surged out of you -- it knocked you and your friend out."</p>
 
-*[  5 4  ] 9*
+<p id="mechanic" class="query">Is sorcery frowned on here?</p>
 
-*Great, we're all unconscious. Let's see what the exception yes roll landed us.*
+<p id="mechanic" class="oracle">[very likely, 75 &le; 85] YES</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">But high level magic, distinguished as being good for people but hey, all mages are probably evil -- is okay, just nobody knows how to do it.</p>
 
-*[  4  ] 4*
+<p id="mechanic" class="aside">This woman, however, has her own reasons for being willing to consort with sorcerers.</p>
 
-*Rolling 2d6 1 times.*
+<p id="fiction">Kai climbed out of the bed, covering his whirling thoughts with a calm face and focusing on putting his clothes back on.</p>
 
-*[  1 1  ] 2*
+<p id="mechanic" class="aside">Thread Added: find someone who knows what the black mist is</p>
 
-*That's actually not so bad; he loses all remaining powers for the day and has to spend extra HP to keep using them. Which he can't anyway because he's at 1 HP.*
+<p id="mechanic" class="aside">I actually missed a roll on the Outward table; I'll roll it now.</p>
 
-*Actually, I'm going to say she made hers, given that she'd only need 3 class levels or a combination of class levels and attribute points to get to 12. Dac, on the other hand, is out cold.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  8 1  ] 9</p>
 
-Kai groaned a little, half opening his eyes which refused to focus.
+<p id="mechanic" class="aside">nearest person develops an aversion or fascination for you, seeing in you the aspect of the creature whose power you've stolen</p>
 
-At least he was in a bed this time, he thought, and sat up. His head was ringing -- the last thing he remembered was looking into violet eyes ringed with dark lashes and then... nothing.
+<p id="mechanic" class="aside">Well, she obviously didn't develop an aversion, so there you go.</p>
 
-His shirt was casually thrown over the chair next to the bed, his boots and pants under it. The room was small, but clean. An inn room, he thought, given the wafting smells and rumble of voices.
+<p id="fiction">She stole in, a little closer, and he wondered why, given that she seemed to think he was some sort of sorcerer, she wasn't running away.</p>
 
-**Is she curious about what happened?**
+<p id="fiction">His hands were shaking too much to fasten his boots, and he sat back down on the edge of the bed. He felt hollow and weak.</p>
 
-**_[very likely, 56<=85] YES_**
+<p id="fiction">"I don't know what you thought you saw," he said, "But I can promise you, I'm no mage. Quite the opposite, in fact."</p>
 
-**Does she know the effect originated with him?**
+<p id="mechanic" class="aside">So, he has three days of grace plus 1d4 befoe his next Vent check, assuming he doesn't start using his powers.</p>
 
-**_[very likely, 9<=16] Exceptional YES_**
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  3  ] 3</p>
 
-The door opened, and the woman slipped through. She was beautiful, with a cascade of pale blonde hair and elegant features. "How did you do that?" she asked bluntly.
+<p id="mechanic" class="aside">So six days; one day after they leave the city (since on day has elapsed already).</p>
 
-Kai looked at her, baffled. "Do what?"
+<p id="mechanic" class="query">Does she know of anyone who might know what is happening to him?</p>
 
-She shook her head. "You really don't know, do you." She looked at him curiously.
+<p id="mechanic" class="oracle">[fifty-fifty, 87 &ge; 50] NO</p>
 
-"A black, glowing mist surged out of you -- it knocked you and your friend out."
+<p id="fiction">"I want to go with you to Helase," she said gracelessly, and he cocked an eyebrow at her.</p>
 
-**Is sorcery frowned on here?**
+<p id="fiction">"Let me guess, the plan was to cozy up to my unconscious body, then demand I atone for taking advantage of you by letting you tag along?"</p>
 
-**_[very likely, 75<=85] YES_**
+<p id="fiction">She did blush, just a little, but didn't look away. "I really need to get to Helase," she said. "It was wrong of me to try and trick you, but that doesn't change that I need to go."</p>
 
-*But high level magic, distinguished as being good for people but hey, all mages are probably evil -- is okay, just nobody knows how to do it.*
+<p id="fiction">Kai snorted and finished fastening his boots. His hands only shook a little.</p>
 
-*This woman, however, has her own reasons for being willing to consort with sorcerers.*
+<p id="fiction">"Would you rather people hear of you as my hero or as a wicked sorcerer?" she asked, her little chin going up defiantly. He shot her a cold look and she wilted a little. Blackmail, at least, he understood clearly.</p>
 
-Kai climbed out of the bed, covering his whirling thoughts with a calm face and focusing on putting his clothes back on.
+<p id="fiction">"You leave me no choice, then," he said coolly. "We leave in five days. If you can't keep up, we leave you -- and my reputation can be damned."</p>
 
-*Thread Added: find someone who knows what the black mist is*
+<p id="mechanic" class="query">Does she hope to find help for her father in Helase?</p>
 
-*I actually missed a roll on the Outward table; I'll roll it now.*
+<p id="mechanic" class="oracle">[fifty-fifty, 19 &le; 50] YES</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="aside">Thread Added: figure out Melysse's problem and maybe help</p>
 
-*[  8 1  ] 9*
+<p id="mechanic" class="query">Does anything else of note happen before they leave the city?</p>
 
-*nearest person develops an aversion or fascination for you, seeing in you the aspect of the creature whose power you've stolen*
+<p id="mechanic" class="oracle">[fifty-fifty, 76 &ge; 50] NO</p>
 
-*Well, she obviously didn't develop an aversion, so there you go.*
+<p id="fiction">The rest of the preparations were uneventful, and they set off on the morning of the sixth day since Kai had awoken in a dusty warehouse, seventeen centuries removed from his last breath.</p>
 
-She stole in, a little closer, and he wondered why, given that she seemed to think he was some sort of sorcerer, she wasn't running away.
-
-His hands were shaking too much to fasten his boots, and he sat back down on the edge of the bed. He felt hollow and weak.
-
-"I don't know what you thought you saw," he said, "But I can promise you, I'm no mage. Quite the opposite, in fact."
-
-*So, he has three days of grace plus 1d4 befoe his next Vent check, assuming he doesn't start using his powers.*
-
-*Rolling 1d4 1 times.*
-
-*[  3  ] 3*
-
-*So six days; one day after they leave the city (since on day has elapsed already).*
-
-**Does she know of anyone who might know what is happening to him?**
-
-**_[fifty-fifty, 87>=50] NO_**
-
-"I want to go with you to Helase," she said gracelessly, and he cocked an eyebrow at her.
-
-"Let me guess, the plan was to cozy up to my unconscious body, then demand I atone for taking advantage of you by letting you tag along?"
-
-She did blush, just a little, but didn't look away. "I really need to get to Helase," she said. "It was wrong of me to try and trick you, but that doesn't change that I need to go."
-
-Kai snorted and finished fastening his boots. His hands only shook a little.
-
-"Would you rather people hear of you as my hero or as a wicked sorcerer?" she asked, her little chin going up defiantly. He shot her a cold look and she wilted a little. Blackmail, at least, he understood clearly.
-
-"You leave me no choice, then," he said coolly. "We leave in five days. If you can't keep up, we leave you -- and my reputation can be damned."
-
-**Does she hope to find help for her father in Helase?**
-
-**_[fifty-fifty, 19<=50] YES_**
-
-*Thread Added: figure out Melysse's problem and maybe help*
-
-**Does anything else of note happen before they leave the city?**
-
-**_[fifty-fifty, 76>=50] NO_**
-
-The rest of the preparations were uneventful, and they set off on the morning of the sixth day since Kai had awoken in a dusty warehouse, seventeen centuries removed from his last breath.
 
 ***

@@ -9,7 +9,8 @@ comments: true
 published: true
 links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/oneroll
-    title: One Roll scripts (katamoiran)
+    title: One Roll scripts
+    source: katamoiran
 ---
 
 Here's a random table to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.

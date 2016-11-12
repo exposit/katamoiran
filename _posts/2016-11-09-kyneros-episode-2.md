@@ -21,56 +21,57 @@ Rambling in Hindsight: I had all sorts of grand ambitions for this -- I was goin
 
 ***
 
-*New scene; let's start out in the offices of Turan and see what develops. First, let's learn a bit more about Turan.*
+<p id="mechanic" class="aside">New scene; let's start out in the offices of Turan and see what develops. First, let's learn a bit more about Turan.</p>
 
-*[Description] "Innocently Lean"*
+<p id="mechanic" class="result">[Description] "Innocently Lean"</p>
 
-*[Motive] Dull & torpid [3], [Focus] food [5].*
+<p id="mechanic" class="result">[Motive] Dull &amp; torpid [3], [Focus] food [5].</p>
 
-*So, Turan's known as "the Lean" but it's in jest; he's actually quite a massive man, prone to gluttony.*
+<p id="mechanic" class="aside">So, Turan's known as "the Lean" but it's in jest; he's actually quite a massive man, prone to gluttony.</p>
 
-*[Motive] Angry & spiteful [1], [Focus] divinity [1].*
+<p id="mechanic" class="result">[Motive] Angry &amp; spiteful [1], [Focus] divinity [1].</p>
 
-**And he's a bit blasphemous. Kai's people were ancestor worshipers, are these people the same?**
+<p id="mechanic" class="query">And he's a bit blasphemous. Kai's people were ancestor worshipers, are these people the same?</p>
 
-**_[fifty-fifty, 3<=10] Exceptional YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 3 &le; 10] Exceptional YES</p>
 
-*Hah, where Kai's people gave tribute to their ancestors, these people utterly rely on them and the spirits inside objects and items to provide them with miracles.*
+<p id="mechanic" class="aside">Hah, where Kai's people gave tribute to their ancestors, these people utterly rely on them and the spirits inside objects and items to provide them with succor.</p>
 
-"I'm ruined," Turan breathed, staring at the empty stone dais and then at Kai, who stared back unapologetically. "Unless we can somehow re-petrify him--" The fat man wilted a bit as Kai's eyebrows drew together in a scowl. "Of course not," he said a bit hastily and a bit regretfully.
+<p id="fiction">"I'm ruined," Turan breathed, staring at the empty stone dais and then at Kai, who stared back unapologetically. "Unless we can somehow re-petrify him--" The fat man wilted a bit as Kai's eyebrows drew together in a scowl. "Of course not," he said a bit hastily and a bit regretfully.</p>
 
-Kai had spent the better part of the morning talking to Dac about the current state of the world, and he was still overwhelmed by it all. Seventeen centuries had passed since his father last drew breath. Seventeen centuries since everything he knew had collapsed against the furious onslaught of mythological monsters who walked as men.
+<p id="fiction">Kai had spent the better part of the morning talking to Dac about the current state of the world, and he was still overwhelmed by it all. Seventeen centuries had passed since his father last drew breath. Seventeen centuries since everything he knew had collapsed against the furious onslaught of monsters who walked as men.</p>
 
-And now he was in a dusty warehouse, wearing an old robe that was too short, staring at a giant fat man who looked like he was about to cry.
+<p id="fiction">And now he was in a dusty warehouse, wearing an old robe that was too short, staring at a giant fat man who looked like he was about to cry.</p>
 
-"I promised the..."
+<p id="fiction">"I promised the..."</p>
 
-**[Options] king, emperor, high king**
+<p id="mechanic" class="query">[Options] king, emperor, high king</p>
 
-*[Choice] king*
+<p id="mechanic" class="result">[Choice] king</p>
 
-"... king an exquisite Dremaeric statue for his new palace," he rumbled. "Thankfully I've not yet sent the painting."
+<p id="fiction">"... king an exquisite Dremaeric statue for his new palace," he rumbled. "Thankfully I've not yet sent the painting."</p>
 
-Kai followed his gaze to a large and dramatic painting leaning against the far wall next to a packing crate. The subject was himself, as a statue, sprawled carelessly across the black pedestal as if it were a bed he were asleep in.
+<p id="fiction">Kai followed his gaze to a large and dramatic painting leaning against the far wall next to a packing crate. The subject was himself, as a statue, sprawled carelessly across the black pedestal as if it were a bed he were asleep in.</p>
 
-Wheels were turning in his head, and he wasn't quite sure where they were going yet. But he needed answers, and the place to start looking was in...
+<p id="fiction">Wheels were turning in his head, and he wasn't quite sure where they were going yet. But he needed answers, and the place to start looking was in...</p>
 
-the medusa's lair. He would need to head to Helase and from there into the mountains. And for that he'd need supplies, men, and decent clothes and armor.
+<p id="fiction">the medusa's lair. He would need to head to Helase and from there into the mountains. And for that he'd need supplies, men, and decent clothes and armor.</p>
 
-"What if we went back to the medusa's cave and retrieved something of equal value for you?"
+<p id="fiction">"What if we went back to the medusa's cave and retrieved something of equal value for you?"</p>
 
-The fat man's head shot up. "You'd risk that?"
+<p id="fiction">The fat man's head shot up. "You'd risk that?"</p>
 
-Kai shrugged. "I seem to have come into this world the second time as I came into it the first," he said, one corner of his mouth quirking up. "If you'll finance the expedition, I'll lead it."
+<p id="fiction">Kai shrugged. "I seem to have come into this world the second time as I came into it the first," he said, one corner of his mouth quirking up. "If you'll finance the expedition, I'll lead it."</p>
 
-*Quick side note; I think Kai, like his inspiration historical figure, was born with a deformity that he's been sensitive about his whole life. My first thought is that it's a lack of magical talent. So, was it simply a lack, or was it an absolute absence?*
+<p id="mechanic" class="aside">Quick side note; Kai, like his inspiration, was born with a deformity that he's been sensitive about his whole life. My first thought is that it's a lack of magical talent. So, was it simply a lack, or was it an absolute absence?</p>
 
-*I think for interest, it makes most sense if it was an absolute absence of magic. He couldn't cast spells or activate magic items or do any of the little things like turn on glow lights as he walked into a room -- he simply read as 'not there' for magical effects that weren't directly targeted at him.*
+<p id="mechanic" class="aside">I think for interest, it makes most sense if it was an absolute absence of magic. He couldn't cast spells or activate magic items or do any of the little things like turn on glow lights as he walked into a room -- he simply read as 'not there' for magical effects that weren't directly targeted at him.</p>
 
-*Now that's he awakened as a mutable, he can activate magical items, with the risk of feedback, and magical effects that are predicated on sensing a human sense him as a magical field instead.*
+<p id="mechanic" class="aside">Now that's he awakened as a mutable, he can activate magical items, with the risk of feedback, and magical effects that are predicated on sensing a human sense him as a magical field instead.</p>
 
-The bargaining was efficient and ultimately both sides got what they wanted, since there wasn't much disagreement. Kai wanted to be outfitted and on his way to Helase; Turan wanted Kai to be outfitted and on his way to Helase.
+<p id="mechanic" class="aside">The bargaining was efficient and ultimately both sides got what they wanted, since there wasn't much disagreement. Kai wanted to be outfitted and on his way to Helase; Turan wanted Kai to be outfitted and on his way to Helase.</p>
 
-*So quick break to update gear and make a script tweak or two.*
+<p id="mechanic" class="aside">So quick break to update gear and make a script tweak or two.</p>
+
 
 ***

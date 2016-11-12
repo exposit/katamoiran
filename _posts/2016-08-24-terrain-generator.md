@@ -10,15 +10,18 @@ comments: true
 published: true
 links:
   - url: http://hillcantons.blogspot.com/2014/11/reader-query-random-solo-wilderness.html
-    title: Random Solo Wilderness Generation? (Hill Cantons)
+    title: Random Solo Wilderness Generation?
+    source: Hill Cantons
   - url: http://mmmnm.blogspot.com/2014/11/random-solo-hexless-wilderness.html
-    title: Random Solo (Hexless/Mapless) Wilderness Generation (Mazes, Monsters, Minions, and Madness)
+    title: Random Solo (Hexless/Mapless) Wilderness Generation
+    source: Mazes, Monsters, Minions, and Madness
   - url: http://www.drivethrurpg.com/product/127180/Scarlet-Heroes
     title: Scarlet Heroes
   - url: http://www.drivethrurpg.com/product/124392/d30-Sandbox-Companion
     title: d30 Sandbox Companion
   - url: https://github.com/exposit/katamoiran/tree/master/python/terrain_generator
-    title: terrain generator scripts (katamoiran)
+    title: terrain generator scripts
+    source: katamoiran
 ---
 
 For the Kyneros campaign I knew I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and entirely oracle-generated world-building. I've always had a love for random generation, and it's an essential part of my solo adventuring experience -- but I know my limits, and when it comes to terrain I don't have the patience (or attention span) for a literal hexcrawl.

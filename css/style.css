@@ -482,6 +482,7 @@ time {
 
 #sidebar-post-links {
 	padding-top: 10px;
+	padding-right: 5px;
 }
 
 #sidebar-post-links h3 {
@@ -555,11 +556,6 @@ time {
 			text-decoration: none;
 			display: block;
 		}
-#side-archive-tree mark
-		{
-			white-space:nowrap;
-			color: #000;
-		}
 #side-archive-tree li input
 	{
 		position: absolute;
@@ -598,3 +594,45 @@ time {
 	margin-bottom: -1px;
 }
 #side-archive-tree li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }
+
+/* fonts for styling Pythia play logs */
+/* mechanic has sub classes corresponding to Pythia format tags. Fiction just has sub styles like <i> and <b> so shouldn't need special styling unless you want to. */
+
+#mechanic {
+	opacity: 0.5;
+}
+
+#mechanic.result {
+  font-style: italic;
+}
+
+#mechanic.query {
+  font-weight: bold;
+}
+
+#mechanic.aside {
+	font-style: italic;
+
+}
+
+#mechanic.oracle {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#mechanic.mechanic1 {
+  color: #424144;
+}
+
+#mechanic.mechanic2 {
+  color: #252525;
+}
+
+#fiction {
+	opacity: 1.0;
+}
+
+#fiction .scene-break {
+	width: 50%;
+	text-align: center;
+}

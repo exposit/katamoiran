@@ -15,7 +15,8 @@ links:
   - url: http://www.drivethrurpg.com/product/127180/Scarlet-Heroes
     title: Scarlet Heroes
   - url: http://blog.trilemma.com/2015/10/the-oracles-decree.html
-    title: Oracle's Decree (Trilemma)
+    title: Oracle's Decree
+    source: Trilemma
 ---
 
 Version 0.6.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. This release comes with a whole bunch of new features. And bugfixes. See the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list.

@@ -25,462 +25,396 @@ This is the session when I pretty much give up on tracking temperature and weath
 
 ***
 
-*Scene over. That's two sessions, so two xp, I think, I'll double check.*
+<p id="mechanic" class="aside">So, morning of the second day of travel. I'm knocking off vent and time elapsed at day's end.</p>
 
-*Woohoo, level 2!*
+<p id="mechanic" class="aside">First, let's roll up the terrain for the new area. Still seed 5.</p>
 
-*Ok, all leveled up.*
+<p id="mechanic" class="result">[Terrain] hills (1)</p>
 
-*So, morning of the second day of travel. I'm knocking off vent and time elapsed at day's end.*
+<p id="mechanic" class="aside">Fair enough, let's roll for encounter, feature, and event.</p>
 
-*First, let's roll up the terrain for the new area. Still seed 5.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  1  ] 1</p>
 
-*[Terrain] hills (1)*
+<p id="mechanic" class="aside">That's another encounter. Hahaha, at this rate we'll never get to Helase!</p>
 
-*Fair enough, let's roll for encounter, feature, and event.*
+<p id="mechanic" class="aside">It turns out it's a burning bull, a creature of magic, it's disinclined to fight and badly wounded.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">Dune Laith will heal it, at Melysse's request, after which it...</p>
 
-*[  1  ] 1*
+<p id="mechanic" class="result">[Description] "Cautiously Disgusting"</p>
 
-*That's another encounter. Hahaha, at this rate we'll never get to Helase!*
+<p id="mechanic" class="result">[Action] "Failure News"</p>
 
-*It turns out it's a burning bull, a creature of magic, it's disinclined to fight and badly wounded.*
+<p id="mechanic" class="aside">... wanders off with a loud burp.</p>
 
-*Dune Laith will heal it, at Melysse's request, after which it...*
+<p id="mechanic" class="aside">And feature?</p>
 
-*[Description] "Cautiously Disgusting"*
+<p id="mechanic" class="result">Rolling 1d8 1 times.<br>[  8  ] 8</p>
 
-*[Action] "Failure News"*
+<p id="mechanic" class="aside">And event.</p>
 
-*... wanders off with a loud burp.*
+<p id="mechanic" class="result">Rolling 1d8 1 times.<br>[  5  ] 5</p>
 
-*And feature?*
+<p id="mechanic" class="aside">So the next day's travel is uneventful. Does Laith go a different direction?</p>
 
-*Rolling 1d8 1 times.*
+<p id="mechanic" class="oracle">[somewhat likely, 41 &le; 65] YES</p>
 
-*[  8  ] 8*
+<p id="fiction">They said goodbye to the lawman at the base of the hills, where their paths diverged. He thanked them and was on his way, prisoner in tow.</p>
 
-*And event.*
+<p id="mechanic" class="aside">Okay, uneventful night, and straight on to morning.</p>
 
-*Rolling 1d8 1 times.*
+<p id="mechanic" class="result">[Terrain] heavy forest (2)</p>
 
-*[  5  ] 5*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  3  ] 3</p>
 
-*So the next day's travel is uneventful. Does Laith go a different direction?*
+<p id="mechanic" class="result">Rolling 1d8 1 times.<br>[  8  ] 8</p>
 
-**_[somewhat likely, 41<=65] YES_**
+<p id="mechanic" class="result">Rolling 1d8 1 times.<br>[  2  ] 2</p>
 
-They said goodbye to the lawman at the base of the hills, where their paths diverged. He thanked them and was on his way, prisoner in tow.
+<p id="mechanic" class="aside">I rolled up some ghost-haunted ruins, of an old temple partly destroyed by earthquake. The ghost's objective is to avoid hunters and it is disinclined to fight. So unless there's weather incentive, my party will pass it by.</p>
 
-*Okay, uneventful night, and straight on to morning.*
+<p id="mechanic" class="aside">Speaking of which, weather for yesterday...</p>
 
-*[Terrain] heavy forest (2)*
+<p id="mechanic" class="result">[Weighted Weather] The same as yesterday.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">And weather today...</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="result">[Weighted Weather] Much less comfortable than yesterday.</p>
 
-*Rolling 1d8 1 times.*
+<p id="mechanic" class="aside">Hmm, let's see what that means.</p>
 
-*[  8  ] 8*
+<p id="mechanic" class="result">[Dry Season ] Cloudy skies</p>
 
-*Rolling 1d8 1 times.*
+<p id="mechanic" class="aside">So, it's a heat wave, plus cloudy skies -- thunderstorms brewing.</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="aside">Which means everyone's risking heat stroke.</p>
 
-*I rolled up some ghost-haunted ruins, of an old temple partly destroyed by earthquake. The ghost's objective is to avoid hunters and it is disinclined to fight. So unless there's weather incentive, my party will pass it by.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  1 5  ] 6</p>
 
-*Speaking of which, weather for yesterday...*
+<p id="mechanic" class="aside">Using the modified weather rules, that'd put Kai, who is wearing his tunic and scale, at a -2 to all combat, Dex, and Strength checks, plus -2 for fatigued. Seems overly punitive; I think for heat I'll drop the penalties and just use the fatigued track.</p>
 
-*[Weighted Weather] The same as yesterday.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  8 3  ] 11</p>
 
-*And weather today...*
+<p id="mechanic" class="aside">Melysse seems cool as a cucumber, probably because she's not wearing any armor.</p>
 
-*[Weighted Weather] Much less comfortable than yesterday.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  4 1  ] 5</p>
 
-*Hmm, let's see what that means.*
+<p id="mechanic" class="aside">Poor Dac isn't doing well either.</p>
 
-*[Dry Season ] Cloudy skies*
+<p id="mechanic" class="aside">Kai directs them to shelter in the ruined temple from the thunderstorm approaching.</p>
 
-*So, it's a heat wave, plus cloudy skies -- thunderstorms brewing.*
+<p id="mechanic" class="query">Does the storm break before they reach the temple?</p>
 
-*Which means everyone's risking heat stroke.*
+<p id="mechanic" class="oracle">[fifty-fifty, 89 &ge; 50] NO</p>
 
-*Rolling 2d8 1 times.*
+<p id="fiction">They rode into the overgrown courtyard just ahead of the storm, tired, and hot from the unseasonably warm weather.</p>
 
-*[  1 5  ] 6*
+<p id="mechanic" class="query">Is the main room off the courtyard intact?</p>
 
-*Using the modified weather rules, that'd put Kai, who is wearing his tunic and scale, at a -2 to all combat, Dex, and Strength checks, plus -2 for fatigued. Seems overly punitive; I think for heat I'll drop the penalties and just use the fatigued track.*
+<p id="mechanic" class="oracle">[fifty-fifty, 17 &le; 50] YES</p>
 
-*Rolling 2d8 1 times.*
+<p id="fiction">They corralled the horses in the courtyard, under the shelter of a half-collapsed roof, then scrambled through the great doors that once led to a great hall.</p>
 
-*[  8 3  ] 11*
+<p id="mechanic" class="result">[Nature] A piece of artwork; even odds of original or stolen</p>
 
-*Melysse seems cool as a cucumber, probably because she's not wearing any armor.*
+<p id="mechanic" class="query">This is a temple of exiles; is it from after Kai's time?</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="oracle">[fifty-fifty, 9 &le; 10] Exceptional YES</p>
 
-*[  4 1  ] 5*
+<p id="fiction">So it's fairly recent; the last fifty years or so.</p>
 
-*Poor Dac isn't doing well either.*
+<p id="mechanic" class="query">Does the storm break?</p>
 
-*Kai directs them to shelter in the ruined temple from the thunderstorm approaching.*
+<p id="mechanic" class="oracle">[somewhat likely, 79 &ge; 65] NO</p>
 
-**Does the storm break before they reach the temple?**
+<p id="fiction">Kai took a quick look around.</p>
 
-**_[fifty-fifty, 89>=50] NO_**
+<p id="mechanic" class="result">[Room Size] Trapezoidal [Exits] 0 [Exit Type] as expected [Secret Door?] No</p>
 
-They rode into the overgrown courtyard just ahead of the storm, tired, and hot from the unseasonably warm weather.
+<p id="fiction">There didn't seem to be any intact exits, other than the one they entered through. Several massive murals lined the walls; the room was easily large enough for a community to gather for worship.</p>
 
-**Is the main room off the courtyard intact?**
+<p id="fiction">Kai tossed his gear down in one of the side alcoves, noticing the Melysse was doing the same across the width of the room. He had to admit she'd been bearing up much better than he'd expected. He still didn't trust her, but at least she wasn't useless.</p>
 
-**_[fifty-fifty, 17<=50] YES_**
+<p id="mechanic" class="query">Is it hotter in here?</p>
 
-They corralled the horses in the courtyard, under the shelter of a half-collapsed roof, then scrambled through the great doors that once led to a great hall.
+<p id="mechanic" class="oracle">[somewhat likely, 24 &le; 65] YES</p>
 
-*[Nature] A piece of artwork; even odds of original or stolen*
+<p id="fiction">It was even hotter in here than ouside; he took a few minutes to strip off his armor and tunic and immediately felt better.</p>
 
-**This is a temple of exiles; is it from after Kai's time?**
+<p id="mechanic" class="query">Does the storm break?</p>
 
-**_[fifty-fifty, 9<=10] Exceptional YES_**
+<p id="mechanic" class="oracle">[likely, 46 &le; 75] YES</p>
 
-So it's fairly recent; the last fifty years or so.
+<p id="fiction">The sound of raindrops echoed, then with a low rumble the first thunder erupted and the skies opened with the fury of the heavens.</p>
 
-**Does the storm break?**
+<p id="fiction">Kai didn't care how crazy his companions thought he was. He raced out into the storm and reveled in it, soaking up the rain and letting it wash away almost a week of grime from the grubby city and blood and the dust of travel. There was an exultation to be found in such circumstances, a wild and pure joy that his people had long treasured.</p>
 
-**_[somewhat likely, 79>=65] NO_**
+<p id="fiction">He was soaking wet and grinning ear to ear when he finally came back in. Dac and Melysse were perched on the porch, under the overhang of the roof, giving him twin concerned looks that he ignored in favor of digging a dry set of clothes out of his bag.</p>
 
-Kai took a quick look around.
+<p id="mechanic" class="aside">Okay, evening checks, then resolve when the ghost will make contact; it's disinclined to fight but may want something from them.</p>
 
-*[Room Size] Trapezoidal [Exits] 0 [Exit Type] as expected [Secret Door?] No*
+<p id="mechanic" class="query">Does the storm last past midnight?</p>
 
-There didn't seem to be any intact exits, other than the one they entered through. Several massive murals lined the walls; the room was easily large enough for a community to gather for worship.
+<p id="mechanic" class="oracle">[fifty-fifty, 100 &ge; 91] Exceptional NO</p>
 
-Kai tossed his gear down in one of the side alcoves, noticing the Melysse was doing the same across the width of the room. He had to admit she'd been bearing up much better than he'd expected. He still didn't trust her, but at least she wasn't useless.
+<p id="mechanic" class="aside">So it's actually fairly brief, which makes sense. But it'll still eat up a chunk of the day, putting them into normal camping time.</p>
 
-**Is it hotter in here?**
+<p id="mechanic" class="query">Does Melysse approach Kai?</p>
 
-**_[somewhat likely, 24<=65] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 11 &le; 50] YES<br>[RANDOM] Move away from a thread "Adjourn Prison"</p>
 
-It was even hotter in here than ouside; he took a few minutes to strip off his armor and tunic and immediately felt better.
+<p id="mechanic" class="result">travel to Helase and to the medusa's lair [Active]</p>
 
-**Does the storm break?**
+<p id="mechanic" class="aside">So the main journey is about to become a lot harder; because something intends to keep them here until they...</p>
 
-**_[likely, 46<=75] YES_**
+<p id="mechanic" class="aside">accomplish something.</p>
 
-The sound of raindrops echoed, then with a low rumble the first thunder erupted and the skies opened with the fury of the heavens.
+<p id="mechanic" class="aside">But we won't find out about that until we try to leave again.</p>
 
-Kai didn't care how crazy his companions thought he was. He raced out into the storm and reveled in it, soaking up the rain and letting it wash away almost a week of grime from the grubby city and blood and the dust of travel. There was an exultation to be found in such circumstances, a wild and pure joy that his people had long treasured.
+<p id="mechanic" class="aside">Plus there's only one ghost; it's a 1HD creature.</p>
 
-He was soaking wet and grinning ear to ear when he finally came back in. Dac and Melysse were perched on the porch, under the overhang of the roof, giving him twin concerned looks that he ignored in favor of digging a dry set of clothes out of his bag.
+<p id="mechanic" class="aside">I'm going to bump it up to a more intelligent, dangerous creature, hopefully without going overboard.</p>
 
-*Okay, evening checks, then resolve when the ghost will make contact; it's disinclined to fight but may want something from them.*
+<p id="mechanic" class="aside">What does Melysse want to talk about?</p>
 
-**Does the storm last past midnight?**
+<p id="mechanic" class="oracle">[Mythic Complex] Heal Illness</p>
 
-**_[fifty-fifty, 100>=91] Exceptional NO_**
+<p id="fiction">It was after dark, and most had gone to sleep. Kai was sitting up, taking first watch as he listened to the rain taper off.</p>
 
-*So it's actually fairly brief, which makes sense. But it'll still eat up a chunk of the day, putting them into normal camping time.*
+<p id="fiction">A slight shadow drew up across from him. "I wanted to thank you for letting me come along," she said, sounding hesitant.</p>
 
-**Does Melysse approach Kai?**
+<p id="fiction">He cocked an eyebrow. "You gave me no choice," he pointed out.</p>
 
-**_[fifty-fifty, 11<=50] YES_**
+<p id="fiction">Her temper flared. "I had no choice!"</p>
 
-**_[RANDOM] Move away from a thread "Adjourn Prison"_**
+<p id="fiction">He stared at her until she finally sighed. "My father is gravely ill. I've... I've been such a disappointment to him." She moved a bit closer to Kai; her eyes were huge and dark. "A fortune spent on healers and seers, and we know the cure for his illness... his curse... is to be found in Helase."</p>
 
-*travel to Helase and to the medusa's lair [Active]*
+<p id="fiction">"So you see, it wasn't personal," she started, her hand brushing against his knee, her other hand on his bare shoulder as she leaned in.</p>
 
-*So the main journey is about to become a lot harder; because something intends to keep them here until they...*
+<p id="fiction">Kai stood up, shaking her hands off. "Goodnight," he said coldly, and left her there, staring after him.</p>
 
-*accomplish something.*
+<p id="fiction"><hr class="scene-break"></hr></p>
 
-*But we won't find out about that until we try to leave again.*
+<p id="mechanic" class="aside">Scene over, session over, I think.</p>
 
-*Plus there's only one ghost; it's a 1HD creature.*
+<p id="mechanic" class="aside">Kai is angry because she reminds him of someone else who used him; a past lover who he thought cared about him but who quickly upgraded to his brother when given the opportunity.</p>
 
-*I'm going to bump it up to a more intelligent, dangerous creature, hopefully without going overboard.*
+<p id="mechanic" class="aside">So logically, he'll dream about this past lover, and that will give the ghost opportunity to strike at him.</p>
 
-*What does Melysse want to talk about?*
+<p id="mechanic" class="query">Does the ghost attack any of the guards first?</p>
 
-**_[Mythic Complex] Heal Illness_**
+<p id="mechanic" class="oracle">[somewhat likely, 51 &le; 65] YES</p>
 
-It was after dark, and most had gone to sleep. Kai was sitting up, taking first watch as he listened to the rain taper off.
+<p id="mechanic" class="query">Is one killed?</p>
 
-A slight shadow drew up across from him. "I wanted to thank you for letting me come along," she said, sounding hesitant.
+<p id="mechanic" class="oracle">[somewhat likely, 42 &le; 65] YES</p>
 
-He cocked an eyebrow. "You gave me no choice," he pointed out.
+<p id="mechanic" class="query">Are two killed?</p>
 
-Her temper flared. "I had no choice!"
+<p id="mechanic" class="oracle">[somewhat likely, 41 &le; 65] YES</p>
 
-He stared at her until she finally sighed. "My father is gravely ill. I've... I've been such a disappointment to him." She moved a bit closer to Kai; her eyes were huge and dark. "A fortune spent on healers and seers, and we know the cure for his illness... his curse... is to be found in Helase."
+<p id="mechanic" class="query">Are three killed?</p>
 
-"So you see, it wasn't personal," she started, her hand brushing against his knee, her other hand on his bare shoulder as she leaned in.
+<p id="mechanic" class="oracle">[fifty-fifty, 48 &le; 50] YES</p>
 
-Kai stood up, shaking her hands off. "Goodnight," he said coldly, and left her there, staring after him.
+<p id="mechanic" class="query">Are four killed?</p>
 
+<p id="mechanic" class="oracle">[fifty-fifty, 43 &le; 50] YES</p>
 
-***
+<p id="mechanic" class="query">Are five killed?</p>
 
+<p id="mechanic" class="oracle">[fifty-fifty, 68 &ge; 50] NO</p>
 
-*Scene over, session over, I think.*
+<p id="mechanic" class="aside">Whew. Half the guards gone in a single encounter, murdered in their sleep.</p>
 
-*Kai is angry because she reminds him of someone else who used him; a past lover who he thought cared about him but who quickly upgraded to his brother when given the opportunity.*
+<p id="mechanic" class="aside">Something for tomorrow.</p>
 
-*So logically, he'll dream about this past lover, and that will give the ghost opportunity to strike at him.*
+<p id="mechanic" class="aside">I'm interpreting 'disinclined to fight' in this case to mean 'prefers to lull its victims to death instead of overtly fight them'.</p>
 
-**Does the ghost attack any of the guards first?**
+<p id="mechanic" class="aside">Ok, whipped together a consuming ghost, built largely on the jiangshi.</p>
 
-**_[somewhat likely, 51<=65] YES_**
+<p id="mechanic" class="aside">Since the guards have no stats per se, I use their HD as a guide; the ghost has acquired 4 additional HD, which makes it a 9 HD creature.</p>
 
-**Is one killed?**
+<p id="mechanic" class="aside">Its obsession is love...</p>
 
-**_[somewhat likely, 42<=65] YES_**
+<p id="mechanic" class="oracle">[Mythic Complex] Transform Benefits</p>
 
-**Are two killed?**
+<p id="mechanic" class="result">[Action] "Travel Elements"</p>
 
-**_[somewhat likely, 41<=65] YES_**
+<p id="mechanic" class="aside">Weird. I got that one earlier in this game too. Quick review says the code is valid; just one of those things, I guess!</p>
 
-**Are three killed?**
+<p id="fiction">Kai dreamed of her; silky blonde hair, dark eyes, slipping into his bedroll well after midnight, just as she'd done on campaign in Sykos. He'd thought she'd been impressed with his skill and valor, but he'd been wrong.</p>
 
-**_[fifty-fifty, 48<=50] YES_**
+<p id="mechanic" class="aside">Saving throw to see if he notices something is amiss; +1 because she jilted him.</p>
 
-**Are four killed?**
+<p id="mechanic" class="aside">The target DC is pretty brutal; 9 plus 9, 18. He's got 2d8, plus 1 for Wisdom, plus 1 for Eidetic memory, plus 2 for his class level.</p>
 
-**_[fifty-fifty, 43<=50] YES_**
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  3 8  ] 11</p>
 
-**Are five killed?**
+<p id="mechanic" class="query">15; not good enough. Will need to roll a 14 or better. any chance Melysse might try to sneak into his bedroll too?</p>
 
-**_[fifty-fifty, 68>=50] NO_**
+<p id="mechanic" class="oracle">[somewhat likely, 10 &le; 13] Exceptional YES</p>
 
-*Whew. Half the guards gone in a single encounter, murdered in their sleep.*
+<p id="mechanic" class="aside">Well, that's good at least. I'm going to say the "exceptional" part is that it'll be on next round, instead of following usual protocol and asking each round with a higher likeliness.</p>
 
-*Something for tomorrow.*
+<p id="mechanic" class="aside">Ok, now it's the ghost's turn to attack; she's not going to do damage, just drain.</p>
 
-*I'm interpreting 'disinclined to fight' in this case to mean 'prefers to lull its victims to death instead of overtly fight them'.*
+<p id="mechanic" class="aside">It's a touch attack, 1d20 plus 9, plus 6.</p>
 
-*Ok, whipped together a consuming ghost, built largely on the jiangshi.*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  11  ] 11</p>
 
-*Since the guards have no stats per se, I use their HD as a guide; the ghost has acquired 4 additional HD, which makes it a 9 HD creature.*
+<p id="mechanic" class="aside">Well, it's not like he's resisting or anything.</p>
 
-*Its obsession is love...*
+<p id="mechanic" class="aside">So down one point of Constitution.</p>
 
-**_[Mythic Complex] Transform Benefits_**
+<p id="mechanic" class="aside">Doesn't change anything, yet; if he loses one more he'll lose his +1 per level and be down 2 HP.</p>
 
-*[Action] "Travel Elements"*
+<p id="mechanic" class="aside">So, top of the order, Kai first, with his saving throw.</p>
 
-*Weird. I got that one earlier in this game too. Quick review says the code is valid; just one of those things, I guess!*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  3 6  ] 9</p>
 
-Kai dreamed of her; silky blonde hair, dark eyes, slipping into his bedroll well after midnight, just as she'd done on campaign in Sykos. He'd thought she'd been impressed with his skill and valor, but he'd been wrong.
+<p id="mechanic" class="aside">... and he's still not figured out what's up.</p>
 
-*Saving throw to see if he notices something is amiss; +1 because she jilted him.*
+<p id="mechanic" class="aside">Who goes, next?</p>
 
-*The target DC is pretty brutal; 9 plus 9, 18. He's got 2d8, plus 1 for Wisdom, plus 1 for Eidetic memory, plus 2 for his class level.*
+<p id="mechanic" class="query">[Options] melysse, ghost</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="result">[Choice] melysse</p>
 
-*[  3 8  ] 11*
+<p id="mechanic" class="query">So Melysse is an actress and a saboteur and a spy. Does she have skill with daggers at close range?</p>
 
-**15; not good enough. Will need to roll a 14 or better. any chance Melysse might try to sneak into his bedroll too?**
+<p id="mechanic" class="oracle">[likely, 83 &ge; 75] NO</p>
 
-**_[somewhat likely, 10<=13] Exceptional YES_**
+<p id="mechanic" class="query">Throwing them?</p>
 
-*Well, that's good at least. I'm going to say the "exceptional" part is that it'll be on next round, instead of following usual protocol and asking each round with a higher likeliness.*
+<p id="mechanic" class="oracle">[likely, 49 &le; 75] YES</p>
 
-*Ok, now it's the ghost's turn to attack; she's not going to do damage, just drain.*
+<p id="mechanic" class="aside">So she's not a knife fighter, relying on sneak attack and throwing.</p>
 
-*It's a touch attack, 1d20 plus 9, plus 6.*
+<p id="mechanic" class="aside">Is it surprised?</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  4  ] 4</p>
 
-*[  11  ] 11*
+<p id="mechanic" class="aside">She attacks.</p>
 
-*Well, it's not like he's resisting or anything.*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  2  ] 2</p>
 
-*So down one point of Constitution.*
+<p id="mechanic" class="aside">Not much to do with that; she has a +2 and +9 for its defense but not much else.</p>
 
-*Doesn't change anything, yet; if he loses one more he'll lose his +1 per level and be down 2 HP.*
+<p id="mechanic" class="query">Does it notice her attack, since she missed?</p>
 
-*So, top of the order, Kai first, with his saving throw.*
+<p id="mechanic" class="oracle">[fifty-fifty, 24 &le; 50] YES</p>
 
-*Rolling 2d8 1 times.*
+<p id="fiction">Ayria wrenched away from him,  her face twisted in a snarl, as she faded away and he woke, confused. Melysse, dagger in hand, was confronting the shadowy creature with Ayria's seeming. Her face was pale and terrified, but resolute.</p>
 
-*[  3 6  ] 9*
+<p id="mechanic" class="query">Does he use his repertoire in reflex?</p>
 
-*... and he's still not figured out what's up.*
+<p id="mechanic" class="oracle">[fifty-fifty, 65 &ge; 50] NO</p>
 
-*Who goes, next?*
+<p id="mechanic" class="query">Spellfire?</p>
 
-**[Options] melysse, ghost**
+<p id="mechanic" class="oracle">[fifty-fifty, 36 &le; 50] YES</p>
 
-*[Choice] melysse*
+<p id="fiction">The shadow creature swiped at Melysse with a whip of shadow...</p>
 
-**So Melysse is an actress and a saboteur and a spy. Does she have skill with daggers at close range?**
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  4  ] 4</p>
 
-**_[likely, 83>=75] NO_**
+<p id="fiction">, the barest touch causing the woman to gasp in pain.</p>
 
-**Throwing them?**
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  1  ] 1</p>
 
-**_[likely, 49<=75] YES_**
+<p id="mechanic" class="aside">Fortunately no damage.</p>
 
-*So she's not a knife fighter, relying on sneak attack and throwing.*
+<p id="fiction">Something -- the strange force that suffused him before -- burst from Kai, fueled by rage and heartbreak.</p>
 
-*Is it surprised?*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  3  ] 3</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">A miss!</p>
 
-*[  4  ] 4*
+<p id="mechanic" class="aside">But there's still Fray.</p>
 
-*She attacks.*
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  4  ] 4</p>
 
-*Rolling 1d20 1 times.*
+<p id="fiction">It was the creature's turn to recoil as a bolt of black mist scythed into it.</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="aside">Melysse's attack.</p>
 
-*Not much to do with that; she has a +2 and +9 for its defense but not much else.*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  7  ] 7</p>
 
-**Does it notice her attack, since she missed?**
+<p id="mechanic" class="aside">Plus 9 ac, plus 2 for her AB, plus 2 for attribute/skill. 20 dead on.</p>
 
-**_[fifty-fifty, 24<=50] YES_**
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  1  ] 1</p>
 
-Ayria wrenched away from him,  her face twisted in a snarl, as she faded away and he woke, confused. Melysse, dagger in hand, was confronting the shadowy creature with Ayria's seeming. Her face was pale and terrified, but resolute.
+<p id="mechanic" class="aside">1 more point of damage; it is down to 6 HP.</p>
 
-**Does he use his repertoire in reflex?**
+<p id="mechanic" class="aside">It's going to try to heal by hitting Kai for damage and drain.</p>
 
-**_[fifty-fifty, 65>=50] NO_**
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  20  ] 20</p>
 
-**Spellfire?**
+<p id="mechanic" class="aside">Ouch. Even with its reduced HP that's still a solid hit.</p>
 
-**_[fifty-fifty, 36<=50] YES_**
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  3  ] 3</p>
 
-The shadow creature swiped at Melysse with a whip of shadow...
+<p id="mechanic" class="aside">1 hp, plus 1 Con, which drops his HP another two points.</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="aside">And it's back up to 7 HD.</p>
 
-*[  4  ] 4*
+<p id="fiction">A whip of darkness caressed his cheek and Kai staggered, strength running out of him. The black mist was tinging his vision again, and he felt the same power welling up again.</p>
 
-, the barest touch causing the woman to gasp in pain.
+<p id="fiction">Almost giddy, he let the magic channel through his fingers, razor-edged bolts of magic flying. Was this what being a mage was like, he wondered.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  19  ] 19</p>
 
-*[  1  ] 1*
+<p id="mechanic" class="result">Rolling 1d8 1 times.<br>[  6  ] 6</p>
 
-*Fortunately no damage.*
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  1  ] 1</p>
 
-Something -- the strange force that suffused him before -- burst from Kai, fueled by rage and heartbreak.
+<p id="mechanic" class="aside">7 minus 2 minus 1 more is 4 HD left.</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="aside">Melysse's turn.</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="result">Please use standard dice notation, ie, 1d10.</p>
 
-*A miss!*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  19  ] 19</p>
 
-*But there's still Fray.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  2  ] 2</p>
 
-*Rolling 1d4 1 times.*
+<p id="mechanic" class="aside">3 HD left; morale check.</p>
 
-*[  4  ] 4*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  8 3  ] 11</p>
 
-It was the creature's turn to recoil as a bolt of black mist scythed into it.
+<p id="fiction">Melysse swung wildly at it and it parted before her blade, wavering for a moment before fading away.</p>
 
-*Melysse's attack.*
+<p id="fiction">The entire attack had taken mere moments; their slumbering companions across the room not even roused. Melysse stared at Kai, who was feeling entirely not himself, euphoric with the raw magic still channeling through his blood and bones, drunk with the power he'd been denied his whole life.</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="query">Does he try to seduce Melysse?</p>
 
-*[  7  ] 7*
+<p id="mechanic" class="oracle">[somewhat likely, 17 &le; 65] YES</p>
 
-*Plus 9 ac, plus 2 for her AB, plus 2 for attribute/skill. 20 dead on.*
+<p id="mechanic" class="query">Does she accept?</p>
 
-*Rolling 1d4 1 times.*
+<p id="mechanic" class="oracle">[somewhat likely, 52 &le; 65] YES</p>
 
-*[  1  ] 1*
+<p id="fiction">He reached out for her, and she fell into his arms, the dagger dropping to the ground, heedless of the black mist crackling in the air around them both.</p>
 
-*1 more point of damage; it is down to 6 HP.*
+<p id="fiction"><hr class="scene-break"></hr></p>
 
-*It's going to try to heal by hitting Kai for damage and drain.*
+<p id="mechanic" class="aside">Scene over.</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="aside">So, one more xp point, for sure -- that was a very dangerous encounter.</p>
 
-*[  20  ] 20*
+<p id="mechanic" class="aside">Additionally, Kai has two more powers to add to his repertoire; dreamwalking and Constitution drain.</p>
 
-*Ouch. Even with its reduced HP that's still a solid hit.*
+<p id="mechanic" class="aside">I'm going to rule since it starts out ethereal and manifests,he technically gains the supernatural ability to manifest, which is of extremely limited applicability to someone who isn't already ethereal. But it might come up and it might be interesting as a Feedback.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">Session over, too. Next session will either be the next morning, or, more likely, the arrival in Helase; I think that'd be more dramatic by far.</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="query">Did the ghost ignore Dac because he's too pure, ie, a virgin?</p>
 
-*1 hp, plus 1 Con, which drops his HP another two points.*
+<p id="mechanic" class="oracle">[likely, 91 &ge; 75] NO</p>
 
-*And it's back up to 7 HD.*
+<p id="mechanic" class="query">Ok, fine, it was random luck. I was just curious.</p>
 
-A whip of darkness caressed his cheek and Kai staggered, strength running out of him. The black mist was tinging his vision again, and he felt the same power welling up again.
-
-Almost giddy, he let the magic channel through his fingers, razor-edged bolts of magic flying. Was this what being a mage was like, he wondered.
-
-*Rolling 1d20 1 times.*
-
-*[  19  ] 19*
-
-*Rolling 1d8 1 times.*
-
-*[  6  ] 6*
-
-*Rolling 1d4 1 times.*
-
-*[  1  ] 1*
-
-*7 minus 2 minus 1 more is 4 HD left.*
-
-*Melysse's turn.*
-
-*Please use standard dice notation, ie, 1d10.*
-
-*Rolling 1d20 1 times.*
-
-*[  19  ] 19*
-
-*Rolling 1d6 1 times.*
-
-*[  2  ] 2*
-
-*3 HD left; morale check.*
-
-*Rolling 2d8 1 times.*
-
-*[  8 3  ] 11*
-
-Melysse swung wildly at it and it parted before her blade, wavering for a moment before fading away.
-
-The entire attack had taken mere moments; their slumbering companions across the room not even roused. Melysse stared at Kai, who was feeling entirely not himself, euphoric with the raw magic still channeling through his blood and bones, drunk with the power he'd been denied his whole life.
-
-**Does he try to seduce Melysse?**
-
-**_[somewhat likely, 17<=65] YES_**
-
-**Does she accept?**
-
-**_[somewhat likely, 52<=65] YES_**
-
-He reached out for her, and she fell into his arms, the dagger dropping to the ground, heedless of the black mist crackling in the air around them both.
-
-***
-
-*Scene over.*
-
-*So, one more xp point, for sure -- that was a very dangerous encounter.*
-
-*Additionally, Kai has two more powers to add to his repertoire; dreamwalking and Constitution drain.*
-
-*I'm going to rule since it starts out ethereal and manifests,he technically gains the supernatural ability to manifest, which is of extremely limited applicability to someone who isn't already ethereal. But it might come up and it might be interesting as a Feedback.*
-
-*Session over, too. Next session will either be the next morning, or, more likely, the arrival in Helase; I think that'd be more dramatic by far.*
-
-**Did the ghost ignore Dac because he's too pure, ie, a virgin?**
-
-**_[likely, 91>=75] NO_**
-
-**Ok, fine, it was random luck. I was just curious.**
-
-**_[likely, 30<=75] YES_**
+<p id="mechanic" class="oracle">[likely, 30 &le; 75] YES</p>
 
 ***

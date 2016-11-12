@@ -6,7 +6,10 @@
     <h3>Links In This Post:</a></h3>
     <ul>
       {% for link in page.links %}
-        <li><a href='{{ link.url }}'>{{ link.title }}</a></li>
+        <li><a href='{{ link.url }}'>{{ link.title }} {% if link.source %}(<cite>{{ link.source }}</cite>){% endif %}</a></li>
+        {% unless forloop.last %}
+            <hr width="75%" align="left"></hr>
+        {% endunless %}
       {% endfor %}
     </ul>
 {% endif %}

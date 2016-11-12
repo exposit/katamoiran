@@ -13,7 +13,7 @@ I wrote a new theme for the site, spiffed the place up a little, reorganized a f
 
 <!--more-->
 
-I've updated every single post, especially the Kyneros logs, and should be set to start uploading other campaigns as I get around to it. *Noir Nights* and the first three *Ylinde* adventures are ready to go, I just need to break them into blog-sized chunks.
+I've updated every single post, especially the *Kyneros* logs, and should be set to start uploading other campaigns as I get around to it. *Noir Nights* and the first three *Ylinde* adventures are ready to go, I just need to break them into blog-sized chunks.
 
 I'm reading my way through the Bundle of Holding's OSR bundle now; Castle Gargantuan is next on the list. So maybe I'll get to use (and show off the screenshots from) the mapping panels in Pythia. Or maybe I'll revisit an older campaign!
 

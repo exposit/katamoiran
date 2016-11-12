@@ -23,330 +23,210 @@ It's after the end of this segment, by the way, that I realize I've been doing X
 
 ***
 
-*Session over; will pick up from here, I think. Another xp point, for finishing the journey; that's five, and a solid level 3.*
+<p id="fiction">Kai was feeling much restored in the morning, though he was glad Melysse had not yet awoken when he rolled out of his bedroll and headed to the campfire for breakfast.</p>
 
-*In the morning, Kai will need to make a Venting roll if he hasn't used a power since the ghost 24 hours ago.*
+<p id="fiction">He didn't feel like too much introspection, but it shook him a bit that he'd lost control so badly. Experimentally, he opened his hand and willed the black fire through it; tendrils of black mist, gleaming with silver edges, flickered across his palm.</p>
 
-*He will also regain his lost HP and possibly his Con if he gets a good night's rest.*
+<p id="fiction">He felt a duller version of the euphoria that had coursed through him that night, deep inside, easily controllable. Within a few moments, he'd puzzled out that he could shape the black fire as he wished, into blades that could cut or be thrown. Laughing, he hurled one of the blades at a knot in a tree fifteen feet distant...</p>
 
-*Hmmm. Let's alter the venting roll to a much lower number but increasing each day. That will make tracking it much more straightforward (and risky).*
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  2  ] 2</p>
 
-*Okay, updated Venting rules and added a new chart for minor effects.*
+<p id="fiction">It went flying wide and he banished it with a thought, winking out of existence as if it had never been.</p>
 
-*So, in camp at the foot of the oracle's mountain, having a late dinner with a barbarian demanding refuge.*
+<p id="fiction">"Your aim is terrible," a low female voice said next to him in a voice that was rough and smooth at the same time, as if she wasn't quite used to speaking out loud.</p>
 
-*[Wronged!] Once your kind and them were allies but a schism divided you forever*
+<p id="mechanic" class="query">Did she surprise him?</p>
 
-*[Motive] Generous [4], [Focus] nearby person and secrets [5].*
+<p id="mechanic" class="oracle">[somewhat likely, 28 &le; 65] YES</p>
 
-*[Motive] Creative & driven [2], [Focus] adventure and sex [3].*
+<p id="fiction">He started, and turned on his heel to find Chiania, the exotic woman who had sought refuge with them, standing a few feet away.</p>
 
-**Is the focus person Kai?**
+<p id="fiction">He coughed, clearing his throat. "Are you coming up the mountain with us?" he asked, and she nodded.</p>
 
-**_[somewhat likely, 36<=65] YES_**
+<p id="fiction">Breakfast was slow and measured; they had ample supplies remaining and none wished to discuss what they might find. Kai wasn't even sure what he was looking for, but he hoped... well, he hoped she was still there, despite the ruins and teh centuries, and, though he wouldn't admit it even to himself, he hoped she could tell him how to get home.</p>
 
-*So she's here for adventure and because of secrets; driven from her tribe for her heretical beliefs.*
+<p id="mechanic" class="query">Is the trip up the mountainside uneventful?</p>
 
-**Will she tell Kai this, and about the Prophecy?**
+<p id="mechanic" class="oracle">[fifty-fifty, 74 &ge; 50] NO</p>
 
-**_[somewhat likely, 100>=94] Exceptional NO_**
+<p id="mechanic" class="query">Is it a natural hazard?</p>
 
-*She believes he's a great hero of their people, come to save the world from a great disaster looming, but fears if she tells him this she'll somehow warp the prophecy.*
+<p id="mechanic" class="oracle">[fifty-fifty, 14 &le; 50] YES</p>
 
-Despite Kai's best coaxing, she stubbornly refused to divulge her secrets; he finally laughed, wished them all good night, and went to bed.
+<p id="mechanic" class="aside">The path is broken and worn, and requires climbing skill to pass.</p>
 
-*Midnight encounter?*
+<p id="mechanic" class="query">[Options] exceptional, high, above average, average, incredible, awesome, superhuman</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="result">[Choice] above average</p>
 
-*[  4  ] 4*
+<p id="mechanic" class="aside">Not too badly, though.</p>
 
-*And morning.*
+<p id="fiction">The path was narrow and steep, and the ground rumbled a bit occasionally. They'd been climbing for several hours when they came to the rockslide; the path was dominated by a massive boulder. Dac wilted a bit. "I'm not sure I can climb that," he said doubtfully, even as Chiania began climbing it effortlessly as stairs.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="oracle">[fifty-fifty, 94 &ge; 91] Exceptional NO</p>
 
-*[  3  ] 3*
+<p id="fiction">A massive tremor rocked the earth, sending rock and debris everywhere. Above, Chiania missed a grip, and fell. Kai lunged forward, hoping to catch her --</p>
 
-*Great, he finally gets a good night's sleep.*
+<p id="mechanic" class="aside">Dexterity save? 2d8 plus 3 plus 1 for fleet-footed, versus... what? Probably 9 plus T, which I'm going to say is 3 given that that's Kai's level. So 12.</p>
 
-*So that's 1d4 Con back, then a Venting roll at DC 7.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  1 4  ] 5</p>
 
-*Rolling 1d4 1 times.*
+<p id="fiction">She was falling too fast, and the ground shaking too hard; the best he could do was cushion her fall as the two of them tumbled over the edge of the path, bits of broken rock and debris showering down on them. The air was bashed out of his lungs, but he somehow flipped himself over to shield her from the worst of it.</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="aside">I'm going to handle it as if they both take damage from a fall, plus an additional 1 point for the debris.</p>
 
-*Great, back up to full Con, full HP.*
+<p id="mechanic" class="aside">So, I can either roll 1d4 for the number of 10 foot increments they fall, make a saving throw to see if they each take half damage, and then roll d6s for damage, or I can do a defy death roll of 3d4 points of damage.</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="aside">Since this hasn't come up before, let's try it both ways and see what happens.</p>
 
-*[  4 1  ] 5*
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  3  ] 3</p>
 
-*Made the save; it'll be one point more difficult tomorrow if he doesn't use a power.*
+<p id="mechanic" class="result">Rolling 2d8 1 times.<br>[  7 5  ] 12</p>
 
-Kai was feeling much restored in the morning, though he was glad Melysse had not yet awoken when he rolled out of his bedroll and headed to the campfire for breakfast.
+<p id="mechanic" class="aside">Saving throw succeeds, so 2d6 damage.</p>
 
-He didn't feel like too much introspection, but it shook him a bit that he'd lost control so badly. Experimentally, he opened his hand and willed the black fire through it; tendrils of black mist, gleaming with silver edges, flickered across his palm.
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  5  ] 5</p>
 
-He felt a duller version of the euphoria that had coursed through him that night, deep inside, easily controllable. Within a few moments, he'd puzzled out that he could shape the black fire as he wished, into blades that could cut or be thrown. Laughing, he hurled one of the blades at a knot in a tree fifteen feet distant...
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  3  ] 3</p>
 
-*Rolling 1d20 1 times.*
+<p id="mechanic" class="aside">So each take two points of damage, plus Kai takes one for the falling debris.</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="aside">Alternatively, Kai could roll 3d4, and take that many points of damage, and next time he needs to defy death it'll be d6s.</p>
 
-It went flying wide and he banished it with a thought, the blade winking out of existence as if it had never been.
+<p id="mechanic" class="result">Rolling 1d4 3 times.<br>[  3  ] 3<br>[  2  ] 2<br>[  3  ] 3</p>
 
-"Your aim is terrible," a low female voice said next to him. It was a voice that was rough and smooth at the same time, as if she wasn't quite used to speaking out loud, or hadn't in a while.
+<p id="mechanic" class="aside">Yeah, it's the same! Ha. Going to stick with the original falling damage and not bumped my Defy Death up, I think.</p>
 
-**Did she surprise him?**
+<p id="fiction">Kai lay still for a few moments after the earth stopped rumbling and the barrage of rocks stopped. His ears were ringing and he felt a bit pulped. Groaning, he heaved himself up on one arm and met Chiania's eyes. They were...</p>
 
-**_[somewhat likely, 28<=65] YES_**
+<p id="fiction">A mesmerizing shade of green, flecked with gold. "Oof," she said, uneloquently, and he realized he was probably crushing her a bit.</p>
 
-He started, and turned on his heel to find Chiania, the exotic woman who had sought refuge with them, standing a few feet away.
+<p id="fiction">"Sorry," he said, moving to sit up, and she blinked at him as she followed suit.</p>
 
-He coughed, clearing his throat. "Are you coming up the mountain with us?" he asked, and she nodded.
+<p id="fiction">"For trying to help me? No apology needed," she said, dusting herself off. Kai took a moment to do a quick inventory; he had a few new bruises and cuts but nothing serious.</p>
 
-Breakfast was slow and measured; they had ample supplies remaining and none wished to discuss what they might find. Kai wasn't even sure what he was looking for, but he hoped... well, he hoped she was still there, despite the ruins and teh centuries, and, though he wouldn't admit it even to himself, he hoped she could tell him how to get home.
+<p id="fiction">Chiania dug a bandage out of her hip pouch and wound it around his upper arm, tying it expertly. He nodded his thanks.</p>
 
-**Is the trip up the mountainside uneventful?**
+<p id="mechanic" class="query">They fell about forty feet; can they see the path they fell from from here?</p>
 
-**_[fifty-fifty, 74>=50] NO_**
+<p id="mechanic" class="oracle">[fifty-fifty, 40 &le; 50] YES</p>
 
-**Is it a natural hazard?**
+<p id="mechanic" class="query">Is it accessible to them?</p>
 
-**_[fifty-fifty, 14<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 50 &le; 50] YES</p>
 
-*The path is broken and worn, and requires climbing skill to pass.*
+<p id="mechanic" class="query">Was Dac injured?</p>
 
-**[Options] exceptional, high, above average, average, incredible, awesome, superhuman**
+<p id="mechanic" class="oracle">[fifty-fifty, 75 &ge; 50] NO</p>
 
-*[Choice] above average*
+<p id="mechanic" class="query">Was Melysse?</p>
 
-*Not too badly, though.*
+<p id="mechanic" class="oracle">[Mythic Complex] Vengeance Animals</p>
 
-The path was narrow and steep, and the ground rumbled a bit occasionally. They'd been climbing for several hours when they came to the rockslide; the path was dominated by a massive boulder. Dac wilted a bit. "I'm not sure I can climb that," he said doubtfully, even as Chiania began climbing it effortlessly as stairs.
+<p id="mechanic" class="oracle">[fifty-fifty, 98 &ge; 91] Exceptional NO</p>
 
-**_[fifty-fifty, 94>=91] Exceptional NO_**
+<p id="mechanic" class="aside">She wasn't even knocked down.</p>
 
-A massive tremor rocked the earth, sending rock and debris everywhere. Above, Chiania missed a grip, and fell. Kai lunged forward, hoping to catch her --
+<p id="mechanic" class="aside">And she spotted a way around the boulder.</p>
 
-*Dexterity save? 2d8 plus 3 plus 1 for fleet-footed, versus... what? Probably 9 plus T, which I'm going to say is 3 given that that's Kai's level. So 12.*
+<p id="fiction">It took a few minutes for them to climb back up to where the others waited. Dac was sitting, a bit miserably, while Meysse was nowhere in sight.</p>
 
-*Rolling 2d8 1 times.*
+<p id="fiction">"She took the game trail," Dac explained, and the three of them hurried after her.</p>
 
-*[  1 4  ] 5*
+<p id="mechanic" class="query">Is the cave just as he remembers it?</p>
 
-She was falling too fast, and the ground shaking too hard; the best he could do was cushion her fall as the two of them tumbled over the edge of the path, bits of broken rock and debris showering down on them. The air was bashed out of his lungs, but he somehow flipped himself over to shield her from the worst of it.
+<p id="mechanic" class="oracle">[fifty-fifty, 66 &ge; 50] NO</p>
 
-*I'm going to handle it as if they both take damage from a fall, plus an additional 1 point for the debris.*
+<p id="mechanic" class="aside">So it's crumbling.</p>
 
-*So, I can either roll 1d4 for the number of 10 foot increments they fall, make a saving throw to see if they each take half damage, and then roll d6s for damage, or I can do a defy death roll of 3d4 points of damage.*
+<p id="fiction">The broken stairs opened up into a flat, level area before the mouth of the cave, once swept bare and now overgrown with vines and trees.</p>
 
-*Since this hasn't come up before, let's try it both ways and see what happens.*
+<p id="fiction">The cave mouth, once delineated with ornately carved pillars and a heavy stone lintel, was half-obscured behind the massive slab of stone, long since tumbled from its perch.</p>
 
-*Rolling 1d4 1 times.*
+<p id="mechanic" class="query">So, Melysse has to recover an item from this cave and bring it to her employers, and then they'll heal her father.</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="oracle">[fifty-fifty, 97 &ge; 91] Exceptional NO</p>
 
-*Rolling 2d8 1 times.*
+<p id="mechanic" class="query">The father thing was a ruse?</p>
 
-*[  7 5  ] 12*
+<p id="mechanic" class="oracle">[fifty-fifty, 41 &le; 50] YES</p>
 
-*Saving throw succeeds, so 2d6 damage.*
+<p id="mechanic" class="aside">Ouch.</p>
 
-*Rolling 1d6 1 times.*
+<p id="mechanic" class="aside">Ok, so, they enter the medusa's lair. The first room..</p>
 
-*[  5  ] 5*
+<p id="mechanic" class="result">[Room Size] 20 x 30 ft [Exits] 2 [Exit Type] as expected [Secret Door?] No</p>
 
-*Rolling 1d6 1 times.*
+<p id="fiction">The trio stepped out of the warm sun into a cool, dim, and spacious chamber once used for petitioners to cool their heels as they waited for their turn to see the Oracle.</p>
 
-*[  3  ] 3*
+<p id="fiction">Kai remembered this room. He remembered the slight smell of roses, the coolness, the uncertainty of what they'd be greeted with.</p>
 
-*So each take two points of damage, plus Kai takes one for the falling debris.*
+<p id="mechanic" class="aside">Lets see if there's anything interesting here.</p>
 
-*Alternatively, Kai could roll 3d4, and take that many points of damage, and next time he needs to defy death it'll be d6s.*
+<p id="mechanic" class="result">[Type] caverns<br>[Subtype] Cave village<br>[Size] 1d6 locations</p>
 
-*Rolling 1d4 3 times.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  5  ] 5</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="result">[Caverns room] Caved-in cavern<br>Encounter? Yes<br>Treasure? No<br>Hazard? No<br>Feature? No<br>Macguffin? 1</p>
 
-*[  2  ] 2*
+<p id="mechanic" class="result">[Encounter] 1d4_T hit dice worth of foes numbering several Minions or Civilians and possibly an Elite</p>
 
-*[  3  ] 3*
+<p id="mechanic" class="result">[Type] Abominations<br>[Sub-Type] Minion<br>[Specific] Crawling vermin</p>
 
-*Yeah, it's the same! Ha. Going to stick with the original falling damage and not bumped my Defy Death up, I think.*
+<p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  2  ] 2</p>
 
-Kai lay still for a few moments after the earth stopped rumbling and the barrage of rocks stopped. His ears were ringing and he felt a bit pulped. Groaning, he heaved himself up on one arm and met Chiania's eyes. They were...
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  9  ] 9</p>
 
-A mesmerizing shade of green, flecked with gold. "Oof," she said, uneloquently, and he realized he was probably crushing her a bit.
+<p id="mechanic" class="aside">Vermin: HD 1, AC 7, Atk +1, Dmg 1d4, MV 30’, ML 7<br>Spreads disease. If touches or hits, save or die in 3d6 days.</p>
 
-"Sorry," he said, moving to sit up, and she blinked at him as she followed suit.
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  3  ] 3</p>
 
-"For trying to help me? No apology needed," she said, dusting herself off. Kai took a moment to do a quick inventory; he had a few new bruises and cuts but nothing serious. The worst of it was a shallow gash on his arm.
+<p id="mechanic" class="query">Is Melysse here?</p>
 
-Chiania dug a bandage out of her hip pouch and wound it around his upper arm, tying it expertly. He nodded his thanks.
+<p id="mechanic" class="oracle">[fifty-fifty, 77 &ge; 50] NO</p>
 
-**They fell about forty feet; can they see the path they fell from from here?**
+<p id="fiction"><hr class="scene-break"></hr></p>
 
-**_[fifty-fifty, 40<=50] YES_**
+<p id="mechanic" class="aside">Okay, session over.</p>
 
-**Is it accessible to them?**
+<p id="mechanic" class="aside">Next session, I'll go ahead and do the combat with the vermin; I will likely allow two saves or look for a better disease mechanic.</p>
 
-**_[fifty-fifty, 50<=50] YES_**
+<p id="fiction">As their eyes adjusted, Dac moved enthusiastically into the room. "This is pre-Dremaeric work," he exclaimed, leaning over to study one of the bas-relief murals more intently. Kai shrugged and moved towards the door he'd gone through on that visit two weeks ago. There was rubble everywhere. And then the spiders swarmed out.</p>
 
-**Was Dac injured?**
+<p id="mechanic" class="aside">So Kai goes first; he's going to Spellfire as javelin twice, then Fray.</p>
 
-**_[fifty-fifty, 75>=50] NO_**
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  9  ] 9</p>
 
-**Was Melysse?**
+<p id="mechanic" class="result">Rolling 1d20 1 times.<br>[  19  ] 19</p>
 
-**_[Mythic Complex] Vengeance Animals_**
+<p id="mechanic" class="aside">Nice, the first is barely a hit, the second a solid one.</p>
 
-**_[fifty-fifty, 98>=91] Exceptional NO_**
+<p id="mechanic" class="aside">The first group erupted at his feet and the second is a little bit away, so he does get his Spellfire bonus on the first but not the second (not that it matters).</p>
 
-*She wasn't even knocked down.*
+<p id="mechanic" class="result">Rolling 1d8 2 times.<br>[  5  ] 5<br>[  7  ] 7</p>
 
-*And she spotted a way around the boulder.*
+<p id="mechanic" class="aside">So one point to one, 4 points to the other; both gone.</p>
 
-It took a few minutes for them to climb back up to where the others waited. Dac was sitting, a bit miserably, while Melysse was nowhere in sight.
+<p id="mechanic" class="aside">And Fray.</p>
 
-"She took the game trail," Dac explained, and the three of them hurried after her.
+<p id="mechanic" class="result">Rolling 1d4 1 times.<br>[  4  ] 4</p>
 
-**Is the cave just as he remembers it?**
+<p id="mechanic" class="aside">10 total, so 4 points of damage; just enough to wipe out the remaining four 1 HD creatures.</p>
 
-**_[fifty-fifty, 66>=50] NO_**
+<p id="mechanic" class="aside">Kai is quite the glass cannon,  ha. Going to be interesting if he uses up all those reserves!</p>
 
-*So it's crumbling.*
+<p id="fiction">Kai let the spellfire fly from his hands, burning the vermin to ashes before they could swarm over him or his allies.</p>
 
-The broken stairs opened up into a flat, level area before the mouth of the cave, once swept bare and now overgrown with vines and trees.
+<p id="mechanic" class="aside">Just to note, Kai's Fray die goes down as he uses his repertoire. So first thing in the day he's pretty powerful. I may downtweak the power uses per day at some point; it's extremely powerful now but it'll even out in a few levels, I think.</p>
 
-The cave mouth, once delineated with ornately carved pillars and a heavy stone lintel, was half-obscured behind the massive slab of stone, long since tumbled from its perch.
+<p id="mechanic" class="aside">There's also the issue that, with a plus to Fray, he will always do at least one HD, instead of the 0 to whatever range; I like the flavor of it, he's literally crackling with magic and dangerous to the touch. May add in that the Fray die is dangerous to anyone in melee range, ally or not.</p>
 
-**So, Melysse has to recover an item from this cave and bring it to her employers, and then they'll heal her father.**
+<p id="mechanic" class="aside">I should roll up the threat for this area, too.</p>
 
-**_[fifty-fifty, 97>=91] Exceptional NO_**
+<p id="mechanic" class="result">Rolling 1d4 2 times.<br>[  2  ] 2<br>[  3  ] 3</p>
 
-**The father thing was a ruse?**
+<p id="mechanic" class="aside">So that's -1, making it a threat 2. Fair enough, this area can be a bit easier than expected; I'll roll again if they enter a substantially new area or just bump it to level +1 for each level down.</p>
 
-**_[fifty-fifty, 41<=50] YES_**
 
-*Ouch.*
-
-*Ok, so, they enter the medusa's lair. The first room..*
-
-*[Room Size] 20 x 30 ft [Exits] 2 [Exit Type] as expected [Secret Door?] No*
-
-The trio stepped out of the warm sun into a cool, dim, and spacious chamber once used for petitioners to cool their heels as they waited for their turn to see the Oracle.
-
-Kai remembered this room. He remembered the slight smell of roses, the coolness, the uncertainty of what they'd be greeted with.
-
-*Lets see if there's anything interesting here.*
-
-*[Type] caverns*
-
-*[Subtype] Cave village*
-
-*[Size] 1d6 locations*
-
-*Rolling 1d6 1 times.*
-
-*[  5  ] 5*
-
-*[Caverns room] Caved-in cavern*
-
-*Encounter? Yes*
-
-*Treasure? No*
-
-*Hazard? No*
-
-*Feature? No*
-
-*Macguffin? 1*
-
-*[Encounter] 1d4_T hit dice worth of foes numbering several Minions or Civilians and possibly an Elite*
-
-*[Type] Abominations*
-
-*[Sub-Type] Minion*
-
-*[Specific] Crawling vermin*
-
-*Rolling 1d6 1 times.*
-
-*[  2  ] 2*
-
-*Rolling 1d20 1 times.*
-
-*[  9  ] 9*
-
-*Vermin: HD 1, AC 7, Atk +1, Dmg 1d4, MV 30’, ML 7*
-
-*Spreads disease. If touches or hits, save or die in 3d6 days.*
-
-*Rolling 1d4 1 times.*
-
-*[  3  ] 3*
-
-**Is Melysse here?**
-
-**_[fifty-fifty, 77>=50] NO_**
-
-
-***
-
-
-*Okay, session over.*
-
-*Next session, I'll go ahead and do the combat with the vermin; I will likely allow two saves or look for a better disease mechanic.*
-
-As their eyes adjusted, Dac moved enthusiastically into the room. "This is pre-Dremaeric work," he exclaimed, leaning over to study one of the bas-relief murals more intently. Kai shrugged and moved towards the door he'd gone through on that visit two weeks ago. There was rubble everywhere. And then the spiders swarmed out.
-
-*So Kai goes first; he's going to Spellfire as javelin twice, then Fray.*
-
-*Rolling 1d20 1 times.*
-
-*[  9  ] 9*
-
-*Rolling 1d20 1 times.*
-
-*[  19  ] 19*
-
-*Nice, the first is barely a hit, the second a solid one.*
-
-*The first group erupted at his feet and the second is a little bit away, so he does get his Spellfire bonus on the first but not the second (not that it matters).*
-
-*Rolling 1d8 2 times.*
-
-*[  5  ] 5*
-
-*[  7  ] 7*
-
-*So one point to one, 4 points to the other; both gone.*
-
-*And Fray.*
-
-*Rolling 1d4 1 times.*
-
-*[  4  ] 4*
-
-*10 total, so 4 points of damage; just enough to wipe out the remaining four 1 HD creatures.*
-
-*Kai is quite the glass cannon,  ha. Going to be interesting if he uses up all those reserves!*
-
-Kai let the spellfire fly from his hands, burning the vermin to ashes before they could swarm over him or his allies.
-
-*Just to note, Kai's Fray die goes down as he uses his repertoire. So first thing in the day he's pretty powerful. I may downtweak the power uses per day at some point; it's extremely powerful now but it'll even out in a few levels, I think.*
-
-*There's also the issue that, with a plus to Fray, he will always do at least one HD, instead of the 0 to whatever range; I like the flavor of it, he's literally crackling with magic and dangerous to the touch. May add in that the Fray die is dangerous to anyone in melee range, ally or not.*
-
-*I should roll up the threat for this area, too.*
-
-*Rolling 1d4 2 times.*
-
-*[  2  ] 2*
-
-*[  3  ] 3*
-
-*So that's -1, making it a threat 2. Fair enough, this area can be a bit easier than expected; I'll roll again if they enter a substantially new area or just bump it to level +1 for each level down.*
 
 ***

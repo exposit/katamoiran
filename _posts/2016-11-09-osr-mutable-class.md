@@ -7,6 +7,10 @@ categories: ['mechanics']
 tags: [osr, class, mutable, 'scarlet heroes']
 comments: true
 published: true
+links:
+  - url: https://lurkerablog.wordpress.com/2012/05/15/zaks-awesome-psionics-system-plus-some-scrawling-from-me/
+    title: Zak's Awesome Psionics System
+    source: lurkerablog
 ---
 
 One of the great things about solo play is that you never, ever have to worry about hogging the spotlight or being overpowered. It gives you a chance to play those wild, crazy classes your usual gaming group would never tolerate ("I'm playing a Wild Mage. There's only a 3% chance I'll accidentally kill everyone"). <!--more-->It also gives you a chance to explore themes and situations your usual gaming group might run screaming from ("Cthulhu is totally okay, but I draw the line at all that kissy-face stuff"). And if a class has lots of moving parts to track, you're not inconveniencing anyone else ("hang on, I attack, I just need to cross-reference four charts and remember algebra to see if I hit").

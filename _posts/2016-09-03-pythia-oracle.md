@@ -11,7 +11,8 @@ links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia Oracle
   - url: http://dieheart.net/useful-stuff/solo-rpg-resources/
-    title: Solo RPG Resources (dieheart)
+    title: Solo RPG Resources
+    source: dieheart
   - url: http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1
     title: Mythic Game Master Emulator
   - url: http://www.rpgnow.com/product/89534/FU-The-Freeform-Universal-RPG

@@ -15,7 +15,8 @@ links:
   - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
     title: Pythia Changelog v. 1.2.0
   - url: http://thealexandrian.net/wordpress/2781/roleplaying-games/dice-of-destiny
-    title: Dice of Destiny (The Alexandrian)
+    title: Dice of Destiny
+    source: The Alexandrian
 ---
 
 Version 1.2.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. Big new features are a plot panel and [Mythic GM Emulator](http://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?it=1) support, with the kind permission of the author.

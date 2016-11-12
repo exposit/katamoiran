@@ -25,242 +25,219 @@ With the updated (post 1.0.0) oracles and generators there's very little you nee
 
 ***
 
-*The adventure begins...*
+<p id="fiction">The adventure begins...</p>
 
-*Let's figure some things out. First, the kingdom we're in.*
+<p id="mechanic" class="aside">Let's figure some things out. First, the kingdom we're in.</p>
 
-*Total area: 303891, subtype: Pre-Crusades, population density: 60, population factor: 4, kingdom age: 1700*
+<p id="mechanic" class="result">Total area: 303891, subtype: Pre-Crusades, population density: 60, population factor: 4, kingdom age: 1700<br>Total population: 18233460<br>#Cities: 3, #towns: 0<br>City/town populations (8k):  | 72591.0 | 30488.0 | 28353.0 | 220.0 | 720.0<br>Agrarian land percent: 30.0, percent wilderness: 60.0<br>Ruins: 123, active castles: 364</p>
 
-*Total population: 18233460*
+<p id="mechanic" class="aside">So it's a relatively large country, about the size of Australia. Population is relatively high, and it's old! 18 million people, too. Largest city is about 70k people, and there are 123 ruins, just under 365 active castles.</p>
 
-*#Cities: 3, #towns: 0*
+<p id="fiction">Kai awoke.</p>
 
-*City/town populations (8k):  | 72591.0 | 30488.0 | 28353.0 | 220.0 | 720.0*
+<p id="mechanic" class="result">[Habitations room] Kitchen<br>Encounter? No<br>Treasure? Yes, but hazard<br>Hazard? No<br>Feature? No<br>Macguffin? 16</p>
 
-*Agrarian land percent: 30.0, percent wilderness: 60.0*
+<p id="fiction">Somewhere nearby he could smell something baking, and his stomach rumbled.</p>
 
-*Ruins: 123, active castles: 364*
+<p id="mechanic" class="query">Is he alone in the room?</p>
 
-*So it's a relatively large country, about the size of Australia. Population is relatively high, and it's old! 18 million people, too. Largest city is about 70k people, and there are 123 ruins, just under 365 active castles.*
+<p id="mechanic" class="oracle">[unlikely, 64 &ge; 35] NO</p>
 
-Kai awoke.
+<p id="mechanic" class="query">Is the other person responsible for him being revived?</p>
 
-*[Habitations room] Kitchen*
+<p id="mechanic" class="oracle">[somewhat likely, 95 &ge; 94] Exceptional NO</p>
 
-*Encounter? No*
+<p id="mechanic" class="query">Are they a burglar?</p>
 
-*Treasure? Yes, but hazard*
+<p id="mechanic" class="oracle">[somewhat likely, 95 &ge; 94] Exceptional NO</p>
 
-*Hazard? No*
+<p id="mechanic" class="aside">So they belong here, and they're not expecting/responsible for his revival.</p>
 
-*Feature? No*
+<p id="mechanic" class="result">[Age - Any] Young Adult.</p>
 
-*Macguffin? 16*
+<p id="mechanic" class="result">[Gender] male</p>
 
-Somewhere nearby he could smell something baking, and his stomach rumbled.
+<p id="mechanic" class="result">[Motive] Generous [4] in context of a prized possession [3].</p>
 
-**Is he alone in the room?**
+<p id="mechanic" class="result">[Motive] Generous [2] in context of struggle [5].</p>
 
-**_[unlikely, 64>=35] NO_**
+<p id="fiction">He sat up and swung his feet off the stone platform he was lying on. It was dark black marble, ornately carved and gleaming a bit.</p>
 
-**Is the other person responsible for him being revived?**
+<p id="fiction">A sound made him look up.</p>
 
-**_[somewhat likely, 95>=94] Exceptional NO_**
+<p id="fiction">A young man, about his age, was staring at him with a mixture of horror and...</p>
 
-**Are they a burglar?**
+<p id="mechanic" class="result">[Stranger NPC Reaction] Admiring consent</p>
 
-**_[somewhat likely, 95>=94] Exceptional NO_**
+<p id="fiction">Admiration. Kai found it a bit unsettling.</p>
 
-*So they belong here, and they're not expecting/responsible for his revival.*
+<p id="mechanic" class="query">Is Kai wearing his clothes?</p>
 
-*[Age - Any] Young Adult.*
+<p id="mechanic" class="oracle">[fifty-fifty, 57 &ge; 50] NO</p>
 
-*[Gender] male*
+<p id="mechanic" class="aside">Why do my heroes keep starting out naked?</p>
 
-*[Motive] Generous [4] in context of a prized possession [3].*
+<p id="fiction">It was starting to come back to him in bits and pieces, but he still wasn't clear on what was happening.</p>
 
-*[Motive] Generous [2] in context of struggle [5].*
+<p id="fiction">Or where his clothes were.</p>
 
-He sat up and swung his feet off the stone platform he was lying on. It was dark black marble, ornately carved and gleaming.
+<p id="fiction">"Ahem," he said. "I seem to be at a disadvantage here."</p>
 
-A sound made him look up.
+<p id="fiction">"Where am I?"</p>
 
-A young man, about his age, was staring at him with a mixture of horror and...
+<p id="mechanic" class="query">Is it a museum?</p>
 
-*[Stranger NPC Reaction] Admiring consent*
+<p id="mechanic" class="oracle">[fifty-fifty, 65 &ge; 50] NO</p>
 
-Admiration. Kai found it a bit unsettling.
+<p id="mechanic" class="query">A private residence then. Of a famous art collector?</p>
 
-**Is Kai wearing his clothes?**
+<p id="mechanic" class="oracle">[fifty-fifty, 69 &ge; 50] NO</p>
 
-**_[fifty-fifty, 57>=50] NO_**
+<p id="mechanic" class="aside">Interesting. So as a statue, he was being prepared for shipment somewhere.</p>
 
-*Why do my heroes keep starting out naked?*
+<p id="fiction">"A warehouse -- one of Turan's," the man stuttered. He still seemed overwhelmed. "How are you -- alive?"</p>
 
-It was starting to come back to him in bits and pieces, but he still wasn't clear on what was happening.
+<p id="fiction">Kai shot him a look and leapt down from the platform. The room was filled with crates and paintings, some packed, some half so. The young man had ink-stained fingers and a bill of lading lay near his feet.</p>
 
-Or where his clothes were.
+<p id="mechanic" class="oracle">[Oracle Adjective] Duty</p>
 
-"Ahem," he said. "I seem to be at a disadvantage here."
+<p id="mechanic" class="query">So his first thought is of his duty. Was he part of a team seeking to deal with the medusa?</p>
 
-"Where am I?"
+<p id="mechanic" class="oracle">[likely, 70 &le; 75] YES</p>
 
-**Is it a museum?**
+<p id="mechanic" class="query">Was it officially sanctioned?</p>
 
-**_[fifty-fifty, 65>=50] NO_**
+<p id="mechanic" class="oracle">[fifty-fifty, 48 &le; 50] YES</p>
 
-**A private residence then. Of a famous art collector?**
+<p id="fiction">"The snake demon -- did it survive? And my companions?"</p>
 
-**_[fifty-fifty, 69>=50] NO_**
+<p id="mechanic" class="result">Attitude: Combative</p>
 
-*Interesting. So as a statue, he was being prepared for shipment somewhere.*
+<p id="fiction">"Demons? What are you talking about, statue?"</p>
 
-"A warehouse -- one of Turan's," the man stuttered. He still seemed overwhelmed. "How are you -- alive?"
+<p id="fiction">Kai controlled the sudeen sinking feeling, along with his expression. He took a deep breath. "What year is it?"</p>
 
-Kai shot him a look and leapt down from the platform. The room was filled with crates and paintings, some packed, some half so. The young man had ink-stained fingers and a bill of lading lay near his feet.
+<p id="mechanic" class="aside">Scene ends here, I think.</p>
 
-**_[Oracle Adjective] Duty_**
+<p id="mechanic" class="aside">How many years has it been since he was petrified?</p>
 
-**So his first thought is of his duty. Was he part of a team seeking to deal with the medusa?**
+<p id="mechanic" class="query">Is the scholar speaking a language Kai knows?</p>
 
-**_[likely, 70<=75] YES_**
+<p id="mechanic" class="oracle">[somewhat likely, 71 &ge; 65] NO</p>
 
-**Was it officially sanctioned?**
+<p id="mechanic" class="aside">So there's magic, granting him the language of these people.</p>
 
-**_[fifty-fifty, 48<=50] YES_**
+<p id="mechanic" class="query">Is this the largest city in this kingdom?</p>
 
-"The snake demoness -- did it survive? And my companions?"
+<p id="mechanic" class="oracle">[likely, 35 &le; 75] YES</p>
 
-*Attitude: Combative*
+<p id="mechanic" class="aside">Thread Added: discover where his team is</p>
 
-"Demons? What are you talking about, statue?"
+<p id="mechanic" class="query">Has it been more than a lifetime?</p>
 
-Kai controlled the sudden sinking feeling, along with his expression. He took a deep breath. "What year is it?"
+<p id="mechanic" class="oracle">[very likely, 2 &le; 16] Exceptional YES</p>
 
-*Scene ends here, I think.*
+<p id="mechanic" class="aside">So it's been many lifetimes. Before this kingdom, which is 1700 years old, was founded.</p>
 
-*How many years has it been since he was petrified?*
+<p id="mechanic" class="aside">What was his social status?</p>
 
-**Is the scholar speaking a language Kai knows?**
+<p id="mechanic" class="result">[How Much?] Less than expected.</p>
 
-**_[somewhat likely, 71>=65] NO_**
+<p id="mechanic" class="aside">So, he was a prince, but not the crown prince.</p>
 
-*So there's magic, granting him the language of these people.*
+<p id="mechanic" class="query">Was this due to birth order?</p>
 
-**Is this the largest city in this kingdom?**
+<p id="mechanic" class="oracle">[very likely, 35 &le; 85] YES</p>
 
-**_[likely, 35<=75] YES_**
+<p id="mechanic" class="query">Was he "the spare"?</p>
 
-*Thread Added: discover where his team is*
+<p id="mechanic" class="oracle">[fifty-fifty, 31 &le; 50] YES</p>
 
-**Has it been more than a lifetime?**
+<p id="mechanic" class="aside">So the second son, always in the shadows.</p>
 
-**_[very likely, 2<=16] Exceptional YES_**
+<p id="mechanic" class="query">Was he also less prominent because of his mother?</p>
 
-*So it's been many lifetimes. Before this kingdom, which is 1700 years old, was founded.*
+<p id="mechanic" class="oracle">[fifty-fifty, 87 &ge; 50] NO</p>
 
-*What was his social status?*
+<p id="mechanic" class="aside">So the crown prince was his full brother, no bastardy or remarriage.</p>
 
-*[How Much?] Less than expected.*
+<p id="mechanic" class="query">Did his kingdom fall within a few years of his disappearance?</p>
 
-*So, he was a prince, but not the crown prince.*
+<p id="mechanic" class="oracle">[unlikely, 44 &ge; 35] NO<br>[RANDOM] NPC negative "Travel Elements"</p>
 
-**Was this due to birth order?**
+<p id="mechanic" class="aside">So Dac has been fired, for no other reason than the prized statue from the exotic ruins got up and walked away on his watch.</p>
 
-**_[very likely, 35<=85] YES_**
+<p id="mechanic" class="aside">It's unlikely, given that it is the dark ages and the city is so small, that it was headed to a museum. So likely the statue was to be a prize for a king.</p>
 
-**Was he "the spare"?**
+<p id="mechanic" class="query">In Kai's day, mutables were known?</p>
 
-**_[fifty-fifty, 31<=50] YES_**
+<p id="mechanic" class="oracle">[fifty-fifty, 80 &ge; 50] NO</p>
 
-*So the second son, always in the shadows.*
+<p id="mechanic" class="query">So he has no idea what's happened to him. He was part of a unit sent to deal with the medusa. Did one of his allies insult it?</p>
 
-**Was he also less prominent because of his mother?**
+<p id="mechanic" class="oracle">[fifty-fifty, 66 &ge; 50] NO</p>
 
-**_[fifty-fifty, 87>=50] NO_**
+<p id="mechanic" class="query">Did it attack them first?</p>
 
-*So the crown prince was his full brother, no bastardy or remarriage.*
+<p id="mechanic" class="oracle">[fifty-fifty, 73 &ge; 50] NO</p>
 
-**Did his kingdom fall within a few years of his disappearance?**
+<p id="mechanic" class="query">Did one of his allies attack it?</p>
 
-**_[unlikely, 44>=35] NO_**
+<p id="mechanic" class="oracle">[fifty-fifty, 27 &le; 50] YES</p>
 
-**_[RANDOM] NPC negative "Travel Elements"_**
+<p id="mechanic" class="query">So they arrived to parlay with the creature and -- medusas were oracles, perhaps they were there to ask it a question?</p>
 
-*So Dac has been fired, for no other reason than the prized statue from the exotic ruins got up and walked away on his watch.*
+<p id="mechanic" class="oracle">Propose Danger</p>
 
-*It's unlikely, given that it is the dark ages and the city is so small, that it was headed to a museum. So likely the statue was to be a prize for a king.*
+<p id="mechanic" class="query">Seems logical. But it.. took a fancy to Kai?</p>
 
-**In Kai's day, mutables were known?**
+<p id="mechanic" class="oracle">[very likely, 1 &le; 16] Exceptional YES</p>
 
-**_[fifty-fifty, 80>=50] NO_**
+<p id="mechanic" class="aside">It fell madly in lust with him and tried to trade the knowledge they were seeking for him. One of his guards was working for a mutable and tried to assasinate her, and then was turned to stone.</p>
 
-**So he has no idea what's happened to him. He was part of a unit sent to deal with the medusa. Did one of his allies insult her?**
+<p id="mechanic" class="aside">This triggered Kai's mutability and the subsequent feedback knocked out most of them; the survivors fled, likely thinking their companions were dead.</p>
 
-**_[fifty-fifty, 66>=50] NO_**
+<p id="mechanic" class="aside">Leaving him and at least a few of his compatriots as prisoners of the medusa.</p>
 
-**Did it attack them first?**
+<p id="mechanic" class="aside">I think that's plenty of backstory for now.</p>
 
-**_[fifty-fifty, 73>=50] NO_**
+<p id="mechanic" class="aside">Thread Added: who restored Kai from a statue</p>
 
-**Did one of his allies attack it?**
+<p id="mechanic" class="query">Is Turan a wealthy merchant?</p>
 
-**_[fifty-fifty, 27<=50] YES_**
+<p id="mechanic" class="oracle">[very likely, 90 &ge; 85] NO</p>
 
-**So they arrived to parlay with the creature and -- medusas were oracles, perhaps they were there to ask her a question?**
+<p id="mechanic" class="aside">So he's a poor one, or not one at all. I'm going to say he's a gambling man; he finances expeditions into dangerous, dark places and sells the results, over what his agents keep. Things like statues and magical items and carpets.</p>
 
-**_Propose Danger_**
+<p id="mechanic" class="query">Are mutables widely known now?</p>
 
-**Seems logical. But it.. took a fancy to Kai?**
+<p id="mechanic" class="oracle">[fifty-fifty, 94 &ge; 91] Exceptional NO</p>
 
-**_[very likely, 1<=16] Exceptional YES_**
+<p id="mechanic" class="aside">They're absolutely unknown; nobody has ever heard of such a thing.</p>
 
-*She fell madly in lust with him and tried to trade the knowledge they were seeking for him. One of his guards was working for a mutable and tried to assasinate her, and then was turned to stone.*
+<p id="mechanic" class="aside">Amend that; there was a period shortly after Kai vanished where mutables began appearing.</p>
 
-*This triggered Kai's mutability and the subsequent feedback knocked out most of them; the survivors fled, likely thinking their companions were dead.*
+<p id="mechanic" class="query">Did they attempt a coup?</p>
 
-*Leaving him and at least a few of his compatriots as prisoners of the medusa.*
+<p id="mechanic" class="oracle">[fifty-fifty, 47 &le; 50] YES</p>
 
-*I think that's plenty of backstory for now.*
+<p id="mechanic" class="aside">Led by a charismatic mutable, they attempted to overthrow the king.</p>
 
-*Thread Added: who restored Kai from a statue*
+<p id="mechanic" class="query">Were they successful?</p>
 
-**Is Turan a wealthy merchant?**
+<p id="mechanic" class="oracle">[fifty-fifty, 11 &le; 50] YES<br>[RANDOM] Move toward a thread "Adjourn Fame"</p>
 
-**_[very likely, 90>=85] NO_**
+<p id="mechanic" class="aside">So they overthrew the king, but were unable to control their powers or themselves, and quickly fell into infighting and then obscurity, along with Kai's people.</p>
 
-*So he's a poor one, or not one at all. I'm going to say he's a gambling man; he finances expeditions into dangerous, dark places and sells the results, over what his agents keep. Things like statues and magical items and carpets.*
+<p id="mechanic" class="aside">Kai doesn't know of any of this; Dac knows that the previous civilization was destroyed by monsters in human form who could wield the powers of many different monsters at once. But that's just all legend and superstition, of course.</p>
 
-**Are mutables widely known now?**
+<p id="mechanic" class="aside">Going to need a nice name for Kai's people and for Dac's.</p>
 
-**_[fifty-fifty, 94>=91] Exceptional NO_**
+<p id="mechanic" class="aside">Right now I'm picturing Dac as Kai's Watson, at least for a bit.</p>
 
-*They're absolutely unknown; nobody has ever heard of such a thing.*
+<p id="mechanic" class="aside">So it's roughly as if a noble from ancient Rome woke up in the Dark Ages. If ancient Rome was a mageocracy.</p>
 
-*Amend that; there was a period shortly after Kai vanished where mutables began appearing.*
+<p id="mechanic" class="aside">World building; we know lots now. Medusas are seers and lusty; two Facts to add to them.</p>
 
-**Did they attempt a coup?**
-
-**_[fifty-fifty, 47<=50] YES_**
-
-*Led by a charismatic mutable, they attempted to overthrow the king.*
-
-**Were they successful?**
-
-**_[fifty-fifty, 11<=50] YES_**
-
-**_[RANDOM] Move toward a thread "Adjourn Fame"_**
-
-*So they overthrew the king, but were unable to control their powers or themselves, and quickly fell into infighting and then obscurity, along with Kai's people.*
-
-*Kai doesn't know of any of this; Dac knows that the previous civilization was destroyed by monsters in human form who could wield the powers of many different monsters at once. But that's just all legend and superstition, of course.*
-
-*Going to need a nice name for Kai's people and for Dac's.*
-
-*Right now I'm picturing Dac as Kai's Watson, at least for a bit.*
-
-*So it's roughly as if a noble from ancient Rome woke up in the Dark Ages. If ancient Rome was a mageocracy.*
-
-*World building; we know lots now. Medusas are seers and lusty; two Facts to add to them.*
 
 ***

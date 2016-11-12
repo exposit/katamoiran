@@ -9,7 +9,8 @@ comments: true
 published: true
 links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/statrollers
-    title: Python Stat Rollers (katamoiran)
+    title: Python Stat Rollers
+    source: katamoiran
 ---
 
 I hate rolling stats. By the time I get to stat rolling, I've usually already got the character 'in mind' that I'm creating. Maybe I rolled up an interesting hook for the backstory, maybe I've got a mechanic I want to try out, maybe there's a class that inspired me, or maybe there's just a new supplement I want to explore. And then I get a 60 point dud stat array.

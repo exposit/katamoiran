@@ -11,7 +11,8 @@ links:
   - url: https://www.samcodes.co.uk/project/markov-namegen/
     title: Procedural Name Generator
   - url: https://github.com/exposit/katamoiran/tree/master/python/markov
-    title: Markov Name Generator script (katamoiran)
+    title: Markov Name Generator script
+    source: katamoiran
 ---
 
 Similar in spirit to this [Procedural Name Generator](https://www.samcodes.co.uk/project/markov-namegen/) except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.
