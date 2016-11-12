@@ -47,7 +47,7 @@ group: Home
       {% if post.content contains '<!--more-->' %}
         {{ post.content | split:'<!--more-->' | first }}
       {% else %}
-        {{ post.content |truncatehtml | truncatewords: 60 }}
+        {{ post.content | truncatehtml | truncatewords: 60 }}
       {% endif %}
     </div>
     <footer>

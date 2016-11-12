@@ -6,6 +6,12 @@ body {
 	margin:1px 0 0;
 	font-family: 'Lora', serif;
 	font-size: 0.8em;
+	background:
+	  linear-gradient(
+	    to right,
+	    #a3a3a3,
+	    #e1e1e1
+	  );
 }
 
 a {
@@ -28,7 +34,7 @@ a:hover {
 .rounded {
     border-radius: 10px;
     padding: 20px;
-    background-color: #efefef;
+    background-color: #e1e1e1;
     margin: 5px;
 }
 
@@ -41,7 +47,7 @@ a:hover {
 }
 
 .color3 {
-    background: #efefef;
+    background: #e1e1e1;
 }
 
 .color4 {
@@ -138,6 +144,10 @@ pre {
 }
 
 #footer {
+	font-size: .8em;
+  letter-spacing: 0.0525em;
+	text-transform: uppercase;
+	text-align: center;
 }
 
 /* clouds */
@@ -261,19 +271,27 @@ time {
   height: 85%;
   clear: both;
   bottom:0;
-	font-size: 1.25em;
+}
+
+#sidebar-extender h3 {
+	padding-top: 5px;
+	margin-top: 5px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 #sidebar-extender h4 {
 	margin-top: 0px;
 	margin-bottom: 0px;
 	text-transform: capitalize;
+	font-size: 1.10em;
 }
 
 #sidebar-extender ul {
   list-style-type: none;
 	margin-top: 0px;
 	margin-left: 8px;
+	font-size: 1em;
 }
 
 /* nav bar */
@@ -494,12 +512,6 @@ time {
 	font-size: 1em;
 }
 
-.archivelink {
-	text-align: center;
-	padding-top: 10px;
-}
-
-
 .content ul {
 	list-style: disc;
 }
@@ -511,3 +523,78 @@ time {
 .zero-unit h1 {
 	font-size: 1.5em;
 }
+
+/* CSS Ninja collapsing stylesheet */
+
+#sidebar-archive-tree h3 {
+	padding-top: 5px;
+	margin-top: 5px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#side-archive-tree ol.tree
+{
+	padding: 0 0 0 20px;
+	width: 200px;
+	padding-top: -5px;
+}
+#side-archive-tree li
+	{
+		position: relative;
+		margin-left: -15px;
+		list-style: none;
+	}
+#side-archive-tree li.file
+	{
+		margin-left: -10px !important;
+	}
+#side-archive-tree li.file a
+		{
+			padding-left: 4px;
+			text-decoration: none;
+			display: block;
+		}
+#side-archive-tree mark
+		{
+			white-space:nowrap;
+			color: #000;
+		}
+#side-archive-tree li input
+	{
+		position: absolute;
+		left: 0;
+		margin-left: 0;
+		opacity: 0;
+		z-index: 2;
+		cursor: pointer;
+		height: 1em;
+		width: 1em;
+		top: 0;
+	}
+#side-archive-tree li input + ol
+		{
+			margin: -0.938em 0 0 -44px; /* 15px */
+			height: 1em;
+		}
+#side-archive-tree li input + ol > li { display: none; margin-left: -14px !important; padding-left: 1px; }
+#side-archive-tree li label
+	{
+		cursor: pointer;
+		display: block;
+		padding-left: 0px;
+	}
+
+#side-archive-tree li input:checked + ol
+	{
+		margin: -1.25em 0 0 -44px; /* 20px */
+		padding: 1.563em 0 0 60px;
+		height: auto;
+	}
+#side-archive-tree li input:checked + ol > li {
+  display: block;
+  margin: 0 0 0.125em;  /* 2px */
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+#side-archive-tree li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }
