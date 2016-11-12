@@ -1,6 +1,6 @@
 
 {% for node in site.tags %}
-    {% if node[1].size > 1 %}
+    {% if node[1].size > 0 %}
 			{% assign fontsize = node[1].size | divided_by: 10.0 | plus: 0.25 %}
 			{% if node[1].size >= 20 %}
 				{% assign fontsize = 2.25 %}
