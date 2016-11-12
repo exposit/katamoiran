@@ -595,8 +595,8 @@ time {
 }
 #side-archive-tree li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }
 
-/* fonts for styling Pythia play logs */
-/* mechanic has sub classes corresponding to Pythia format tags. Fiction just has sub styles like <i> and <b> so shouldn't need special styling unless you want to. */
+/* styles for styling Pythia play logs generated with the html_complete_css logform */
+/* Mechanic has sub-classes corresponding to Pythia format tags. Fiction just has sub tags like <i> and <b> so shouldn't need special styling unless you want to. */
 
 #mechanic {
 	opacity: 0.5;
@@ -630,9 +630,4 @@ time {
 
 #fiction {
 	opacity: 1.0;
-}
-
-#fiction .scene-break {
-	width: 50%;
-	text-align: center;
 }
