@@ -10,7 +10,7 @@ layout: default
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
 
-        <p><time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, words: {% assign wordCount = page.content | number_of_words %}{{ wordCount }}</p></p>
+        <p><time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}</time>, {% assign wordCount = page.content | number_of_words %}{{ wordCount }} words</p></p>
       </header>
 
       <div class="content">
