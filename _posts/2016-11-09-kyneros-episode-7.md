@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kyneros Episode 7
-date: 2016-11-09T12:00:00ZUS
+date: 2016-11-09T12:07:00ZUS
 modified: 2016-11-09
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
