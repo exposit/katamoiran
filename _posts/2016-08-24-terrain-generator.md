@@ -36,7 +36,7 @@ Decide on a way to generate content for each square and if you're using weather 
 Now pick a starting square; in this example, I chose the capital city of Seraxis since my party was leaving there (headed to Helase, a city about which I knew very little). Each 'square' on your map is going to represent a block of terrain, generally the amount of terrain a normal human could cross in a single *time unit* if it were flat ground. What exactly a *time unit* is is up to you and your system. I use "the distance an uninjured, average human could travel in a single day over good terrain in nice weather" or roughly 30 miles.
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/seraxis.png" alt="Seraxis" style="width: 200px; height: 200px"/><br>
 <i> the blue square means nothing</i>
 </center>
 
@@ -63,7 +63,7 @@ Step 4. Move your heroes in the direction indicated. As they move into a square,
 ><b>[Terrain] heavy forest (2)</b>
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/seraxis_to_helase_leg1.png" alt="Seraxis to Helase, first leg" style="width: 200px; height: 200px"/>
 </center>
 
 Step 5. Handle all of your "enter a new hex" bookkeeping as your system indicates. Roll for encounters, features, events, weather changes. Dock rations. Run a scene if something interesting occurs. Mark off any time units spent in travel. Repeat this step for any additional time units spent in this square.
@@ -73,7 +73,7 @@ Now repeat steps three to five as many times as needed. If you're using a set nu
 And that's about all there is to it; the goal is to have enough info for a decently repeatable experience if your heroes come this way again, but not have a ton of information to keep track of that you likely won't need. My heroes' four day journey to Helase took about five days (bad weather, bad GM forgetting to adjust for terrain difficulty, I mean, they found an unexpected road) and the final map looked like this:
 
 <center>
-<img src="{{ site.url }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 350px; height: 300px"/>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/seraxis_to_helase.png" alt="Seraxis to Helase" style="width: 350px; height: 300px"/>
 </center>
 
 <div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/python/terrain_generator" class="btn btn-info">terrain generator scripts</a></div>
