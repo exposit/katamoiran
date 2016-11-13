@@ -341,7 +341,7 @@ time {
 {
 	background:#d1d1d1;
   border-radius: 10px;
-  border                  : 1px solid #ddd;
+  border                  : 2px solid #ddd;
   border-bottom           : none;
   box-shadow              : 0 0 0.5em rgba(0,0,0,0.0625);
 }

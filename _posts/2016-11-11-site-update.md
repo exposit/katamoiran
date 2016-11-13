@@ -17,6 +17,8 @@ I've updated every single post, especially the *Kyneros* logs, and should be set
 
 I'm reading my way through the Bundle of Holding's OSR bundle now; Castle Gargantuan is next on the list. So maybe I'll get to use (and show off the screenshots from) the mapping panels in Pythia. Or maybe I'll revisit an older campaign!
 
-Let me know if anything breaks.
+Let me know if anything doesn't seem to be working as intended. I had to dust off some rusty css skills (I use "skills" loosely) but I'm pretty happy with it now.
+
+11/12: I updated Pythia with a logform that should be "drop in" ready, as long as you have access to your blog's css. The first seven logs in the Kyneros campaign now use that output, if you want to see what it looks like!
 
 ***
