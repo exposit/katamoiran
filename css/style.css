@@ -628,6 +628,10 @@ time {
   color: #252525;
 }
 
+#mechanic.ephemeral {
+  color: #252525;
+}
+
 #fiction {
 	opacity: 1.0;
 }
