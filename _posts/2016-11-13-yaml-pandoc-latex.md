@@ -31,6 +31,10 @@ I've been experimenting with logforms and the way the logs out of Pythia are dis
 
 Turns out it's *hard* to figure LaTex out. Simple things like "make all italic and bold font a specific color" aren't trivial. It's a very oblique process where everyone seems to know the basics but nobody thinks to mention them. And where the documentation is as clear as mud and has lots and lots of curly brackets. So many curly brackets.
 
+
+<!--more-->
+
+
 "Automated" means Pythia pushing properly formatted text, with YML header. Then using pandoc to converts that markdown file to pdf. Also not trivial -- logforms are complicated and the more complicated they are, the more tedious to debug. I'm still working on the logform, in fact. It handles mechanics blocks properly and fiction blocks properly, but not sub-formatting in mechanics blocks. But it's good enough.
 
 Anyway, this is what works.
