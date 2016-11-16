@@ -1,10 +1,22 @@
 /* Katamoiran css */
 
+:root{
+
+    --main-font: 'Taviraj', serif;
+    
+    --display-font: 'Della Respira', serif;
+
+    --tag-font: 'Della Respira', serif;
+
+    --title-font: 'The Girl Next Door', cursive;    
+    
+}
+
 body {
 	text-align:center;
 	padding:0;
 	margin:1px 0 0;
-	font-family: 'Lora', serif;
+	font-family: var(--main-font);
 	font-size: 0.8em;
 	background:
 	  linear-gradient(
@@ -63,7 +75,7 @@ ul {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Arima Madurai', cursive;
+    font-family: var(--display-font);
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 }
@@ -145,7 +157,7 @@ pre {
 
 #footer {
 	font-size: .8em;
-  letter-spacing: 0.0525em;
+    letter-spacing: 0.0525em;
 	text-transform: uppercase;
 	text-align: center;
 }
@@ -319,7 +331,7 @@ time {
 	font-size: 1.25em;
 	line-height:32px;
 	padding:0 15px;
-	font-family: "Arima Madurai", serif;
+	font-family:  var(--display-font);
 }
 
 #primary_nav_wrap ul li
@@ -394,18 +406,17 @@ time {
 }
 
 #site-title {
-  margin-top: 0px;
-  font-family: 'Arima Madurai', cursive;
-  color: #9d0006;
-	color: #ffffff;
-  font-size: 1.75em;
-  font-weight: bold;
-  line-height: 40px;
-	text-transform: uppercase;
-	text-shadow: 2px 2px #3e0002;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-	margin-top: 25px;
+    margin-top: 0px;
+    font-family:  var(--title-font);
+    color: #9d0006;
+    color: #ffffff;
+    font-size: 1.92em;
+    font-weight: bold;
+    line-height: 40px;
+    text-shadow: 2px 2px #3e0002;
+    margin-bottom: -10px;
+    padding-bottom: 0px;
+    margin-top: 25px;
 }
 
 #site-title a {
@@ -413,20 +424,20 @@ time {
 }
 
 #site-description {
-  font-family: 'Homemade Apple', cursive;
-  color: #ccc;
-  margin: 0 0 4px 16px;
-  line-height: 0.8;
-  font-size: 1.0em;
-  font-weight: normal;
+    font-family:  var(--fancy-font);
+    color: #ccc;
+    margin: 0 0 4px 16px;
+    line-height: 0.8;
+    font-size: 1.0em;
+    font-weight: normal;
 }
 
 #site-tagline {
-	font-family: 'Arima Madurai', cursive;
+	font-family: var(--tag-font); 
 	color: #ccc;
 	margin: 0 0 4px 16px;
 	line-height: 0.8;
-	font-size: 1.0em;
+	font-size: 1.3em;
 	font-weight: normal;
 }
 
