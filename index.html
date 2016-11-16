@@ -12,7 +12,12 @@ group: Home
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
       <h4>
-        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
+        {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
+        {% endif %}
       </h4>
     </hgroup></header>
     <div class="content">
@@ -40,7 +45,12 @@ group: Home
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
       <h4>
-        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
+        {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
+        {% endif %}
       </h4>
     </hgroup></header>
     <div class="content">
@@ -64,7 +74,12 @@ group: Home
       <ul>
         {% for post in site.posts limit:6 offset:3 %}
         <li>
-          <time>{{ post.date | date: "%B %d, %Y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y" }}</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
+        {% endif %}&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
           {% unless forloop.last %}
           <li>|</li>

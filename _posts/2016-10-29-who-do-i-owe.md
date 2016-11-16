@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Who Do I Owe and Why? Chart
-date: 2016-10-29T12:00:00ZUS
-modified: 2016-10-29
+date: 2016-10-29 12:00:00 -0800
 categories: ['random content', 'scripts']
 tags: [random chart, one roll, backstory, character, python]
 comments: true

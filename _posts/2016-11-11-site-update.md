@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Site Redesign
-date: 2016-11-11T23:05:00ZUS
-modified: 2016-11-11
+date: 2016-11-11 23:05:00 -0800
 categories: ['site']
 tags: [general, site]
 comments: true

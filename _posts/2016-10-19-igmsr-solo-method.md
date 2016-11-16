@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Imaginary GM System Redux (iGMsr)
-date: 2016-10-19T12:00:00ZUS
-modified: 2016-08-23
+date: 2016-10-19 12:00:00 -0800
 categories: ['house rules', 'soloing', 'solo frameworks']
 tags: [solo, solo gaming, tool, emulator, igms, igmsr]
 comments: true

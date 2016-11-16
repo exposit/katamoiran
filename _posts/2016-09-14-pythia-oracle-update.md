@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pythia Oracle Update 0.6.0
-date: 2016-09-14T12:00:00ZUS
+date: 2016-09-14 12:00:00 -0800
 modified: 2016-09-14
 categories: ['pythia']
 tags: [pythia, python, tool, update]

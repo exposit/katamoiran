@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Kyneros Episode 2
-date: 2016-11-09T12:02:00ZUS
-modified: 2016-11-09
+date: 2016-11-09 12:02:00 -0800
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'pre-1.0.0']
 comments: true

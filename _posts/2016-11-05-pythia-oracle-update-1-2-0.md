@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Pythia Oracle Update 1.2.0
-date: 2016-11-05T00:00:00ZUS
-modified: 2016-11-05
+date: 2016-11-05 00:00:00 -0800
 categories: ['pythia']
 tags: [solo, pythia, python, tool, update]
 comments: true

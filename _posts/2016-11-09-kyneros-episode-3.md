@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Kyneros Episode 3
-date: 2016-11-09T12:03:00ZUS
-modified: 2016-11-09
+date: 2016-11-09 12:03:00 -0800
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
 comments: true

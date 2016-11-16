@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Here We Go
-date: 2016-08-23T12:00:00ZUS
-modified: 2016-08-23
+date: 2016-08-23 12:00:00 -0800
 categories: ['site']
 tags: [intro, general, site]
 comments: false

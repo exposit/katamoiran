@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Creating Mythic-Style Charts
-date: 2016-09-18T12:00:00ZUS
-modified: 2016-11-06
+date: 2016-09-18 12:00:00 -0800
 categories: ['soloing', 'scripts']
 tags: [solo, mythic, python, tool, mod, script]
 comments: true

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Secrets and Triggers
-date: 2016-10-23T12:00:00ZUS
-modified: 2016-10-23
+date: 2016-10-23 12:00:00 -0800
 categories: ['pythia', 'pythia spotlight']
 tags: [solo, pythia, python, tool, tutorial]
 series: "Pythia Spotlight"
