@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Pretty PDFs From Play Logs
-date: 2016-11-13 03:08:09 -08:00
-modified: 2016-11-15 04:57:00 -08:00
+date: 2016-11-13 03:08:09
 categories: [pythia]
 tags: [pythia, tools, logs, formatting]
 published: true
@@ -98,3 +97,5 @@ If your paths aren't set, you can try putting "/usr/local/texlive/2016basic/bin/
 Is this the best way? I don't know. It's the way I came up with. After eight bleepin' hours trying various things, well past the point where the drive behind the idle thought of "hey, I'd like to view my logs in pdf the same way I view them on my blog" turned into "I will conquer this &!#$!in' thing if it kills me".
 
 And it is working. Fonts are displaying properly as far as I can see, just gray and black instead of all black. Which is all I wanted. So I could read nice pdfs of my play logs. Now it's too late to read anything. Goodnight.
+
+
