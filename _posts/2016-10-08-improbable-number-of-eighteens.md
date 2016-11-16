@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stat Rolling With Python
-date: 2016-10-08 12:00:00 -0800
+date: 2016-10-08 12:00:00  
 categories: ['scripts']
 tags: [solo, cheating, python, script]
 comments: true

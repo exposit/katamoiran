@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dispensing with Attributes
-date: 2016-10-14 12:00:00 -0800
+date: 2016-10-14 12:00:00  
 categories: ['house rules', 'soloing']
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true

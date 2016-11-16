@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Pythia Oracle
-date: 2016-09-03 12:00:00 -0800
+date: 2016-09-03 12:00:00  
 categories: ['pythia']
 tags: [pythia, python, tool]
 comments: true

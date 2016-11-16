@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Logging
-date: 2016-11-09 14:20:00 -0800
+date: 2016-11-09 14:20:00  
 categories: ['house rules', 'soloing']
 tags: [solo, solo gaming, theory]
 comments: true

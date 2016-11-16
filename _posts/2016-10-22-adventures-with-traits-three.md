@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adventures with Traits Three
-date: 2016-10-22 12:00:00 -0800
+date: 2016-10-22 12:00:00  
 categories: ['house rules', 'soloing']
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true

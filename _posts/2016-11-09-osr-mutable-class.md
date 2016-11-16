@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSR Mutable Class
-date: 2016-11-09 12:10:00 -0800
+date: 2016-11-09 12:10:00  
 categories: ['mechanics']
 tags: [osr, class, mutable, 'scarlet heroes']
 comments: true
