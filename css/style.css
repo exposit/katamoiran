@@ -8,8 +8,8 @@
 
     --tag-font: 'Della Respira', serif;
 
-    --title-font: 'The Girl Next Door', cursive;    
-    
+    --title-font: 'The Girl Next Door', cursive;
+
 }
 
 body {
@@ -46,7 +46,7 @@ a:hover {
 .rounded {
     border-radius: 10px;
     padding: 20px;
-    background-color: #e1e1e1;
+    background-color: #fff;
     margin: 5px;
 }
 

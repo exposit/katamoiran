@@ -99,8 +99,11 @@ The only limit on this is that you must be able to justify it with your characte
 Finally, choose a Fray die based on your archetype. If it comes up in play that you need a class, use the one your Fray die is based on.
 
 Thief: skilled, expert, rogue, pilot
+
 Cleric: well-rounded, fighter with a little magic, healer
+
 Fighter: fighter, barbarian, soldier
+
 Magic User: mage, psychic, wild talent
 
 **Advancement**

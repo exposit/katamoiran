@@ -44,7 +44,9 @@ __Option 3__
 
 If you really want to simplify, you can simply say that your hero can cast any spells that fit into his magic attribute's purview, at a level (and cost) up to that trait's max value. Decide if you're a generalist or a specialist. If you're a generalist, you can do whatever type of magic your magic trait supports ("I'm a Gandalf-style wizard, 2" would support fireworks, barring paths, knowing stuff).
 
-If you're a specialist, choose up to one "thing you can do well" per point in the trait and divide your points in the trait between them. Also mark the total as the trait's total value. Also choose one "thing you can never do". If you need to accomplish something that fits into your purview, you probably can. For general magic, use your total trait value; for magic that falls into one of your specialties, it costs one point less from the total cost (minimum one). Additionally, you can add the point value of the specialty to both the effect (and the base cost) if you so choose. For spells outside your purview, use your base traits but pay twice the cost.
+If you're a specialist, choose up to one "thing you can do well" per point in the trait and divide your points in the trait between them. Also mark the total as the trait's total value. Now choose one "thing you can never do". 
+
+If you need to accomplish something that fits into your purview, you probably can. For general magic of this type, use your total trait value; for magic that falls into one of your specialties, it costs one point less from the total cost (minimum one). Additionally, you can add the point value of the specialty to both the effect (and the base cost) if you so choose (making your 'level' effectively that many points higher for specialty spells). For spells outside your purview but not forbidden by it, use your base magic trait but pay twice the cost (figure out how much it would cost if it were in your purview, then double it).
 
 *Our first level wizard with the archetype "I'm a stock fantasy wizard, 2" is now "I'm desert mage who harnesses the power of the sun and heat for healing (1) and destruction (1) but never necromancy, 2". For healing or destruction spells, he can use up to 3 (2 + 1) trait points. For other spells related the sun and heat, it's just 2. Not related to the sun or heat? 2, but the cost is doubled. Necromancy? Not possible.*
 
@@ -52,12 +54,13 @@ __Casting Spells__
 
 Nobody memorizes spells anymore. Instead, (taking a page from Microlite20) each spell you cast costs you hit points. This means magic use is *important* -- only the most powerful wizards will use minor magics for trivial tasks.
 
-Cost is a flat 2x the level of the spell or the spell's trait value (minimum of 1). You can cast spells of a level up to one half the level of whatever trait gives you spells. Casting a spell at a higher level costs HP as if it were that higher level (and you have to have a high enough magic trait to do it).
+Cost is a flat 2x the level of the spell or the spell's trait value (minimum of 1). If you're using one of the options that doesn't use a strict spell list, cost doubles for every level over your magic trait's value (figure out the normal cost if you were of that level, then double it).
 
 If you cast a spell that drops you to 0 or fewer HP, you've just poured the last of your life into the magic. Make two saving throws, versus base difficulty (9) plus however much the spell cost you in HP, then choose your outcomes, assigning the results of each dice as you prefer, one to "Spell", one to "Caster". Regardless of what you choose, the spell's effects will be dramatic (this is how curses unto the seventh generation happen). If your hero does die, the GM should make it legendary -- it's fueled by a life, after all!
 
-(Spell) The spell goes off better than intended (name a beneficial result within the scope and flavor of the spell) OR the spell performs in a very unpredictable way with increased power (GM's option if it's bad or indifferent for you or someone you care about).
-(Caster) You fall unconscious immediately, waking in an hour or two with 1 HP, OR you immediately lapse into the "dying state" (or just die outright).
+Spell:  (Success) The spell goes off better than intended (name a beneficial result within the scope and flavor of the spell) OR (Failure) the spell performs in a very unpredictable way with increased power (GM's option if it's bad or indifferent for you or someone you care about).
+
+Caster: (Success) You fall unconscious immediately, waking in an hour or two with 1 HP, OR (Failure) you immediately lapse into the "dying state" (or just die outright).
 
 HP loss from spell casting is regained exactly as any other HP is.
 
