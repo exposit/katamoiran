@@ -18,7 +18,7 @@
 {% endif %}
 
 <div id="next_prev" class="rounded">
-  {% if prev_post %}<a href="{{ prev_post.url }}">&laquo; {{ prev_post.title }}</a>{% endif %}
+  {% if prev_post %}<a href="{{ site.baseurl }}{{ prev_post.url }}">&laquo; {{ prev_post.title }}</a>{% endif %}
   {% if next_post and prev_post %}|{% endif %}
-  {% if next_post %}<a href="{{ next_post.url}}">{{ next_post.title }} &raquo;</a>{% endif %}
+  {% if next_post %}<a href="{{ site.baseurl }}{{ next_post.url}}">{{ next_post.title }} &raquo;</a>{% endif %}
 </div>
