@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kyneros Episode 6
-date: 2016-11-09 12:06:00  
+date: 2016-11-09 12:06:00
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
-comments: true
+comments: false
 published: true
 extender: 'kyneros'
 tagline: "the remaining party approaches the ruined city"

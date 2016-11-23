@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kyneros Episode 5
-date: 2016-11-09 12:05:00  
+date: 2016-11-09 12:05:00
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
-comments: true
+comments: false
 published: true
 extender: 'kyneros'
 tagline: "the journey to the ruined mage city continues; an unexpected storm interrupts"

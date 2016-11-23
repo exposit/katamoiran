@@ -5,7 +5,7 @@ date: 2016-11-20 19:26:44
 imagefolder: 2016-11-20
 categories: ['play logs', 'dunscaith']
 tags: [dunscaith, 'scarlet heroes', 'finian']
-comments: true
+comments: false
 published: true
 extender: 'dunscaith'
 tagline: "kidnapped, hauled across the ocean, and thrown into a dark hole in the ground -- and then things take a turn for the worse"

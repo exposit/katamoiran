@@ -5,7 +5,7 @@ date: 2016-11-22 14:41:59
 imagefolder: 2016-11-20
 categories: ['play logs', 'dunscaith']
 tags: [dunscaith, 'scarlet heroes', 'finian']
-comments: true
+comments: false
 published: true
 extender: 'dunscaith'
 tagline: "an illness, and a journey"

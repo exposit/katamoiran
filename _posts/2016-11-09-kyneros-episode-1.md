@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kyneros Episode 1
-date: 2016-11-09 12:01:00  
+date: 2016-11-09 12:01:00
 categories: ['play logs', 'kyneros']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'pre-1.0.0']
-comments: true
+comments: false
 published: true
 extender: 'kyneros'
 tagline: "the first part of the adventure of Kai Valeyn, a statue with no history"

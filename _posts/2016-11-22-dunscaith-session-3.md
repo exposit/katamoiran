@@ -5,7 +5,7 @@ date: 2016-11-22 12:26:55
 imagefolder: 2016-11-20
 categories: ['play logs', 'dunscaith']
 tags: [dunscaith, 'scarlet heroes', 'finian']
-comments: true
+comments: false
 published: true
 extender: 'dunscaith'
 tagline: "and that's when things got dangerous -- and more than a bit weird"
