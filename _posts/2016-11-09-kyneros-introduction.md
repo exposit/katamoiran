@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kyneros Overview
-date: 2016-11-09 12:00:00  
+title: Kyneros Introduction
+date: 2016-11-09 12:00:00
 categories: ['game setup', 'kyneros']
 tags: [solo, kyneros, overview]
 comments: false

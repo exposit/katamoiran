@@ -2,7 +2,9 @@
 
 <section id="sidebar-extender" class='rounded color2'>
 
-<h3>Related</h3>
+<h3>Related Posts</h3>
+
+<br>
 
 {% if page.extender %}
   <div>
@@ -10,7 +12,7 @@
 			<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
       <ul>
         	{% for post in site.categories[node] %}
-          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatehtml | truncate: 20}}</a></li>
           {% endfor %}
       </ul>
       {% endfor %}
@@ -21,7 +23,7 @@
 				<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
         <ul>
           {% for post in site.categories[node] %}
-          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatehtml | truncate: 20 }}</a></li>
           {% endfor %}
         </ul>
       {% endfor %}

@@ -19,8 +19,9 @@ links:
   - url: https://en.wikibooks.org/wiki/LaTeX/Colors
     title: LaTex Colors
     source: wikibooks
-tagline:
-extender:
+  - url: https://fonts.google.com/
+    title: Cormorant, Lora, or Trirong
+    source: Google Fonts
 ---
 
 I've been experimenting with logforms and the way the logs out of Pythia are displayed. I like being able to read my logs as pdfs, and pandoc makes a very pretty "book" almost by default out of markdown, but I wanted a couple of things that were much harder to accomplish than expected.
@@ -70,11 +71,11 @@ header-includes:
 ---
 ```
 
-That's what you put in the YAML header to make your pandoc-created Markdown-to-LaTex pdf out of one of Pythia's ".md" logs, with "black" colored fiction blocks and "light gray" everything else.
+That's what you put in the YAML header to make your pandoc-created Markdown-to-LaTex pdf out of one of Pythia's ".md" logs, with "black" colored fiction blocks and "light gray" everything else. Assuming your font supports it.
 
 Basically, we're setting all the base fonts except the regular (non italic, non bold) to light gray (since Pythia outputs everything not tagged "plain" as italic, bold, or bold-italic), and then reverting any italics or bold inside the plain blocks back to black. It's not perfect, because we rely on the logform to tag exceptions with "\plain", and it completely ignores the case of differing formatting inside a single mechanics block, but it's pretty close.
 
-Obviously you can change the colors around; define whatever colors you'd like to use, using any of the patterns here: (LaTex colors at wikibooks)[https://en.wikibooks.org/wiki/LaTeX/Colors]. Or just adjust the definition for "light-gray"; the closer the ".60" is to 1.0, the darker the color. I would suggest .30, .60, or .90.
+Obviously you can change the colors around; define whatever colors you'd like to use, using any of the patterns here: [LaTex colors at wikibooks](https://en.wikibooks.org/wiki/LaTeX/Colors). Or just adjust the definition for "light-gray"; the closer the ".60" is to 1.0, the darker the color. I would suggest .30, .60, or .90.
 
 Or just go html:
 
@@ -82,7 +83,7 @@ Or just go html:
 \definecolor{light-gray}{HTML}{c1c1c1}
 ```
 
-Pick a different font if you'd like, too. Heck, pick ALL different fonts. I think you need it installed. For the main font, I'd suggest [Cormorant, Lora, or Trirong](https://fonts.google.com/?category=Serif&selection.family=Cormorant+Garamond|Lora|Trirong), ordered from most "print-like" to most "modern" (not technical terms, ha).
+Pick a different font if you'd like, too. Heck, pick ALL different fonts. I think you need it installed. For the main font, I'd suggest [Cormorant, Lora, or Trirong](https://fonts.google.com/), ordered from most "print-like" to most "modern" (not technical terms, ha).
 
 This is the command in my terminal that I use to generate the actual pdf:
 
@@ -97,5 +98,3 @@ If your paths aren't set, you can try putting "/usr/local/texlive/2016basic/bin/
 Is this the best way? I don't know. It's the way I came up with. After eight bleepin' hours trying various things, well past the point where the drive behind the idle thought of "hey, I'd like to view my logs in pdf the same way I view them on my blog" turned into "I will conquer this &!#$!in' thing if it kills me".
 
 And it is working. Fonts are displaying properly as far as I can see, just gray and black instead of all black. Which is all I wanted. So I could read nice pdfs of my play logs. Now it's too late to read anything. Goodnight.
-
-

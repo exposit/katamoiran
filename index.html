@@ -3,6 +3,31 @@ layout: default
 group: Home
 ---
 
+{% for post in site.posts %}
+{% if post.pinned %}
+<section class="pinned">
+
+    <article class="hero-unit rounded color3">
+      <header><hgroup>
+        <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+      </hgroup></header>
+      <div class="content">
+        {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+        {% else %}
+          {{ post.content |truncatehtml | truncatewords: 60 }}
+        {% endif %}
+      </div>
+      <footer>
+        <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+      </footer>
+    </article>
+  </section>
+{% endif %}
+{% endfor %}
+
 <section class="hero">
   {% for post in site.posts limit:1 %}
 
@@ -37,7 +62,7 @@ group: Home
 
 <section class="zero">
 
-  {% for post in site.posts offset:1 limit:2 %}
+  {% for post in site.posts offset:1 limit:3 %}
 
   <article class="zero-unit rounded">
     <header><hgroup>
@@ -72,7 +97,7 @@ group: Home
 <section class="previous-posts">
   <article class="previous-posts-unit rounded inlinelist">
       <ul>
-        {% for post in site.posts limit:6 offset:3 %}
+        {% for post in site.posts limit:6 offset:4 %}
         <li>
           {% assign wordCount = post.content | number_of_words %}
         <time>{{ post.date | date: "%B %d, %Y" }}</time>

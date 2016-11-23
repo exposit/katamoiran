@@ -10,9 +10,7 @@ layout: default
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
 
-
         {% assign wordCount = page.content | number_of_words %}
-
 
         <p><time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</time></p>
 
@@ -21,16 +19,20 @@ layout: default
       <div class="content">
       {{ content }}
       </div>
-        
+
         <p><time>{{ wordCount }} words, written {{ page.date | date: "%B %d, %Y @ %I:%M %P" }}{% if page.modified %}, updated {{ page.modified | date: "%B %d, %Y @ %I:%M %P" }}</time></p>
         {% endif %}
       <footer>
       {% include post_meta.html %}
       <!--</footer>-->
     </article>
+    
+    {% include next_in_category.html %}
+
     {% assign charCount = page.content | size %}
     {% if charCount > 4000 %}
       {% include post_extender.html %}
     {% endif %}
+
     <!--{% include post_recent_posts.html %}-->
     {% include post_comment.html %}

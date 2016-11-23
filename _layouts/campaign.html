@@ -10,17 +10,20 @@ group: Solos
 
   	{{ page.content }}
 
-		<ul>
-		  {% for post in site.categories[page.category] reversed %}
-		    {% if post.url %}
+		{% for item in page.display_groups %}
 
-			      <li><time>{{ post.date | date: "%m.%d.%Y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-						{% if post.tagline %}<li class="tagline">...{{ post.tagline}}</li>{% endif %}
-						<br>
+				<ul>
+				  {% for post in site.categories[item] reversed %}
+				    {% if post.url %}
 
-		    {% endif %}
-		  {% endfor %}
-		</ul>
+					      <li><time>{{ post.date | date: "%m.%d.%Y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+								{% if post.tagline %}<li class="tagline">...{{ post.tagline}}</li>{% endif %}
+
+				    {% endif %}
+				  {% endfor %}
+				</ul>
+
+		{% endfor %}
 
 	</section>
 </div>

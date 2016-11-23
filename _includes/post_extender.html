@@ -1,12 +1,10 @@
 <section id="post-extender" class='rounded color2'>
 
-    <h3>Related Content</h3>
-
 {% if page.extender %}
-  <div>
+  <!--<div>
     	{% for node in page.extender %}
-			<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
       <ul class='inlinelist'>
+        <li><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span> : </li>
         	{% for post in site.categories[node] %}
             {% unless post.title == page.title %}
               <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -17,12 +15,12 @@
           {% endfor %}
       </ul>
       {% endfor %}
-  </div>
+  </div>-->
 {% else %}
   <div>
       {% for node in page.categories %}
-				<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
         <ul class='inlinelist'>
+          <li><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span> : </li>
           {% for post in site.categories[node] %}
             {% unless post.title == page.title %}
               <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

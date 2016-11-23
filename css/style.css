@@ -3,7 +3,7 @@
 :root{
 
     --main-font: 'Taviraj', serif;
-    
+
     --display-font: 'Della Respira', serif;
 
     --tag-font: 'Della Respira', serif;
@@ -99,7 +99,7 @@ pre {
 }
 
 .btn {
-    background-color: #e1e1e1;
+    background-color: #f8f8f8;
     border: none;
     padding: 15px 32px;
 		border-radius: 10px;
@@ -107,6 +107,7 @@ pre {
     text-decoration: none;
     display: inline-block;
     font-size: 12px;
+    margin-left: 80%
 }
 
 .btn-info {
@@ -149,6 +150,13 @@ pre {
 #sidebar {
   float: right;
   width: 30%;
+}
+
+#next_prev {
+	font-size: .8em;
+    letter-spacing: 0.0525em;
+	text-transform: uppercase;
+	text-align: center;
 }
 
 #footer {
@@ -433,7 +441,7 @@ time {
 }
 
 #site-tagline {
-	font-family: var(--tag-font); 
+	font-family: var(--tag-font);
 	color: #ccc;
 	margin: 0 0 4px 16px;
 	line-height: 0.8;

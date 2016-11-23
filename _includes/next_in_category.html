@@ -1,0 +1,24 @@
+{% if page.extender %}
+  {% assign category = page.extender %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% if post.url == page.url %}
+      {% assign post_index0 = forloop.index0 %}
+      {% assign post_index1 = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  {% for post in posts %}
+    {% if post_index0 == forloop.index %}
+      {% assign next_post = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+      {% assign prev_post = post %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div id="next_prev" class="rounded">
+  {% if prev_post %}<a href="{{ prev_post.url }}">&laquo; {{ prev_post.title }}</a>{% endif %}
+  {% if next_post and prev_post %}|{% endif %}
+  {% if next_post %}<a href="{{ next_post.url}}">{{ next_post.title }} &raquo;</a>{% endif %}
+</div>

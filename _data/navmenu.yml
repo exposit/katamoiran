@@ -12,12 +12,16 @@
 - name: Solos
   link: /solos.html
   dropdown: &dropdown
+  - name: Dunscaith (newest)
+    link: /dunscaith/
   - name: Kyneros
     link: /kyneros/
   - name: Noir Nights
     link: /noir/
   - name: Ylinde
     link: /ylinde/
+  - name: Misc
+    link: /misc/
 - name: Archives
   link: /archives.html
 - name: Categories
