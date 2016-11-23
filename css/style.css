@@ -152,9 +152,9 @@ pre {
   width: 30%;
 }
 
-#next_prev {
+#nextprev {
 	font-size: .8em;
-    letter-spacing: 0.0525em;
+  letter-spacing: 0.0525em;
 	text-transform: uppercase;
 	text-align: center;
 }
