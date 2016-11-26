@@ -39,7 +39,7 @@ I just can't help digressing, can I?
 
 <a name="relevantstuff">
 
-Back on topic, which is... oh, right, S\lay w/Me. It was written to put sex and nudity back in the GM's toolbox -- to elevate "will I have sex with this person" to the same level of conflict and drama and tension as "will I hit them with my sword" which is, frankly, *awesome*.
+Back on topic, which is... oh, right, S\lay w/Me. It was written to put sex (and by extension nudity, not that they're the same thing) back in the GM's toolbox -- to elevate "will I have sex with this person" to the same level of conflict and drama and tension as "will I hit them with my sword" which is, frankly, *awesome*.
 
 It encourage sex between your character and the GM's, who may or may not be a monster, while a monster tries to kill you. It telegraphs this from the first page, which features a monster and a lover ("the lover is willing"). But having sex is not required; you get mechanical benefits if you sleep with or don't sleep with the lover -- you just have to face the decision and make it one way or the other.
 
