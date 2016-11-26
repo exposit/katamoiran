@@ -2,8 +2,6 @@
 
 :root{
 
-    --main-font: 'Taviraj', serif;
-
     --display-font: 'Della Respira', serif;
 
     --tag-font: 'Della Respira', serif;
@@ -82,7 +80,7 @@ h1, h2, h3, h4, h5 {
 	padding-bottom: 0px;
 }
 
-h4.centered {
+h4 .centered {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -624,7 +622,7 @@ time {
 }
 #side-archive-tree li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }
 
-/* styles for styling Pythia play logs generated with the html_complete_css logform */
+/* styles for styling Pythia actual play generated with the html_complete_css logform */
 /* Mechanic has sub-classes corresponding to Pythia format tags. Fiction just has sub tags like <i> and <b> so shouldn't need special styling unless you want to. */
 
 #mechanic {
