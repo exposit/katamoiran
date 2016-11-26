@@ -60,7 +60,7 @@ _The adventure begins..._
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -74,7 +74,7 @@ _The adventure begins..._
 
 
 ***
-<p class='centered'>I</p>
+<p class='center-italic-title'>I</p>
 ***
 
 
@@ -130,7 +130,7 @@ A pale human servant dressed in the livery of House Ozian bows to you and tells 
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -154,7 +154,7 @@ I politely murmur my thanks for the dance and slip back into the crowd, making m
 
 
 ***
-<p class='centered'>I</p>
+<p class='center-italic-title'>I</p>
 ***
 
 
@@ -184,7 +184,7 @@ You could kiss her -- or more -- and you're not sure why but you very badly want
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -201,7 +201,7 @@ She has her head on my shoulder, afterwards, as we both take a moment to regain 
 *[  5  ] 5 + 0 = 5*
 
 ***
-<p class='centered'>i</p>
+<p class='center-italic-title'>i</p>
 ***
 
 She raises her head, and in the dim light you see that she is crying. "But you don't," she said. "It's a spell, a special one built to snare you by Feir."
@@ -226,7 +226,7 @@ The curtain is flung aside, and a vizier, flanked by a pair of guardsmen, haul y
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -244,7 +244,7 @@ I force myself to relax, exuding my normal careless, casual charm, even though d
 
 
 ***
-<p class='centered'>i</p>
+<p class='center-italic-title'>i</p>
 ***
 
 
@@ -262,7 +262,7 @@ You drop to one knee, gasping for breath, only dimly aware of Maylia's cry of di
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -276,7 +276,7 @@ I push back to my feet, unsteady, but I can't let her hit Maylia -- she's too po
 
 
 ***
-<p class='centered'>I</p>
+<p class='center-italic-title'>I</p>
 ***
 
 
@@ -298,7 +298,7 @@ The crowd laughs at this, and Feir's expression turns murderous. A fist of force
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -322,7 +322,7 @@ It doesn't matter, though. She's triumphant, and I know her heart. I know I won'
 
 
 ***
-<p class='centered'>I</p>
+<p class='center-italic-title'>I</p>
 ***
 
 
@@ -346,7 +346,7 @@ You give Maylia a panicked look, and she returns it with an impassive, cold one 
 
 
 ***
-<p class='centered'>you</p>
+<p class='center-italic-title'>you</p>
 ***
 
 
@@ -366,7 +366,7 @@ It takes me a moment to register that I'm not dead and I'm not in Hell. My ribs 
 
 
 ***
-<p class='centered'>end</p>
+<p class='center-italic-title'>end</p>
 ***
 
 
