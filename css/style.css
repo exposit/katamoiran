@@ -656,3 +656,8 @@ time {
 #fiction {
 	opacity: 1.0;
 }
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
