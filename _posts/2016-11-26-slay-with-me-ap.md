@@ -22,6 +22,8 @@ links:
 
 So... this is a little hard for me to post, because, well, you may not know this about me, but I am cripplingly shy. It takes me a dozen tries to hit "submit" on anything, even the most innocuous and polite comment. I am *right this moment* considering deleting this entire essay. But I'll be all vulnerable for a moment and try and tell you some stuff. Context for why I decided to play a game called S\lay w/Me.
 
+<!--more-->
+
 First, I am of the first group to grow up without [naked gamers](http://adept-press.com/ideas-and-discourse/other-essays/naked-went-the-gamer/) (I think he named it that so people would google, as I just did looking for the link, "Ron Edwards naked").
 
 Second, I missed the narrative gaming slash Forge era almost entirely. My first exposure to rpgs was first edition D&D. I have a shared gaming group that meets once a week and has, more or less, non-stop for the past twenty years. And yet, somehow, other than a few discussions of GNS theory and the odd forum post, I missed the entire thing. This is really a topic for another time, but I mention it so if you wonder why I'm so pleased by something that's a decade old you understand. I have been the one who shows up and plays because they like the company and the story but only tolerates the mechanics as a necessary evil for my *entire gaming career*. I am going to continue being thrilled for a while (possibly forever).
