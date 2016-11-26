@@ -7,7 +7,6 @@ categories: ['actual play']
 tags: ['slay with me', 'narrative']
 comments: false
 published: true
-extender: 'exile'
 tagline: "intrigue in the Crystal Court"
 links:
   - url: http://adept-press.com/ideas-and-discourse/other-essays/naked-went-the-gamer/
