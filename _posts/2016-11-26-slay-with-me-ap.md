@@ -75,7 +75,7 @@ I didn't worry about consistency or foreshadowing or making a good story, becaus
 <p id="mechanic" class="result">Rolling 1d2 1 times.<br>[  2  ] 2 + 0 = 2</p>
 <p id="mechanic" class="aside">The monster is at 5; the lover, 2.</p>
 <p id="fiction">The Palace of the Seven Jewels sparkles as if on fire, lit from within by thousands of tiny motes summoned just for this occasion -- the grand masked Ball of Choosing.</p>
-<p id="fiction">I arrive in true demonic fashion; I simply appear, dressed in perfectly tailored, perfectly appropriate garb, with a magical mask that resembles a stylized, fanged demon.</p>
+<p id="fiction"><em>[you]</em> I arrive in true demonic fashion; I simply appear, dressed in perfectly tailored, perfectly appropriate garb, with a magical mask that resembles a stylized, fanged demon.</p>
 <p id="fiction">The gathered nobles move about like brightly jeweled gadflies, their movements fey but proscribed by eternal rules. The court is endlessly treacherous -- and endlessly entertaining.</p>
 <p id="fiction">The new queen is determined by blood and power and cleverness; she must be of the right bloodline and clever enough to succeed at a challenge laid down by the Council of the Aged. And powerful enough to defend herself. You are interested to see how it all plays out.</p>
 <p id="fiction">As you are announced, you sense a sudden ripple of interest in the crowd that wasn't there before, but do not know what causes it. None of the fae look at you or acknowledge you, but you somehow know something is afoot.</p>
