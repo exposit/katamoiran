@@ -657,9 +657,9 @@ time {
 	opacity: 1.0;
 }
 
-.centered {
+h4 .centered {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 10em
+  width: 10em;
 }
