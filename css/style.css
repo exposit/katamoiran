@@ -75,16 +75,15 @@ ul {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: var(--display-font);
+  font-family: var(--display-font);
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 }
 
 h4 .centered {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   text-align: center;
-  width: 10em;
+  width: 5em;
   text-transform: uppercase;
 }
 
