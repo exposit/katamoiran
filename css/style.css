@@ -82,6 +82,14 @@ h1, h2, h3, h4, h5 {
 	padding-bottom: 0px;
 }
 
+h4.centered {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 10em;
+  text-transform: uppercase;
+}
+
 h5 {
 	font-size: 110%;
 }
@@ -616,7 +624,7 @@ time {
 }
 #side-archive-tree li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }
 
-/* styles for styling Pythia actual play generated with the html_complete_css logform */
+/* styles for styling Pythia play logs generated with the html_complete_css logform */
 /* Mechanic has sub-classes corresponding to Pythia format tags. Fiction just has sub tags like <i> and <b> so shouldn't need special styling unless you want to. */
 
 #mechanic {
@@ -633,7 +641,6 @@ time {
 
 #mechanic.aside {
 	font-style: italic;
-
 }
 
 #mechanic.oracle {
@@ -655,11 +662,4 @@ time {
 
 #fiction {
 	opacity: 1.0;
-}
-
-h4 .centered {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  width: 10em;
 }
