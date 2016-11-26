@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slay with Me Actual Play
-date:
+date: 2016-11-26 11:46:54
 imagefolder: 2016-11-26
 categories: ['actual play']
 tags: ['slay with me', 'narrative']
