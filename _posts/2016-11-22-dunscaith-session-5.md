@@ -3,7 +3,7 @@ layout: post
 title: Dunscaith Session 5
 date: 2016-11-22 14:50:23
 imagefolder: 2016-11-20
-categories: ['play logs', 'dunscaith']
+categories: ['actual play', 'dunscaith']
 tags: [dunscaith, 'scarlet heroes', 'finian']
 comments: false
 published: true
