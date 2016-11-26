@@ -48,7 +48,7 @@ As far as solo goes, it was actually surprisingly straightfoward to run. Pick a 
 
 I have always been the kind of GM who believes my job is to forge the heroes by putting them through hell; light shines brightest in the dark and there is no awesome big damn heroes moment without a lot of blood and defeat first. The mechanics of S\w/M don't care about any of that stuff; but they get out of the way of it. You don't *have* to include suffering but you can with impunity -- there's no rules saying you can or can't, only that the monster has to try to kill you and you have to try to move towards the lover and/or the goal.
 
-I feel like I still pulled my punches too much. The next time I do this I will try to be more daring and vulnerable and explicit and less trite and soft (or maybe I won't, maybe I like it this way, I haven't decided). And I want to try again.
+I feel like I still pulled my punches too much. The next time I do this I will try to be more daring and vulnerable and explicit and edgy. Less trite and safe and soft and out of focus. Or maybe I won't, maybe I like it this way, I haven't decided yet. But I do want to try again.
 
 What you see in a block of text by "I" (the director or gm) or "you" (the author or player) is literally what I thought up while I was wearing that hat *at that moment*.  If something bad happens or a wrinkle is introduced or a fact is mentioned, it is mentioned as I thought of it. With the exception of a few fixed typos and a couple of word changes, everything is as I first jotted it down.
 
