@@ -61,7 +61,7 @@ _The adventure begins..._
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -75,7 +75,7 @@ _The adventure begins..._
 
 
 ***
-<h4 class='centered'>I</h4>
+<p class='centered'>I</p>
 ***
 
 
@@ -131,7 +131,7 @@ A pale human servant dressed in the livery of House Ozian bows to you and tells 
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -155,7 +155,7 @@ I politely murmur my thanks for the dance and slip back into the crowd, making m
 
 
 ***
-<h4 class='centered'>I</h4>
+<p class='centered'>I</p>
 ***
 
 
@@ -185,7 +185,7 @@ You could kiss her -- or more -- and you're not sure why but you very badly want
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -202,7 +202,7 @@ She has her head on my shoulder, afterwards, as we both take a moment to regain 
 *[  5  ] 5 + 0 = 5*
 
 ***
-<h4 class='centered'>i</h4>
+<p class='centered'>i</p>
 ***
 
 She raises her head, and in the dim light you see that she is crying. "But you don't," she said. "It's a spell, a special one built to snare you by Feir."
@@ -227,7 +227,7 @@ The curtain is flung aside, and a vizier, flanked by a pair of guardsmen, haul y
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -245,7 +245,7 @@ I force myself to relax, exuding my normal careless, casual charm, even though d
 
 
 ***
-<h4 class='centered'>i</h4>
+<p class='centered'>i</p>
 ***
 
 
@@ -263,7 +263,7 @@ You drop to one knee, gasping for breath, only dimly aware of Maylia's cry of di
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -277,7 +277,7 @@ I push back to my feet, unsteady, but I can't let her hit Maylia -- she's too po
 
 
 ***
-<h4 class='centered'>I</h4>
+<p class='centered'>I</p>
 ***
 
 
@@ -299,7 +299,7 @@ The crowd laughs at this, and Feir's expression turns murderous. A fist of force
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -323,7 +323,7 @@ It doesn't matter, though. She's triumphant, and I know her heart. I know I won'
 
 
 ***
-<h4 class='centered'>I</h4>
+<p class='centered'>I</p>
 ***
 
 
@@ -347,7 +347,7 @@ You give Maylia a panicked look, and she returns it with an impassive, cold one 
 
 
 ***
-<h4 class='centered'>you</h4>
+<p class='centered'>you</p>
 ***
 
 
@@ -367,7 +367,7 @@ It takes me a moment to register that I'm not dead and I'm not in Hell. My ribs 
 
 
 ***
-<h4 class='centered'>end</h4>
+<p class='centered'>end</p>
 ***
 
 
