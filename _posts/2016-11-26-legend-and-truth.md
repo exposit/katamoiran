@@ -22,11 +22,11 @@ links:
 
 *Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf">pdf</a>.*
 
+<!--more-->
+
 ## Solo Intertwined Play
 
 Why? Because it's exciting to see other people's takes on your character. Because it's fun to work in a shared world. Because it's a rainy day and I'm in currently in love with *Stranger Things*. Because why not?
-
-<!--more-->
 
 Inspiration is tricky; it's hard to know where ideas come from, especially when you're running low on sleep and high on coffee. Dabbling in PBEM, IF, MUDs, for sure. Reading about narrative games, likely. *Trollbabe* and *Stranger Things* and *In a Wicked Age* and *S\\lay w/Me*, definitely. If I've missed something, let me know.
 
