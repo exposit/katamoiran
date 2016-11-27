@@ -20,7 +20,7 @@ links:
     source: katamoiran
 ---
 
-*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf">pdf</a>.*
+*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf">pdf</a> Click through the link and hit "download" to save properly.*
 
 <!--more-->
 
