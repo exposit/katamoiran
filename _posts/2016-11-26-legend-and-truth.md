@@ -20,9 +20,7 @@ links:
     source: katamoiran
 ---
 
-*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a pdf.*
-
-<div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf" class="btn btn-info">pdf format</a></div>
+*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf">pdf</a>.*
 
 ## Solo Intertwined Play
 
@@ -137,3 +135,7 @@ If Isabeth is ever in a situation where convincing someone she's a wicked sorcer
 Jim's Play is Truth for Jim. Con has both hands, is a teetotaler, doesn't like feisty red-headed witches, and has just banished a sorceress to the Cold Wastes. If he's ever in a situation where he needs to know how to summon a demon, however, he may decide that that part really did happen.
 
 In that case, it is now Truth, and he takes a +2 for the rest of the attempt to summon the demon (and any time he tries to in the future).
+
+***
+
+<div id="button"><a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf" class="btn btn-info">pdf format</a></div>
