@@ -62,7 +62,7 @@ Read *Trollbabe*, or the sadly incomplete *Stranger Things*, and you essentially
 
 Use *Stranger Things'* wounds and healing, but *Trollbabe's* relationships and modifiers. Use whatever magic you like. And use the following reroll categories instead of the ones in *Stranger Things'*.
 
-*An emotion | A found item | Hidden or specialized knowedge | A supernatural effect or ability | A geographical feature | An element like iron, fire, or bone | A carried item | A sudden ally*
+*An emotion, A found item, Hidden or specialized knowedge, A supernatural effect or ability, A geographical feature | An element like iron, fire, or bone, A carried item, A sudden ally*
 
 You can use one category five times or one element from each of five different categories per session (or refresh, if you prefer not to play in sessions), just as in *Stranger Things*.
 
