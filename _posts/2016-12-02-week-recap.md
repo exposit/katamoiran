@@ -23,6 +23,8 @@ links:
 
 Week in recap, no particular order. Just to keep the posting going on this blog and to remind myself I have, in fact, achieved stuff.
 
+<!--more-->
+
 #### Added a new panel to Pythia that takes source files and outputs inspiration.
 
 It's not live yet (but probably will be sometime today) since it needs more testing. It does two major things.
