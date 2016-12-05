@@ -26,6 +26,8 @@ A short log in which I demonstrate that I might, in fact, have some sort of mult
 
 Anyway, no long rambly essay this time. This AP is an experiment with *Trollbabe*/*Stranger Things*, continuing my exploration of narrative games and featuring my character from the *S\lay w/Me* [actual play](https://exposit.github.io/katamoiran/actual%20play/2016/11/26/slay-with-me-ap.html).
 
+<!--more-->
+
 I **really** like the *Trollbabe* system, more so when it's expanded by *Stranger Things*. It's light, elegant, and plays very fast. That said, I'm finding it's hard to play both sides of a game that's not very heavy on the "game" aka rules. Entirely my failing, I think -- I enjoyed the play but I think I'm going to convert the character to something a little more substantial for the next sequence.
 
 Probably *Lady Blackbird* with some homebrew. I'm pretty fickle and I've been really enjoying working with *Lady Blackbird* to a pretty ridiculous degree. Like I'm thinking I could literally convert every character I have active. And it's very tempting...
@@ -33,8 +35,6 @@ Probably *Lady Blackbird* with some homebrew. I'm pretty fickle and I've been re
 By the way, did I mention earlier how much of a relief discovering the idea of different "stances" was? All these years, thinking I was trying my best to play "in character" but never being really satisfied with the tension between what was best for me-as-character and what was best for the-character-as-story. Such a relief to have a frame for it, and to know that other people play purely from authorial stance and it's not robbing the GM of authority or making the world less valid or playing the "game" part wrong.
 
 *Note that everything after "the adventure begins" is my thoughts from a few days ago, as I actually played.*
-
-<!--more-->
 
 ***
 
