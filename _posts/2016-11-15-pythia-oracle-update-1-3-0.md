@@ -20,7 +20,9 @@ links:
 Version 1.3.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. Not too many new features, but some major tweaks under the hood. I rewrote the core display routine, ripped out the concept of "modes" entirely, and made a bunch of convenience tweaks.
 
 As always, see the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list.
+
 <!--more-->
+
 NOTE: If you need to edit your Pythia save files, please consider using a json editor like [this one](https://github.com/josdejong/jsoneditor) instead of editing the files manually. There's an online version, or you can download the release, unzip, and open example #4 in the examples directory in a modern browser to use it locally.
 
 This is much safer and more effective than mucking around with the raw json and much less likely to ruin your game because of a missed comma.
