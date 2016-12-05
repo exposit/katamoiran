@@ -17,11 +17,16 @@ links:
   - url: https://bankuei.wordpress.com/2011/08/31/stances-101/
     title: Stances 101
     source: Deeper in the Game
+  - url: https://exposit.github.io/katamoiran/actual%20play/2016/11/26/slay-with-me-ap.html
+    title: Slay With Me Actual Play
+    source: katamoiran
 ---
 
 A short log in which I demonstrate that I might, in fact, have some sort of multiple personality disorder. Not that that's a surprise to me -- my GM notes are littered with notes to my future self like "Hahaha, this is where they discover she's a traitor!" and "Oh, he's a ghost, that's so evil, I bet the party freaks out!". Past-me is hilarious but disturbingly pleased at tormenting my players.
 
-Anyway, no long rambly essay this time. This AP is an experiment with Trollbabe/Stranger Things, continuing my exploration of narrative games. I **really** like the *Trollbabe* system, more so when it's refined by *Stranger Things*. It's light, elegant, and plays very fast. That said, I'm finding it's hard to play both sides of a game that's not very heavy on the "game" aka rules. Entirely my failing, I think -- I enjoyed the play but I think I'm going to convert the character to something a little more substantial for the next sequence.
+Anyway, no long rambly essay this time. This AP is an experiment with Trollbabe/Stranger Things, continuing my exploration of narrative games and featuring my character from the S\lay w/Me [actual play](https://exposit.github.io/katamoiran/actual%20play/2016/11/26/slay-with-me-ap.html).
+
+I **really** like the *Trollbabe* system, more so when it's expanded by *Stranger Things*. It's light, elegant, and plays very fast. That said, I'm finding it's hard to play both sides of a game that's not very heavy on the "game" aka rules. Entirely my failing, I think -- I enjoyed the play but I think I'm going to convert the character to something a little more substantial for the next sequence.
 
 Probably *Lady Blackbird* with some homebrew. I'm pretty fickle and I've been really enjoying working with *Lady Blackbird* to a pretty ridiculous degree. Like I'm thinking I could literally convert every character I have active. And it's very tempting...
 
