@@ -36,6 +36,8 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 
 <!--more-->
 
+***
+
 <!-- actual adventure starts here -->
 <p id="fiction">The adventure begins...</p>
 <p id="mechanic" class="aside">And here we go. I think I understand the rules. It's funny, I sometimes have to read the rules over and over before they "stick" all the way through to actual play but I've never encountered rules I had to read over and over just to "get"!</p>
@@ -178,4 +180,5 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 <p id="fiction">I sheath my sword and glance up at the darkness over the gate, where the entire court is watching, mouths open. "If you don't mind," I say, rapping a knuckle on the closed gate, "I could use a drink."</p>
 <p id="fiction">The power of our bargain means I can enter without asking, at will, for the next three days but there's no sense in demonstrating that right now. They look spooked enough as it is.</p>
 <p id="mechanic" class="aside">I think there'll be a huge feast, and maybe we'll meet some actors who encourage us to care about solving this problem fully. Or maybe something else will happen... it's up to the dice!</p>
-<p id="fiction">---</p>
+
+***
