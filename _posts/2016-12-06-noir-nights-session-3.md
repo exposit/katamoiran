@@ -17,7 +17,7 @@ links:
 
 This one's pretty combat heavy so it runs a bit longer; just read the dark text if you're not interested in my terrible math skills. Or read both and bask in your superior ability to add things together correctly and not forget to add in damage modifiers. It wouldn't be so bad if I forgot to do it consistently, you know?
 
-I also experiment with my "CAGE" system which morphs into "iGM" and then "iGMsr" and then I completely forget to use it after that. I'm seeing a trend here...
+I also forget to use Perilous Intersections completely, experiment with my "CAGE" system which morphs into "iGM" and then "iGMsr" over the course of the game, and then I completely forget to use anything after that. I'm seeing a trend here...
 
 <!--more-->
 
