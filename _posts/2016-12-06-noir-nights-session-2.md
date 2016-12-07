@@ -20,7 +20,7 @@ links:
 
 And here's where I start using Triggers and Secrets. I think I was writing the panel roughly concurrently. They make for a seriously exciting game, but as I mention in the [Spotlight](https://exposit.github.io/katamoiran/pythia/pythia%20spotlight/2016/10/23/secrets-and-triggers.html) post, too many of them in one game make for a seriously pulpy experience.
 
-In a more sedate game too many can get a little hard to justify, but in a game where [a man with a gun](http://quoteinvestigator.com/2014/03/31/gun-hand/) can walk in at any moment it's just exciting.
+In a more sedate game too many can get a little hard to justify, but in a pulpy, hard-boiled game where [a man with a gun](http://quoteinvestigator.com/2014/03/31/gun-hand/) can walk in at any moment it's just exciting.
 
 <!--more-->
 
