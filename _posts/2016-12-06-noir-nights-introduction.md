@@ -2,7 +2,7 @@
 layout: post
 title: Noir Nights Introduction
 date: 2016-12-06 18:05:50
-categories: ['theory', 'noir nights']
+categories: ['game setup', 'noir nights']
 tags: ['noir', 'vampires', 'traits']
 comments: true
 published: true

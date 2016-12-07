@@ -2,7 +2,7 @@
 layout: post
 title: Dunscaith Introduction
 date: 2016-11-20 10:49:45
-categories: ['theory', 'dunscaith']
+categories: ['game setup', 'dunscaith']
 tags: [dunscaith, 'scarlet heroes']
 comments: true
 published: true
