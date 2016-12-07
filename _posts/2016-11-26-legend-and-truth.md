@@ -21,9 +21,9 @@ links:
     source: katamoiran
 ---
 
-*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegentTruth_v1">pdf</a> of this post.*
+*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruth_v1">pdf</a> of this post.*
 
-*Edit 12-06: There's now a systemless <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegentTruth_NoSystem_v2.pdf">version 2</a>.*
+*Edit 12-06: There's now a systemless <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruth_NoSystem_v2.pdf">version 2</a>.*
 
 <!--more-->
 
