@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Adventures with Traits Three
-date: 2016-10-22 12:00:00  
-categories: ['house rules', 'soloing']
+date: 2016-10-22 12:00:00
+categories: ['mechanics', 'soloing']
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
 published: true
@@ -44,7 +44,7 @@ __Option 3__
 
 If you really want to simplify, you can simply say that your hero can cast any spells that fit into his magic attribute's purview, at a level (and cost) up to that trait's max value. Decide if you're a generalist or a specialist. If you're a generalist, you can do whatever type of magic your magic trait supports ("I'm a Gandalf-style wizard, 2" would support fireworks, barring paths, knowing stuff).
 
-If you're a specialist, choose up to one "thing you can do well" per point in the trait and divide your points in the trait between them. Also mark the total as the trait's total value. Now choose one "thing you can never do". 
+If you're a specialist, choose up to one "thing you can do well" per point in the trait and divide your points in the trait between them. Also mark the total as the trait's total value. Now choose one "thing you can never do".
 
 If you need to accomplish something that fits into your purview, you probably can. For general magic of this type, use your total trait value; for magic that falls into one of your specialties, it costs one point less from the total cost (minimum one). Additionally, you can add the point value of the specialty to both the effect (and the base cost) if you so choose (making your 'level' effectively that many points higher for specialty spells). For spells outside your purview but not forbidden by it, use your base magic trait but pay twice the cost (figure out how much it would cost if it were in your purview, then double it).
 
