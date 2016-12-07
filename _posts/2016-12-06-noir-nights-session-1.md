@@ -9,9 +9,12 @@ comments: false
 published: true
 extender: 'noir nights'
 tagline: "you know it's going to be a long night when you wake up in the morgue..."
+links:
+  - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
+    title: Pythia Changelog v. 1.2.0
 ---
 
-This one's a little older, from right around whenever I introduced Triggers and Secrets to Pythia, actually. So maybe mid-October. I'm thinking it was supposed to be spooky for Halloween. I really should start putting a date right up front in the log. Wonder if I can find room for a timestamp button.
+This one's a little older, from right around whenever I introduced Triggers and Secrets to Pythia, actually. So maybe mid-October. I'm thinking it was supposed to be spooky for Halloween. I really should start putting a date right up front in the log. Wonder if I can find room in the GUI for a timestamp button.
 
 As always, "session" is used loosely, because sometimes I run right through and sometimes I get distracted. And it's pretty much played as it lies; if Pythia suggests something I try to run with it. Oh, and the oracle for this one is FU.
 
