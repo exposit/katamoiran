@@ -28,6 +28,8 @@ links:
 
 *Edit 12-06: There's now a systemless <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruth_NoSystem_v2.pdf">version 2</a>.*
 
+*Edit 12-7: And a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruthQuickstart_v2.pdf">quickstart</a> of version 2.
+
 <!--more-->
 
 ## Solo Intertwined Play
