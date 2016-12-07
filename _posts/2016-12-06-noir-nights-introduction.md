@@ -8,6 +8,10 @@ comments: true
 published: true
 extender: 'noir nights'
 tagline: two-fisted hardboiled vampire noir
+links:
+  - url: http://www.drivethrurpg.com/product/170689/Blades-in-the-Dark-Digital-Edition-Early-Access
+    title: Blades in the Dark
+    source: One Seven Design
 ---
 
 *Noir Nights* is all about the two-fisted, hard-boiled noir action! Okay, not really, I'm pretty bad at all of that stuff. But I am practicing. Consider this an homage to all my favorite noir authors, with or without vampires.
