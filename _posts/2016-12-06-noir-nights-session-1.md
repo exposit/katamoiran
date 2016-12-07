@@ -2,7 +2,6 @@
 layout: post
 title: Noir Nights Session 1
 date: 2016-12-06 18:24:12
-imagefolder: 2016-11-20
 categories: ['actual play', 'noir nights']
 tags: ['noir nights', 'scarlet heroes', 'cross']
 comments: false
@@ -178,7 +177,7 @@ Enjoy!
 <p id="fiction">"Call me Gray," she said.</p>
 <p id="fiction">"So, Miss Gray," I started, and she laughed. It was a surprisingly nice sound. And I had to admit, it felt good to know someone was looking out for me.</p>
 <p id="fiction">"No, just Gray," she said, then gestured for me to follow her. "We have some errands to run." I took a moment to admire her shape as she walked away, then followed. What kind of errands do the dead run?</p>
-<p id="fiction">---</p>
+***
 <p id="mechanic" class="aside">[New Thread] Who killed Ethan Cross?</p>
 <p id="mechanic" class="aside">I'l use factions in this game. Each faction will be specific and have a rating, with 0 being neutral and negatives being more friendly, positives left. When a situation comes up where I need to deal with that faction, the value is applied to the target DC.</p>
 <p id="mechanic" class="aside">[New Actor] Lucia Bennett, a woman Cross knew in Europe who turned out to be a vampire.</p>
