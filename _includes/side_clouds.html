@@ -33,7 +33,7 @@
   </div>
 
   <div class="total-posts">
-    total posts &#123; {{ site.posts | size }} &#125;
+    total posts &#123; {{ site.posts | size }} &#125; since {{ site.posts[-1].date | date: "%B %d, %Y" }}
   </div>
 
 </section>
