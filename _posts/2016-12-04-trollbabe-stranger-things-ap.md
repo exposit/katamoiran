@@ -2,8 +2,8 @@
 layout: post
 title: Trollbabe & Stranger Things Actual Play
 date: 2016-12-04 15:31:36
-categories: ['actual play']
-tags: ['trollbabe', 'stranger things', 'narrative']
+categories: ['actual play', 'misc']
+tags: ['trollbabe', 'stranger things', 'narrative', 'declan']
 comments: false
 published: true
 tagline: "the ghost of Barrows Hall"
