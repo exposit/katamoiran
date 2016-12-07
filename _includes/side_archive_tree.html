@@ -19,7 +19,15 @@
             <label for="folder{{forloop.index}}"><h3>{{ this_month }} &raquo;</h3></label> <input type="checkbox" checked id="folder{{forloop.index}}" />
             <ol>
 	{% endif %}
-					<li class="file"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d }}{{ post.title | truncatehtml | truncate: 35 }}</a></li>
+					<li class="file"><a href="{{ site.baseurl }}{{ post.url }}">
+            {{ page.date | date: "%-d" }}
+            {% assign dy = page.date | date: "%a" %}
+            {% case dy %}
+              {% when "Tue" %}Tues
+              {% when "Thu" %}Thurs
+              {% else %}{{ dy }}
+              {% endcase %}.
+             &nsbp;{{ post.title | truncatehtml | truncate: 35 }}</a></li>
 	{% if forloop.last %}
       </ol>
     </li>
