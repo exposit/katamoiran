@@ -14,6 +14,8 @@ links:
     source: katamoiran
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers
     title: Pythia Oracle Help
+  - url: http://www.thrillingdetective.com/trivia/triv116.html
+    title: Chandler's Ten Commandments
 ---
 
 And here's where I start using Triggers and Secrets. I think I was writing the panel roughly concurrently. They make for a seriously exciting game, but as I mention in the [Spotlight](https://exposit.github.io/katamoiran/pythia/pythia%20spotlight/2016/10/23/secrets-and-triggers.html) post, too many of them in one game make for a seriously pulpy experience.
