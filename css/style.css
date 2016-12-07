@@ -554,6 +554,7 @@ time {
 .total-posts {
   font-size: .8em;
   font-style: italic;
+  margin: auto;
 }
 
 /* CSS Ninja collapsing stylesheet */
