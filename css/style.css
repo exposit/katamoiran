@@ -551,7 +551,7 @@ time {
 	font-size: 1.5em;
 }
 
-.total-posts {
+#total-posts {
   font-size: .8em;
   width: 5em;
   font-style: italic;
