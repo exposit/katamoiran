@@ -549,12 +549,27 @@ time {
 	list-style: disc;
 }
 
+.hero-unit {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 .hero-unit h1 {
 	font-size: 2em;
 }
 
+.zero-unit {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 .zero-unit h1 {
 	font-size: 1.5em;
+}
+
+.previous-posts {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .total-posts {
