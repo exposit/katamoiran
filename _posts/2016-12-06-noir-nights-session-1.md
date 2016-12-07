@@ -25,7 +25,7 @@ Enjoy!
 ***
 
 <!-- actual adventure starts here -->
-<p id="fiction">The adventure begins...</p>
+<p id="mechanic" class="aside">The adventure begins...</p>
 <p id="mechanic" class="aside">The only thing I know, besides that this is a thirties-style near Earth, is my hero is a vampire.</p>
 <p id="mechanic" class="aside">I've set my theme to Sin City and rolled up a homebrew vampire class that mimics the 'standard' literature pretty well.</p>
 <p id="mechanic" class="aside">I want my guy to be an investigator, someone people call on for help. Someone who is tough but fair. Someone with his own moral code.</p>
