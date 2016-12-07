@@ -14,7 +14,9 @@ links:
     source: One Seven Design
 ---
 
-*Noir Nights* is all about the two-fisted, hard-boiled noir action! Okay, not really, I'm pretty bad at all of that stuff. But I am practicing. Consider this an homage to all my favorite noir authors, with or without vampires.
+*Noir Nights* is all about the two-fisted, hard-boiled noir action! Okay, not really, I'm pretty bad at all of that stuff. But I am practicing. Heck, the body count is already like twice what it normally is in one of my sessions! (Yes, that means two people died.)
+
+Consider this an homage to all my favorite noir authors, with or without vampires.
 
 <!--more-->
 
