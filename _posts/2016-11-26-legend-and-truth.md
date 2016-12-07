@@ -2,6 +2,7 @@
 layout: post
 title: Legends and Truth
 date: 2016-11-26 18:50:57
+imagefolder: 2016-12-06
 categories: ['solo frameworks']
 tags: [solo]
 comments: true
@@ -20,7 +21,9 @@ links:
     source: katamoiran
 ---
 
-*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf">pdf</a>. Click through the link and hit "download" to save properly.*
+*Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegentTruth_v1">pdf</a> of this post.*
+
+*Edit 12-06: There's now a systemless <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegentTruth_NoSystem_v2.pdf">version 2</a>.*
 
 <!--more-->
 
