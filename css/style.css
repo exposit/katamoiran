@@ -539,7 +539,13 @@ time {
 	font-size: 1em;
 }
 
-.content ul {
+.post-content {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.post-content ul {
 	list-style: disc;
 }
 
@@ -557,6 +563,20 @@ time {
   font-style: italic;
   margin: auto;
   margin-top: 8px;
+}
+
+.post-tagline {
+  font-style: italic;
+  margin-bottom: 20px
+}
+
+.post-time {
+  margin-bottom: 10px;
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 /* CSS Ninja collapsing stylesheet */

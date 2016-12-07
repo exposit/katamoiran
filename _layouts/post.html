@@ -4,24 +4,26 @@ layout: default
 
     <article class="post-unit rounded">
       <header>
+        {% assign wordCount = page.content | number_of_words %}
+        <p class="post-time">{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</p>
+
         <h1>
         {% if page.series %}
           {{page.series}}:
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark" title="Permanent link">{{ page.title }}</a></h1>
 
-        {% assign wordCount = page.content | number_of_words %}
-
-        <p><time>{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</time></p>
+        {% if page.tagline %}<p class="post-tagline">...{{ page.tagline}}...</p>{% endif %}
 
       </header>
 
-      <div class="content">
+      <div class="post-content">
       {{ content }}
-      </div>
 
         <p><time>{{ wordCount }} words, written {{ page.date | date: "%B %d, %Y @ %I:%M %P" }}{% if page.modified %}, updated {{ page.modified | date: "%B %d, %Y @ %I:%M %P" }}</time></p>
         {% endif %}
+
+      </div>
       <footer>
       {% include post_meta.html %}
       <!--</footer>-->
