@@ -104,7 +104,7 @@ group: Home
 
         {% if post.modified %}
           <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
-        {% endif %}&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        {% endif %}&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
           {% unless forloop.last %}
           <li>|</li>
