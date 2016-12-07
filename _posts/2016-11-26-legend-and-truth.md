@@ -16,8 +16,11 @@ links:
     source: One Seven Design
   - url: https://plus.google.com/u/0/communities/116965157741523529510
     title: Lone Wolf Roleplaying google+ community
-  - url: https://github.com/exposit/katamoiran/tree/master/pdfs/Legend_Truth_1126.pdf
-    title: Legend & Truth pdf
+  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-06/LegendTruth_v1.pdf
+    title: Legend & Truth v1 pdf
+    source: katamoiran
+  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-06/LegendTruth_NoSystem_v2.pdf
+    title: Legend & Truth v2 (No System) pdf
     source: katamoiran
 ---
 
