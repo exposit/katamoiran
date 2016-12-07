@@ -553,6 +553,7 @@ time {
 
 .total-posts {
   font-size: .8em;
+  width: 5em;
   font-style: italic;
   margin: auto;
 }
