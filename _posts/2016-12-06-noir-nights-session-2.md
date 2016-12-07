@@ -14,13 +14,13 @@ links:
     source: katamoiran
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers
     title: Pythia Oracle Help
-  - url: http://www.thrillingdetective.com/trivia/triv116.html
-    title: Chandler's Ten Commandments
+  - url: http://quoteinvestigator.com/2014/03/31/gun-hand/
+    title: When in Doubt...
 ---
 
 And here's where I start using Triggers and Secrets. I think I was writing the panel roughly concurrently. They make for a seriously exciting game, but as I mention in the [Spotlight](https://exposit.github.io/katamoiran/pythia/pythia%20spotlight/2016/10/23/secrets-and-triggers.html) post, too many of them in one game make for a seriously pulpy experience.
 
-In a more sedate game too many can get a little hard to justify, but in a game where [a man with a gun](http://www.thrillingdetective.com/trivia/triv116.html) can walk in at any moment it's just exciting.
+In a more sedate game too many can get a little hard to justify, but in a game where [a man with a gun](http://quoteinvestigator.com/2014/03/31/gun-hand/) can walk in at any moment it's just exciting.
 
 <!--more-->
 
