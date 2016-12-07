@@ -12,6 +12,8 @@ tagline: "an unexpected ally makes a move"
 
 So much action -- my poor vampire hero's being bounced around like a ping-pong ball. And his best ally right now is a sun-based mage. And the woman's he depended on for a life line in this crazy surreal experience is out for the count.
 
+You may notice that every time I think things are getting boring I make something action-y happen. That's because boring is *bad* and action-y is **good**. Now you know.
+
 <!--more-->
 
 ***
