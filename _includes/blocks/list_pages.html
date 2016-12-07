@@ -3,6 +3,6 @@
 	{% if post.date %}
 						<time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}</time>
 	{% endif %}
-						<a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 					</li>
 {% endfor %}
