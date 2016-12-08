@@ -2,7 +2,7 @@
 layout: post
 title: I Bought Blades in the Dark
 date: 2016-12-07 18:18:23
-categories: ['weekly recap']
+categories: ['reviews']
 tags: ['game design', 'actual play', 'solo']
 comments: true
 published: true
