@@ -12,9 +12,9 @@ links:
     source: One Seven Designs
 ---
 
-I have been eying this game for months. Putting it on the "when I get time to play" and "maybe when it's finally released" pile. But the sheer awesomeness of *Lady Blackbird* and *Stranger Things* means I had to get it. HAD TO.
+I have been eying this game for months. Putting it on the "when I get time to play" and "maybe when it's finally released" pile. But the sheer awesomeness of *Lady Blackbird* and *Stranger Things* meant I had to get it now. HAD TO.
 
-I finally bit the bullet and picked up *Blades in the Dark*. But now I'm afraid to read it because I really did just convert half my active characters to *Lady Blackbird* and I haven't even done a single AP with it yet.
+So I finally bit the bullet and picked up *Blades in the Dark*. But now I'm afraid to read it because I really did just convert half my active characters to *Lady Blackbird* and I haven't even done a single AP with it yet.
 
 What if I love BitD so much I end up having to convert them all AGAIN?
 
