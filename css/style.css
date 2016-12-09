@@ -703,3 +703,12 @@ hr {
 #fiction {
 	opacity: 1.0;
 }
+
+.line-title {
+     overflow: hidden;
+     text-align: center;
+     font-style: italic;
+     opacity: 0.5;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }

@@ -2,11 +2,12 @@
 layout: post
 title: Trollbabe & Stranger Things Actual Play
 date: 2016-12-04 15:31:36
-categories: ['actual play', 'misc']
+categories: ['actual play', 'demonblood']
 tags: ['trollbabe', 'stranger things', 'narrative', 'declan']
 comments: false
 published: true
-tagline: "the ghost of Barrows Hall"
+tagline: "facing the ghost of Barrows Hall"
+extender: "demonblood"
 links:
   - url: http://adept-press.com/games-fantasy-horror/trollbabe/
     title: Trollbabe
@@ -39,7 +40,7 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 ***
 
 <!-- actual adventure starts here -->
-<p id="fiction">The adventure begins...</p>
+<p id="fiction"><i>The adventure begins...</i></p>
 <p id="mechanic" class="aside">And here we go. I think I understand the rules. It's funny, I sometimes have to read the rules over and over before they "stick" all the way through to actual play but I've never encountered rules I had to read over and over just to "get"!</p>
 <p id="mechanic" class="aside">I hate to change things up significantly before I even try a system out, but I just am not feeling the concept of an actual Trollbabe right now.</p>
 <p id="mechanic" class="aside">So I've reskinned things a bit -- there are now two factions, "human" which mainly consists of Dark Age humans huddled in huts and great halls and "supernatural" which consists of the things that eat, torment, chase, withold gold from, curse, bewitch, and otherwise inconvenience those humans.</p>
@@ -51,16 +52,16 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 <p id="mechanic" class="aside">I'm definitely going to use some of the conventions and rules tweaks I like out of Stranger Things. So far that's that the Stranger is tough and strong and ageless, and the slightly different injury track and more specific healing rules.</p>
 <p id="mechanic" class="aside">I also like the way it handles rerolls, but I'll streamline the categories down to the gist, entirely because I don't have enough space for all 25 in the tracker panel, keeping the "five from a single group or one from up to five groups" rule.</p>
 <p id="mechanic" class="aside">Since I don't really do sessions, at least not discrete ones, I will count a good night's rest or a relaxation scene as a session break for the purpose of the rules -- which means rerolls will refresh, an injury box goes away, and so on.<br> <br>I know nothing else at this point. Well, except that I want to contrast his previous life with this nasty brutish one.</p>
-<p id="mechanic" class="aside">--- hero ---</p>
+<p class='center-italic-title'>hero</p>
 <p id="mechanic" class="aside">I am myself. I am canny, brutal, experienced. I laugh at the gods. I delight in life. My foes meet death swiftly. I am a demon's child and heir to its power, but I am beautiful and good. I relish my physical form and action; my mouth is cruel but I never lie.</p>
 <p id="mechanic" class="aside">His number is 6; he is 1 - 4 for Blood, 6 - 10 for Flame, and 1 - 5 for Shadow. His Blood style is athletic, his Flame is demon magic, and his Shadow is charming/seductive.</p>
 <p id="mechanic" class="aside">His hair is pale blond, spiky and pulled back. He has two pairs of horns, both bone white; the upper, spiraled set curves back and blends into his hair, and the lower set, smaller, smooth and swept back, are just above his slightly pointed ears.</p>
 <p id="mechanic" class="aside">He carries a sword forged from human iron and magical metal shards and carries a few more shards in his flesh. He wears an elegant black suit that wouldn't look out of place on a ballroom floor and that never seems to get dirty or damaged. His hooded cloak, black mask, and black boots are made by much less skilled hands.</p>
 <p id="mechanic" class="aside">I think I will continue the I/you thing, at least for now. Helps me keep the roles straight, since I am playing dual parts. I don't think it's quite as crucial in Trollbabe, though, given that a number of things will by necessity be subsumed into "there's only one of us!"</p>
 <p id="mechanic" class="aside">Author/Director, maybe? I'm uncertain about the first person and second person voices -- I tend towards third -- and about the present tense, but it makes for such an exciting game!</p>
-<p id="fiction">--- author ---</p>
+<p class='center-italic-title'>author</p>
 <p id="mechanic" class="aside">For the starting location, I choose Barrows Hall, a wooden great hall in the midst of a windswept moor, near a swamp and near a sea, and near a vast forest. Scale is 1.</p>
-<p id="fiction">--- director ---</p>
+<p class='center-italic-title'>director</p>
 <p id="mechanic" class="aside">How to determine Stakes? Which generator to use, let's see.</p>
 <p id="mechanic" class="aside">Mythic Seed?</p>
 <p id="mechanic" class="oracle">[Mythic Complex] Release / Stalemate</p>
@@ -72,7 +73,7 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 <p id="mechanic" class="result">[Random Event] Context: World! A hidden enemy is revealed. This is spectacularly good.</p>
 <p id="fiction">A crossbow bolt zings out of the trees; an ambush!</p>
 <p id="mechanic" class="aside">I call for a Conflict; it is Blood, as the demon hunter who has tracked you here attempts to dispatch you.</p>
-<p id="fiction">--- author ---</p>
+<p class='center-italic-title'>author</p>
 <p id="fiction">And then there are the ones who can see clearly and yet can't seem to see the truth. I sigh and draw my sword, darting into the trees in pursuit of yet another poor fool who believes horns mean "evil".</p>
 <p id="mechanic" class="aside">I intend to subdue and, if necessary, kill the demon hunter; failing that, I'll try to escape into the woods.</p>
 <p id="mechanic" class="query">Let's see, is the hunter alone?</p>
@@ -114,10 +115,10 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 <p id="mechanic" class="result">[Visible Quirk] thin or underfed</p>
 <p id="mechanic" class="aside">Hmm, I wonder what her angle is?</p>
 <p id="mechanic" class="aside">[New Actor] Caith Quinn, demon hunter, very stealthy</p>
-<p id="fiction">--- director ---</p>
+<p class='center-italic-title'>director</p>
 <p id="fiction">You groan as your senses slowly return. Your skin feels like it's on fire and your head hurts, but you seem to be in one piece, more or less. You're in a wooden stockade, and it's dark. Your clothes and gear are gone.</p>
 <p id="fiction">You arch an eyebrow in bemusement at the idea that wood could imprison a demon -- but stop short at the very cleverly laid binding circle inscribed into the wood poles of your prison.</p>
-<p id="fiction">--- author ---</p>
+<p class='center-italic-title'>author</p>
 <p id="fiction">I prowl the perimeter, looking for any weaknesses I can exploit. Before I can find any, the gate swings open. A Bishop, flanked by the demon hunter and a woman I surmise is his ally -- thin and waifish, with a hungry look in her eyes that I find disturbing. Behind them, a warrior with a thin gold circlet and a golden cloak pin watches.</p>
 <p id="fiction">The Bishop makes the sign of the cross, and I scowl at him. "This is poor hospitality indeed," I say, gesturing towards myself and my current impoverished state.</p>
 <p id="mechanic" class="aside">Conflict, Shadow; I want my clothes back! And possibly to be set free.</p>
@@ -129,16 +130,16 @@ By the way, did I mention earlier how much of a relief discovering the idea of d
 <p id="fiction">He doesn't seem to hear me. He's still mumbling somethig in Latin that sounds vaguely like a litany.</p>
 <p id="fiction">"You'll be burned at the stake," the demon hunter says, sounding satisfied. No doubt he hopes to be paid well for the show. I stare blackly at him.</p>
 <p id="fiction">"And it only took four of you from ambush, with poison, to arrange it," I say scornfully. I look over his shoulder at the warrior, but I have very little hope. "At least let me die with a weapon in hand."</p>
-<p id="fiction">--- director ---</p>
+<p class='center-italic-title'>director</p>
 <p id="fiction">He stares at you for a moment, and then offers you a deal; face the ghost that haunts this place in single combat tonight, or die by fire in the morning.</p>
-<p id="fiction">--- author ---</p>
+<p class='center-italic-title'>author</p>
 <p id="mechanic" class="aside">... I'm immune to fire. Demon, remember? But they don't know that.</p>
 <p id="fiction">I add to the bargain, listing my demands clearly and precisely. I want my clothes and gear back, and I want proper meals and safe passage for the duration of my stay and for three days after.</p>
 <p id="fiction">He agrees, and I can't help but smile.</p>
 <p id="fiction">"A bargain struck," I say, and the Bishop immediately begins to protest, but it's too late. A snap of my fingers returns my clothes to my skin and my sword to its sheath; a bargain is a very powerful thing for one of my kind.</p>
 <p id="fiction">If any under his banner break our bargain, the warrior-king will pay for it.</p>
 <p id="fiction">The warrior-king looks like he's having second thoughts, but I don't care. Pushing past the hunters and the red-faced Bishop, I glance around. "When's dinner?"</p>
-<p id="fiction">--- director ---</p>
+<p class='center-italic-title'>director</p>
 <p id="mechanic" class="aside">I think that's a great place to close out that scene. And you get back a health box, since you'll rest and recuperate for the afternoon. Which also counts as a session end, so you're back up to full rerolls and full health.</p>
 <p id="mechanic" class="aside">Also, you can claim those relationships on the basis of rolls but you can't solidify them until you actually play a scene out that clearly establishes those relationships.</p>
 <p id="mechanic" class="aside">[author] Fine, I'll mark those entries with a T for "tentative". Shame Stranger Things doesn't have a relationships chapter, by the way. I'm also going to add the Bishop as a tentative enemy relationship.</p>

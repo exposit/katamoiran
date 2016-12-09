@@ -3,11 +3,12 @@ layout: post
 title: Slay with Me Actual Play
 date: 2016-11-26 11:46:54
 imagefolder: 2016-11-26
-categories: ['actual play', 'misc']
+categories: ['actual play', 'demonblood']
 tags: ['slay with me', 'narrative', 'declan']
 comments: false
 published: true
 tagline: "intrigue in the Crystal Court"
+extender: "demonblood"
 links:
   - url: http://adept-press.com/ideas-and-discourse/other-essays/naked-went-the-gamer/
     title: Naked Went the Gamer

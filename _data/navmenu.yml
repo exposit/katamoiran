@@ -12,6 +12,8 @@
 - name: Solos
   link: /solos.html
   dropdown: &dropdown
+  - name: Demonblood
+    link: /demonblood/
   - name: Dunscaith
     link: /dunscaith/
   - name: Kyneros

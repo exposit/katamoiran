@@ -4,11 +4,12 @@
   <div>
 {% if page.links %}
     <h3>Links In This Post:</a></h3>
+    <br>
     <ul>
       {% for link in page.links %}
         <li><a href='{{ link.url }}'>{{ link.title }} {% if link.source %}(<cite>{{ link.source }}</cite>){% endif %}</a></li>
         {% unless forloop.last %}
-            <hr width="75%" align="left"></hr>
+            <hr class="line-title"></hr>
         {% endunless %}
       {% endfor %}
     </ul>
