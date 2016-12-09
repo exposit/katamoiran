@@ -37,6 +37,8 @@ In the example above, "hero wins" might mean that, depending on how the dice go,
 
 And if "a spy wins" comes up -- that's a single scene in the whole adventure. Perhaps a secret spy is unveiled, just a few minutes after we finish a drugged glass of wine, or perhaps he does, in fact "win" by getting the plans to his master, and now things are much harder for us.
 
+### Pen & Paper
+
 If you wanted to use these as lists it should be doable. Note I haven't playtested this suggestion, it's really very much off the cuff.
 
 Roll up your initial actor, bridge, and object, then roll a d6 whenever a new scene starts. On a 2 or less, roll up a new actor, bridge, and object, otherwise, use one of your existing actors (picked at random from your existing actors) with a new bridge and new object.
