@@ -66,7 +66,7 @@ Oh, and here's the sidekick oracle I used to figure out what's happening next. N
 <p id="mechanic" class="aside">Seems pretty obvious, but maybe we’re missing something?</p>
 <p id="fiction">"Stay on your toes, people," Nix's voice cuts in, cool and collected as always. I can picture her dark hair, bobbed short, and her long, graceful fingers dancing in the air over the control panel she doesn't have to touch to manipulate.</p>
 <p id="fiction">Demon's right beside me; I didn't think to watch her move and that's always disturbing. She doesn't really care that I'm disturbed of course. Her eyes are wild, and I can tell she's off her meds.</p>
-<p id="fiction">Moving quickly, we jog down the labrynthine halls, which open out into a vast ballroom with a stage on the opposite wall.</p>
+<p id="fiction">Moving quickly, we jog down the labyrinthine halls, which open out into a vast ballroom with a stage on the opposite wall.</p>
 <p id="fiction">It's dusty and shrouded now, the once lush curtains faded and ripped and the marble floor covered with dust and bones and rags. Must have been one hell of a party, I think, as we pick our way across it towards the stage. There's no cover, but Nix would tell us if we had company.</p>
 <p id="fiction">The stage is set up like a magician's show; there's a pile of props and a box, about Demon's size and shaped like a coffin. That's the metal we're here for. Breaker picks up up effortlessly and slings it over his shoulder.</p>
 <p id="fiction">"Seems pretty obvious, but maybe we're missing something?" He says suddenly. Even at sub-aud his voice is a rumble that makes my jawbone ache. If he's dropped down to sub-aud, he's getting an omen, I think, and then all hell breaks loose.</p>
