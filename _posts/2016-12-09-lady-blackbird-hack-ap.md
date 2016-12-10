@@ -213,7 +213,7 @@ I also moved this sequence of games into their own category, which likely means 
 <p id="fiction">"Oh, hells," she says, her expression crestfallen. "I have made a good and proper ass of myself, haven't I?" And she starts to cry.</p>
 <p id="mechanic" class="aside">Now who's the mean one? You made the princess cry!</p>
 <p class='center-italic-title'>author</p>
-<p id="fiction">I pull her into my arms and pat her back, making hopefully soothing noises as she cries into my shoulder. Comforting kis not one of my areas of expertise.</p>
+<p id="fiction">I pull her into my arms and pat her back, making hopefully soothing noises as she cries into my shoulder. Comforting is not one of my areas of expertise.</p>
 <p id="fiction">Eventually she leans back and looks up at me. Her eyes and nose are red and her hair is messy and I can't help but smile at her. "It's not so bad," I say, and she smiles tentatively back.</p>
 <p class='center-italic-title'>director</p>
 <p id="mechanic" class="aside">Okay, that's enough lovey-dovey stuff. Let's shake things up. Remember that random event earlier, where an actor's plans come to fruition?</p>
