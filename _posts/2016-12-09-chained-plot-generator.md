@@ -47,7 +47,8 @@ After a d6 worth of scenes, pick an actor at random and roll on "plot end" to se
 
 #### Subject (d20)
 
-| : --- : | : --- : |  : --- : |  : --- : | : --- : | : --- : |  : --- : |  : --- : |
+|  |  |  |  |  |  |  |  |
+| :---: | :---: |  :---: |  :---: | :---: | :---: |  :---: |  :---: |
 1 | a hero | 2 | the enemy | 3 | an ally | 4 | common folk
 5 | a fire | 6 | the strong | 7 | the weak | 8 | a castle
 9 | a spy | 10 | a reward | 11 | a punishment | 12 | a bargain
@@ -56,7 +57,8 @@ After a d6 worth of scenes, pick an actor at random and roll on "plot end" to se
 
 #### Object (d20)
 
-| : --- : | : --- : |  : --- : |  : --- : | : --- : | : --- : |  : --- : |  : --- : |
+|  |  |  |  |  |  |  |  |
+| :---: | :---: |  :---: |  :---: | :---: | :---: |  :---: |  :---: |
 1 | progress | 2 | setback | 3 | destruction | 4 | creation
 5 | truth | 6 | falsity | 7 | love | 8 | hate
 9 | twist | 10 | awaken | 11 | a celebration | 12 | ruin
@@ -65,14 +67,16 @@ After a d6 worth of scenes, pick an actor at random and roll on "plot end" to se
 
 #### Ending (d12)
 
-| : --- : | : --- : |  : --- : |  : --- : | : --- : | : --- : |  : --- : |  : --- : |
+|  |  |  |  |  |  |  |  |
+| :---: | :---: |  :---: |  :---: | :---: | :---: |  :---: |  :---: |
 1 | triumphs | 2 | lost | 3 | fails | 4 | overcomes
 5 | wins | 6 | continues unchanged | 7 | endures | 8 | flees
 9 | defeated | 10 | undefeated | 11 | destroyed | 12 | reborn
 
 #### Bridge (d12)
 
-| : --- : | : --- : |  : --- : |  : --- : | : --- : | : --- : |  : --- : |  : --- : |
+|  |  |  |  |  |  |  |  |
+| :---: | :---: |  :---: |  :---: | :---: | :---: |  :---: |  :---: |
 1 | causes | 2 | is | 3 | ruins | 4 | makes
 5 | regards | 6 | experience | 7 | of | 8 | against
 9 | undergoes | 10 | overcome | 11 | twists | 12 | to
