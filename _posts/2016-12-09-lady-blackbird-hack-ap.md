@@ -218,7 +218,7 @@ I also moved this sequence of games into their own category, which likely means 
 <p class='center-italic-title'>director</p>
 <p id="mechanic" class="aside">Okay, that's enough lovey-dovey stuff. Let's shake things up. Remember that random event earlier, where an actor's plans come to fruition?</p>
 <p id="mechanic" class="aside">The ghost wasn't a threat, it was a warning.</p>
-<p id="fiction">You smell smoke again; this time stronger. Hear the rising screams of panic and pain from the great hall -- the combination reminds you suddenly, disorientatingly, of home. The girl looks confused. "What is that?"</p>
+<p id="fiction">You smell smoke again; this time stronger. Hear the rising screams of panic and pain from the great hall -- the combination reminds you suddenly, disorientingly, of home. The girl looks confused. "What is that?"</p>
 <p id="fiction">Fire licks at the walls and ceilings of the hall. You dash towards the great hall, skidding to a stop in the doorway. King Ganeth's warriors, led by the King himself, fight a veritable army of ghosts much like the one you faced before.</p>
 <p id="fiction">There are too many of them for you to defeat in combat, even with your unique talents. Across the width of the hall, the king looks up from the sea of skeletal foes swarming around him. Blood streams from countless wounds, and his face is grim. Spotting the girl behind you, his expression turns to fear.</p>
 <p id="fiction">"All that I have," he says, his voice clear and carrying, "If you protect my daughter."</p>
