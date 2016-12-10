@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ghost Echo Actual Play
-date: 2016-12-09 19:22:25
+date: 2016-12-09 19:38:08
+imagefolder: 2016-12-09
 categories: ['actual play', 'sharedscifi']
 tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi']
 comments: false
@@ -21,6 +22,8 @@ I am totally playing this one straight. No hacks, no pre-prep. Nothing. Just rea
 Obviously I went a little overboard, but damn, that was fun. Not in the effortless way S\lay w/Me is. In a hard, grind it out, make it work, grim triumph kind of way.
 
 Spectacularly fun.
+
+Oh, and here's the sidekick oracle I used to figure out what's happening next. Not in Pythia, an old school roll the dice <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/Sidekick_Oracle_v1.pdf">chart</a>.
 
 <!--more-->
 
