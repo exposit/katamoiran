@@ -28,7 +28,7 @@ The number on the left is the number of dice that meet the criteria (in this cas
 Numbers relevant to *Lady Blackbird* -- assuming a standard difficulty of "3", how likely am I to succeed on an "average" pool of 5 or 6? Around 50%, it looks like.
 
 | Pool | % |
-| --- | --- |
+| :---: | :--- |
 3d6 | 12.50%
 4d6 | 31%
 5d6 | 50%
