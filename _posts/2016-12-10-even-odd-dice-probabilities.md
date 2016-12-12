@@ -3,7 +3,7 @@ layout: post
 title: Rolling d6s
 date: 2016-12-10 12:07:22
 categories: ['theory']
-tags: ['trollbabe', 'stranger things', 'lady blackbird', 'narrative', 'd6s', 'probability']
+tags: ['lady blackbird', 'narrative', 'd6s', 'probability']
 comments: true
 published: true
 links:
