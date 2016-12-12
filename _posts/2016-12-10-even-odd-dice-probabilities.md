@@ -23,7 +23,7 @@ After confirming that 4+ is the same as "even" with someone more mathematically 
 
 [anydice program](http://anydice.com/program/a0c8)
 
-The number on the left is the number of dice that meet the criteria (in this case 4, 5, or 6) and the number on the right is the percent chance of that.
+The number on the left is the number of dice that meet the criteria (in this case 4, 5, or 6) and the number on the right is the percent chance of that. If you click over to "at least" it's a little easier to read ("at least 3 dice will show 4,5, or 6").
 
 Numbers relevant to *Lady Blackbird* -- assuming a standard difficulty of "3", how likely am I to succeed on an "average" pool of 5 or 6? Around 50%, it looks like.
 
