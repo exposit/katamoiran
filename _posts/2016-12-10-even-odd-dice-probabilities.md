@@ -29,15 +29,15 @@ Numbers relevant to *Lady Blackbird* -- assuming a standard difficulty of "3", h
 
 | Pool | % |
 | :---: | :--- |
-3d6 | 12.50%
-4d6 | 31%
-5d6 | 50%
-6d6 | 66%
-7d6 | 77%
-8d6 | 85%
-9d6 | 91%
-10d6 | 94%
-11d6 | 97%
+| 3d6 | 12.50% |
+| 4d6 | 31% |
+| 5d6 | 50% |
+| 6d6 | 66% |
+| 7d6 | 77% |
+| 8d6 | 85% |
+| 9d6 | 91% |
+| 10d6 | 94% |
+| 11d6 | 97% |
 
 Anyway, some fun stuff there, and more importantly, it caused me to reread the core rules and realize my errors -- I should have been getting back a die every time I failed, and I should have been treating Conditions as Obstacles to roll against or in the same way I handle Complications, not as an automatic worsening of the difficulty.
 
