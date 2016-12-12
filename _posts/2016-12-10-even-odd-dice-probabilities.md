@@ -15,9 +15,7 @@ links:
     source: Lumpley
 ---
 
-I've been playing a lot of games where you roll a certain number of d6s out of a pool (and sometimes then assign the results to stakes), and I absolutely love them.
-
-One thing I've been having a lot of trouble wrapping my brain around is the probabilities. If I roll 2d6 and need a 5 or better to succeed, what are the odds I will? What if I manage to add another die? What if I need a 4 or better? What if "even" is what I want, not 4+?
+One thing I've been having a lot of trouble wrapping my brain around is the probabilities when rolling d6s and not adding them together, but looking at the face value of each. If I roll 2d6 and need a 5 or better to succeed, what are the odds I will? What if I manage to add another die? What if I need a 4 or better? What if "even" is what I want, not 4+?
 
 <!--more-->
 
