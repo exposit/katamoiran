@@ -2,7 +2,6 @@
 layout: post
 title: Six Hours to Midnight
 date: 2016-12-14 11:53:16
-imagefolder: 2016-12-14
 categories: ['game design']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
 comments: true
@@ -17,7 +16,7 @@ links:
   - url: http://www.lumpley.com/archive/148.html
     title: Otherkind Dice
     source: lumpley
-  - url: {{ site.baseurl }}/img/posts/{{page.imagefolder}}/6HoursToMidnight_v1_alpha.pdf
+  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf
     title: 6 Hours to Midnight
     source: katamoiran
 ---

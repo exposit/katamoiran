@@ -8,7 +8,7 @@ comments: false
 published: true
 tagline: "a waltz in the sky-castle"
 links:
-  - url: {{ site.baseurl }}/img/posts/{{page.imagefolder}}/6HoursToMidnight_v1_alpha.pdf
+  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf
     title: 6 Hours to Midnight
     source: katamoiran
 ---
