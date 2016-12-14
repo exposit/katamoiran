@@ -25,7 +25,7 @@ I got it into my head that I should simultaneously write an oracle game, run a p
 
 So I tried. Not sure I succeeded very well, but hey, it was fun. Plus now I can make LaTex do some tricks.
 
-*6 Hours to Midnight* is my take on what *S\lay w/Me* intends; a game framework where sex and love is as much a narrative tool as violence is, if not more so.
+*6 Hours to Midnight* is my take on what *S\lay w/Me* intends; a game framework where sex and love is as much a narrative tool as violence is, if not more so. It's more heavily inspired by *Lady Blackbird* and *Ghost/Echo* mechanically, though, with a hefty dose of *Otherkind*.
 
 <!--more-->
 

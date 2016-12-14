@@ -17,7 +17,13 @@ An experimental playthrough of my oracle game, <a href="6HoursToMidnight_v1_alph
 
 As is the case almost always, the names are randomly generated -- I ended up picking more of the "real" ones that slipped through than usual because it just seemed to fit.
 
-Content is also generated on the spot as it occurred to me (except the epilogue which I thought a bit about and wrote up today). I did edit a bit more heavily than usual, mostly to remove duplicate phrasing and correct some dialogue, which is *always* hard to write on the fly.
+Content is also generated on the spot as it occurred to me, also as usual -- play to find out! -- except the epilogue which I thought a bit about and wrote up today.
+
+I did edit a bit more heavily than usual (which is still very little), mostly to remove duplicate phrasing and correct some dialogue, which is *always* hard to write on the fly.
+
+Mechanics evolved a bit in play, but overall I'm pretty happy with them (and the game itself).
+
+This is a long one, about three times the length of my usual "session", but I couldn't think of a good way to break it up since it's already divided into "hours".
 
 <!--more-->
 
