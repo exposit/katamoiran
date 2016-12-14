@@ -339,7 +339,7 @@ This is a long one, about three times the length of my usual "session", but I co
 <p id="fiction">He draws the sword back, and I raise my own, and then I dive out of the way as a wall of black fire smashes into him from behind. Caelia grabs my wrist as I stumble, my feet going out from under me as I'm caught in the edge of it, and pulls hard, and together we fall backwards to the floor.</p>
 <p id="fiction">Octavius twists, caught for an instant, his eyes disbelieving, and then he's gone, plummeting into the pit. The woman in blue shouts a name after him, her sister's, I think, and then she gives us a long look, and then she runs.</p>
 <p id="fiction">I can feel the castle underneath us tilting as it begins its descent.</p>
-<p id="fiction">--- midnight ---</p>
+<p class='center-italic-title'>midnight</p>
 <p id="fiction">"How do we restart it?" I ask Caelia, and she shakes her head.</p>
 <p id="fiction">"I don't know. Octavius must have, to have told her, but I don't know," she says, and her face is white at the thought of those beneath us who, asleep in their beds, are unaware of their impending doom.</p>
 <p id="fiction">"Help me," I ask, both of us knowing that if she says yes we must succeed or die, and she nods, and puts her hands in mine.</p>
@@ -365,7 +365,7 @@ This is a long one, about three times the length of my usual "session", but I co
 <p id="mechanic" class="aside">Her goal was to keep her honor, and I think she's earned that.</p>
 <p id="mechanic" class="aside">Just like the woman in blue has earned her victory, even though it means I technically lose. Which means it comes down to, do I pick "avoid scandal" or "get the girl". Because she could easily go off after the Prince's killer as a matter of duty.</p>
 <p id="mechanic" class="aside">I survive. The Lover survives. The Lover's lot is improved. The Lover's goal is met. The Lover chooses you.</p>
-<p id="fiction">--- after midnight ---</p>
+<p class='center-italic-title'>after midnight</p>
 <p id="fiction">The gossips spread tales of my heroics against the wicked assassin who almost brought the sky-castle down -- and rumors of my escapades, for which I no doubt have her to thank -- far and wide.</p>
 <p id="fiction">My father, the Duke, now Regent and soon to be King, is furious, both with my new infamy and with my sudden refusal to cower in his presence. I am one of the heroes who saved the city, however, and he can't punish me as he'd like to.</p>
 <p id="fiction">Octavius is buried with full honors as a martyr. No one says to my face that he should have been the one to survive, not me.</p>
