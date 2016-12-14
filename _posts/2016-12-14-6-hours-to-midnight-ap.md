@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Hours to Midnight Actual Play
+title: Six Hours to Midnight Actual Play
 date: 2016-12-14 12:12:31
 categories: ['actual play', '6 hours to midnight']
 tags: ['6 hours to midnight', 'narrative', 'sawyer']

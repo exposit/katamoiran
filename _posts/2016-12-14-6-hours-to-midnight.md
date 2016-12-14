@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Hours to Midnight
+title: Six Hours to Midnight
 date: 2016-12-14 11:53:16
 imagefolder: 2016-12-14
 categories: ['game design']
