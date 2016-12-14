@@ -125,7 +125,7 @@ This is a long one, about three times the length of my usual "session", but I co
 <p id="mechanic" class="aside">I'm going to discard a die to reduce her number by 1.</p>
 <p id="fiction">I sit up, feeling wrung out, but better. The lines are gone from my own skin but somehow I can still feel them, just underneath. "What did I just do--" I ask, and I know she doesn't know, and I don't know how I know that.</p>
 <p id="fiction">She shakes her head, and climbs to her feet, and pulls me to mine. "Get dressed," she says, her voice clipped. "You have some questions to answer."</p>
-<p class='center-italic-title'>hour 2</p>
+<p class='center-italic-title'>hour two</p>
 <p id="mechanic" class="aside">It's very interesting, treating sex with the same weight as combat. I've made some slight tweaks to the rules and we'll see how things go.</p>
 <p id="mechanic" class="aside">First, let's roll up a location and an hour event.</p>
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  2  ] 2</p>
@@ -186,7 +186,7 @@ This is a long one, about three times the length of my usual "session", but I co
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  6  ] 6</p>
 <p id="mechanic" class="aside">Hmm, not sure where to go from here. Should the scene end with a bang, or just end?</p>
 <p id="mechanic" class="aside">Still four hours until midnight; I think I'll move time along.</p>
-<p class='center-italic-title'>hour 3</p>
+<p class='center-italic-title'>hour three</p>
 <p id="mechanic" class="aside">Ok, setting, event, and frame.</p>
 <p id="mechanic" class="result">Rolling 1d6 3 times.<br>[  2  ] 2<br>[  1  ] 1<br>[  4  ] 4</p>
 <p id="mechanic" class="aside">The garden maze, perfume and low voices wafting over the hedge. Many-layered masks. Someone takes liberties.</p>
