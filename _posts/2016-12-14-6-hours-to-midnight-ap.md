@@ -374,7 +374,7 @@ This is a long one, about three times the length of my usual "session", but I co
 <p id="fiction">"Is that what I look like to you?" A steely female voice, soft now, asks from the door, and I turn to see Caelia standing there.</p>
 <p id="fiction">She is not wearing the black and gold of a Kingsguard, though I know she was promoted for her bravery that night. She studies the painting, silently, and I realize I'm holding my breath and force myself to breathe, hoping she hasn't noticed.</p>
 <p id="fiction">At last, she nods. "You were right, you are a very good painter." It's not a compliment, but a statement of fact.</p>
-<p id="fiction">"You shouldn't be here," I say, turning away. We haven't spoken since that night, and I know I'm bad for her prospects. To associate me would mean the certain end of her career. "The Regent would not approve of a Kingsguard--"</p>
+<p id="fiction">"You shouldn't be here," I say, turning away. We haven't spoken since that night, and I know I'm bad for her prospects. To associate with me would mean the certain end of her career. "The Regent would not approve of a Kingsguard--"</p>
 <p id="fiction">"Then it's a good thing I am not a Kingsguard any longer," she says, interrupting, laughter curling the corners of her mouth and lighting up her eyes.</p>
 <p id="fiction">She seems lighter, as if a weight has been lifted. As if maybe she's forgiven herself for past mistakes. I can't help but feel my own hopes lift, just a little.</p>
 <p id="fiction">"I do find myself at loose ends, however," she says, hesitating a little when I don't say anything. I know what I want to say, but the words are stuck in my throat.</p>
