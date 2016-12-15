@@ -51,9 +51,9 @@ Be as specific as you can. "A broken leg" is better than "I'm hurt" or "I take d
 13 | You take a physical condition. | 14 | You suffer an emotion.
 15 | You are made emotionally vulnerable. | 16 | You are made physically vulnerable.
 17 | You discover something you'd rather not. | 18 | Someone's feelings toward you deepen or change.
-19 | A trauma from your past hinders you. | 20 | Something you did in the past comes back to bite you now.
+19 | A trauma from your past hinders you. | 20 | Something you did in the past comes back to bite you.
 21 | One of your long-term goals is set back significantly. | 22 | One of your cherished dreams or illusions is shattered.
-23 | Someone you don't want to will suffer harm because of you. | 24 | Someone's regard for you changes.
+23 | Someone you don't want to will suffer harm. | 24 | Someone's regard for you changes.
 25 | A part of you you cherish will be tarnished or lost. | 26 | Something you did yesterday comes back to bite you.
 27 | One of your weakness will be revealed. | 28 | One of your secrets will be revealed.
 29 | The environment changes for the worse. | 30 | You are forced to compromise.
