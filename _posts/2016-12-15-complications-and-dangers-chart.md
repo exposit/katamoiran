@@ -49,7 +49,7 @@ Be as specific as you can. "A broken leg" is better than "I'm hurt" or "I take d
 9 | Something goes out of control. | 10 | Something malfunctions and is no longer usable.
 11 | Someone taunts you or reveals your failings. | 12 | You look foolish.
 13 | You take a physical condition. | 14 | You suffer an emotion.
-15 | You are made emotionally vulnerable. | 16 | You made physically vulnerable.
+15 | You are made emotionally vulnerable. | 16 | You are made physically vulnerable.
 17 | You discover something you'd rather not. | 18 | Someone's feelings toward you deepen or change.
 19 | A trauma from your past hinders you. | 20 | Something you did in the past comes back to bite you now.
 21 | One of your long-term goals is set back significantly. | 22 | One of your cherished dreams or illusions is shattered.
