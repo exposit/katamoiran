@@ -13,7 +13,7 @@ links:
     source: katamoiran
 ---
 
-An experimental playthrough of my oracle game, <a href="6HoursToMidnight_v1_alpha">*6 Hours to Midnight*</a>.
+An experimental playthrough of my oracle game, <a href="https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf">*6 Hours to Midnight*</a>.
 
 As is the case almost always, the names are randomly generated -- I ended up picking more of the "real" ones that slipped through than usual because it just seemed to fit.
 
