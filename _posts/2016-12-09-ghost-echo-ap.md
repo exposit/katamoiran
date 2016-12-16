@@ -3,12 +3,12 @@ layout: post
 title: Ghost Echo Actual Play
 date: 2016-12-09 19:38:08
 imagefolder: 2016-12-09
-categories: ['actual play', 'sharedscifi']
+categories: ['actual play', 'sharedscifi', 'wraith']
 tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi']
 comments: false
 published: true
-tagline: "five man crew"
-extender: "misc"
+tagline: "prologue"
+extender: "wraith"
 links:
   - url:
     title: Ghost/Echo
