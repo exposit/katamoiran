@@ -12,7 +12,7 @@ extender: "wraith"
 links:
   - url: http://www.onesevendesign.com/ghostecho/
     title: Ghost/Echo
-    source: One Seven Designs
+    source: One Seven Design
 ---
 
 #SharedScifi
