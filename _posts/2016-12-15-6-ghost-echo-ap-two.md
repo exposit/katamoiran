@@ -10,7 +10,7 @@ published: true
 tagline: "aftermath"
 extender: "wraith"
 links:
-  - url:
+  - url: http://www.onesevendesign.com/ghostecho/
     title: Ghost/Echo
     source: One Seven Designs
 ---
