@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ghost Echo Actual Play Two
+title: Wraith Session Two
 date: 2016-12-15 17:16:37
 imagefolder: 2016-12-15
 categories: ['actual play', 'sharedscifi', 'wraith']
