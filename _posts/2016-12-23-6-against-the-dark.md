@@ -30,6 +30,8 @@ tagline: "6 Against the Dark & 6 Days to Adventure"
 
 So I wrote another game. Before I even post-mortemed the first, even.
 
+<!--more-->
+
 You see, *6 Hours to Midnight* was supposed to be my homage to the Christmas season. But I think it ended up being quite a bit more suitable for New Year's Eve, seeing as how the primary themes are masks and midnight. And the ruleset is pretty tidy, but it's very specifically about carnality and competition.
 
 So I sat down and wrote up a set of somewhat more generic rules that incorporate more of my "standard playstyle". If you can really call any part of a constantly evolving, mixes in bits and pieces of inspiration from every game I like, changes depending on the mood and genre, playstyle "standard".
@@ -48,7 +50,7 @@ Yes. I wrote a game of horror for Christmas.
 
 And then I tried to playtest [*6 Against the Dark*]({{ site.baseurl }}/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf), and I liked my heroes too much to let them go inside the haunted house. I may have mentioned I'm a wimp. Yeah, yeah, kill your darlings, but that entity in there is *scary*.
 
-So I made some adaptations, and created [*6 Days to Adventure*]({{ site.baseurl }}/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf), a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic adventures.
+So I made some adaptations for those of us who are a little timid. [*6 Days to Adventure*]({{ site.baseurl }}/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf), a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic style adventures.
 
 Then I ran a playtest and it ended up being a paranormal romance. Haha. Go figure.
 
