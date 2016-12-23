@@ -28,7 +28,7 @@ links:
 tagline: "6 Against the Dark & 6 Days to Adventure"
 ---
 
-So I wrote another game. Before I even post-mortemed the first, even.
+So I wrote a couple more games. Before I even post-mortemed the first, even.
 
 <!--more-->
 
