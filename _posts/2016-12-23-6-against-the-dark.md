@@ -34,7 +34,7 @@ You see, *6 Hours to Midnight* was supposed to be my homage to the Christmas sea
 
 So I sat down and wrote up a set of somewhat more generic rules that incorporate more of my "standard playstyle". If you can really call any part of a constantly evolving, bits and pieces of inspiration from every game I like, changes depending on the mood and genre, playstyle "standard".
 
-Anyway, this set of generic rules is intended to be used as a "framework" for just about any solo game of the style I tend to run for myself, with maybe a bit more formalized structure.
+Anyway, the mechanics and scene structure are intended to be used as a "framework" for just about any solo game of the style I tend to run for myself, with maybe a bit more formalized structure.
 
 Casting about in my brain for a good Christmas theme involving lots of strangers and high tension (and high stakes), I was completely stumped. I knew I wanted to incorporate a strong scene structure, almost like a board game. I knew I wanted plenty of opportunities for social interaction. I knew I wanted hard choices at the end.
 
@@ -55,6 +55,7 @@ Some tips:
 * There are lots of charts. Roll on them as much or as little as you want.
 * All you need is a d6. The charts with multiple lines are d66; roll 2d6, use the first as the line number (or 1-2 for line one, 3-4 for line two, 5-6 for line three) and the second as the element on that line.
 * If a result doesn't make sense, choose one you like better.
+* Fiat the scene event. It happens. Things are worse now. Make the challenge about dealing with the fallout.
 * Be as specific as you can be with the complications.
 * You don't have to fill in all the details in play. Skip ahead. Just play it quick and dirty and if you want to go back later there will be a skeleton (of a novel?) waiting to be fleshed out.
 * If you want to play it with a group, it should work. One person as GM, everyone else as players. Everyone keeps track of their own Score and spends that Score at the end.
