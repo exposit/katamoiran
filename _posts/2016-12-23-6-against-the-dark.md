@@ -32,21 +32,23 @@ So I wrote another game. Before I even post-mortemed the first, even.
 
 You see, *6 Hours to Midnight* was supposed to be my homage to the Christmas season. But I think it ended up being quite a bit more suitable for New Year's Eve, seeing as how the primary themes are masks and midnight. And the ruleset is pretty tidy, but it's very specifically about carnality and competition.
 
-So I sat down and wrote up a set of somewhat more generic rules that incorporate more of my "standard playstyle". If you can really call any part of a constantly evolving, bits and pieces of inspiration from every game I like, changes depending on the mood and genre, playstyle "standard".
+So I sat down and wrote up a set of somewhat more generic rules that incorporate more of my "standard playstyle". If you can really call any part of a constantly evolving, mixes in bits and pieces of inspiration from every game I like, changes depending on the mood and genre, playstyle "standard".
 
 Anyway, the mechanics and scene structure are intended to be used as a "framework" for just about any solo game of the style I tend to run for myself, with maybe a bit more formalized structure.
+
+Of course, I needed a hook to make it evocative!
 
 Casting about in my brain for a good Christmas theme involving lots of strangers and high tension (and high stakes), I was completely stumped. I knew I wanted to incorporate a strong scene structure, almost like a board game. I knew I wanted plenty of opportunities for social interaction. I knew I wanted hard choices at the end.
 
 So obviously:
 
-[There'll be scary ghost stories / And tales of the glories of the Christmases long, long ago](https://www.google.com/search?q=scary+ghost+stories+lyrics&oq=scary+ghost+stories+lyrics)
+["There'll be scary ghost stories / And tales of the glories of the Christmases long, long ago"](https://www.google.com/search?q=scary+ghost+stories+lyrics&oq=scary+ghost+stories+lyrics)
 
 Yes. I wrote a game of horror for Christmas.
 
-And then I tried to playtest *6 Against the Dark*, and I liked my heroes too much to let them go inside the haunted house. I may have mentioned I'm a wimp. Yeah, yeah, kill your darlings, but that entity in there is *scary*.
+And then I tried to playtest [*6 Against the Dark*]({{ site.baseurl }}/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf), and I liked my heroes too much to let them go inside the haunted house. I may have mentioned I'm a wimp. Yeah, yeah, kill your darlings, but that entity in there is *scary*.
 
-So I made some adaptations, and created *6 Days to Adventure*, a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic adventures.
+So I made some adaptations, and created [*6 Days to Adventure*]({{ site.baseurl }}/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf), a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic adventures.
 
 Then I ran a playtest and it ended up being a paranormal romance. Haha. Go figure.
 
