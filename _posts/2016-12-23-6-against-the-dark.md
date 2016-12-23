@@ -22,7 +22,7 @@ links:
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf
     title: 6 Against the Dark
     source: katamoiran
-  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6DaysToAdventure_v1_alpha.pdf
+  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf
     title: 6 Days to Adventure
     source: katamoiran
 tagline: "6 Against the Dark & 6 Days to Adventure"
