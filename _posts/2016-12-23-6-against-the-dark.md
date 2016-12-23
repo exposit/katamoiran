@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Days to Adventure
+title: A Couple of New Games
 date: 2016-12-23 13:13:33
 categories: ['game design', '6 against the dark', '6 days to adventure']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
@@ -25,6 +25,7 @@ links:
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6DaysToAdventure_v1_alpha.pdf
     title: 6 Days to Adventure
     source: katamoiran
+tagline: "6 Against the Dark & 6 Days to Adventure"
 ---
 
 So I wrote another game. Before I even post-mortemed the first, even.
