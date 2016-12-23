@@ -54,7 +54,7 @@ Then I ran a playtest and it ended up being a paranormal romance. Haha. Go figur
 
 Some tips:
 
-* There are lots of charts. Roll on them as much or as little as you want. Choosing is always fine.
+* There are lots of charts. Roll on them as much or as little as you want. Choosing is always fine, especially as you near the end of the game.
 * All you need is a d6. The charts with multiple lines are d66; roll 2d6, use the first as the line number (or 1-2 for line one, 3-4 for line two, 5-6 for line three, or even/odd if there are only two lines) and the second as the element on that line.
 * If a result doesn't make sense, choose one you like better.
 * Fiat the scene event. It happens. Things are worse now. Make the challenge about dealing with the fallout.
