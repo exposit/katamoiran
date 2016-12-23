@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Six Hours to Midnight
-date: 2016-12-14 11:53:16
-categories: ['game design', '6 against the dark']
+title: 6 Days to Adventure
+date: 2016-12-23 13:13:33
+categories: ['game design', '6 against the dark', '6 days to adventure']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
 comments: true
 published: true
