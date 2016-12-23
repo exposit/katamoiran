@@ -38,7 +38,7 @@ Anyway, the mechanics and scene structure are intended to be used as a "framewor
 
 Of course, I needed a hook to make it evocative!
 
-Casting about in my brain for a good Christmas theme involving lots of strangers and high tension (and high stakes), I was completely stumped. I knew I wanted to incorporate a strong scene structure, almost like a board game. I knew I wanted plenty of opportunities for social interaction. I knew I wanted hard choices at the end.
+Casting about in my brain for a good Christmas theme involving lots of strangers and high tension (and high stakes) that wasn't a party, I was completely stumped. I knew I wanted to incorporate a strong scene structure, almost like a board game. I knew I wanted plenty of opportunities for social interaction. I knew I wanted hard choices at the end.
 
 So obviously:
 
