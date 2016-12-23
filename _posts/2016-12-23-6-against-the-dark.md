@@ -2,7 +2,7 @@
 layout: post
 title: A Couple of New Games
 date: 2016-12-23 13:13:33
-categories: ['game design', '6 against the dark', '6 days to adventure']
+categories: ['game design', '6-games']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
 comments: true
 published: true
