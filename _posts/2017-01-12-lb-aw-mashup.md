@@ -52,7 +52,7 @@ Or you can use the following "catchall move".
 
 **Strive**
 
-When you *want to achieve something but are opposed or success is not a given*, first determine if any of your current Conditions affect the situation, then assemble a modifier as described as above and roll +modifier.
+When you **want to achieve something but are opposed or success is not a given**, first determine if any of your current Conditions affect the situation, then assemble a modifier as described as above and roll +modifier.
 
 On a 10+, you succeed. Choose one as appropriate to the fiction: gain situational currency, lose a negative Condition, or gain a Condition or bonus on the next roll.
 
