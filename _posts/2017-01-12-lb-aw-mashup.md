@@ -66,7 +66,7 @@ On a 6-, you fail. Deliver a new hard move out of the blue or follow through on 
 
 On a hard move, take a negative Condition, lose a positive Condition, take Harm, or lose something else important.
 
-If you need hard and soft moves explained, go [here](http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html).
+If you need hard and soft ("regular") moves explained, go [here](http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html).
 
 Any time both dice show the same number, roll a random event that sets up a soft move.
 
