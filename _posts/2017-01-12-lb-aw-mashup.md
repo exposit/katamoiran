@@ -16,6 +16,9 @@ links:
   - url: http://buriedwithoutceremony.com/simple-world/
     title: Simple World
     source: Buried Without Ceremony
+  - url: http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html
+    title: Hard & Soft Moves Explained
+    source: Mighty Atom
 ---
 
 I've spent the last twelve days in head-cold-stomach-flu hell. Not much in the way of gaming going on, shared or solo. All projects on hold.
@@ -28,7 +31,7 @@ PbtA games expect a modifier between -1 and +3. So all we need to do is to figur
 
 Here's one way that utilizes Traits and Tags, which are pretty much my favorite way to define a character in solo play. I like being able to weave backstory into current abilities, and I like being able to make just about any character I can think of, as long as I can describe them in words.
 
-Make a character as if for *Lady Blackbird*. Use *The Blackbird Companion* or roll your own. Don't mark down reserve dice, we're not using them.
+So make a character as if for *Lady Blackbird*. Use *The Blackbird Companion* or roll your own. Don't mark down reserve dice, we're not using them. Try to avoid too much overlap in Tags, since the modifier will be capped at +3.
 
 Take two long duration Conditions that reflect areas in which your hero is weak, like "Phobia" or "Bad Back" or "Gullible". If this is your first session with this character, take a short duration Condition, too, like "Wounded" or "Tired" or "Hungry", just to get the ball rolling.
 
@@ -46,9 +49,9 @@ Add one for each Condition that helps and for any bonuses. Subtract one for each
 
 The modifier can no higher than +4 at this point; if it's higher, reduce it to 4. If it's lower than -1, you can opt to do something else, narratively, or roll anyway.
 
-Now that you have a modifier, you could use AW (or a PbtA game) rules, letting the fiction trigger the moves and using them pretty much as written, gaining xp when those rules tell you to and spending them on both *AW* and *Lady Blackbird* advancements, as written.
+Now that you have a modifier, you could use AW (or another PbtA game) rules, letting the fiction trigger the moves and using them pretty much as written, gaining xp when those rules tell you to and spending them on both *AW* and *Lady Blackbird* advancements.
 
-Or you can use the following "catchall move".
+Or you can use the following "catchall move" (which is pretty heavily derived from *Simple World* but modified a bit for solo play).
 
 **Strive**
 
