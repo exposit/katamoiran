@@ -40,7 +40,7 @@ When a roll is called for, build a modifier.
 
 Choose a Trait that applies, if any, and add one for it. Add one for each Tag under that Trait that applies.
 
-The modifier can be no higher than +3 at this point. If it's higher, only +3 counts.
+The modifier can be no higher than +3 at this point. If it's higher, it's +3.
 
 Add one for each Condition that helps. Subtract one for each Condition that hinders. Any given Condition can only come into play once per roll; if a Condition already changes the roll in some way (by making you a target, say, or requiring or allowing the roll in the first place) it is not counted again now.
 
