@@ -42,7 +42,7 @@ Choose a Trait that applies, if any, and add one for it. Add one for each Tag un
 
 The modifier can be no higher than +3 at this point. If it's higher, it's +3.
 
-Add one for each Condition that helps. Subtract one for each Condition that hinders. Any given Condition can only come into play once per roll; if a Condition already changes the roll in some way (by making you a target, say, or requiring or allowing the roll in the first place) it is not counted again now.
+Add one for each Condition that helps and for any bonuses. Subtract one for each Condition that hinders. Any given Condition can only come into play once per roll; if a Condition already changes the roll in some way (by making you a target, say, or requiring or allowing the roll in the first place) it is not counted again now.
 
 The modifier can no higher than +4 at this point; if it's higher, reduce it to 4. If it's lower than -1, you can opt to do something else, narratively, or roll anyway.
 
@@ -54,17 +54,19 @@ Or you can use the following "catchall move".
 
 When you *want to achieve something but are opposed or success is not a given*, first determine if any of your current Conditions affect the situation, then assemble a modifier as described as above and roll +modifier.
 
-On a 10+, you succeed. Choose one as appropriate to the fiction: gain situational currency, lose a negative Condition, gain a Condition or gain a bonus on the next roll.
+On a 10+, you succeed. Choose one as appropriate to the fiction: gain situational currency, lose a negative Condition, or gain a Condition or bonus on the next roll.
 
 * Situational Currency. Define something about the situation that may be purchased; either list 1d6 potential complications, outcomes, and hazards, or pick something the hero wants multiples of (like answers from a witness). Roll 1d6 and divide by 2, rounded up; you have this many points to spend. Example: 3 Interrogation Points, each worth an honest answer from the witness. 2 Victory Points, spend one to capture the villain, one to avoid any injury to your allies, one to stop the Doomsday device.
 
-* Gain a Condition or bonus. This can be ongoing or just to the next roll. Example: You have the Condition "High Ground" because you succeeded in gaining the high ground; add it to any roll where having the high ground would help, until you lose the high ground or leave it.
+* Gain a Condition or bonus. This can be ongoing or just to the next roll. Example: You have the Condition "High Ground" because you succeeded in gaining the high ground; add it to any roll where having the high ground would help, until you lose the high ground or leave it. Or you have a +1 to the next roll to intimidate a witness because you succeeded at roughing him.
 
 On a 7-9, you succeed as if with 10+. Also establish a Complication, set up a soft move, or follow through on a previous soft move with a hard move. Or offer a hard bargain or make an ugly choice.
 
 On a 6-, you fail. Deliver a new hard move out of the blue or follow through on a previous soft move with a hard move.
 
-On a hard move, take a negative Condition, lose a positive Condition, take harm, or lose something else important.
+On a hard move, take a negative Condition, lose a positive Condition, take Harm, or lose something else important.
+
+If you need hard and soft moves explained, go [here](http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html).
 
 Any time both dice show the same number, roll a random event that sets up a soft move.
 
