@@ -20,7 +20,7 @@ links:
 
 I've spent the last twelve days in head-cold-stomach-flu hell. Not much in the way of gaming going on, shared or solo. All projects on hold.
 
-So the thing I was working on before I got sick, right around New Year's Eve? Combining *Lady Blackbird* and *Apocalypse World*, or more precisely, *Simple World* (a generic version of AW) because it's dead simple to understand and modify.
+So the thing I was working on before I got sick? Combining *Lady Blackbird* and *Apocalypse World*, or more precisely, *Simple World* (a generic version of AW) because it's very simple to understand and modify.
 
 <!--more-->
 
@@ -34,9 +34,7 @@ Take two long duration Conditions that reflect areas in which your hero is weak,
 
 Use Keys and Secrets as written. Choose if you want to use a Harm track/clock or *Lady Blackbird* style harm Conditions or a mix.
 
-Generally, if you have a Tag or Trait, you can just do that thing -- as someone competent at it could.
-
-**Building a Modifier**
+#### Building a Modifier
 
 When a roll is called for, build a modifier.
 
