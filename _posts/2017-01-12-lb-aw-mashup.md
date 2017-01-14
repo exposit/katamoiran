@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AW-LB Mashup
+title: Apocalypse World - Lady Blackbird Mashup
 date: 2017-01-12 16:39:21
 categories: ['game design']
-tags: ['lady blackbird', 'simple world', 'narrative']
+tags: ['lady blackbird', 'simple world', 'narrative', 'apocalypse world', 'pbta']
 comments: false
 published: true
 links:
@@ -23,7 +23,7 @@ links:
 
 I've spent the last twelve days in head-cold-stomach-flu hell. Not much in the way of gaming going on, shared or solo. All projects on hold.
 
-So the thing I was working on before I got sick? Combining *Lady Blackbird* and *Apocalypse World*, or more precisely, *Simple World* (a generic version of AW) because it's very simple to understand and modify.
+So the thing I was working on before I got sick? Combining *Lady Blackbird* and *Apocalypse World*, or more precisely, *Simple World* (a short, generic version of AW) because it's very simple to understand and modify.
 
 <!--more-->
 
