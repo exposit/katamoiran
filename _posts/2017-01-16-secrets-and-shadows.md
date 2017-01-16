@@ -29,17 +29,14 @@ So here's the refined and prettified version of my Apocalypse World/Lady Blackbi
 
 [*Secrets and Shadows*]({{ site.baseurl }}/img/posts/2017-01-16/SecretsandShadows_v1_alpha.pdf)
 
-I went back to the drawing board a little, using the concept I posted a few days ago. I stumbled over a post on [concentric game design](http://lumpley.com/index.php/anyway/thread/594) in Apocalypse World, and it seemed only right to rebuild things following the principles so awesomely laid out.
+I went back to the drawing board a little, using the concept I posted a few days ago. I stumbled over a post on [concentric game design](http://lumpley.com/index.php/anyway/thread/594) in Apocalypse World, and it seemed only right to rebuild things following the principles so generously and awesomely laid out.
 
 To quote from the post, all you really need is:
 
-> Vivid color
-
-> A few stats and a simple die roll
-
-> On a 10+, the best happens. On a 7-9, it's good but complicated. On a miss, it's never nothing, it's always something worse.
-
-> The MC's agenda, principles, and what to always say.
+* Vivid color
+* A few stats and a simple die roll
+* On a 10+, the best happens. On a 7-9, it's good but complicated. On a miss, it's never nothing, it's always something worse.
+* The MC's agenda, principles, and what to always say.
 
 I picked "paranormal romance" for my "vivid color" but you could certainly change that by using different character building options and different Principles and Dramatic moves.
 
