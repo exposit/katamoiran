@@ -43,7 +43,7 @@ To quote from the post, all you really need is:
 * On a 10+, the best happens. On a 7-9, it's good but complicated. On a miss, it's never nothing, it's always something worse.
 * The MC's agenda, principles, and what to always say.
 
-I picked "paranormal romance" as the basis for my "vivid color" but you could certainly change that by using different character building options and different Principles and Dramatic moves.
+I picked "paranormal romance" as the basis for the "vivid color" but you could easily change that by using different character building options (*The Blackbird Companion* is a great resource for this) and different Principles and Dramatic moves.
 
 The core should be a pretty solid solo experience, with plenty of guidelines for what to do next and how to push the story forward. And I heavily refined how Currency works, to make it more solo friendly.
 
