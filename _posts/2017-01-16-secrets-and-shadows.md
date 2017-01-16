@@ -44,4 +44,4 @@ The core should be a pretty solid solo experience, with plenty of guidelines for
 
 I also included a simple Oracle for those without Mythic or solo experience. Using this Oracle is not required, of course.
 
-Now all that's left is a playtest, which I should get to pretty soon.
+Now all that's left is to run a playtest and tweak anything that needs tweaking, which I should get to pretty soon.
