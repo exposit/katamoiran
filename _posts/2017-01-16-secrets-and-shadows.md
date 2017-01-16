@@ -34,6 +34,8 @@ So here's the refined and prettified version of my Apocalypse World/Lady Blackbi
 
 I went back to the drawing board a little, using the concept I posted a few days ago. I stumbled over a post on [concentric game design](http://lumpley.com/index.php/anyway/thread/594) in Apocalypse World, and it seemed only right to rebuild things following the principles so generously and awesomely laid out.
 
+<!--more-->
+
 To quote from the post, all you really need is:
 
 * Vivid color
