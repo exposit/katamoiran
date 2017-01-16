@@ -4,7 +4,7 @@ title: Secrets and Shadows
 date: 2017-01-16 11:12:59
 categories: ['game design', 'secrets and shadows']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'secrets and shadows', 'pbta', 'apocalypse world']
-comments: false
+comments: true
 published: true
 tagline: combining Apocalypse World & Lady Blackbird
 links:
@@ -34,8 +34,11 @@ I went back to the drawing board a little, using the concept I posted a few days
 To quote from the post, all you really need is:
 
 > Vivid color
+
 > A few stats and a simple die roll
+
 > On a 10+, the best happens. On a 7-9, it's good but complicated. On a miss, it's never nothing, it's always something worse.
+
 > The MC's agenda, principles, and what to always say.
 
 I picked "paranormal romance" for my "vivid color" but you could certainly change that by using different character building options and different Principles and Dramatic moves.
