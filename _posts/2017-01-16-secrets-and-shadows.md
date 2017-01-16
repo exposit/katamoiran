@@ -23,6 +23,9 @@ links:
   - url: http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html
     title: Hard & Soft Moves Explained
     source: Mighty Atom
+  - url: http://lumpley.com/index.php/anyway/thread/594
+    title: Concentric Game Design
+    source: lumpley
 ---
 
 So here's the refined and prettified version of my Apocalypse World/Lady Blackbird inspired (powered?) game.
@@ -40,7 +43,7 @@ To quote from the post, all you really need is:
 
 I picked "paranormal romance" for my "vivid color" but you could certainly change that by using different character building options and different Principles and Dramatic moves.
 
-The core should be a pretty solid solo experience, with plenty of guidelines for what to do next and how to push the story forward. And I heavily refined is how Currency works, to make it more solo friendly.
+The core should be a pretty solid solo experience, with plenty of guidelines for what to do next and how to push the story forward. And I heavily refined how Currency works, to make it more solo friendly.
 
 I also included a simple Oracle for those without Mythic or solo experience. Using this Oracle is not required, of course.
 
