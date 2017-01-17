@@ -21,6 +21,8 @@ links:
     source: Mighty Atom
 ---
 
+Update: a refined version is available [here](https://exposit.github.io/katamoiran/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html).
+
 I've spent the last twelve days in head-cold-stomach-flu hell. Not much in the way of gaming going on, shared or solo. All projects on hold.
 
 So the thing I was working on before I got sick? Combining *Lady Blackbird* and *Apocalypse World*, or more precisely, *Simple World* (a short, generic version of AW) because it's very simple to understand and modify.
