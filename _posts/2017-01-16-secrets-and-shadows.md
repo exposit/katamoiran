@@ -43,7 +43,11 @@ To quote from the post, all you really need is:
 * On a 10+, the best happens. On a 7-9, it's good but complicated. On a miss, it's never nothing, it's always something worse.
 * The MC's agenda, principles, and what to always say.
 
-I picked "paranormal romance" as the basis for the "vivid color" but you could easily change that by using different character building options (*The Blackbird Companion* is a great resource for this) and different Principles and Dramatic moves.
+I had the second and third elements, pretty much, but not the first -- since it was a generic idea -- and not the last, since how important could those be to a solo gamer?
+
+It only took about ten seconds of jotting down ideas for Agenda and Principles to realize just how valuable they are, *especially* solo, to provide structure and direction.
+
+I picked "paranormal romance", pretty much on a whim, as the basis for the "vivid color" but you could easily change that by using different character building options (*The Blackbird Companion* is a great resource for this) and different Principles and Dramatic moves.
 
 The core should be a pretty solid solo experience, with plenty of guidelines for what to do next and how to push the story forward. And I heavily refined how Currency works, to make it more solo friendly.
 
