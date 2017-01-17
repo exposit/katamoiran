@@ -30,7 +30,7 @@ links:
 
 So here's the refined and prettified version of my Apocalypse World/Lady Blackbird inspired (powered?) game.
 
-[*Secrets and Shadows*]({{ site.baseurl }}/img/posts/2017-01-16/SecretsandShadows_v1_alpha.pdf)
+[*Secrets and Shadows*]({{ site.baseurl }}/img/posts/2017-01-16/SecretsandShadows_v1.pdf)
 
 I went back to the drawing board a little, using the concept I posted a few days ago. I stumbled over a post on [concentric game design](http://lumpley.com/index.php/anyway/thread/594) in Apocalypse World, and it seemed only right to rebuild things following the principles so generously and awesomely laid out.
 
