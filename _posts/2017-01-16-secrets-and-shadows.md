@@ -47,9 +47,9 @@ I had the second and third elements, pretty much, but not the first -- since it 
 
 It only took about ten seconds of jotting down ideas for Agenda and Principles to realize just how valuable they are, *especially* solo, to provide structure and direction.
 
-I picked "paranormal romance", pretty much on a whim, as the basis for the "vivid color" but you could easily change that by using different character building options (*The Blackbird Companion* is a great resource for this) and different Principles and Dramatic moves.
+I picked "paranormal romance", pretty much on a whim, as the basis for the "vivid color" but you could easily change that by using different character building options (*The Blackbird Companion* is a great resource for this) and different Principles. And maybe changing up the Dramatic moves.
 
-The core should be a pretty solid solo experience, with plenty of guidelines for what to do next and how to push the story forward. And I heavily refined how Currency works, to make it more solo friendly.
+The core should be a pretty solid solo experience, with plenty of guidelines for what to do next at each juncture and how to push the story forward. And I heavily refined how Currency works, to make it more solo friendly.
 
 I also included a simple Oracle for those without Mythic or solo experience. Using this Oracle is not required, of course.
 
