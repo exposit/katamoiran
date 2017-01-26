@@ -28,6 +28,8 @@ links:
     source: lumpley
 ---
 
+*Edit 1/25: I made a science fiction version loosely inspired by the SF of the 70s and 80s, [Starfarer]({{ site.baseurl }}/img/posts/2017-01-16/Starfarer_v1.pdf).*
+
 So here's the refined and prettified version of my Apocalypse World/Lady Blackbird inspired (powered?) game.
 
 [*Secrets and Shadows*]({{ site.baseurl }}/img/posts/2017-01-16/SecretsandShadows_v1.pdf)
