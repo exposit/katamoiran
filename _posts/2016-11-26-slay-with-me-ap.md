@@ -16,6 +16,7 @@ links:
   - url: https://bankuei.wordpress.com/2011/08/31/stances-101/
     title: Stances 101
     source: Deeper in the Game
+redirect_from: "/actual%20play/2016/11/26/slay-with-me-ap.html"
 ---
 
 *This ended up being quite the ramble -- skip to the <a href="#relevantstuff">relevant stuff</a> if you'd like.*

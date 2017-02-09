@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'noir nights'
 tagline: "you know it's going to be a long night when you wake up in the morgue..."
+redirect_from: "/actual%20play/noir%20nights/2016/12/06/noir-nights-session-1.html"
 ---
 
 This one's a little older, from right around whenever I introduced Triggers and Secrets to Pythia, actually. So maybe mid-October. I'm thinking it was supposed to be spooky for Halloween. I really should start putting a date right up front in the log. Wonder if I can find room in the GUI for a timestamp button.

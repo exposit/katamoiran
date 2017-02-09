@@ -2,7 +2,7 @@
 layout: post
 title: Secrets and Shadows
 date: 2017-01-16 11:12:59
-categories: ['game design', 'secrets and shadows']
+categories: ['game design', 'secrets and shadows', 'starfarer', 'rpglet']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'secrets and shadows', 'pbta', 'apocalypse world']
 comments: true
 published: true
@@ -26,6 +26,7 @@ links:
   - url: http://lumpley.com/index.php/anyway/thread/594
     title: Concentric Game Design
     source: lumpley
+redirect_from: "/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html"
 ---
 
 *Edit 1/25: I made a science fiction version loosely inspired by the SF of the 70s and 80s, [Starfarer]({{ site.baseurl }}/img/posts/2017-01-16/Starfarer_v1.pdf).*

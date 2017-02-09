@@ -21,6 +21,8 @@ baseurl: "/katamoiran" # the subpath of your site, e.g. /blog
 url: "https://exposit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  exposit
 
+permalink: /:year/:month/:day/:title/
+
 # Build settings
 markdown: kramdown
 kramdown:
@@ -30,6 +32,7 @@ kramdown:
 #theme: minima
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -40,5 +43,8 @@ include:
 
 collections:
   solos:
+    permalink: /:path/
+    output: false;
+  rpglets:
     permalink: /:path/
     output: false;

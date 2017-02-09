@@ -9,6 +9,8 @@
 #  - name: Python RPG Scripts
 #    link: https://github.com/exposit/katamoiran/
 
+- name: Oracle Games
+  link: /rpglets.html
 - name: Solos
   link: /solos.html
   dropdown: &dropdown

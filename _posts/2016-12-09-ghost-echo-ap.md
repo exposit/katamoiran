@@ -13,6 +13,7 @@ links:
   - url: http://www.onesevendesign.com/ghostecho/
     title: Ghost/Echo
     source: One Seven Design
+redirect_from: "actual%20play/sharedscifi/wraith/2016/12/09/ghost-echo-ap.html"
 ---
 
 #SharedScifi

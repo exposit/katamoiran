@@ -1,0 +1,77 @@
+---
+layout: default
+title: One Page Games
+permalink: "/rpglets.html"
+group: Rpglets
+---
+
+<div class='rounded'>
+	<article>
+		<header>
+		<h1>{{ page.title }}</h1>
+		</header>
+
+		<section>
+
+			<p>Games I've written, all of which fit on one letter-sized page (though you might have to squint a little if you print them -- I've never tried). They're listed here in the order I created them, so paint a pretty good picture of my evolving design philosophy (and improvement with LaTex).</p>
+
+			<h3>6 Hours to Midnight</h3>
+
+      <p><i>... and no one is precisely who they seem to be, including you.</i></p>
+
+			<p>Intrigue and romance in a time-based format designed to create a story. Inspired by S\lay with w/Me. Intended to encourage exploration of themes of love, sex, and rivalry in a rpg context.</p>
+
+			<p>Probably suitable for solo play only, though you could possibly play with a GM and one or two players, maybe even competitively. It's a little fiddly with a somewhat lavish amount of things to keep track of, very story focused, and not at all suitable for long-term play.</p>
+
+			<ul>
+			{% for node in site.categories['6 hours to midnight'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+			<h3>6 Against the Dark / 6 Days to Adventure</h3>
+
+			<p>Two flavors of essentially the same game; one is horror of the haunted house variety and the other hearkens back to the big globe-trotting, treasure hunting adventure potboilers that are ubiquitous at airport kiosks.</p>
+
+			<p>Built around a board-game-style three Act structure with a simple dice resolution and options to purchase on each roll. Still pretty much for one shots, though there's more room in these for group play.</p>
+
+			<ul>
+			{% for node in site.categories['d6 games'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+			<h3>6 Feet Under</h3>
+
+			<p>Mystery with a hard-boiled, noir feel, written after *6 Against the Dark* as I was transitioning away from a "purchasing outcomes" framework and towards Apocalypse World's resolution system.</p>
+
+			<p>Uses a character generation method similar to that of <i>6 Against the Dark</i>, but replaces the standard three Act structure with one inspired by a "beat sheet" for a more fluid but still very board-game-like result.</p>
+
+			<ul>
+			{% for node in site.categories['6 feet under'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+			<h3>Secrets &amp; Shadows / Starfarer</h3>
+
+			<p>The former is paranormal romance, or urban fantasy, if you prefer, while the latter is straight science fiction. Draws heaviy on <i>Lady Blackbird</i> for character generation and <i>Apocalypse World</i> for resolution and mechancis.</p>
+
+			<p>No built-in structure or end point, but plenty of color and situation starters to get things going and keep them moving. Should be playable solo or in a group, one shot or long term.</p>
+
+			<ul>
+			{% for node in site.categories['secrets and shadows'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+			<ul>
+			{% for node in site.categories['starfarer'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+		</section>
+
+	</article>
+</div>

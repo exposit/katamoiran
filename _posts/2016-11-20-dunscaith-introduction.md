@@ -18,6 +18,7 @@ links:
   - url: http://thealexandrian.net/wordpress/38313/roleplaying-games/the-art-of-rulings-part-8-let-it-ride
     title: The Art of Rulings
     source: The Alexandrian
+redirect_from: "/theory/dunscaith/2016/11/20/dunscaith-introduction.html"
 ---
 
 Dunscaith is an adventure showcasing (and beta testing) Pythia's dungeon panel, set in my own personal megadungeon world loosely based on Wales in the dying days of the Roman empire (if it were on Mars and there were faeries).

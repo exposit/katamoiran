@@ -2,7 +2,7 @@
 layout: post
 title: Six Hours to Midnight
 date: 2016-12-14 11:53:16
-categories: ['game design', '6 hours to midnight']
+categories: ['game design', '6 hours to midnight', 'rpglet']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
 comments: true
 published: true
@@ -33,8 +33,7 @@ A litle uncomfortable, though perhaps that's my personal hangup. An examination 
 
 Note that all references to he or she are because I had to pick *something*. You can play it however makes sense to you -- my hero took the more traditional "damsel" role in a lot of ways.
 
-It's designed
-\ for solo play but it should also accomodate a GM, if you'd like, by dividing up the roles of Hero, Lover, and Rival between two or three players. You could have multiple Heroes or Rivals, as well. If you try it this way I'd love to hear about it!
+It's designed for solo play but it should also accomodate a GM, if you'd like, by dividing up the roles of Hero, Lover, and Rival between two or three players. You could have multiple Heroes or Rivals, as well. If you try it this way I'd love to hear about it!
 
 The core conflict in *6 Hours* is between the Hero and the Rival. Will you achieve your goal or will the Rival achieve his? And then there's the Lover, the wildcard, a prize and a resource and part of the stakes. Note that "Lover" is capitalized here, because it does refer to a specific person in the game.
 

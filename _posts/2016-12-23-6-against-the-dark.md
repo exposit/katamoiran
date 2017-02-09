@@ -2,8 +2,8 @@
 layout: post
 title: Two for Christmas
 date: 2016-12-23 13:13:33
-categories: ['game design', 'd6 games']
-tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
+categories: ['game design', 'd6 games', 'rpglet']
+tags: ['narrative', 'd6s', 'theory', '6 against the dark', '6 days to adventure', '6 feet under']
 comments: true
 published: true
 links:
@@ -20,13 +20,19 @@ links:
     title: 6 Hours to Midnight
     source: katamoiran
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf
-    title: 6 Against the Dark
+    title: 6 Against the Dark (horror)
     source: katamoiran
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf
-    title: 6 Days to Adventure
+    title: 6 Days to Adventure (adventure)
     source: katamoiran
-tagline: "6 Against the Dark & 6 Days to Adventure"
+  - url: https://exposit.github.io/katamoiran/img/posts/2017-01-14/6FeetUnder_v1_alpha.pdf
+    title: 6 Feet Under (noir)
+    source: katamoiran
+tagline: "6 Against the Dark & 6 Days to Adventure & 6 Feet Under"
+redirect_from: "/game%20design/d6%20games/2016/12/23/6-against-the-dark.html"
 ---
+
+*Edit 2/08: I somehow missed linking this earlier, but here's a noir version using a different resolution mechanic and a different scene structure, [6 Feet Under]({{ site.baseurl }}/img/posts/2017-01-14/6FeetUnder_v1_alpha.pdf). The tips below still apply.*
 
 So I wrote a couple more games. Before I even post-mortemed the first, even.
 

@@ -11,6 +11,7 @@ links:
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf
     title: 6 Hours to Midnight
     source: katamoiran
+redirect_from: "/actual%20play/6%20hours%20to%20midnight/2016/12/14/6-hours-to-midnight-ap.html"
 ---
 
 An experimental playthrough of my oracle game, <a href="https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf">*6 Hours to Midnight*</a>.

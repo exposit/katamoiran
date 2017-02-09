@@ -22,6 +22,7 @@ links:
   - url: https://exposit.github.io/katamoiran/img/posts/2016-12-06/LegendTruth_NoSystem_v2.pdf
     title: Legend & Truth v2 (No System) pdf
     source: katamoiran
+redirect_from: "/solo%20frameworks/2016/11/26/legend-and-truth.html"
 ---
 
 *Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruth_v1.pdf">pdf</a> of this post.*

@@ -24,6 +24,7 @@ links:
   - url: http://www.lumpley.com/archive/148.html
     title: Otherkind Dice
     source: Lumpley
+redirect_from: "/actual%20play/demonblood/2016/12/09/lady-blackbird-hack-ap.html"
 ---
 
 After wending my way from *Trollbabe* to *Stranger Things*, it was inevitable that I'd find my way to *Lady Blackbird* (and the excellent *The Lady Blackbird Companion*). Up front, I will say, this system is amazing. Flat out brilliant. It might just be the most perfect fit for my solo play style that I've found yet.
