@@ -1,9 +1,10 @@
-NSAAKBH
+NSAABH
 
+(Note this document has been converted from the original pdf purely for accessibility purposes. Any mistakes or errors or changes are unintentional.)
  
 
 NINE STEPS AND A BLOODY HEART
-(N SAABH)
+(NSAABH)
 Investigation Rules for your Solo RPG
 
 ver 1 .1
@@ -13,6 +14,7 @@ by Riccardo Fregi
 
 Nine Steps and a Bloody Heart by Riccardo Fregi
 is licensed under a Creative Commons Attribution 4.0 International Licence
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Cover art by Riccardo Fregi
 For more information about this game please visit 
