@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Page Games
+title: Games
 permalink: "/rpglets.html"
 group: Rpglets
 ---
@@ -13,7 +13,25 @@ group: Rpglets
 
 		<section>
 
-			<p>Games I've written, all of which fit on one letter-sized page (though you might have to squint a little if you actually print them -- I've never tried). They're listed from most recent to oldest, so paint a pretty good picture of my evolving design philosophy (and improvement with LaTex).</p>
+			<h3>Calypso</h3>
+
+			<p><i>... Apocalypse World mashed with Lady Blackbird</i></p>
+
+			<p>A mashup of <i>Apocalypse World's</i> mechanics and <i>Lady Blackbird's</i> character generation, along with a heaping helping of general soloing techniques, run through the blender of my idiosyncratic play style.</p>
+
+			<p><i>Calypso</i> is designed to be compatible with <i>Apocalypse World</i> and its derivatives. It should be trivial to use the core rules with any PbtA game, and the character options should work with Lady Blackbird with very little tweaking.</p>
+
+			<ul>
+			{% for node in site.categories['calypso'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+		<\section>
+
+		<section>
+
+			<p>Games I've written that fit on one letter-sized page (though you might have to squint a little if you actually print them -- I've never tried). They're listed from most recent to oldest, so paint a pretty good picture of my evolving design philosophy (and improvement with LaTex).</p>
 
 			<h3>Secrets &amp; Shadows / Starfarer</h3>
 
