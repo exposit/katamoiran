@@ -31,6 +31,12 @@ So this is the first playtest version of [*The Calypso Compendium*]({{ site.base
 
 <!--more-->
 
+>> The Calypso system is a mashup of stripped-down Apocalypse World mechanics and Lady Blackbird character generation, with a heaping helping of general soloing techniques, run through the blender of my idiosyncratic playstyle.
+
+>> Calypso is designed to support open-ended, strongly narrative solo gaming. It’s designed to provide a framework for you to run games that create stories, stories that will surprise and hope- fully delight you as you experience them.
+
+>> And it’s designed to leverage two amazing group- play games – Lady Blackbird and Apocalypse World – for solo play, and to be compatible with both of them and their derivatives.
+
 * Apocalypse World derived mechanics, Lady Blackbird derived character generation.
 * Characters and mechanics designed to work with most if not all pbtA games from a solo angle.
 * A simple soloing oracle that can be replaced with your own favorite very easily.
