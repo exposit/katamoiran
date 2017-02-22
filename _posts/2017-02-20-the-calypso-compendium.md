@@ -48,4 +48,4 @@ So this is the first playtest version of [*The Calypso Compendium*]({{ site.base
 
 Obviously this is a draft and still very much in playtesting, because there is totally no way I could test all this material by myself. But it's pretty reflective of how I personally am solo gaming right now.
 
-So tell me what you think, point out any typos, hit my math skills (or lack thereof), playtest if something catches your imagination, yell at me if nothing does. All feedback is welcome, thanks!
+So tell me what you think, point out any typos or glaring errors or lazy cut and pastes, hit my math skills (or lack thereof), playtest if something catches your imagination, yell at me if nothing does. All feedback is welcome, thanks!
