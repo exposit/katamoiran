@@ -44,7 +44,7 @@ So this is the first playtest version of [*The Calypso Compendium*]({{ site.base
 * Around 15 pages of character options which, with the exception of the Secrets, can be used with Lady Blackbird.
 * Six scenarios in the style of *Starfarer*, including paranormal romance, superheroes, high fantasy, low fantasy, science fiction, and paranormal mystery.
 * A handful of actor creation generators from Pythia that I use all the time.
-* The distilled down scene structures from *6 Against the Dark, *6 Days to Adventure* and *6 Feet Under*.
+* The distilled scene structures from *6 Against the Dark*, *6 Days to Adventure* and *6 Feet Under*.
 
 Obviously this is a draft and still very much in playtesting, because there is totally no way I could test all this material by myself. But it's pretty reflective of how I personally am solo gaming right now.
 
