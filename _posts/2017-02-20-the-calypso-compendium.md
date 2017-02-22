@@ -11,18 +11,12 @@ links:
   - url: http://www.onesevendesign.com/ladyblackbird/
     title: Lady Blackbird
     source: One Seven Design
-  - url: http://mightyatom.blogspot.com/2011/02/lady-blackbird-companion.html
-    title: The Lady Blackbird Companion
-    source: Tim Adamson
   - url: http://buriedwithoutceremony.com/simple-world/
     title: Simple World
     source: Buried Without Ceremony
   - url: http://apocalypse-world.com/
     title: Apocalypse World
     source: lumpley
-  - url: http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html
-    title: Hard & Soft Moves Explained
-    source: Mighty Atom
   - url: http://lumpley.com/index.php/anyway/thread/594
     title: Concentric Game Design
     source: lumpley
@@ -33,7 +27,7 @@ I wasn't satisfied with my one page *Lady Blackbird* and *Apocalypse World* mash
 
 So I went back to the drawing board, revamped everything, gave the base system a name ("Calypso"), and put together a compiled version of all the rules and scenarios I've made so far, along with the Traits, Secrets, and Keys I use for my own games. And added a few more scenarios, just for good measure.
 
-So this is [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
+So this is the first playtest version of [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
 
 <!--more-->
 
@@ -43,7 +37,9 @@ So this is [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/Th
 * A few techniques I use to keep my games' plots "on track".
 * Around 15 pages of character options which, with the exception of the Secrets, can be used with Lady Blackbird.
 * Six scenarios in the style of *Starfarer*, including paranormal romance, superheroes, high fantasy, low fantasy, science fiction, and paranormal mystery.
+* A handful of actor creation generators from Pythia that I use all the time.
+* The distilled down scene structures from *6 Against the Dark, *6 Days to Adventure* and *6 Feet Under*.
 
 Obviously this is a draft and still very much in playtesting, because there is totally no way I could test all this material by myself. But it's pretty reflective of how I personally am solo gaming right now.
 
-Any and all feedback is welcome!
+Any and all feedback is welcome and solicited. Would love any playtests and proofreading and just general advice!
