@@ -19,4 +19,8 @@ Just a quick brainstorm of a framework for running narrative but yet still (slig
 
 It's floppy and not as clear as it could be and is probably not anywhere near objective enough.
 
-Any suggestions?
+My gut feeling is that objectivity is going to be a hard target to hit, but maybe that's just my personal blind spot.
+
+Next step: work up a narrative mystery gamebook, because I've been [meaning to]({{ site.baseurl }}/2016/09/14/pythia-oracle-update/) for a while.
+
+Any feedback?
