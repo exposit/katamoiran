@@ -20,7 +20,6 @@ links:
   - url: http://lumpley.com/index.php/anyway/thread/594
     title: Concentric Game Design
     source: lumpley
-redirect_from: "/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html"
 ---
 
 I wasn't satisfied with my one page *Lady Blackbird* and *Apocalypse World* mashups. It just didn't feel like I was getting my style across.
