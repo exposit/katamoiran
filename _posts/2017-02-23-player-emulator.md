@@ -16,6 +16,8 @@ links:
 
 So about six months ago I wrote a framework for emulating PCs, with the idea that you would play solo as usual, but when it came time for your PC to do something, you'd use a chart (along with some more complicated mechanics for modifiers and timing) to determine what the PC did.
 
+<!--more-->
+
 Anyway, I ended up scrapping the framework. It was fun to run but not really the direction I wanted to go -- too many mechanics. But I did end up with the following chart, which I ultimately rolled into Pythia Oracle, where it's a great tool for on the fly "what the heck does he do next" questions.
 
 | 2d6 | PC Moves Chart |
