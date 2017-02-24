@@ -32,3 +32,7 @@ Anyway, I ended up scrapping the framework. It was fun to run but not really the
      10 |  Something from his backstory positively influences his action. [Flashback]
      11 |  Draw a new Seed and interpret it positively in context of the PC's potential actions [On Point]
      12 |  PC acts out of character in a positive way; a secret revealed. [True Face]
+
+Interestingly, it's not a "PC" Emulator -- it's a literal "Player" Emulator. You're even encouraged to give them names!
+
+I think it works much better as a Pythia chart, to be honest.
