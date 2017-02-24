@@ -32,6 +32,6 @@ Anyway, I ended up scrapping the framework. It was fun to run but not really the
 11 |  Draw a new Seed and interpret it positively in context of the PC's potential actions [On Point]
 12 |  PC acts out of character in a positive way; a secret revealed. [True Face]
 
-Interestingly, as I look it over with a jaundiced eye, trying to decide if it's worth updating. It's not a "PC" Emulator -- it's a literal "Player" Emulator. You're even encouraged to give them names!
+Interestingly, as I looked it over with a jaundiced eye, trying to decide if it's worth updating, I discovered that it's not a "PC" Emulator -- it's a literal "Player" Emulator. You're even encouraged to give them names!
 
 I think it works much better as a Pythia chart, to be honest.
