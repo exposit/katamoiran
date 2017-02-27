@@ -7,7 +7,7 @@ tags: ['narrative', 'novel', 'writing', 'theory']
 comments: true
 published: true
 links:
- -  url: https://exposit.github.io/katamoiran/2016/12/23/6-against-the-dark/
+  -  url: https://exposit.github.io/katamoiran/2016/12/23/6-against-the-dark/
     title: 6 Days of Adventure
     source: katamoiran
   - url: https://exposit.github.io/pythia-oracle/
