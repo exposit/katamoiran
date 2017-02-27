@@ -15,6 +15,22 @@ group: Rpglets
 
 		<section>
 
+			<h3>To Make a Murder</h3>
+
+			<p><i>... a narrative solo mystery framework</i></p>
+
+			<p>More proof of concept than anything else, to be honest.</p>
+
+			<ul>
+			{% for node in site.categories['to make a murder'] %}
+				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+		</section>
+
+		<section>
+
 			<h3>Calypso</h3>
 
 			<p><i>... Apocalypse World mashed with Lady Blackbird</i></p>
