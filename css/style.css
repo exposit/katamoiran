@@ -428,7 +428,7 @@ time {
     font-size: 1.92em;
     font-weight: normal;
     line-height: 40px;
-    text-shadow: 2px 2px #3e0002;
+    /*text-shadow: 2px 2px #3e0002;*/
     margin-bottom: -10px;
     padding-bottom: 0px;
     margin-top: 25px;
