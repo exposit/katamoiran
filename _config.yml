@@ -23,6 +23,8 @@ github_username:  exposit
 
 permalink: /:year/:month/:day/:title/
 
+future: false
+
 # Build settings
 markdown: kramdown
 kramdown:
