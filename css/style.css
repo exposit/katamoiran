@@ -450,7 +450,7 @@ time {
 
 #site-tagline {
 	font-family: var(--tag-font);
-	color: #ccc;
+	color: #000;
 	margin: 0 0 4px 16px;
 	line-height: 0.8;
 	font-size: 1.3em;
