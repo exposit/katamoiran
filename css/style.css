@@ -135,8 +135,9 @@ pre {
 #header {
   padding: 20px;
   height: 85px;
-	background-image: url('header2.png');
-	background-position: -10px, 0px;
+  background-color: #f8f8f8;
+	/* background-image: url('header2.png');
+	background-position: -10px, 0px;*/
 }
 
 #navbar {
@@ -424,7 +425,7 @@ time {
     margin-top: 0px;
     font-family:  var(--title-font);
     color: #9d0006;
-    color: #ffffff;
+    color: #000;
     font-size: 1.92em;
     font-weight: bold;
     line-height: 40px;
@@ -440,7 +441,7 @@ time {
 
 #site-description {
     font-family:  var(--fancy-font);
-    color: #ccc;
+    color: #000;
     margin: 0 0 4px 16px;
     line-height: 0.8;
     font-size: 1.0em;
