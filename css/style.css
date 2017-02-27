@@ -2,7 +2,7 @@
 
 :root{
 
-    --display-font: 'Lora', serif;
+    --display-font: 'Nunito', serif;
 
     --tag-font: 'Lora', serif;
 
@@ -135,7 +135,6 @@ pre {
 #header {
   padding: 20px;
   height: 85px;
-  background-color: #f8f8f8;
 	/* background-image: url('header2.png');
 	background-position: -10px, 0px;*/
 }
@@ -436,7 +435,7 @@ time {
 }
 
 #site-title a {
-	color: #ffffff;
+	color: #000;
 }
 
 #site-description {
