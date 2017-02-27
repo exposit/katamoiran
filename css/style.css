@@ -541,6 +541,7 @@ time {
 
 .post-title {
   /*font-variant: small-caps; */
+  font-size: 1.5em;
 }
 
 .post-content {
