@@ -15,7 +15,11 @@ links:
 
 So I thought I'd go a little more in depth into how I use charts of evocative keywords instead of more specific, concrete ones. This will probably ramble a little because this is all instinctive stuff to me and I'm not used to articulating it.
 
+<!--more-->
+
 An example from a *6 Days to Adventure* play-test (unpublished). First, I rolled up my adventurer, who turned out to be decisive, free-spirited, libertine, and lost. Then I needed a dark secret. I decided to roll a couple of times on the motives chart and once on the person chart.
+
+***
 
 *Rolling 3d6 1 times.*
 
@@ -27,19 +31,21 @@ So now she was a secret agent, and things went bad, and someone innocent got in 
 
 I keep rolling, and get a scene type and scene purpose, and then a location. Notice that I adjust the results that don't "feel" quite right.
 
----
+***
 
 *Interlude, Recognition. A seedy bar at noon. It's Status Quo, so it'll be showing my heroine doing what she usually does. Interlude doesn't fit, so I'll go Straight.*
 
 
 ***
+
  day 1
+
 ***
 
 
 I wipe down the bar, slowly, my mind elsewhere. It's half-past noon, and the sun is beating down on the tin roof of the cantina, and the place is deserted.
 
----
+***
 
 I don't need to know where we are, specifically. Could be Mexico, where an outed spy has gone to ground. Could be some small town in Iowa, where she has family. Not sure yet, because I'll find out as I play.
 
@@ -49,6 +55,6 @@ This works for everything, by the way, from setting to actors to conflicts.
 
 The tricky part is remembering to consult the mechanics frequently, and to allow the mechanics and oracle to control the direction of the story. It's easy to get caught up in the instinctive logic of it and not stop to consider alternate paths, which can lead to cliches and dead ends.
 
-As an aside, I don't mind cliches, references to other media, or trite turns of phrase when I'm playing. The whole point is to get through an adventure, not to write deathless prose, and cliches can be useful as placeholders. But they're almost never surprising in the way that I crave when playing.
+As an aside, I don't mind cliches, references to other media, or trite turns of phrase when I'm playing. The whole point is to get through an adventure, not to write deathless prose, and cliches can be useful as placeholders. But they're almost never surprising in the way that I crave when playing, so having a way to generate those surprises is essential.
 
 Anyway, just a brief discussion of using keywords, which works pretty well for me!

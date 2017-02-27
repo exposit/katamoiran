@@ -21,6 +21,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/terrain_generator
     title: terrain generator scripts
     source: katamoiran
+redirect_from: "https://exposit.github.io/katamoiran/random%20content/scripts/mechanics/2016/08/24/terrain-generator.html"
 ---
 
 For the Kyneros campaign I knew I wanted to do a lot of overland exploration, wilderness and dungeon crawls, and entirely oracle-generated world-building. I've always had a love for random generation, and it's an essential part of my solo adventuring experience -- but I know my limits, and when it comes to terrain I don't have the patience (or attention span) for a literal hexcrawl.
