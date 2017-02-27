@@ -7,7 +7,7 @@ layout: default
         {% assign wordCount = page.content | number_of_words %}
         <p class="post-time">{{ page.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words</p>
 
-        <h1>
+        <h1 class="post-title">
         {% if page.series %}
           {{page.series}}:
         {% endif %}

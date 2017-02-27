@@ -539,6 +539,10 @@ time {
 	font-size: 1em;
 }
 
+.post-title {
+  font-variant: small-caps; 
+}
+
 .post-content {
   margin-top: 50px;
   margin-left: 20px;
