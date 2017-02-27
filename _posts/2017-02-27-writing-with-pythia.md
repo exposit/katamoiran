@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing With Pythia
+title: Novel Writing With Pythia
 date: 2017-02-27 09:51:41
 categories: ['writing']
 tags: ['narrative', 'novel', 'writing', 'theory']
