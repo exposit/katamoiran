@@ -12,7 +12,7 @@ Here's a quick rundown on my writing environment, just because I'm super pleased
 
 <!--more-->
 
-My goal is to have a working environment where everything I need is right in front of me, so I can't tab away and get lost on TV Tropes or something. I also want my text to be as close to plain as I can get it -- I just had to take an 88K novel out of odt format and it was a pain (though less of a pain than some other conversions I've made over the years, that's for sure).
+My goal is to have a working environment where everything I need is right in front of me, so I can't tab away and get lost on TV Tropes or something. I also want my text to be as close to plain as I can get it -- I just had to take an 88K novel out of odt format and it was a pain (though much less of a pain than some other conversions I've made over the years, that's for sure).
 
 I'm using Atom.io as the main working platform. It's customizable, clean, loads fast, and supports gruvbox. What more could you want? Besides, it's a time-honored tradition to work on getting your working environment *just right* instead of, you know, actually working on writing.
 
