@@ -20,11 +20,11 @@ links:
 
 So, finding myself between projects, I decided to write a novel. Well, another one, but let's not talk about that, hahaha.
 
-<!--more-->
-
 Usually I sketch out my plot, roughly, and then try to follow that map, more or less -- because the surest way to get stuck and give up is to run into a wall of "what happens next" (trust me, I have encountered this wall many times). And there's also "crap, what's the conflict here?" and "I don't even *know* these people well enough to do this" walls to get through.
 
 So I'll take any help I can get on those fronts.
+
+<!--more-->
 
 This thing I'm working on now doesn't have much in the way of a roadmap, though, mostly because I don't know the characters well enough yet to figure it out, and because I don't (which is rare) have a "end game" in mind yet.
 
