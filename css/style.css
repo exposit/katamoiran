@@ -6,7 +6,7 @@
 
     --tag-font: 'Lora', serif;
 
-    --title-font: 'Pacifico', cursive;
+    --title-font: 'Sansita', cursive;
 
     --main-font: 'Istok Web', sans-serif;
 
@@ -426,7 +426,7 @@ time {
     color: #9d0006;
     color: #000;
     font-size: 1.92em;
-    /* font-weight: bold; */
+    font-weight: normal; 
     line-height: 40px;
     text-shadow: 2px 2px #3e0002;
     margin-bottom: -10px;
