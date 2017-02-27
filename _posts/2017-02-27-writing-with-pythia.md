@@ -2,8 +2,8 @@
 layout: post
 title: Writing a Novel
 date: 2017-02-27 11:26:23
-categories: ['game design', 'rpglet', 'mystery']
-tags: ['narrative', '6 days to adventure', 'theory']
+categories: ['writing']
+tags: ['narrative', 'novel', 'writing', 'theory']
 comments: true
 published: true
 links:
