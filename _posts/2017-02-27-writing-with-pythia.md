@@ -22,7 +22,7 @@ So, finding myself between projects, I decided to write a novel. Well, another o
 
 <!--more-->
 
-Usually I sketch out my plot, roughly, and then try to follow that map, more or less -- because the surest way to get stuck and give up is to run into a wall of "what happens next" (trust me, I have encountered this wall many times). And there's also "shit, what's the conflict here?" and "I don't even *know* these people well enough to do this" walls to get through.
+Usually I sketch out my plot, roughly, and then try to follow that map, more or less -- because the surest way to get stuck and give up is to run into a wall of "what happens next" (trust me, I have encountered this wall many times). And there's also "crap, what's the conflict here?" and "I don't even *know* these people well enough to do this" walls to get through.
 
 So I'll take any help I can get on those fronts.
 
