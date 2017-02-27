@@ -27,6 +27,8 @@ An example from a *6 Days to Adventure* play-test (unpublished). First, I rolled
 
 *So that's passion, duty, and tourist. So, she was on a job -- I don't know who for yet -- and used an innocent tourist as a pawn. Had a passionate fling with him, and at the end had to choose between duty and passion.*
 
+***
+
 So now she was a secret agent, and things went bad, and someone innocent got in the way. Did she love the tourist and leave them? Did they get hurt? Will they be making an appearance in this story? I'll play to find out. But that's enough to decide "lost" refers to emotionally.
 
 I keep rolling, and get a scene type and scene purpose, and then a location. Notice that I adjust the results that don't "feel" quite right.
@@ -35,13 +37,7 @@ I keep rolling, and get a scene type and scene purpose, and then a location. Not
 
 *Interlude, Recognition. A seedy bar at noon. It's Status Quo, so it'll be showing my heroine doing what she usually does. Interlude doesn't fit, so I'll go Straight.*
 
-
-***
-
  day 1
-
-***
-
 
 I wipe down the bar, slowly, my mind elsewhere. It's half-past noon, and the sun is beating down on the tin roof of the cantina, and the place is deserted.
 
