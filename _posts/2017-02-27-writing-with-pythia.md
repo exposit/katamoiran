@@ -1,20 +1,14 @@
 ---
 layout: post
-title: Pythia and Writing
-date: 2017-02-27 11:25:36
-categories: ['writing']
-tags: ['narrative', 'novel', 'writing', 'theory']
+title: Writing a Novel
+date: 2017-02-27 11:26:23
+categories: ['game design', 'rpglet', 'mystery']
+tags: ['narrative', '6 days to adventure', 'theory']
 comments: true
 published: true
 links:
-  -  url: https://exposit.github.io/katamoiran/2016/12/23/6-against-the-dark/
-    title: 6 Days of Adventure
-    source: katamoiran
-  - url: https://exposit.github.io/pythia-oracle/
-    title: Pythia-Oracle
-    source: katamoiran
-  - url: https://exposit.github.io/katamoiran/2017/02/20/the-calypso-compendium/
-    title: The Calypso Compendium
+  - url: https://exposit.github.io/katamoiran/2016/12/23/6-against-the-dark/
+    title: 6 Days to Adventure
     source: katamoiran
 ---
 
