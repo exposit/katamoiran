@@ -30,9 +30,9 @@ Figure out a question that can be answered with yes or no . Look for questions t
 11 | Yes, and, but
 12 | Yes, and, and
 
-Now answer your question. Remember, and intensifies the result and but moderates it.
+Now answer your question. Remember, "and" intensifies the result and "but" moderates it.
 
- And presents a situation that's different than what you thought it was. But provides an opening, a chance to respond to the initial yes or no .
+ In general, "and" presents a situation that's different than what you thought it was, while "but" provides an opening, a chance to respond to the initial yes or no . Whatever you devise, it should be directly related to the question and logically flow from it.
 
 Is my hero tied up? **No,** he's untied, **and** the lock on the door's one he's seen before, **and** it looks like they missed his holdout lockpick.
 
