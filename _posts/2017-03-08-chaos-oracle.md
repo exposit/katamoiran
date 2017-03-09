@@ -34,15 +34,15 @@ Now answer your question. Remember, "and" intensifies the result and "but" moder
 
  In general, "and" presents a situation that's different than what you thought it was, while "but" provides an opening, a chance to respond to the initial yes or no . Whatever you devise, it should be directly related to the question and logically flow from it.
 
-Is my hero tied up? **No,** he's untied, **and** the lock on the door's one he's seen before, **and** it looks like they missed his holdout lockpick.
+*Is my hero tied up?* **No,** *he's untied,* **and** *the lock on the door's one he's seen before,* **and** *it looks like they missed his holdout lockpick.*
 
-Does the warrior make a hostile move? **Yes,** he raises his sword to swing, *but* you can tell he's undecided about actually following through.
+*Does the warrior make a hostile move?* **Yes,** *he raises his sword to swing,* **but** *you can tell he's undecided about actually following through.*
 
-And here's a quick chart to generate random events.
+And here's a chart to generate random events. Obviously you should interpret these in context and as figuratively as you need to to make them make sense.
 
 ### Category
 
-First pick a category or roll one (go with Plot on a 5+):
+First pick a category or roll one (go with "plot" on a 5+):
 
 Action, social, weird, world, plot
 
@@ -121,3 +121,5 @@ Someone switches motivations, ambitions, or goals suddenly.
 ### How bad is it?
 
 disastrously bad, bad, bad with some good, good with some bad, good, spectacularly good
+
+You can weight the "How bad is it" list pretty easily if you want to give your hero a bonus for prior success or a penalty for prior failure -- just reroll the die once and keep the highest for a bonus or the lowest for a penalty. But a simple d6 is the most chaotic option!
