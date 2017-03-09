@@ -34,7 +34,7 @@ If my hard drive dies (again) I'll be back up and running exactly where I am now
 
 If I accidentally delete an entire scene and don't notice for a week, git is how I get it back. If I totally blow a find and replace and end up with "dawizard" level issues but don't notice until I've done two days of further editing, it's fixable. If I want to see the difference between today's edits and yesterday's final, it's all there.
 
-I should mention, I don't really use the LaTex-produced pdfs for working; it's much easier to edit the raw markdown files. But sometimes it's nice to see how a section "plays" in a typset form, or to be able to set aisde the "editing" part of my brain so I can focus on the plot and structure.
+I should mention, I don't really use the LaTex-produced pdfs for working; it's much easier to edit the raw markdown files. But sometimes it's nice to see how a section "plays" in a typset form, or to be able to set aisde the "editing" part of my brain so I can focus on the plot and structure. And sometimes it's cool to just read.
 
 I also keep Pythia open on a desktop to the left of my writing desktop, where I can flip over to ask a question as needed.
 
