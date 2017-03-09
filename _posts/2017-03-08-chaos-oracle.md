@@ -10,7 +10,7 @@ published: true
 
 I've probably posted this before, but I thought it'd be fun in case I didn't. This is cribbed from Pythia's fu panel, which is stuffed full of different oracles.
 
-This is what I've dubbed "the Chaos oracle" because it makes things 100% more chaotic. It's good for answering questions quickly and for throwing a lot of wrinkles into the mix.
+This is what I've dubbed "the Chaos oracle" because it makes things 114% (or so) more chaotic. It's good for answering questions quickly and for throwing a lot of wrinkles into the mix.
 
 <!--more-->
 
