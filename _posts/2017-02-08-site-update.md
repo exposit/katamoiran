@@ -6,7 +6,6 @@ categories: ['site']
 tags: [design]
 comments: false
 published: true
-pinned: true
 ---
 
 Sorry about any broken links. Hopefully I caught all of them.
