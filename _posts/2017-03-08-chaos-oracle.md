@@ -23,7 +23,7 @@ Figure out a question that can be answered with yes or no . Look for questions t
 4 | No, and
 5 | No
 6 | No, but
-7 | Whatever result would be most interesting or roll a random event.
+7 | Random event
 8 | Yes, but
 9 | Yes
 10 | Yes, and
