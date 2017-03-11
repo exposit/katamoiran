@@ -14,7 +14,7 @@ This is what I've dubbed "the Chaos oracle" because it makes things 114% (or so)
 
 <!--more-->
 
-Figure out a question that can be answered with yes or no . Look for questions that are interesting and have lots of ramifications. Try to avoid questions with no significance.
+Figure out a question that can be answered with "yes" or "no". Look for questions that are interesting and have lots of ramifications. Try to avoid questions with no significance.
 
 | 2d6 | Result |
 | --- | ----- |
@@ -32,7 +32,7 @@ Figure out a question that can be answered with yes or no . Look for questions t
 
 Now answer your question. Remember, "and" intensifies the result and "but" moderates it.
 
- In general, "and" presents a situation that's different than what you thought it was, while "but" provides an opening, a chance to respond to the initial yes or no . Whatever you devise, it should be directly related to the question and logically flow from it.
+ In general, "and" presents a situation that's different than what you thought it was, while "but" provides an opening, a chance to respond to the initial "yes" or "no" . Don't be afraid to mix it up, but whatever you devise, it should be directly related to the question and logically flow from it.
 
 *Is my hero tied up?* **No,** *he's untied,* **and** *the lock on the door's one he's seen before,* **and** *it looks like they missed his holdout lockpick.*
 
