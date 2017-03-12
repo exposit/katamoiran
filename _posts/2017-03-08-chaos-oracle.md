@@ -23,7 +23,7 @@ Figure out a question that can be answered with "yes" or "no". Look for question
 4 | No, and
 5 | No
 6 | No, but
-7 | Random event
+7 | You pick or event
 8 | Yes, but
 9 | Yes
 10 | Yes, and
