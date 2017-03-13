@@ -23,11 +23,13 @@ links:
     source: lumpley
 ---
 
+*3/13: Updated core mechanic, added more generators, more explanation, more character options. Same download link.*
+
 I wasn't satisfied with my one page *Lady Blackbird* and *Apocalypse World* mashups. It just didn't feel like I was getting my style across.
 
 So I went back to the drawing board, revamped everything, gave the base system a name ("Calypso"), and put together a compiled version of all the rules and scenarios I've made so far, along with the Traits, Secrets, and Keys I use for my own games. And added a few more scenarios, just for good measure.
 
-So this is the first playtest version of [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
+So this is the first version of [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
 
 <!--more-->
 
