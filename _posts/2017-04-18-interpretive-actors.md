@@ -67,4 +67,4 @@ I'll also often use the reaction generators. First I determine if the actor has 
 
 It's a bit like the wheel, but where that's geared more towards general outlook, this is more immediate and short-term. It's also handy when the hero asks an actor a question and you want the answer to be a surprise to you, too!
 
-Of course, everything's interpreted, so there's no right or wrong. I usually just go with my gut instinct or first thought and it seems to work out well.
+Of course, everything's interpreted, so there's no right or wrong. I usually just go with my gut instinct or first thought and it seems to work out well. It definitely takes a lot longer to detail it and explain the thought processes than it takes to actually create the actor in play!
