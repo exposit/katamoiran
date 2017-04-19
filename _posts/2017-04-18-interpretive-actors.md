@@ -2,8 +2,9 @@
 layout: post
 title: Interpretive Actors
 date: 2017-04-18 20:44:03
-categories: ['random content', 'mechanics']
-tags: ['random generator', mechanics, actors]
+categories: ['pythia', 'pythia spotlight']
+tags: [solo, pythia, tutorial, actor]
+series: "Pythia Spotlight"
 comments: true
 published: true
 ---
