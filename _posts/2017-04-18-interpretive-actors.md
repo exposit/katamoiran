@@ -49,13 +49,13 @@ This is the last piece of the puzzle -- what's the actor going to do next? In th
 
 And that's about it for my "standard" actor generation. Sometimes I'll generate up an age, too, if there's no compelling reason to fiat it.
 
-There are quite a few more tools in Pythia on the actor panel, all of which should (unless I failed at my documentation check or something) be documented well in the help. But here's a few more I use a lot.
+There are quite a few more tools in Pythia on the actor panel, all of which should (unless I failed at my documentation check or something) be documented well in the help. But here's a few more I use frequently.
 
 Once things get going and I have more actors to work with, I'll start using the relationship generators. There's a "close" relationship button, useful for people who are in constant proximity or at least constantly affecting each other.
 
 <p id="mechanic" class="result">The first actor opposes every goal of the second actor and expresses this covertly and passively.</p>
 
-Easy to decode, huh? The first guy is secretly sabotaging the second's goals, but hasn't taken any real action yet.
+Easy to decode, huh? The first guy is secretly sabotaging the second's goals, but hasn't taken any really aggressive action yet.
 
 There's a specialized one for actor's feeling towards a group and one for more general relationships, where the target is a place or thing or abstract concept, or a close and complicated relationship isn't assumed or necessary.
 
