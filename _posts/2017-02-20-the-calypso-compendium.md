@@ -6,7 +6,6 @@ categories: ['game design', 'rpglet', 'calypso']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'secrets and shadows', 'pbta', 'apocalypse world']
 comments: true
 published: true
-pinned: true
 tagline: combining Apocalypse World & Lady Blackbird
 links:
   - url: http://www.onesevendesign.com/ladyblackbird/
