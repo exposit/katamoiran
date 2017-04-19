@@ -29,13 +29,13 @@ In this case, it was easy to decide she's cute in a tomboyish kind of way and ei
 
 <p id="mechanic" class="result">[Non-Visible Quirk] openly prejudiced</p>
 
-This I sometimes roll up right away, sometimes later. Knowing up front gives me more material to work with. Sometimes it'll never really come up, but it will inform the details and description.
+The non-visible quirk I sometimes roll up right away, but not always. Knowing up front gives me more material to work with. Sometimes it'll never really come up, but it will inform the details and description.
 
-It was too early to know what she was prejudiced against, though the easiest and most immediately interesting answer is "whatever the hero is".
+It was too early to know what she was prejudiced against, though the easiest and most immediately interesting answer is "whatever group the hero belongs to".
 
 <p id="mechanic" class="result">[Wheel]<br>[Mild] submissive, [driving] hope<br>[Focus] wrong</p>
 
-This is a general outlook; one or more subjects like "wrong", "art", "money", "family", and so on, and one or more attitudes towards those subjects, along with a degree of intensity.
+This is a general outlook; one or more subjects like "art", "money", "family", and so on, and one or more attitudes towards those subjects, along with a degree of intensity.
 
 It's useful mainly for getting the overal "gist" of the character; in this case the character feels mildly submissive towards "wrong", with a driving hope for it as well. I interpreted "wrong" as the villain and his actions, and that she was willing to go along with his schemes as long as she had hope he might change. Her main flaw, it seems, is going to be idealism shading into wishful thinking.
 
