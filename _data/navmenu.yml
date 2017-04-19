@@ -1,14 +1,6 @@
 - name: Home
   link: /
 
-#- name: Projects
-#  link: /projects/
-#  dropdown: &dropdown
-#  - name: Pythia-Oracle
-#    link: https://github.com/exposit/pythia-oracle/
-#  - name: Python RPG Scripts
-#    link: https://github.com/exposit/katamoiran/
-
 - name: Games
   link: /rpglets.html
 - name: Solos
@@ -34,3 +26,11 @@
   link: /categories.html
 - name: Tags
   link: /tags.html
+
+- name: Projects
+  link: /projects/
+  dropdown: &dropdown
+  - name: Pythia-Oracle
+    link: https://github.com/exposit/pythia-oracle/
+  - name: Python RPG Scripts
+    link: https://github.com/exposit/katamoiran/
