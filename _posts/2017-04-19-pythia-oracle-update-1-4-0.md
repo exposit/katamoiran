@@ -30,11 +30,11 @@ This is much safer and more effective than mucking around with the raw json and 
 
 ##### Highlights
 
-* I moved some stuff in the footer around. Now you can "pick one" through "pick five" which is handy for narrowing down lists.
+* I moved some stuff in the footer around. Now you can "pick one" through "pick five" on your own comma-separated lists, which is handy for narrowing things down when you have an unusual number of elements and die rolling isn't straightforward.
 
 * New character sheet mode to support narratively described characters. Pretty much just alternating big and small boxes. See the config and help for details.
 
-* Re-arranged the generators and split them up in a more logical way, with Dungeon having its own panel now. Added some zone-based pointcrawl stuff.
+* Re-arranged the generator panels and split them up in a more logical way, with Dungeon & Wilderness generators on their own panel now. Added some zone-based pointcrawl stuff in as well.
 
 * Added a new panel (disabled by default) that has predictive text and markov chain generators to mimic a GM. It's extremely alpha and requires more libraries (Textblob and markovify) to be installed than usual.
 
