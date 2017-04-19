@@ -7,7 +7,7 @@ categories: ['pythia']
 tags: [solo, pythia, python, tool, update]
 comments: true
 published: true
-pinned: true
+pinned: false
 links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia Oracle
