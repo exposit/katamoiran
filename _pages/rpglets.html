@@ -60,13 +60,13 @@ group: Rpglets
 			<p>No built-in structure or end point, but plenty of color and situation starters to get things going and keep them moving. Should be playable solo or in a group, one shot or long term. I expect to make a lot of these in different flavors.</p>
 
 			<ul>
-			{% for node in site.categories['secrets and shadows'] %}
+			{% for node in site.tags['secrets and shadows'] %}
 				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
 
 			<ul>
-			{% for node in site.categories['starfarer'] %}
+			{% for node in site.tags['starfarer'] %}
 				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
@@ -80,7 +80,7 @@ group: Rpglets
 			<p>I as about halfway done with it when I got bowled over by illness, and by the time I got back on my feet I'd moved on to a different approach entirely. I finished it up anyway but I think the resolution mechanics are handled and explained much better in the next set of games.</p>
 
 			<ul>
-			{% for node in site.categories['6 feet under'] %}
+			{% for node in site.tags['6 feet under'] %}
 				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
