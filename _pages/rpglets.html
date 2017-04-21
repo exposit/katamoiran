@@ -13,6 +13,8 @@ group: Rpglets
 
 		<p>Games I've written, most of which  fit on one letter-sized page (though you might have to squint a little if you actually print them -- I've never tried). They're listed from most recent to oldest, so paint a pretty good picture of my evolving design philosophy (and improvement with LaTex).</p>
 
+		<hr>
+
 		<section>
 
 			<h3>To Make a Murder</h3>
@@ -61,12 +63,6 @@ group: Rpglets
 
 			<ul>
 			{% for node in site.tags['secrets and shadows'] %}
-				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
-			{% endfor %}
-			</ul>
-
-			<ul>
-			{% for node in site.tags['starfarer'] %}
 				<li><a href="{{site.baseurl}}/{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
