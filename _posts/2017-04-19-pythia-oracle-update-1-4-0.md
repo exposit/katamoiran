@@ -18,7 +18,7 @@ links:
 
 Version 1.4.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is finally finalized. Ha. No changes from the last commit except to update the various tags and markers to the current version number -- make it official, so to speak.
 
-As always, see the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list of changes from the last version.
+As always, see the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list of changes from the last version. You can get a complete overview of all features in the [help](https://github.com/exposit/pythia-oracle/blob/master/HELP.md) here.
 
 This will probably be the "stable" version for the foreseeable future, as I've simply run out of things I want to add or change!
 
