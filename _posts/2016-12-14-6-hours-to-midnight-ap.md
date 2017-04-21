@@ -2,7 +2,7 @@
 layout: post
 title: Six Hours to Midnight Actual Play
 date: 2016-12-14 12:12:31
-categories: ['actual play', '6 hours to midnight']
+categories: ['actual play', '6 hours to midnight', 'rpglet']
 tags: ['6 hours to midnight', 'narrative', 'sawyer']
 comments: false
 published: true

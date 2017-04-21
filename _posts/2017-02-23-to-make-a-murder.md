@@ -2,7 +2,7 @@
 layout: post
 title: To Make a Murder
 date: 2017-02-23 13:30:58
-categories: ['game design', 'rpglet', 'mystery', 'to make a murder']
+categories: ['game design', 'rpglet', 'mystery']
 tags: ['narrative', 'd6s', 'theory', 'to make a murder', 'universal', 'framework']
 comments: true
 published: true
