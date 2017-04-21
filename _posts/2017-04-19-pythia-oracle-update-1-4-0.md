@@ -8,12 +8,14 @@ comments: true
 published: true
 pinned: true
 links:
+  - url: https://github.com/josdejong/jsoneditor
+    title: json editor
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia Oracle
   - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
     title: Pythia Changelog v. 1.4.0
-  - url: https://github.com/josdejong/jsoneditor
-    title: json editor
+  - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md
+    title: Pythia Help
 ---
 
 Version 1.4.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is finally finalized. Ha. No changes from the last commit except to update the various tags and markers to the current version number -- make it official, so to speak.
