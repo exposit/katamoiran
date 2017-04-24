@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Calypso Compendium Updated
+title: Updated Calypso Compendium
 date: 2017-04-23 20:37:48
 categories: ['game design', 'rpglet', 'calypso']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'pbta', 'apocalypse world']
@@ -13,7 +13,7 @@ links:
     source: katamoiran
 ---
 
-*See the original post [here]({{ site.baseurl }}2017/02/20/the-calypso-compendium/).*
+*See the original post [here]({{ site.baseurl }}/2017/02/20/the-calypso-compendium/).*
 
 I've revised [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf) a bit. Most of the changes were to the general rules section. I wasn't 100% satisfied with the wording of the core mechanic; it just didn't have the clarity I wanted. And sometimes the directions didn't quite mesh with my intent. So I rewrote it to be clearer and to make the various outcomes very clean.
 
