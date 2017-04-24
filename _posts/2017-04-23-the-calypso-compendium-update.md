@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updated Calypso Compendium
+title: Calypso Compendium Updated
 date: 2017-04-23 20:37:48
 categories: ['game design', 'rpglet', 'calypso']
 tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'pbta', 'apocalypse world']
