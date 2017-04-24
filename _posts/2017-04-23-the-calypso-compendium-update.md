@@ -8,7 +8,7 @@ comments: true
 published: true
 tagline: combining Apocalypse World & Lady Blackbird
 links:
-  - url: {{ site.baseurl }}2017/02/20/the-calypso-compendium/
+  - url: https://exposit.github.io/katamoiran/img/posts/2017-02-20/TheCalypsoCompendium.pdf
     title: The Calypso Compendium
     source: katamoiran
 ---
