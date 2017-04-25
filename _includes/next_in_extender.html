@@ -1,6 +1,6 @@
 {% if page.extender %}
   {% assign category = page.extender %}
-  {% assign posts = site.categories[category] %}
+  {% assign posts = site.tags[category] %}
   {% for post in posts %}
     {% if post.url == page.url %}
       {% assign post_index0 = forloop.index0 %}
