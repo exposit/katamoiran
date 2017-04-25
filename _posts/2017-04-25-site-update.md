@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Category Updates
+title: Category & Minor Updates
 date: 2017-04-25 15:32:35
 categories: ['site']
 tags: [site]
