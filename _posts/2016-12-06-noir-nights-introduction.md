@@ -2,8 +2,8 @@
 layout: post
 title: Noir Nights Introduction
 date: 2016-12-06 18:05:50
-categories: ['game setup', 'noir nights']
-tags: ['noir', 'vampires', 'traits']
+categories: ['actual play']
+tags: ['noir', 'vampires', 'traits', 'noir nights']
 comments: true
 published: true
 extender: 'noir nights'

@@ -2,8 +2,8 @@
 layout: post
 title: Six Hours to Midnight
 date: 2016-12-14 11:53:16
-categories: ['game design', '6 hours to midnight', 'rpglet']
-tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight']
+categories: ['game design']
+tags: ['lady blackbird', 'narrative', 'd6s', 'theory', '6 hours to midnight', 'rpglet']
 comments: true
 published: true
 links:

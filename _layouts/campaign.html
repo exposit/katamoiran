@@ -13,7 +13,7 @@ group: Solos
 		{% for item in page.display_groups %}
 
 				<ul>
-				  {% for post in site.categories[item] reversed %}
+				  {% for post in site.tags[item] reversed %}
 				    {% if post.url %}
 
 					      <li><time>{{ post.date | date: "%m.%d.%Y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

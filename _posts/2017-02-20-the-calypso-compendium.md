@@ -2,8 +2,8 @@
 layout: post
 title: The Calypso Compendium
 date: 2017-02-20 16:53:51
-categories: ['game design', 'rpglet', 'calypso']
-tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'pbta', 'apocalypse world']
+categories: ['game design']
+tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'pbta', 'apocalypse world', 'rpglet']
 comments: true
 published: true
 tagline: combining Apocalypse World & Lady Blackbird

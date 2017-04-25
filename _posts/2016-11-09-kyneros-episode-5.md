@@ -2,7 +2,7 @@
 layout: post
 title: Kyneros Episode 5
 date: 2016-11-09 12:05:00
-categories: ['actual play', 'kyneros']
+categories: ['actual play']
 tags: [kyneros, 'kairael valeyn', 'mutable', 'scarlet heroes', 'solo', 'pre-1.0.0']
 comments: false
 published: true

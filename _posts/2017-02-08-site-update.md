@@ -3,7 +3,7 @@ layout: post
 title: Broken Links
 date: 2017-02-08 18:49:03
 categories: ['site']
-tags: [design]
+tags: [site]
 comments: false
 published: true
 ---

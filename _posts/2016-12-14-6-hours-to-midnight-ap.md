@@ -2,8 +2,8 @@
 layout: post
 title: Six Hours to Midnight Actual Play
 date: 2016-12-14 12:12:31
-categories: ['actual play', '6 hours to midnight', 'rpglet']
-tags: ['6 hours to midnight', 'narrative', 'sawyer']
+categories: ['actual play']
+tags: ['6 hours to midnight', 'narrative', 'sawyer', 'rpglet']
 comments: false
 published: true
 tagline: "a waltz in the sky-castle"

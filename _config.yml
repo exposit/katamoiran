@@ -33,7 +33,7 @@ kramdown:
 
 #theme: minima
 gems:
-  - jekyll-feed
+#  - jekyll-feed
 #  - jekyll-redirect-from
 exclude:
   - Gemfile

@@ -2,7 +2,7 @@
 layout: post
 title: Week Recap
 date: 2016-12-02 15:54:42
-categories: ['weekly recap']
+categories: ['site']
 tags: ['game design', 'actual play', 'solo']
 comments: true
 published: true

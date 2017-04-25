@@ -1,37 +1,16 @@
 ---
 layout: default
-group: Home
+title: Game Design Category
+permalink: "gamedesign.html"
+group: Categories
+match: 'game design'
 ---
 
-{% for post in site.posts %}
-{% if post.pinned %}
-<section class="pinned">
-
-    <article class="hero-unit rounded color3">
-      <header><hgroup>
-        <h1 class='post-title'>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h1>
-      </hgroup></header>
-      <div class="content">
-        {% if post.content contains '<!--more-->' %}
-          {{ post.content | split:'<!--more-->' | first }}
-        {% else %}
-          {{ post.content |truncatehtml | truncatewords: 60 }}
-        {% endif %}
-      </div>
-      <footer>
-        <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
-      </footer>
-    </article>
-  </section>
-{% endif %}
-{% endfor %}
-
 <section class="hero">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.categories[page.match] limit:1 %}
 
   <article class="hero-unit rounded">
+
     <header><hgroup>
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -61,6 +40,7 @@ group: Home
 
         {% endfor %}
         </time>
+
       </h4>
     </hgroup></header>
     <div class="content">
@@ -80,7 +60,7 @@ group: Home
 
 <section class="zero">
 
-  {% for post in site.posts offset:1 limit:3 %}
+  {% for post in site.categories[page.match] offset:1 limit:3 %}
 
   <article class="zero-unit rounded">
     <header><hgroup>
@@ -112,6 +92,7 @@ group: Home
 
         {% endfor %}
         </time>
+
       </h4>
     </hgroup></header>
     <div class="content">
@@ -133,13 +114,13 @@ group: Home
 <section>
   <article class="previous-posts-unit rounded inlinelist">
       <ul>
-        {% for post in site.posts limit:6 offset:4 %}
+        {% for post in site.categories[page.match] limit:100 offset:4 %}
         <li>
           {% assign wordCount = post.content | number_of_words %}
         <time>{{ post.date | date: "%B %d, %Y" }}</time>
 
         {% if post.modified %}
-          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
+          <time>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</time>
         {% endif %}&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
           {% unless forloop.last %}

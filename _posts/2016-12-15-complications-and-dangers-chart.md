@@ -2,8 +2,8 @@
 layout: post
 title: Complications & Dangers Chart
 date: 2016-12-15 13:38:05
-categories: ['soloing', 'solo frameworks', 'random content']
-tags: [solo, 'solo gaming', tool, emulator, 'random chart']
+categories: ['soloing']
+tags: [solo, 'solo gaming', tool, emulator, 'random chart', 'solo frameworks' ]
 comments: true
 published: true
 ---

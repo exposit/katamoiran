@@ -2,7 +2,7 @@
 layout: post
 title: Keyword Inspired Gaming
 date: 2017-02-25 08:35:32
-categories: ['game design', 'rpglet']
+categories: ['soloing', 'mechanics']
 tags: ['narrative', '6 days to adventure', 'theory']
 comments: true
 published: true

@@ -3,8 +3,8 @@ layout: post
 title: Slay with Me Actual Play
 date: 2016-11-26 11:46:54
 imagefolder: 2016-11-26
-categories: ['actual play', 'demonblood']
-tags: ['slay with me', 'narrative', 'declan']
+categories: ['actual play']
+tags: ['slay with me', 'narrative', 'declan', 'demonblood']
 comments: false
 published: true
 tagline: "intrigue in the Crystal Court"

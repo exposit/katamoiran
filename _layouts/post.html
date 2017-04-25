@@ -23,6 +23,24 @@ layout: default
         <p><time>{{ wordCount }} words, written {{ page.date | date: "%B %d, %Y @ %I:%M %P" }}{% if page.modified %}, updated {{ page.modified | date: "%B %d, %Y @ %I:%M %P" }}</time></p>
         {% endif %}
 
+        <time>
+        filed under
+
+        {% for cat in page.categories %}
+
+        <a href="{{ site.baseurl }}/{{ cat | remove: " " }}.html">{{ cat }}{% if forloop.last == false %},{% endif %} </a>
+
+        {% endfor %}
+
+        &amp; tagged
+
+        {% for tag in page.tags %}
+
+        <a href="{{ site.baseurl }}/tags.html#ref-{{ tag | cgi_escape | remove:'%' }}">{{ tag }}{% if forloop.last == false %},{% endif %}</a>
+
+        {% endfor %}
+        </time>
+
       </div>
       <footer>
       {% include post_meta.html %}

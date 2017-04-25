@@ -3,8 +3,8 @@ layout: post
 title: Wraith Session Two
 date: 2016-12-15 17:16:37
 imagefolder: 2016-12-15
-categories: ['actual play', 'sharedscifi', 'wraith']
-tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi']
+categories: ['actual play']
+tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi', 'wraith']
 comments: false
 published: true
 tagline: "aftermath"

@@ -24,6 +24,23 @@
   link: /archives.html
 - name: Categories
   link: /categories.html
+  dropdown: &dropdown
+  - name: site
+    link: /site.html
+  - name: mechanics
+    link: /mechanics.html
+  - name: pythia
+    link: /pythia.html
+  - name: soloing
+    link: /soloing.html
+  - name: actual play
+    link: /actualplay.html
+  - name: reviews
+    link: /reviews.html
+  - name: game design
+    link: /gamedesign.html
+  - name: writing
+    link: /writing.html
 - name: Tags
   link: /tags.html
 

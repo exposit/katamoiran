@@ -3,8 +3,8 @@ layout: post
 title: Legends and Truth
 date: 2016-11-26 18:50:57
 imagefolder: 2016-12-06
-categories: ['solo frameworks']
-tags: [solo]
+categories: ['soloing']
+tags: [solo, 'solo frameworks']
 comments: true
 published: true
 links:

@@ -2,8 +2,8 @@
 layout: post
 title: Lady Blackbird Hack Actual Play
 date: 2016-12-09 10:47:27
-categories: ['actual play', 'demonblood']
-tags: ['trollbabe', 'stranger things', 'lady blackbird', 'narrative', 'declan']
+categories: ['actual play']
+tags: ['trollbabe', 'stranger things', 'lady blackbird', 'narrative', 'declan', 'demonblood']
 comments: false
 published: true
 tagline: "a celebration and intrigue and disaster"

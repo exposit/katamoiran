@@ -2,7 +2,7 @@
 layout: post
 title: Interpretive Actors
 date: 2017-04-18 20:44:03
-categories: ['pythia', 'pythia spotlight']
+categories: ['pythia']
 tags: [solo, pythia, tutorial, actor]
 series: "Pythia Spotlight"
 comments: true

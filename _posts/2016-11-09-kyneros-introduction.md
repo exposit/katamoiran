@@ -2,7 +2,7 @@
 layout: post
 title: Kyneros Introduction
 date: 2016-11-09 12:00:00
-categories: ['game setup', 'kyneros']
+categories: ['actual play']
 tags: [solo, kyneros, overview]
 comments: false
 published: true

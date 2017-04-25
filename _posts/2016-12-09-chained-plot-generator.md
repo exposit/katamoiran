@@ -2,7 +2,7 @@
 layout: post
 title: Chained Plot Generator
 date: 2016-12-09 14:03:08
-categories: ['soloing', 'scripts', 'pythia', 'pythia spotlight']
+categories: ['soloing', 'mechanics', 'pythia']
 tags: [solo, mythic, python, tool, mod, script]
 series: "Pythia Spotlight"
 comments: true

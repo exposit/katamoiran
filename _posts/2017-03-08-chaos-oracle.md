@@ -2,7 +2,7 @@
 layout: post
 title: Chaos Oracle
 date: 2017-03-08 12:11:43
-categories: ['random content', 'mechanics', 'oracle']
+categories: ['mechanics', 'soloing']
 tags: [oracle, random generator, mechanics]
 comments: true
 published: true

@@ -3,8 +3,8 @@ layout: post
 title: Ghost Echo Actual Play
 date: 2016-12-09 19:38:08
 imagefolder: 2016-12-09
-categories: ['actual play', 'sharedscifi', 'wraith']
-tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi']
+categories: ['actual play']
+tags: ['ghost echo', 'narrative', 'walker', 'sharedscifi', 'wraith']
 comments: false
 published: true
 tagline: "prologue"

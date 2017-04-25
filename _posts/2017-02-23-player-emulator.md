@@ -2,7 +2,7 @@
 layout: post
 title: PC Moves Chart
 date: 2017-02-23 18:03:12
-categories: ['pythia', 'pythia spotlight', 'random content']
+categories: ['pythia', 'mechanics']
 tags: [solo, pythia, python, tool, tutorial]
 series: "Pythia Spotlight"
 comments: true

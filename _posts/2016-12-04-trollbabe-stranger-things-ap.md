@@ -2,8 +2,8 @@
 layout: post
 title: Trollbabe & Stranger Things Actual Play
 date: 2016-12-04 15:31:36
-categories: ['actual play', 'demonblood']
-tags: ['trollbabe', 'stranger things', 'narrative', 'declan']
+categories: ['actual play']
+tags: ['trollbabe', 'stranger things', 'narrative', 'declan', 'demonblood']
 comments: false
 published: true
 tagline: "facing the ghost of Barrows Hall"

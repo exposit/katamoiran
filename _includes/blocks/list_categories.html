@@ -5,6 +5,7 @@
 	{% endfor %}
 {% else %}
 	{% for node in site.categories %}
-						<li><a href="{{ site.baseurl }}/categories.html#ref-{{ node[0] | join | cgi_escape | remove:'%' }}">{{ node[0] | join:' - ' | escape }}</a>&nbsp;<span>({{ node[1].size }})</span></li>
+						<!-- <li><a href="{{ site.baseurl }}/categories.html#ref-{{ node[0] | join | cgi_escape | remove:'%' }}">{{ node[0] | join:' - ' | escape }}</a>&nbsp;<span>({{ node[1].size }})</span></li>-->
+						<li><a href="{{ site.baseurl }}/{{ node[0] | remove:' ' }}.html">{{ node[0] | join:' - ' | escape }}</a>&nbsp;<span>({{ node[1].size }})</span></li>
 	{% endfor %}
 {% endif %}

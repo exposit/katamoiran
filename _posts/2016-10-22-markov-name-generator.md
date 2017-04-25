@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markov Name Generator
-date: 2016-10-22 12:01:00  
-categories: ['scripts']
+date: 2016-10-22 12:01:00
+categories: ['mechanics']
 tags: [tool, python, script]
 comments: true
 published: true

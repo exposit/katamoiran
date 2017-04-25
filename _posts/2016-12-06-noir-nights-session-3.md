@@ -2,8 +2,8 @@
 layout: post
 title: Noir Nights Session 3
 date: 2016-12-06 21:29:14
-categories: ['actual play', 'noir nights']
-tags: ['noir nights', 'scarlet heroes', 'cross']
+categories: ['actual play']
+tags: ['noir', 'scarlet heroes', 'cross', 'noir nights']
 comments: false
 published: true
 extender: 'noir nights'

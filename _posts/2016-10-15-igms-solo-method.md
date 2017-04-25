@@ -2,8 +2,8 @@
 layout: post
 title: Imaginary GM System (iGMs)
 date: 2016-10-15 12:00:00
-categories: ['soloing', 'solo frameworks']
-tags: [solo, solo gaming, tool, emulator, igms]
+categories: ['soloing']
+tags: [solo, solo gaming, tool, emulator, igms, 'solo frameworks']
 comments: true
 published: true
 links:

@@ -2,8 +2,8 @@
 layout: post
 title: Two for Christmas
 date: 2016-12-23 13:13:33
-categories: ['game design', 'd6 games', 'rpglet']
-tags: ['narrative', 'd6s', 'theory', '6 against the dark', '6 days to adventure', '6 feet under']
+categories: ['game design']
+tags: ['narrative', 'd6s', 'theory', '6 against the dark', '6 days to adventure', '6 feet under', 'rpglet']
 comments: true
 published: true
 links:
