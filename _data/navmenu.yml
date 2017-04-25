@@ -20,8 +20,6 @@
     link: /wraith/
   - name: Misc
     link: /misc/
-- name: Archives
-  link: /archives.html
 - name: Categories
   link: /categories.html
   dropdown: &dropdown
@@ -43,6 +41,7 @@
     link: /writing.html
 - name: Tags
   link: /tags.html
-
+- name: Archives
+  link: /archives.html
 - name: Pythia
   link: /pythia.html
