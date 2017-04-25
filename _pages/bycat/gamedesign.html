@@ -20,7 +20,7 @@ match: 'game design'
         <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words,</time>
 
         {% if post.modified %}
-          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }},</span>
+        <span>, updated {{ page.modified | date: "%B %d, %Y @ %I:%M %P" }}</span>
         {% endif %}
 
         <time>
