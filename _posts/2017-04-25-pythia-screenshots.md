@@ -41,9 +41,9 @@ This is the title screen, showing the games I've got in my saves right now. I te
 
 More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later.
 
-22 (23?) might seem like a lot, but I've actually retired quite a few games (Kyneros is one of them, for now) since I started.
+Twenty-two active campaigns might seem like a lot, but I've actually retired quite a few (Kyneros is one of them, for now) since I started. It's trivial to explore whatever idea strikes your fancy.
 
-The automatic backups make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
+The automatic backups also make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" target="new"><img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" alt="dunscaith actor panel example"></a><br>
