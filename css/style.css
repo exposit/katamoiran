@@ -31,6 +31,12 @@ a {
     text-decoration: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
 /* mouse over link */
 a:hover {
     color: #9d0006;
