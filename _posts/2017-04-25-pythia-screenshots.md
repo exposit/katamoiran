@@ -37,9 +37,13 @@ A couple of caveats; first, these are all taken today, from game logs that are f
 <i>this is the only Mac screen capture</i>
 </center>
 
-This is the title screen, showing the games I've got in my saves right now. I tend to break up session logs pretty frequently, around 800 to 1000 words. More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later.
+This is the title screen, showing the games I've got in my saves right now. I tend to break up session logs pretty frequently, around 800 to 1000 blocks.
 
-22 (23?) might seem like a lot, but I've actually retired quite a few games (Kyneros is one of them, for now) since I started. The automatic backups make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
+More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later.
+
+22 (23?) might seem like a lot, but I've actually retired quite a few games (Kyneros is one of them, for now) since I started.
+
+The automatic backups make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" target="new"><img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" alt="dunscaith actor panel example"></a><br>
