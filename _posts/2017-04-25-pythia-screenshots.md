@@ -24,7 +24,7 @@ links:
 
 I thought it might be useful to put up some screenshots of Pythia with actual content. These are taken in Pythia, using the screenshot feature (triggered by being in debug mode and typing a tilde into the main text box).
 
-All of these are using the kinda official Pythia palette *sin city*, which is black and white with splashes of red. I use *sin city*, *blackberries*, and *from hastings* the most, I think.
+All of these are using the kinda official Pythia palette *sin city*, which is black and white with splashes of red. I use *sin city*, *blackberries*, and *from hastings* the most, I think, but there are nine palettes to choose from.
 
 <!--more-->
 
@@ -39,11 +39,9 @@ A couple of caveats; first, these are all taken today, from game logs that are f
 
 This is the title screen, showing the games I've got in my saves right now. I tend to break up session logs pretty frequently, around 800 to 1000 blocks (for comparison, my *6 Hours to Midnight* AP has 350 blocks, while Noir Nights has around 1000).
 
-More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later.
+More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later. There is a search built in to Pythia but it's not what I'd call robust or full-featured.
 
-Eleven active campaigns might seem like a lot, but I've actually retired quite a few (Kyneros is one of them, for now) since I started.
-
-The automatic backups also make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
+Eleven active campaigns might seem like a lot, but I've actually retired quite a few (Kyneros is one of them, for now) since I started. The automatic backups also make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" target="new"><img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/screenshot_2017-04-25-21-04-270001.png" alt="dunscaith actor panel example"></a><br>
@@ -61,12 +59,13 @@ Also from Dunscaith; this shows the diagram dungeon map on the left, with the mi
 
 The compass rose is for those of us on Mac affected by a bug in Kivy (meaning we can't scroll left and right -- two finger dragging works but is finicky).
 
-On the right is an example of a filled tracker panel; NPC stats, bookkeeping for travel, bookkeeping for Scarlet Heroes (threat level), a note on some treasure I found, a couple of things I don't recall, and then a shorthand "cheat sheet" for running Scarlet Heroes.
+On the right is an example of a filled tracker panel; NPC stats, bookkeeping for travel, bookkeeping for Scarlet Heroes (like threat level), a note on some treasure I found, a couple of things I don't recall, and then a shorthand "cheat sheet" for running Scarlet Heroes.
 
 Because otherwise, yes, I will be looking it up every single time I need to roll.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/dd_Fort_Iseu.png" target="new"><img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/dd_Fort_Iseu.png" alt="map exporter example"></a><br>
+<i>this is the only older screen capture</i>
 </center>
 
 This is the same map but using the map exporter (the "full map" button) to show the entire map.
