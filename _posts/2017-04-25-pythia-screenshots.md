@@ -37,11 +37,11 @@ A couple of caveats; first, these are all taken today, from game logs that are f
 <i>this is the only Mac screen capture</i>
 </center>
 
-This is the title screen, showing the games I've got in my saves right now. I tend to break up session logs pretty frequently, around 800 to 1000 blocks.
+This is the title screen, showing the games I've got in my saves right now. I tend to break up session logs pretty frequently, around 800 to 1000 blocks (for comparison, my *6 Hours to Midnight* AP has 350 blocks, while Noir Nights has around 1000).
 
 More than that gets unwieldy when scrolling or reviewing prior events -- it's much easier to pull up one of the automatically generated markdown or html logs if I need a recap later.
 
-Twenty-two active campaigns might seem like a lot, but I've actually retired quite a few (Kyneros is one of them, for now) since I started. It's trivial to explore whatever idea strikes your fancy.
+Eleven active campaigns might seem like a lot, but I've actually retired quite a few (Kyneros is one of them, for now) since I started. It's trivial to explore whatever idea strikes your fancy.
 
 The automatic backups also make it easy to feel comfortable deleting games that aren't active -- after copying the backup to somewhere else, of course.
 
