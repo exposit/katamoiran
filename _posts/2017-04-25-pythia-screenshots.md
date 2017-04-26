@@ -4,7 +4,7 @@ title: Some Pythia Screenshots
 date: 2017-04-25 21:15:10
 imagefolder: 2017-04-25
 categories: [pythia]
-tags: [pythia, tools, logs, screenshots]
+tags: [pythia, logs, screenshots]
 published: true
 comments: true
 links:
