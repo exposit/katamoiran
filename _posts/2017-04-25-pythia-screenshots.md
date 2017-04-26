@@ -77,7 +77,7 @@ It would be entirely possible to scale up my rudimentary map code into a standal
 
 This one has a few spoilers from Noir Nights in the "threads" box, but shows how threads keep track of stuff that's happened.
 
-On the right, there's a "standard" style character sheet with stat boxes. You can customize how many "attribute" boxes there are; the default is about twice as many as shown. Or go with a narrative style sheet that's just alternating title/text boxes instead.
+On the right, there's a "standard" style character sheet with stat boxes. You can customize how many "attribute" boxes there are; the default is about twice as many as shown. Or go with a narrative style sheet that's just alternating title/text boxes instead. Or just use the actor tracker for everyone, including the hero.
 
 You can also reduce or increase the number of sheets displayed. I tend to use the character sheet panel sparingly, usually just my main protagonist, and everyone else goes in the actor tracker.
 
