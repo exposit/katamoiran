@@ -20,9 +20,10 @@ Let's go over the Scenario [*Darkness Falls*]({{ site.baseurl }}/img/posts/2017-
 
 <!--more-->
 
-Each Scenario opens with a short flavor statement with a multiple choice element and designed to give you an immediate idea of the setting.
+Each Scenario opens with a short flavor statement with a multiple choice element, designed to give you an immediate idea of the setting.
 
 > The sleepy town of Darkness Falls hides
+
 > violence • mystery • horror • demons • murder • answers
 
 So right away you know you're in a small town with a sinister name, and something is going on behind the scenes. The answer you roll or choose subtly directs the game -- is it horror? A murder mystery?
@@ -30,31 +31,45 @@ So right away you know you're in a small town with a sinister name, and somethin
 Then there's some high level stuff, starting with an Agenda; the things you should do in play to work towards a fun game in this setting and genre.
 
 > Challenge yourself; ask difficult questions.
+
 > Fill the hero’s life with darkness to throw the light into relief.
+
 > Play to find out what happens.
 
 Next up is Principles; what to keep in mind while playing to keep the story moving, to provide atmosphere and to make the game the genre it is.
 
 > Juxtapose the normal and the horrific, the mundane and the uneasily other.
+
 > Be a fan of the main character, but make him prove he deserves the role.
+
 > Nobody has plot immunity; nothing is safe.
+
 > Build the world and mythos as you go.
+
 > Be honest, even when it hurts; follow the fiction where it leads.
 
 Now for the more specific stuff! The next section establishes the hero, her stats, and her issues. Some of it is backstory and some of it tailors the system to the genre.
 
 > I am looking for answers • in a downward spiral • underestimated • fighting the good fight • already dead • a ticking bomb.
+
 > Choose four Traits and 16 Tags split between those Traits.
+
 > Choose two Keys that show what I value.
+
 > I have the Secret of Sanity, in addition to my other two Secrets.
+
 > Choose three ingrained Conditions that hamper or otherwise define me. Choose from one of the In- grained Conditions charts or pick something you find interesting.
+
 > I start out terrified • angry • blind • hungry • tempted • wounded.
 
 The final line also establishes the hero's current Condition, which leads into the "The Beginning". This is a checklist of statements to run down, either right before play or as the initial scene, whatever appeals to you.
 
 > I arrive in town after an accident • a long drive • an anonymous tip • a pleading letter • a strange taxi ride • an odd encounter in the woods.
+
 > I’m here looking for a missing person • a lost item • an old friend • a criminal • help • treasure.
+
 > Something *Odd* happens, and *Person* is hurt.
+
 > I could run, but I’m here for a reason, and *Person* – maybe the whole town – needs my help. Then an *Odd Dramatic Move* changes the stakes – can I survive it?
 
 Italicized text has a matching chart to roll on; for this Scenario that's one of oddities and one of people. There's also a chart of coping conditions for the Secret of Sanity all starting characters get and one of ingrained Conditions tailored to the genre and mood.
