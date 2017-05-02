@@ -43,7 +43,7 @@ So this is the first version of [*The Calypso Compendium*]({{ site.baseurl }}/im
 * Characters and mechanics designed to work with most if not all pbtA games from a solo angle.
 * A simple soloing oracle that can be replaced with your own favorite very easily.
 * A few techniques I use to keep my games' plots "on track".
-* Around 15 pages of character options which, with the exception of the Secrets, can be used with Lady Blackbird.
+* Around 15 pages of character options that, with the exception of the Secrets, can be used with Lady Blackbird.
 * Six scenarios in the style of *Starfarer*, including paranormal romance, superheroes, high fantasy, low fantasy, science fiction, and paranormal mystery.
 * A handful of actor creation generators from Pythia that I use all the time.
 * The distilled scene structures from *6 Against the Dark*, *6 Days to Adventure* and *6 Feet Under*.
