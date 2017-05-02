@@ -58,7 +58,7 @@ Now for the more specific stuff! The next section establishes the hero, her stat
 
 > I have the Secret of Sanity, in addition to my other two Secrets.
 
-> Choose three ingrained Conditions that hamper or otherwise define me. Choose from one of the In- grained Conditions charts or pick something you find interesting.
+> Choose three ingrained Conditions that hamper or otherwise define me. Choose from one of the Ingrained Conditions charts or pick something you find interesting.
 
 > I start out terrified • angry • blind • hungry • tempted • wounded.
 
@@ -70,11 +70,13 @@ The final line also establishes the hero's current Condition, which leads into t
 
 > Something *Odd* happens, and *Person* is hurt.
 
-> I could run, but I’m here for a reason, and *Person* – maybe the whole town – needs my help. Then an *Odd Dramatic Move* changes the stakes – can I survive it?
+> I could run, but I’m here for a reason, and *Person* – maybe the whole town – needs my help.
+
+> Then an *Odd Dramatic Move* changes the stakes – can I survive it?
 
 Italicized text has a matching chart to roll on; for this Scenario that's one of oddities and one of people. There's also a chart of coping conditions for the Secret of Sanity all starting characters get and one of ingrained Conditions tailored to the genre and mood.
 
-Each step of The Beginning is designed to establish something about the current scene; to get you through the initial hurdle of getting the ball rolling. It's a very effective method, especially when combined with scene Keywords and a game Structure.
+Each step of The Beginning is designed to establish something about the current scene; to get you through the initial hurdle of getting the ball rolling. It's a very effective method, especially when combined with scene Keywords (in the General Rules chapter) and a game Structure (in the chapter on Structure).
 
 The rest of a Scenario is character options; a selection of Traits, Secrets, and Keys that evoke the genre, theme, and Principles.
 
