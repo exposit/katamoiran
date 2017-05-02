@@ -21,8 +21,8 @@ body {
 	background:
 	  linear-gradient(
 	    to right,
-	    #680003,
-      #9d0006
+      #7d1317,
+	    #1b1617
 	  );
 }
 
@@ -140,14 +140,9 @@ pre {
 
 #header {
   padding: 20px;
-  height: 85px;
-	/* background-image: url('header2.png');
-	background-position: -10px, 0px;*/
-}
-
-#navbar {
-  padding: 20px;
-  height: 75px;
+  height: 150px;
+	background-image: url('rainy-street(sans-figure)_ed2.png');
+	background-position: -10px, 0px;
 }
 
 .active {
@@ -332,6 +327,7 @@ time {
 {
 	/*margin-top:15px*/
   height: 35px;
+  padding: 20px;
 }
 
 #primary_nav_wrap ul
@@ -430,23 +426,23 @@ time {
     margin-top: 0px;
     font-family:  var(--title-font);
     color: #9d0006;
-    color: #000;
+    color: #fff;
     font-size: 1.92em;
     font-weight: normal;
     line-height: 40px;
     /*text-shadow: 2px 2px #3e0002;*/
-    margin-bottom: -10px;
+    margin-bottom: -5px;
     padding-bottom: 0px;
-    margin-top: 25px;
+    margin-top: 95px;
 }
 
 #site-title a {
-	color: #000;
+	color: #fff;
 }
 
 #site-description {
     font-family:  var(--fancy-font);
-    color: #000;
+    color: #fff;
     margin: 0 0 4px 16px;
     line-height: 0.8;
     font-size: 1.0em;
@@ -455,7 +451,7 @@ time {
 
 #site-tagline {
 	font-family: var(--tag-font);
-	color: #000;
+	color: #fff;
 	margin: 0 0 4px 16px;
 	line-height: 0.8;
 	font-size: 1.3em;
