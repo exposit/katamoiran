@@ -8,7 +8,7 @@ match: 'soloing'
 
 <section class="zero">
 
-  {% for post in site.categories[page.match] limit:3 %}
+  {% for post in site.categories[page.match] limit:50 %}
 
   <article class="zero-unit rounded">
     <header><hgroup>
@@ -62,7 +62,7 @@ match: 'soloing'
 <section>
   <article class="previous-posts-unit rounded inlinelist">
       <ul>
-        {% for post in site.categories[page.match] limit:100 offset:3 %}
+        {% for post in site.categories[page.match] limit:100 offset:50 %}
         <li>
           {% assign wordCount = post.content | number_of_words %}
         <time>{{ post.date | date: "%B %d, %Y" }}</time>
