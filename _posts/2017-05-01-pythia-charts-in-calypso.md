@@ -25,3 +25,5 @@ The next section is Actors, and contains "Visible Quirks", "Hidden Quirks", "Tem
 More minorly, in the "Structure" chapter, there's "scene purpose" and "scene type", part of a scriptwriting framework that I think is useful, when combined with scene keywords, to set just about any scene.
 
 That's all for now, though of course there's plenty of room for more!
+
+Oh, and bonus feature -- I added a chapter for "Optional Systems" and some rules for handling relationships. Which is a hint about what I'm working on now, haha.
