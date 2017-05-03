@@ -12,7 +12,7 @@ links:
     source: katamoiran
 ---
 
-So here's the revamped oracle from [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf) update I posted a week ago.
+So here's the revamped oracle from *The Calypso Compendium* [update]({{ site.baseurl }}/2017/04/23/the-calypso-compendium-update/) I posted a week ago.
 
 <!--more-->
 
