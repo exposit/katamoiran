@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Calypso Oracle
+title: Calypso Oracle Move
 date: 2017-05-03 12:49:12
 categories: ['mechanics', 'game design']
-tags: [calypso, solo, charts, random, 'darkness falls', scenario]
+tags: [calypso, solo, charts, random, oracle]
 comments: true
 published: true
 links:
