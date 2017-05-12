@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Procastinating Links
+title: Procrastination and Links
 date: 2017-05-11 12:21:12
 categories: ['reviews']
 tags: ['game design', 'solo', structure, dungeon, pbta]
