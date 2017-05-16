@@ -17,6 +17,26 @@ group: Rpglets
 
 		<section>
 
+			<h3>Heirs of Sea and Shadow</h3>
+
+			<p>A game of romantic fantasy inspired by the punchy, swingy, rapid-fire play of <i>Trollbabe</i> and <i>Stranger Things</i>. Well, it's punchy and swingy the way I play it, anyway.</p>
+
+			<p><i>Heirs</i> is a bit crunchier than Calypso, with more a more concrete injury path and proscribed rerolls that push you down that injury track surprisingly quickly. The core merchanic uses sliders, between 1 and 10, to represent your hero's approach to a problem, and an over-under mechanic to determine success or failure.</p>
+
+			<p>There's also a full (albeit mini) descending darkness setting. With talking animals, giants, and angry trees.</p>
+
+			<ul>
+			{% for node in site.categories['calypso'] %}
+				<li><a href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+		</section>
+
+		<hr>
+
+		<section>
+
 			<h3>To Make a Murder</h3>
 
 			<p><i>... a narrative solo mystery framework</i></p>
@@ -90,7 +110,7 @@ group: Rpglets
 			<p>Designed for solo but with more room (and less constrained roles) than <i>6 Hours</i> for multiple players. The framework is also suitable for running by a GM.</p>
 
 			<ul>
-			{% for node in site.categories['d6 games'] %}
+			{% for node in site.tags['d6 games'] %}
 				<li><a href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
@@ -106,7 +126,7 @@ group: Rpglets
 			<p>It's definitely designed as a one shot, with a decent number of things to keep track of, and very story focused, with a clear beginning, set up, and end.</p>
 
 			<ul>
-			{% for node in site.categories['6 hours to midnight'] %}
+			{% for node in site.tags['6 hours to midnight'] %}
 				<li><a href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
 			{% endfor %}
 			</ul>
