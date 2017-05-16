@@ -35,17 +35,17 @@ Here's the thing; in group play, where you, the player, are limited to one avata
 
 In solo, where you have the liberty of being your character's author as well as his player, and where the output is utterly private, rules for handling social encounters can't make you feel uncomfortable in front of a group or reduce your agency. They just open up another area of human experience to explore.
 
-So the design of *Heirs* -- using some mechanical concepts from *Trollbabe* -- is one that emphasizes empathy and diplomacy over combat. Combat is still a viable thing, but it's dangerous and likely to create as many problems as it solves. Of course, I tried to keep this subtle, but it's too early to tell if I succeeded or not.
+**So the design** of *Heirs* -- using some mechanical concepts from *Trollbabe* that I really liked when I played it -- is one that emphasizes empathy and diplomacy over combat. Combat is still a viable thing, but it's dangerous and likely to create as many problems as it solves. Of course, I tried to keep this subtle, but it's too early to tell if I succeeded or not.
 
-All from a solo/gmless perspective, with a strong narrative bent.
+And it's all from a solo/gmless perspective, with a strong narrative bent.
 
-* simple but sturdy rules for conflict resolution with a d10
-* sliding scale attributes
+* simple but sturdy rules for conflict resolution with a d10 (meaning probability is easy to predict)
+* sliding scale attributes that reflect your approach to a situation
 * characters level out, not up
 * has a built-in "fading light" setting (but not so tightly linked that you can't use it for other settings too)
-* provided basic d100 oracle with yes/no and and/but modifiers
+* included basic d100 (in other words, d10 based) oracle with yes/no and and/but modifiers
 
-I've been enjoying the system quite a bit, though I haven't yet developed a full campaign for it. It was fun to make a "complete" system with art and character sheets and a setting (my personal favorite part of the process) even if it is kind of mini!
+Nothing revolutionary here, but I've been enjoying the system quite a bit, though I haven't yet developed a full campaign for it. It was fun to make a "complete" system with art and character sheets and a setting (my personal favorite part of the process) even if it is kind of mini!
 
 I'm still not 100% on the name but I couldn't think of one I liked better.
 
