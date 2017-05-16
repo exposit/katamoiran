@@ -21,6 +21,8 @@ So I wrote a game of romantic fantasy; here's the playtest draft of [Heirs of Se
 
 <!--more-->
 
+(Warning, digression alert-- if you just want to know about the game skip down to the paragraph right above the bullet points.)
+
 That's "romantic fantasy" as in tales of adventure in a world where hope and redemption -- and empathy and love -- are far more important than class level and bonuses to hit.
 
 And as in "romance", aka love, meaning there's a strong romantic element.
