@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Romantic Fantasy
+title: Heirs of Sea and Shadow
 date: 2017-05-14 16:43:39
 categories: ['game design']
 tags: ['heirs of light and shadow', 'romantic fantasy', 'romance', 'narrative', 'd10s', 'theory', 'trollbabe, 'rpglet']
@@ -43,6 +43,8 @@ All from a solo/gmless perspective, with a strong narrative bent.
 * has a built-in "fading light" setting (but not so tightly linked that you can't use it for other settings too)
 * provided basic d100 oracle with yes/no and and/but modifiers
 
-I've been enjoying the system quite a bit, though I haven't yet developed a full campaign for it. It was fun to make a "complete" system with art and character sheets and a setting (my personal favorite part of the process) even if it is kind of mini! 
+I've been enjoying the system quite a bit, though I haven't yet developed a full campaign for it. It was fun to make a "complete" system with art and character sheets and a setting (my personal favorite part of the process) even if it is kind of mini!
+
+I'm still not 100% on the name but I couldn't think of one I liked better.
 
 This is a PLAYTEST DRAFT and shouldn't be considered perfect or well-tested or as some sort of final word or anything. As usual, any suggestions, feedback, and the like are welcomed and greatly appreciated.
