@@ -3,7 +3,16 @@ layout: post
 title: Heirs of Sea and Shadow
 date: 2017-05-14 16:43:39
 categories: ['game design']
+tags: ['heirs of light and shadow', 'romantic fantasy', 'narrative', 'd10s', 'trollbabe, 'rpglet']
+comments: true
 published: true
+links:
+  - url: http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games
+    title: Romantic Fantasy
+    source: metafilter
+  - url: https://exposit.github.io/katamoiran/img/posts/2017-05-14/HeirsofSeaandShadow.pdf
+    title: Heirs of Sea and Shadow
+    source: katamoiran
 ---
 
 I'm a huge fan of [Against the Wicked City](http://udan-adan.blogspot.co.uk/) and his series of [posts](http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games) (metafilter index to the posts) on romantic fantasy.
