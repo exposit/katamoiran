@@ -3,7 +3,7 @@ layout: post
 title: Rolling d6s
 date: 2016-12-10 12:07:22
 categories: ['mechanics']
-tags: ['lady blackbird', 'narrative', 'd6s', 'probability','theory']
+tags: ['lady blackbird', 'narrative', 'd6', 'probability','theory']
 comments: true
 published: true
 links:

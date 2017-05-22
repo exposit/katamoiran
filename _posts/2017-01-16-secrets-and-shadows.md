@@ -3,7 +3,7 @@ layout: post
 title: Secrets and Shadows
 date: 2017-01-16 11:12:59
 categories: ['game design']
-tags: ['lady blackbird', 'narrative', 'd6s', 'theory', 'secrets and shadows', 'starfarer', 'pbta', 'apocalypse world', 'rpglet']
+tags: ['lady blackbird', 'narrative', 'd6', 'theory', 'secrets and shadows', 'starfarer', 'pbta', 'apocalypse world', 'rpglet']
 comments: true
 published: true
 tagline: combining Apocalypse World & Lady Blackbird

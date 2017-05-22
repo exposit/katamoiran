@@ -3,7 +3,7 @@ layout: post
 title: To Make a Murder
 date: 2017-02-23 13:30:58
 categories: ['game design']
-tags: ['narrative', 'd6s', 'theory', 'to make a murder', 'universal', 'framework', 'mystery', 'rpglet']
+tags: ['narrative', 'd6', 'theory', 'to make a murder', 'universal', 'framework', 'mystery', 'rpglet']
 comments: true
 published: true
 tagline: can you have an objective mystery in an exploratory solo game?
