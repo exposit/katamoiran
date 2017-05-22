@@ -3,7 +3,7 @@ layout: post
 title: Heirs of Sea and Shadow
 date: 2017-05-14 16:43:39
 categories: ['game design']
-tags: ['trollbabe', 'narrative', 'd6s', 'theory', 'rpglet', 'heirs of sea and shadow']
+tags: ['trollbabe', 'narrative', 'd10', 'theory', 'rpglet', 'heirs of sea and shadow']
 comments: true
 published: true
 links:
