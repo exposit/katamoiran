@@ -4,7 +4,7 @@ title: Pointcrawl Terrain Generator
 imagefolder: 2016-08-24
 date: 2016-08-24 12:00:00
 categories: ['mechanics']
-tags: [mapping, random generator, script, python, terrain, solo, mechanics, kyneros]
+tags: [mapping, random table, script, python, terrain, solo, mechanics, kyneros]
 comments: true
 published: true
 links:
