@@ -26,22 +26,22 @@ Admittedly, not everyone needs quite that level of nuance, but I love it.
 I ended up combining a random roll of the Writer Dice and a randomly picked glyph, like so.
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.bmp" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.bmp" alt="if-slashed-shield">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" alt="if-slashed-shield">
 </a><br>
 <i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of http://game-icons.net</i>
 </center>
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.bmp" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.bmp" alt="and-beard">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" alt="and-beard">
 </a><br>
 <i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of http://game-icons.net</i>
 </center>
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.bmp" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.bmp" alt="helmet-head-shot">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" alt="helmet-head-shot">
 </a><br>
 <i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of http://game-icons.net</i>
 </center>
