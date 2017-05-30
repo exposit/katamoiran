@@ -33,21 +33,21 @@ I ended up combining a random roll of the Writer's Dice and a randomly picked gl
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" alt="if-slashed-shield">
 </a><br>
-<i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
+<i>glyph is licensed CC-BY from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
 </center>
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" alt="and-beard">
 </a><br>
-<i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
+<i>glyph is licensed CC-BY from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
 </center>
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" alt="helmet-head-shot">
 </a><br>
-<i>glyph is licensed CC-By from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
+<i>glyph is licensed CC-BY from <a href="http://lorcblog.blogspot.com">lorcblog</a> by way of <a href="http://game-icons.net">http://game-icons.net</a></i>
 </center>
 
 Since the pieces are all CC-licensed, I might incorporate it into Pythia. I've always avoided glyphs because I'm terrible at interpreting them, but I like the way this looks. I'm at least going to do an actual play.
