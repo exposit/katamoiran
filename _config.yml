@@ -47,6 +47,6 @@ collections:
   solos:
     permalink: /:path/
     output: false;
-  rpglets:
-    permalink: /:path/
-    output: false;
+#  rpglets:
+#    permalink: /:path/
+#    output: false;

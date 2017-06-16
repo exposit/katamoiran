@@ -2,7 +2,8 @@
   link: /
 
 - name: Games
-  link: /rpglets.html
+  #link: /rpglets.html
+  link: https://exposit.github.io/katarpgs/
 - name: Solos
   link: /solos.html
   dropdown: &dropdown
