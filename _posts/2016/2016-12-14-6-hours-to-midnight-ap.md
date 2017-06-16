@@ -8,13 +8,13 @@ comments: false
 published: true
 tagline: "a waltz in the sky-castle"
 links:
-  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf
+  - url: https://exposit.github.io/katarpgs/superlite/6hourstomidnight/
     title: 6 Hours to Midnight
     source: katamoiran
 redirect_from: "/actual%20play/6%20hours%20to%20midnight/2016/12/14/6-hours-to-midnight-ap.html"
 ---
 
-An experimental playthrough of my oracle game, <a href="https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf">*6 Hours to Midnight*</a>.
+An experimental playthrough of my oracle game, <a href="https://exposit.github.io/katarpgs/superlite/6hourstomidnight/">*6 Hours to Midnight*</a>.
 
 As is the case almost always, the names are randomly generated -- I ended up picking more of the "real" ones that slipped through than usual because it just seemed to fit.
 

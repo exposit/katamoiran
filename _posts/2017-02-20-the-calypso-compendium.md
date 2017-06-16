@@ -29,7 +29,7 @@ I wasn't satisfied with my one page *Lady Blackbird* and *Apocalypse World* mash
 
 So I went back to the drawing board, revamped everything, gave the base system a name ("Calypso"), and put together a compiled version of all the rules and scenarios I've made so far, along with the Traits, Secrets, and Keys I use for my own games. And added a few more scenarios, just for good measure.
 
-So this is the first version of [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
+So this is the first version of [*The Calypso Compendium*](https://exposit.github.io/katarpgs/lite/calypsocompendium/).
 
 <!--more-->
 

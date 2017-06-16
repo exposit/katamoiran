@@ -10,12 +10,12 @@ links:
   - url: http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games
     title: Romantic Fantasy
     source: metafilter
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-05-14/HeirsofSeaandShadow.pdf
+  - url: https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/
     title: Heirs of Sea and Shadow
     source: katamoiran
 ---
 
-When I finished the first draft of [Heirs of Sea and Shadow]({{ site.baseurl }}/img/posts/2017-05-14/HeirsofSeaandShadow.pdf) I was proud of myself, but I was also mad at myself over the title.
+When I finished the first draft of [Heirs of Sea and Shadow](https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/) I was proud of myself, but I was also mad at myself over the title.
 
 The sea is a fairly important aspect of the game (it's on an island!), and shadows virtually define the setting, but why, brain, why, are you demanding "heirs"? Are you harkening back to the days of lyrical, golden fantasy, sent into a fit of nostalgia by all this talk of romantic fantasy? Are you just being pretentious?
 

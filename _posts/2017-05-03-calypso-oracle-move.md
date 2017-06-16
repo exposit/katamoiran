@@ -7,7 +7,7 @@ tags: [calypso, solo, charts, random, oracle]
 comments: true
 published: true
 links:
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-02-20/TheCalypsoCompendium.pdf
+  - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
 ---

@@ -16,23 +16,23 @@ links:
   - url: http://www.lumpley.com/archive/148.html
     title: Otherkind Dice
     source: lumpley
-  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-14/6HoursToMidnight_v1_alpha.pdf
+  - url: https://exposit.github.io/katarpgs/superlite/6hourstomidnight/
     title: 6 Hours to Midnight
     source: katamoiran
-  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf
+  - url: https://exposit.github.io/katarpgs/superlite/6againstthedark/
     title: 6 Against the Dark (horror)
     source: katamoiran
-  - url: https://exposit.github.io/katamoiran/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf
+  - url: https://exposit.github.io/katarpgs/superlite/6daystoadventure/
     title: 6 Days to Adventure (adventure)
     source: katamoiran
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-01-14/6FeetUnder_v1_alpha.pdf
+  - url: https://exposit.github.io/katarpgs/superlite/6feetunder/
     title: 6 Feet Under (noir)
     source: katamoiran
 tagline: "6 Against the Dark & 6 Days to Adventure & 6 Feet Under"
 redirect_from: "/game%20design/d6%20games/2016/12/23/6-against-the-dark.html"
 ---
 
-*Edit 2/08: I somehow missed linking this earlier, but here's a noir version using a different resolution mechanic and a different scene structure, [6 Feet Under]({{ site.baseurl }}/img/posts/2017-01-14/6FeetUnder_v1_alpha.pdf). The tips below still apply.*
+*Edit 2/08: I somehow missed linking this earlier, but here's a noir version using a different resolution mechanic and a different scene structure, [6 Feet Under](https://exposit.github.io/katarpgs/superlite/6feetunder/). The tips below still apply.*
 
 So I wrote a couple more games. Before I even post-mortemed the first, even.
 
@@ -54,9 +54,9 @@ So obviously:
 
 Yes. I wrote a game of horror for Christmas.
 
-And then I tried to playtest [*6 Against the Dark*]({{ site.baseurl }}/img/posts/2016-12-23/6AgainstTheDark_v1_alpha.pdf), and I liked my heroes too much to let them go inside the haunted house. I may have mentioned I'm a wimp. Yeah, yeah, kill your darlings, but that entity in there is *scary*.
+And then I tried to playtest [*6 Against the Dark*](https://exposit.github.io/katarpgs/superlite/6againstthedark/), and I liked my heroes too much to let them go inside the haunted house. I may have mentioned I'm a wimp. Yeah, yeah, kill your darlings, but that entity in there is *scary*.
 
-So I made some adaptations for those of us who are a little timid. [*6 Days to Adventure*]({{ site.baseurl }}/img/posts/2016-12-23/6DaystoAdventure_v1_alpha.pdf), a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic style adventures.
+So I made some adaptations for those of us who are a little timid. [*6 Days to Adventure*](https://exposit.github.io/katarpgs/superlite/6daystoadventure/), a framework for those big Indiana Jones, Clive Cussler, romping across the Sahara or the Amazon, fighting Nazis and mad scientists, epic style adventures.
 
 Then I ran a playtest and it ended up being a paranormal romance. Haha. Go figure.
 

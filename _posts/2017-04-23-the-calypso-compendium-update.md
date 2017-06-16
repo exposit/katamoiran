@@ -8,14 +8,14 @@ comments: true
 published: true
 tagline: combining Apocalypse World & Lady Blackbird
 links:
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-02-20/TheCalypsoCompendium.pdf
+  - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
 ---
 
 *See the original post [here]({{ site.baseurl }}/2017/02/20/the-calypso-compendium/).*
 
-I've revised [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf) a bit. Most of the changes were to the general rules section. I wasn't 100% satisfied with the wording of the core mechanic; it just didn't have the clarity I wanted. And sometimes the directions didn't quite mesh with my intent. So I rewrote it to hopefully be clearer, and to make the various outcomes very clean.
+I've revised [*The Calypso Compendium*](https://exposit.github.io/katarpgs/lite/calypsocompendium/) a bit. Most of the changes were to the general rules section. I wasn't 100% satisfied with the wording of the core mechanic; it just didn't have the clarity I wanted. And sometimes the directions didn't quite mesh with my intent. So I rewrote it to hopefully be clearer, and to make the various outcomes very clean.
 
 <!--more-->
 

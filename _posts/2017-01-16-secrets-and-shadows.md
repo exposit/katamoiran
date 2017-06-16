@@ -29,11 +29,11 @@ links:
 redirect_from: "/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html"
 ---
 
-*Edit 1/25: I made a science fiction version loosely inspired by the SF of the 70s and 80s, [Starfarer]({{ site.baseurl }}/img/posts/2017-01-16/Starfarer_v1.pdf).*
+*Edit 1/25: I made a science fiction version loosely inspired by the SF of the 70s and 80s, [Starfarer](https://exposit.github.io/katarpgs/superlite/starfarer/).*
 
 So here's the refined and prettified version of my Apocalypse World/Lady Blackbird inspired (powered?) game.
 
-[*Secrets and Shadows*]({{ site.baseurl }}/img/posts/2017-01-16/SecretsandShadows_v1.pdf)
+[*Secrets and Shadows*](https://exposit.github.io/katarpgs/superlite/secretsandshadows/)
 
 I went back to the drawing board a little, using the concept I posted a few days ago. I stumbled over a post on [concentric game design](http://lumpley.com/index.php/anyway/thread/594) in Apocalypse World, and it seemed only right to rebuild things following the principles so generously and awesomely laid out.
 

@@ -15,7 +15,7 @@ links:
 
 Just a quick brainstorm of a framework for running narrative but yet still (slightly?) objective mysteries, solo.
 
-[*To Make a Murder*]({{ site.baseurl }}/img/posts/2017-02-23/ToMakeAMurder.pdf).
+[*To Make a Murder*](https://exposit.github.io/katarpgs/lite/tomakeamurder/).
 
 It's floppy and not as clear as it could be and is probably not anywhere near objective enough.
 

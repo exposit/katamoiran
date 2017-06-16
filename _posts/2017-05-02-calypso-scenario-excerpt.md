@@ -7,12 +7,12 @@ tags: [calypso, solo, charts, random, 'darkness falls', scenario]
 comments: true
 published: true
 links:
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-02-20/TheCalypsoCompendium.pdf
+  - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
 ---
 
-I thought it might be helpful to put up an excerpt of a Scenario from [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).
+I thought it might be helpful to put up an excerpt of a Scenario from [*The Calypso Compendium*](https://exposit.github.io/katarpgs/lite/calypsocompendium/).
 
 There are six Scenarios in TCC; Citywatch (superhero), Darkness Falls (paranormal investigation), Fantastic Journey (fantasy), Secrets & Shadows (paranormal romance), Starfarer (science fiction), and The Sword & The Rose (romantic fantasy).
 

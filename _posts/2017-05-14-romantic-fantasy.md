@@ -10,14 +10,14 @@ links:
   - url: http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games
     title: Romantic Fantasy
     source: metafilter
-  - url: https://exposit.github.io/katamoiran/img/posts/2017-05-14/HeirsofSeaandShadow.pdf
+  - url: https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/
     title: Heirs of Sea and Shadow
     source: katamoiran
 ---
 
 I'm a huge fan of [Against the Wicked City](http://udan-adan.blogspot.co.uk/) and his series of [posts](http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games) (metafilter index to the posts) on romantic fantasy.
 
-So I wrote a game of romantic fantasy; here's the playtest draft of [Heirs of Sea and Shadow]({{ site.baseurl }}/img/posts/2017-05-14/HeirsofSeaandShadow.pdf).
+So I wrote a game of romantic fantasy; here's the playtest draft of [Heirs of Sea and Shadow](https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/).
 
 <!--more-->
 
