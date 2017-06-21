@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June OMGAM: Conflicts & Complications
+title: June OMGAM Conflicts & Complications
 date: 2017-06-21 11:30:13
 categories: ['game design']
 tags: ['narrative', 'd10', 'theory', 'rpglet', 'conflicts and complications', 'one microrpg game a month challenge', 'omgam']
