@@ -8,20 +8,20 @@ comments: true
 published: true
 imagefolder: 2017-07-13
 links:
-  - url:
+  - url: https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_dressing.py
     title: dungeon_dressing.py
     source: katamoiran
 ---
 
-Here's a d66 chart of Dungeon Dressing pulled from [A Simple Solo Delve]().
-
-<center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/title_screen.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/title_screen.png" alt="title screen">
-</a><br>
-<i>this is the only Mac screen capture</i>
-</center>
-
-And a [python script]() lifted from Pythia, if you want to go all command line and need 600 or so options instead of just 100.
+Here's a d66 chart of Dungeon Dressing pulled from [A Simple Solo Delve](https://exposit.github.io/katarpgs/superlite/simplesolo/). It's sanitized and relatively pithy.
 
 <!--more-->
+
+<center>
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/dungeon_dressing.png" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/dungeon_dressing.png" alt="dungeon dressing">
+</a><br>
+<i>i bowdlerized myself here</i>
+</center>
+
+And if you want something a little more challenging and gonzo, here's a [python script](https://exposit.github.io/katarpgs/superlite/simplesolo/) lifted from Pythia, with roughly 600 elements.
