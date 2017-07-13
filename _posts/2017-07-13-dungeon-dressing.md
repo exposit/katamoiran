@@ -24,6 +24,6 @@ Here's a d66 chart of Dungeon Dressing pulled from [A Simple Solo Delve](https:/
 <i>i bowdlerized myself here</i>
 </center>
 
-And if you want something a little more challenging and gonzo, here's a [python script](https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_dressing.py) lifted from Pythia, with roughly 600 elements.
+And if you want something a little more challenging and gonzo, here's a [python script](https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_dressing.py) lifted from Pythia, with roughly 600 elements. This is the original source for the d66 list.
 
 Which is about 200 items less than the "bad things that happened when you touched that thing in the dungeon" list, haha. I should put that one up next!
