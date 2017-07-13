@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July OMGAM Pyschic
+title: July OMGAM Psy*chic
 date: 2017-07-12 13:17:02
 categories: ['game design']
 tags: ['narrative', 'd10', 'theory', 'rpglet', 'psychic', 'psych', 'one microrpg game a month challenge', 'omgam']
