@@ -12,6 +12,6 @@ links:
   source: katamoiran rpgs
 ---
 
-Here's July's game, [Psy*chic](https://exposit.github.io/katarpgs/superlite/pychic/), based on the tv show "Psych".
+Here's July's game, [Psy*chic](https://exposit.github.io/katarpgs/superlite/psychic/), based on the tv show "Psych".
 
 As usual, these are not playtested by anyone but me yet. Let me know if you see anything weird or odd or just want to discuss.
