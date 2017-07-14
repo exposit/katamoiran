@@ -37,7 +37,7 @@ Now roll on this one once (or as directed):
 <i>hold my beer</i>
 </center>
 
-And here's a [python script](https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_effects.py) lifted from Pythia, with over 900 elements, in a really useful format that tells you what happens to you, between one and three effects, if you notice, and when it'll take effect.
+And here's a [python script](https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_effects.py) lifted from Pythia, with over 170 elements, in a really useful format that tells you what happens to you, between one and three effects, if you notice, and when it'll take effect.
 
 Now your hero can be randomly turned into a were-bug, gender swapped, shrunk, aged, de-aged, marked as the Chosen one, enraged, taller, richer, poorer, have all his gold turned into base metal, have a stat boosted or dropped, slapped with a love potion, made a heathen, weakened, buffed, turned blue, and so on.
 
