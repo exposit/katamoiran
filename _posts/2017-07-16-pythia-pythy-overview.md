@@ -13,9 +13,13 @@ links:
     source: katamoiran
 ---
 
-A while ago I was interested in how machine processing can help with the solo experience, so I added a panel to Pythia to handle that.
+Pythy is a Pythia panel that uses a Markov chain to create new sentences and sentence fragments based on a source or your existing play log.
 
-My approach is a little different than others I've seen.
+It's intended to inspire, set scenes, provide narrative push, and to serve the same function as the Mythic complex answer charts.
+
+Essentially, it's as if you had a very lazy GM who was simultaneously watching a TV show while attempting to DM a game of FATE.
+
+Results are sometimes unintentionally hilarious.
 
 <!--more-->
 
