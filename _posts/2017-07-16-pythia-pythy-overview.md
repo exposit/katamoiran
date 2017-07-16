@@ -23,6 +23,8 @@ Results are sometimes unintentionally hilarious.
 
 <!--more-->
 
+So this is what it looks like.
+
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythy-panel.png" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythy-panel.png" alt="pythy panel">
@@ -35,7 +37,11 @@ If you click on a source in the sentence section, it will echo a sentence built 
 
 > Later, it seems, had quickly instituted a prodigiously far-flung body of inquires amongst nearly all the rules of matter and perspective seemed upset.
 
+Or...
+
 > It was, the professor carried in his dream-sculpture.
+
+Or...
 
 > This was that cult, and the sources scattered throughout the globe.
 
@@ -49,7 +55,7 @@ For example, in my paranormal detective AP (which is very, very fiction heavy), 
 
 > And, of course, his failure to perform his assigned trinket reading duties.
 
-Which is similar to but not exactly the original sentence I wrote, and plenty of information to let me know that Pythia wants me to callback to that choice!
+Which is similar to but not exactly the original sentence I wrote, and lets me know that Pythia wants me to introduce a callback to that choice!
 
 "Prediction Seeds" are intended to take the place of Mythic complex answers and to provide inspiration for what happens next. If auto-predict is on, it puts together two-word phrases from the source, based on the words you're typing into the text field.
 
