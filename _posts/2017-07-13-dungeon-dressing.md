@@ -11,6 +11,8 @@ links:
   - url: https://github.com/exposit/katamoiran/blob/master/python/charts/dungeon_dressing.py
     title: dungeon_dressing.py
     source: katamoiran
+  - url: https://exposit.github.io/pythia-oracle/
+    title: Pythia Oracle
 ---
 
 Here's a d66 chart of Dungeon Dressing pulled from [A Simple Solo Delve](https://exposit.github.io/katarpgs/superlite/simplesolo/). It's sanitized and relatively pithy.
