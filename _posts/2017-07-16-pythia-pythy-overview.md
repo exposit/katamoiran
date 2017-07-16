@@ -2,7 +2,7 @@
 layout: post
 title: Pythy Overview
 date: 2017-07-16 10:46:29
-imagefolder: 2017-07-17
+imagefolder: 2017-07-16
 categories: [pythia]
 tags: [pythia, logs, screenshots, pythy]
 published: true
