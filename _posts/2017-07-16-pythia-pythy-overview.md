@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythy Overview
+title: Pythia Pythy Panel Overview
 date: 2017-07-16 10:46:29
 imagefolder: 2017-07-16
 categories: [pythia]
@@ -23,7 +23,7 @@ Results are sometimes unintentionally hilarious.
 
 <!--more-->
 
-Pythy is divided into two "sections"; Sentence Generation and Seed Generation.
+Pythy is divided into two "sections", one for "sentences" and one for "seeds".
 
 If you click on a source in the sentence section, it will echo a sentence built from the source into your play log.
 
