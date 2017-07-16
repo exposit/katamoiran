@@ -23,14 +23,6 @@ Results are sometimes unintentionally hilarious.
 
 <!--more-->
 
-So this is what it looks like.
-
-<center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythy-panel.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythy-panel.png" alt="pythy panel">
-</a><br>
-</center>
-
 Pythy is divided into two "sections"; Sentence Generation and Seed Generation.
 
 If you click on a source in the sentence section, it will echo a sentence built from the source into your play log.
