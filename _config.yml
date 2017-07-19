@@ -16,7 +16,7 @@
 title: katamoiran
 author: exposit
 email: alto.dizi@gmail.com
-shorttitle: Pen & Paper & Python
+shorttitle: pen and paper and python
 baseurl: "/katamoiran" # the subpath of your site, e.g. /blog
 url: "https://exposit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  exposit

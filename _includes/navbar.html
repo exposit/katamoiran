@@ -20,7 +20,7 @@
       {% if active %}
           <li class="active">
       {% else %}
-          <li>
+          <li class="inactive">
       {% endif %}
             <a href="{{ site.baseurl }}{{ node.link }}">{{ node.name }}</a></li>
 
@@ -28,6 +28,6 @@
     {% endfor %}
 
     <li><a href="https://exposit.github.io/katarpgs/" target="_blank">Games</a></li>
-    
+
   </ul>
   </nav>
