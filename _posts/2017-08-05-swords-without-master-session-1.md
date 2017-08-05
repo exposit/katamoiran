@@ -13,6 +13,8 @@ I stumbled across a fascinating system, [Swords Without Master](https://plus.goo
 
 I knew it'd be hard to solo, because a huge part of the narrative drive comes from the interplay of multiple players pushing against each other and the overplayer, but I wanted to try.
 
+<!--more-->
+
 I'll summarize a turn, badly, just so you can follow what's happening in the AP. A tone is set, either Glum or Jovial, then the overplayer describes bad stuff happening. The player who the bad stuff is happening to describes how they struggle against that bad stuff, until the player who has the dice (who might or might not be the player the bad stuff is happening to) decides to roll, setting a personal tone, and then makes a definitive statement that resolves things somewhat.
 
 There's much more to it than that, of course. I believe people who say this is one of the most enjoyable games they've ever run; with the right group, this would be amazing. And it's worth reading just to enjoy the prose and design.
@@ -22,8 +24,6 @@ At first I had vague ideas of just leaving the narrative push up to myself, but,
 It was an interesting challenge, and I enjoyed it, but it was much more like a formal dance than my usual rollercoaster experience. I think I just need more structure to push against -- setting the "tone" for the scene was just not quite enough, solo. I feel like if I go too far to the "writing" side of things, there's not enough "game" to make things challenging.
 
 I love my heroes and I think I'm going to translate them over to the system I'm working on for August's [OMGAM](https://exposit.github.io/katarpgs/challenge/) game.
-
-<!--more-->
 
 ***
 
