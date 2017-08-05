@@ -36,10 +36,10 @@ I love my heroes and I think I'm going to translate them over to the system I'm 
 <p id="mechanic" class="aside">So I used my name generator to generate three names; now I need to find a picture ("eidolon" in the system) to represent each.</p>
 <p id="mechanic" class="aside">A quick goolge search, and I've got a picture for each of the three names that I like, meaning this is definitely going to be story with multiple heroes. Cool; the system seems like it would play well with multiple heroes.</p>
 <p id="mechanic" class="aside">Now I'm supposed to name several things each of my heroes cares about. I'll use things from their pictures.</p>
-<p id="mechanic" class="aside">My hero, <a href="http://orig10.deviantart.net/aeb6/f/2010/209/0/3/windborn___ink_by_solidtom.png" target="new"><Rale></a> is a mage-type; he care about his gladius (used most often as a spear, just go with it), and he cares about his companions, but he won't admit to any of it.</p>
-<p id="mechanic" class="aside">His traveling companion is <a href="http://peachyco.deviantart.com/art/Triella-drow-rogue-v2-212070720" target="new"><Ever of Aubre></a>, a rogue who gets him into trouble as often as not. She's had a hard time of it and doesn't trust anyone.</p>
+<p id="mechanic" class="aside">My hero, <a href="http://orig10.deviantart.net/aeb6/f/2010/209/0/3/windborn___ink_by_solidtom.png" target="new">Rale</a> is a mage-type; he care about his gladius (used most often as a spear, just go with it), and he cares about his companions, but he won't admit to any of it.</p>
+<p id="mechanic" class="aside">His traveling companion is <a href="http://peachyco.deviantart.com/art/Triella-drow-rogue-v2-212070720" target="new">Ever of Aubre</a>, a rogue who gets him into trouble as often as not. She's had a hard time of it and doesn't trust anyone.</p>
 <p id="mechanic" class="aside">Her named possessions are her katars, Grief and Sorrow.</p>
-<p id="mechanic" class="aside">Their final companion is the inscrutable and terrifying medusa, <a href="http://wbreaux.deviantart.com/art/Medusa-before-the-gaze-244284924" target="new"><Ish-Kitu></a>.</p>
+<p id="mechanic" class="aside">Their final companion is the inscrutable and terrifying medusa, <a href="http://wbreaux.deviantart.com/art/Medusa-before-the-gaze-244284924" target="new">Ish-Kitu</a>.</p>
 <p id="mechanic" class="aside">Kitu uses a bow or her deadly gaze or her venom or just crushes foes with her serpentine coils. She's the fighter of the group, as it works out. Ranger, more, perhaps.</p>
 <p id="mechanic" class="aside">Her named possessions are her bow and her curse.</p>
 <p id="mechanic" class="aside">Not going to define Feats Heroic just yet because I'm not sure I understand them.</p>
