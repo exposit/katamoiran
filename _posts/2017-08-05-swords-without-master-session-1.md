@@ -20,7 +20,7 @@ There's much more to it than that, of course. I believe people who say this is o
 
 At first I had vague ideas of just leaving the narrative push up to myself, but, as it turns out... I don't challenge myself very well. So then I added a d6 roll to indicate when the player with the dice would act, and that worked okay, but I still wasn't all that happy with it.
 
-It was an interesting challenge, and I enjoyed it, but it was much more like a formal dance than my usual rollercoaster experience. I think I just need more structure to push against -- setting the "tone" for the scene was just not quite enough, solo.
+It was an interesting challenge, and I enjoyed it, but it was much more like a formal dance than my usual rollercoaster experience. I think I just need more structure to push against -- setting the "tone" for the scene was just not quite enough, solo. I feel like if I go too far to the "writing" side of things, there's not enough "game" to make things challenging.
 
 I love my heroes and I think I'm going to translate them over to the system I'm working on for August's [OMGAM](https://exposit.github.io/katarpgs/challenge/) game.
 
@@ -36,10 +36,10 @@ I love my heroes and I think I'm going to translate them over to the system I'm 
 <p id="mechanic" class="aside">So I used my name generator to generate three names; now I need to find a picture ("eidolon" in the system) to represent each.</p>
 <p id="mechanic" class="aside">A quick goolge search, and I've got a picture for each of the three names that I like, meaning this is definitely going to be story with multiple heroes. Cool; the system seems like it would play well with multiple heroes.</p>
 <p id="mechanic" class="aside">Now I'm supposed to name several things each of my heroes cares about. I'll use things from their pictures.</p>
-<p id="mechanic" class="aside">My hero, [Rale](http://orig10.deviantart.net/aeb6/f/2010/209/0/3/windborn___ink_by_solidtom.png) is a mage-type; he care about his gladius (used most often as a spear, just go with it), and he cares about his companions, but he won't admit to any of it.</p>
-<p id="mechanic" class="aside">His traveling companion is [Ever of Aubre](http://peachyco.deviantart.com/art/Triella-drow-rogue-v2-212070720), a rogue who gets him into trouble as often as not. She's had a hard time of it and doesn't trust anyone.</p>
+<p id="mechanic" class="aside">My hero, <a href="http://orig10.deviantart.net/aeb6/f/2010/209/0/3/windborn___ink_by_solidtom.png" target="new"><Rale> is a mage-type; he care about his gladius (used most often as a spear, just go with it), and he cares about his companions, but he won't admit to any of it.</p>
+<p id="mechanic" class="aside">His traveling companion is <a href="http://peachyco.deviantart.com/art/Triella-drow-rogue-v2-212070720" target="new"><Ever of Aubre>, a rogue who gets him into trouble as often as not. She's had a hard time of it and doesn't trust anyone.</p>
 <p id="mechanic" class="aside">Her named possessions are her katars, Grief and Sorrow.</p>
-<p id="mechanic" class="aside">Their final companion is the inscrutable and terrifying medusa, [Ish-Kitu](http://wbreaux.deviantart.com/art/Medusa-before-the-gaze-244284924).</p>
+<p id="mechanic" class="aside">Their final companion is the inscrutable and terrifying medusa, <a href="http://wbreaux.deviantart.com/art/Medusa-before-the-gaze-244284924" target="new"><Ish-Kitu>.</p>
 <p id="mechanic" class="aside">Kitu uses a bow or her deadly gaze or her venom or just crushes foes with her serpentine coils. She's the fighter of the group, as it works out. Ranger, more, perhaps.</p>
 <p id="mechanic" class="aside">Her named possessions are her bow and her curse.</p>
 <p id="mechanic" class="aside">Not going to define Feats Heroic just yet because I'm not sure I understand them.</p>
@@ -52,11 +52,10 @@ I love my heroes and I think I'm going to translate them over to the system I'm 
 <p id="mechanic" class="aside">[New Actor] Motif 2, </p>
 <p id="mechanic" class="aside">[New Actor] Motif 3, </p>
 <p id="mechanic" class="aside">Okay, so, taking the roll of the Overplayer first; I set the tone.</p>
-<p id="mechanic" class="aside">... I'm not using any of the advanced rules yet, just a few of the tricks.</p>
+<p id="mechanic" class="aside">... I'm not using any of the advanced rules yet, just a few of the tricks. And I defined my Feats Heroic -- Kitu, for example, has "Glum: glares at someone and they turn to stone". I struggled with how to be "fair" on them, but ultimately it doesn't matter too much.</p>
 <p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  5 (Jovial) 4 (Glum)  ] 9</p>
 <p id="mechanic" class="aside">So it's a Jovial tone; we're all Jovial until someone rolls.</p>
 <p id="mechanic" class="aside">This is my first adventure, so we'll start with Perilous Phase.</p>
-<p id="mechanic" class="query">I'm going to use a very simple oracle for questions asked of the other players; I'll roll 2d6, 10+ is whatever I want the answer to be, 7-9 is kind of what I want but it's complicated, and 6- is not what I wanted at all.</p>
 <p id="mechanic" class="aside">So first I set the scene.</p>
 <p id="mechanic" class="aside">We're traveling towards our next destination, the abandoned city of Chang-Nah-Kin, where Kitu hopes to find a library of ancient lore. Rale's along because he hopes to find some new magic. Ever claims she just has nowhere better to be.</p>
 <p id="fiction">The steppes are hot and dusty, and the sand chokes all who pass. Rale keeps his veil up over his nose; this is his homeland, even if it's not where those of his blood originally sprang, and he's well familiar with the dangers of the desert.</p>
