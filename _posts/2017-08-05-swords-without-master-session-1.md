@@ -6,7 +6,6 @@ categories: ['actual play']
 tags: ['misc', 'swords without master', 'rale', 'kitu', 'ever', 'sword and sorcery']
 comments: false
 published: true
-extender: 'swords without master'
 tagline: "an experiment in story"
 ---
 
