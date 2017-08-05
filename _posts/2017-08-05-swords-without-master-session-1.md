@@ -7,6 +7,10 @@ tags: ['misc', 'swords without master', 'rale', 'kitu', 'ever', 'sword and sorce
 comments: false
 published: true
 tagline: "an experiment in story"
+links:
+  - url: https://dig1000holes.wordpress.com/2012/06/24/the-city-of-fire-coin/
+    title: Swords Without Master
+    source: Dig 1000 Holes
 ---
 
 I stumbled across a fascinating system, [Swords Without Master](https://plus.google.com/communities/104194230537983273846), and had to try it out. It's just so clever and appealing, and so different from what I expect from an RPG.
