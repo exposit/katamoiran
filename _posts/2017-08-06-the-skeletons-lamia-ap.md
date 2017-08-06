@@ -19,7 +19,7 @@ I don't feel comfortable releasing it until I know it's okay with the author of 
 
 <!--more-->
 
-I ran a game for myself and it was just as much fun as the original. Not as bleak and inexorable but still fun, in a different way. 
+I ran a game for myself and it was just as much fun as the original. Not as bleak and inexorable but still fun, in a different way.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/tombstart.png" target="new">
@@ -141,7 +141,7 @@ I ran a game for myself and it was just as much fun as the original. Not as blea
 <p id="fiction">He carries the sword, and wears the sapphire on a chain. I demand to know why he is here, and what business he has in my cave, but it is all a formality, for I can See my death approaching.</p>
 <p id="fiction">His words are bold; he will seize a throne that should be his by right, and that I will not bar his path for he has undergone many trials and his people are counting on him.</p>
 <p id="fiction">And then he hesitates, and asks me a question of his own. He wants to know how he can help me.</p>
-<p id="fiction">I laugh with joy as an act of unforced kindness, the first in my long servitude, ends my curse forever.</p>
+<p id="fiction">I laugh with joy as an act of unforced kindness, the first in my long servitude, ends my curse.</p>
 <p id="fiction">I cannot See what will happen next, but I have hope.</p>
 
 <center>
