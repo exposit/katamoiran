@@ -13,7 +13,7 @@ links:
     source: Bully Pulpit Games
 ---
 
-This is a great one for solo play. You take the role of a skeleton cursed to protect a tomb throughout the ages.
+A game for 1-6 players where you take the role of a skeleton cursed to protect a tomb throughout the ages.
 
 Gameplay is cyclic; first you identify an intruder, then you deal with them while answering a question about your skeleton, then you determine how much time has passed, then you repeat, all with variations that give a strong sense of time passing and the years crumbling the world around you.
 
@@ -21,9 +21,11 @@ Cool stuff.
 
 <!--more-->
 
-So how did it work solo? Very well. Though I can see how this would really shine with a group, solo was easy. There were a couple of points where I misunderstood the rules and later wished I hadn't, but nothing game breaking at all.
+So how did it work solo? Very well. Though I can see how this would really shine with a group to bounce ideas off of, solo was easy. There were a couple of points where I misunderstood the rules and later wished I hadn't, but nothing game breaking at all.
 
 I went with a "sketch it out" approach rather than a full narrative style, mostly because I was feeling casual.
+
+There's no real randomness except what will happen next, so it's a very different adventure than a standard dungeon crawl. You know you're going to make it through the ages, one way or another; it's more about how you'll get there and what you'll have gained and lost in the process.
 
 The one place I felt like I could really have used more instruction is the very end; I just wasn't sure where to go with things. Was a partial victory allowed? What exactly counted as "defeat" for a skeleton?
 
