@@ -78,6 +78,7 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <p id="fiction">My sword, only ceremonial, is broken.</p>
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  4  ] 4</p>
 <p id="mechanic" class="aside">Time passes... a month this time.</p>
+<p id="fiction">"Arise and protect the tomb, skeletal guardians!"</p>
 <p id="mechanic" class="result">Rolling 1d3 1 times.<br>[  1  ] 1</p>
 <p id="mechanic" class="aside">A family seeking refuge.</p>
 <p id="fiction">They are refugees; the tomb raider left the path open. Civil war has broken out, with each side blaming the other for the disappearance of the newly crowned king.</p>
@@ -93,11 +94,11 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <p id="mechanic" class="result">Time passes...</p>
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  6  ] 6</p>
 <p id="mechanic" class="aside">It's been a thousand years!</p>
-<p id="mechanic" class="aside">Arise and protect the tomb, skeletal guardians!</p>
 <p id="mechanic" class="query">[One Options] crumble, devours</p>
 <p id="mechanic" class="result">[choice] crumble</p>
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  5  ] 5</p>
 <p id="mechanic" class="aside">Colors fade, metals dull, iron rusts. So everything is gray now, including my silver torc, the once glittering crown, the bright mosaics...</p>
+<p id="fiction">"Arise and protect the tomb, skeletal guardians!"</p>
 <p id="mechanic" class="query">[One Options] robbers, spiders</p>
 <p id="mechanic" class="result">[Choice] robbers</p>
 <p id="fiction">They are wearing strange clothes and carrying strange lights. One is a fighter, the other a thief. They focus on the sarcophagus; the mosaics that once marked each of the seven chamber's doors have faded and hard to see in torchlight.</p>
@@ -120,6 +121,7 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <p id="mechanic" class="aside">Spiderwebs everywhere!</p>
 <p id="mechanic" class="aside">The Desecration phase.</p>
 <p id="mechanic" class="aside">We're up to about seven and a half minutes of darkness.</p>
+<p id="fiction">"Arise and protect the tomb, skeletal guardians!"</p>
 <p id="mechanic" class="query">[One Options] plunderers, descendants, necromancer</p>
 <p id="mechanic" class="result">[Choice] plunderers</p>
 <p id="mechanic" class="aside">It's a bandit army, armed with shovels and torches and strange machinery.</p>
@@ -141,6 +143,7 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  2  ] 2</p>
 <p id="mechanic" class="aside">Mag-men visit and retreat, dropping something.</p>
 <p id="fiction">They melt a hole in one wall; they drop the corpse of a traitor.</p>
+<p id="fiction">"Arise and protect the tomb, skeletal guardians!"</p>
 <p id="mechanic" class="result">Rolling 1d3 1 times.<br>[  1  ] 1</p>
 <p id="mechanic" class="aside">It's our descendants; they are here following a treasure map.</p>
 <p id="fiction">I stand silently as they unlock the door and remove the Heavenly Blue Ring Mail. I have amassed just enough self-will to wait until they have reached the exit before I begin to give chase, and they escape unharmed but terrified.</p>
@@ -155,6 +158,7 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <p id="fiction">The sarcophagus splits open, the vast treasure hidden beneath the empty place I should rest spilling out.</p>
 <p id="mechanic" class="result">Rolling 1d6 1 times.<br>[  1  ] 1</p>
 <p id="fiction">A wall collapses, blocking off my past.</p>
+<p id="fiction">"Arise and protect the tomb, skeletal guardians!"</p>
 <p id="mechanic" class="aside">The last invader is a necromancer and mercenaries.</p>
 <p id="mechanic" class="aside"></p>
 <p id="fiction">Many of them are killed by traps and snares, but the final confrontation is between myself and the necromancer. She wears the Heavenly Blue Ring Mail and it gleams like nothing else in this place has for a thousand years.</p>
@@ -168,5 +172,5 @@ Note: I'm kind of inconsistent with how I choose elements; the author suggests j
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/tombend.png" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/tombend.png" alt="tomb at end">
 </a><br>
-<i>the tomb of the sun king at the end</i>
+<i>the tomb of the sun king at the end, 2100 years or so later</i>
 </center>
