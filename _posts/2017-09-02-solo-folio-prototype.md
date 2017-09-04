@@ -20,8 +20,8 @@ Note: the gluing is really rough here. If I were to make a final version I'd lin
 And it is in serious need of decoration.
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.png" alt="prototype v1 closed">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.jpg" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.jpg" alt="prototype v1 closed">
 </a><br>
 </center>
 
@@ -32,16 +32,16 @@ In version 3 (Neenah 65lb 8.5x11 white cardstock), the left most panel has two b
 There should be room next to the smaller box or along one edge or both to glue a strip of receptive magnet board for holding spare magnet pieces.
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.png" alt="version 3">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.jpg" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/two.jpg" alt="version 3">
 </a><br>
 </center>
 
 That's a pencil slot in between the boxes. Pay no attention to the pencil stopper being on the wrong side; that's fixed in the template. I'm thinking you'd want/need a second support there, maybe a strip of paper glued across the top or a rubberband. Or velcro.
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.png" alt="back view">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.jpg" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/three.jpg" alt="back view">
 </a><br>
 </center>
 
@@ -50,8 +50,8 @@ And I'm not 100% certain the closing tab is long enough; I adjusted it a bit and
 The idea is to glue .5 inch hex paper and .5 inch grid to the back of each panel, then put a magnetic receptive sheet in each inside holder. The spacing's kind of approximate at the moment since I have no magnetic boards to test with. For general carry-stuff around use you'd want to make the pockets deeper (which is trivial).
 
 <center>
-<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/four.png" target="new">
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/four.png" alt="prototype grids">
+<a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/four.jpg" target="new">
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/four.jpg" alt="prototype grids">
 </a><br>
 </center>
 
