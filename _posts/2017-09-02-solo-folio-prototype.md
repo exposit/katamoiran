@@ -23,6 +23,7 @@ And it is in serious need of decoration.
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.jpg" target="new">
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/one.jpg" alt="prototype v1 closed">
 </a><br>
+<i>Why is this upside down? I don't know.</i>
 </center>
 
 My first version (red cardstock -- "Clear Path Red" on Amazon) had two large pockets and one small one, plus a box for pencils and meeples.
