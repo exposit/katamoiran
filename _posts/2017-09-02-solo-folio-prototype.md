@@ -46,9 +46,11 @@ That's a pencil slot in between the boxes. Pay no attention to the pencil stoppe
 </a><br>
 </center>
 
-And I'm not 100% certain the closing tab is long enough; I adjusted it a bit and it should be. If the slot's a PITA, well, velcro.
+And I'm not 100% certain the closing tab is long enough; I adjusted it a bit and it should be. If the slot's a PITA, well, velcro or a rubberband.
 
-The idea is to glue .5 inch hex paper and .5 inch grid to the back of each panel, then put a magnetic receptive sheet in each inside holder. The spacing's kind of approximate at the moment since I have no magnetic boards to test with. For general carry-stuff around use you'd want to make the pockets deeper (which is trivial).
+The idea is to glue .5 inch hex paper and .5 inch grid to the back of the middle and right panel, then put a magnetic receptive sheet in each inside holder. The spacing's only approximate at the moment since I have no magnetic boards to test with (and I suspect they're a bit too far apart).
+
+For general carry-stuff around use, where the items aren't fixed in place, you'd probably want to make the pockets deeper, but that's trivial. They could also be glued down to reinforce the edges or cut off entirely if preferred.
 
 <center>
 <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/four.jpg" target="new">
@@ -56,7 +58,7 @@ The idea is to glue .5 inch hex paper and .5 inch grid to the back of each panel
 </a><br>
 </center>
 
-I'm thinking I could do one dry erase board on the left back panel, next to the hex paper (where I have the grid paper now) and the reverse on the inside, and thus have a note taking surface available next to my playing surface. But I'm bad at spatial stuff and would have to see it, I think.
+I'm thinking I could instead do one dry erase board on the left back panel, next to the hex paper (where I have the grid paper now) and the reverse on the inside, and thus have a note taking surface available next to my playing surface. But I'm bad at spatial stuff and would have to see it in practice.
 
 I haven't yet tested the [manual print and cut version]({{ site.baseurl }}/img/posts/{{page.imagefolder}}/4x6-solo-folio-v3.pdf) (I have a cutting machine and I am lazy), so if anyone does, please let me know if there are issues or suggestions.
 
