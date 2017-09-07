@@ -2,8 +2,8 @@
 layout: post
 title: Player Emulator Framework
 date: 2017-09-07 12:40:55
-categories: ['game design']
-tags: ['narrative', 'd6', 'framework', 'player emulator']
+categories: ['game design', 'mechanics']
+tags: ['solo', 'd6', 'framework', 'player emulator']
 comments: true
 published: true
 links:
@@ -14,9 +14,7 @@ links:
 
 I wanted to discuss how the tables in the [PET framework](https://exposit.github.io/katarpgs/superlite/playeremulator/) work, since I think they might be a bit intimidating.
 
-First, a little about PET, the Player Emulator with Tags (you have no idea how long it took me to come up with thst, as lame as it is).
-
-PET is designed to offload every major choice to the dice, and to let you take control of a mix of traditional GM responsibilities and traditional player responsibilities in the measures you find interesting.
+First, a little about PET, the Player Emulator with Tags (you have no idea how long it took me to come up with that name, as lame as it is). PET is designed to offload most major choices to the dice, and to let you take control of a mix of traditional GM responsibilities and traditional player responsibilities in the measures you find interesting.
 
 Basically, you can throw the standard character/GM roles out the window. Move the pawns -- players, characters, npcs, world -- as you find interesting to do so, and use the provided charts to handle the parts where you're not sure what would be most interesting, don't have a strong preference, or need something to play against.
 

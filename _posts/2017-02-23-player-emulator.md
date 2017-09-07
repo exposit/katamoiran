@@ -3,7 +3,7 @@ layout: post
 title: PC Moves Chart
 date: 2017-02-23 18:03:12
 categories: ['pythia', 'mechanics']
-tags: [solo, pythia, python, tool, tutorial]
+tags: [solo, pythia, python, tool, tutorial, player emulator]
 series: "Pythia Spotlight"
 comments: true
 published: true
