@@ -11,9 +11,14 @@ links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia-Oracle
     source: katamoiran
+  - url: {{ site.baseurl }}/img/posts/2017-09-23/PythiaOnPaperActorsPlots.pdf
+    title: Pythia on Paper: Actors & Plots
+    source: katamoiran
 ---
 
 This is part of my attempt to convert some of <a href="https://exposit.github.io/pythia-oracle/">Pythia's</a> more useful random generators into rollable charts.
+
+[*Pythia on Paper: Actors & Plots*]({{ site.baseurl }}/img/posts/2017-09-23/PythiaOnPaperActorsPlots.pdf)
 
 This one covers some of the random generators available on the actor and plot panels.
 
