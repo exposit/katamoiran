@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythia on Paper Actors Plots
+title: "Pythia on Paper Actors Plots"
 date: 2017-09-23 20:43:03
 imagefolder: 2017-09-23
 categories: [pythia]
@@ -10,9 +10,6 @@ comments: true
 links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia-Oracle
-    source: katamoiran
-  - url: {{ site.baseurl }}/img/posts/2017-09-23/PythiaOnPaperActorsPlots.pdf
-    title: Pythia on Paper: Actors & Plots
     source: katamoiran
 ---
 
