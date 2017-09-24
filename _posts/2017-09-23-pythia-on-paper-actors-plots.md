@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythia on Paper Actors and Plots
+title: Pythia on Paper Actors Plots
 date: 2017-09-23 20:09:37
 imagefolder: 2017-09-23
 categories: [pythia]
