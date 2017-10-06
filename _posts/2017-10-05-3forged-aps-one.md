@@ -56,7 +56,9 @@ With some solo tweaking I bet it'd be great for a Farscape-like thing -- that's 
 
 <i>15105 Wizarding</i> was one I was very interested in, but it had the same issue as <i>The End</i>; it's a game very clearly built to model a specific experience, in this case, the Harry Potter books. It's not bad by any means, just too entrenched in that specific universe to interest me.
 
-Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it. These are probably completely uninteresting.
+Okay, and now the actual plays, such as they are. In general, I tried to play through character generation to at least one conflict roll. Not really my finest APs, to be truthful, but sometimes it's nice to see the thought process.
+
+Oh, and I left out the one for <i>State Cinema</i> since there's not much to it except a brief character generation.
 
 #### 1510 Damned
 
