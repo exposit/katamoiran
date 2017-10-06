@@ -40,7 +40,7 @@ I copied and pasted the table on the website into a google sheet and sorted by n
 
 <i>15107 Platonic Mastery</i> had some interesting "Last Airbender" mechanics but I wasn't excited by the framing.
 
-Here are the ones I actually played, at least through character generation. Actual plays follow.
+Here are the ones I actually played at least through character generation. Actual plays follow the summaries -- they're not great but show some mechanics.
 
 <i>1510 Damned</i>	was interesting, but ultimately too harsh for me, both in the central conceit and the mechanics. The author kind of skirted around this point, but a single bad roll (as in "I roll two dice and don't get at least one 5+ when my opponent does") can leave your character at the mercy of the GM. This could be fine. Or it could be very, very bad.
 
@@ -54,7 +54,7 @@ With some solo tweaking I bet it'd be great for a Farscape-like thing -- that's 
 
 <i>15105 Wizarding</i> was one I was very interested in, but it had the same issue as <i>The End</i>; it's a game very clearly built to model a specific experience, in this case, the Harry Potter books. It's not bad by any means, just too entrenched in that specific universe to interest me.
 
-Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it.
+Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it. These are probably completely uninteresting. 
 
 #### 1510 Damned
 
