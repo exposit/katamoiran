@@ -96,10 +96,10 @@ Oh, and I left out the one for <i>State Cinema</i> since there's not much to it 
 <p id="mechanic" class="result">Rolling 5d6 1 times.<br>[  4 3 1 3 2  ] 13</p>
 <p id="mechanic" class="aside">It's ambiguous what happens when an enemy wins; if it's a regular opposed check, they get a Strength token, I get a Weakness token. But on a Bloody Hands roll they win and the fight is just... over?</p>
 <p id="mechanic" class="aside">Yeah, this is fatally flawed, at least not without other players to bolster the fighting. Plus it doesn't make sense; even if there were four other players, by the RAW my character would be done, down, and out.</p>
-<p id="mechanic" class="result">I'm thinking the target number needs to be dropped, and there needs to be some sort of reroll mechanism for players. Maybe invoke your precious memory, but you can only invoke it once per session?</p>
+<p id="mechanic" class="result">I'm thinking the target number needs to be lowered, and there needs to be some sort of reroll mechanism for players. Maybe invoke your precious memory, but you can only invoke it once per session?</p>
 <p id="mechanic" class="result">Rolling 3d6 1 times.<br>[  6 4 2  ] 12</p>
 <p id="mechanic" class="result">Rolling 2d6 1 times.<br>[  2 6  ] 8</p>
-<p id="mechanic" class="aside">So, a tie.</p>
+<p id="mechanic" class="aside">So, a tie, if rerolls worked like that.</p>
 <p id="mechanic" class="query">Oh, wait. None of that happened; he has to make a 3d6 roll to even get close enough to hit me.</p>
 <p id="mechanic" class="result">Rolling 3d6 1 times.<br>[  6 3 5  ] 14</p>
 <p id="mechanic" class="aside">Now I can blast him with the Dark Arts, using my bonus +2.</p>
