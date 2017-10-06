@@ -3,7 +3,7 @@ layout: post
 title: Threeforged APs and Reviews
 date: 2017-10-05 18:09:13
 categories: ['actual play']
-tags: ['misc', 'threeforged']
+tags: ['misc', 'threeforged', '3F']
 comments: true
 published: true
 links:
