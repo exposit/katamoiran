@@ -40,7 +40,7 @@ I copied and pasted the table on the website into a google sheet and sorted by n
 
 <i>15107 Platonic Mastery</i> had some interesting "Last Airbender" mechanics but I wasn't excited by the framing.
 
-<i>15109 Hounded</i> seems like it'd be possible to play solo as a horror-themed "split hats" kind of game, like I did S\lay w/Me. Unfortunately, it requires a modified deck of cards -- no problem with Python, but the instruction say there aren't enough for a full game. So a pass.
+<i>15109 Hounded</i> seems like it'd be possible to play solo as a horror-themed "split hats" kind of game, like I did S\lay w/Me. Unfortunately, it requires a modified deck of cards -- no problem with Python, but the instruction say there aren't enough cards defined for a full game. So a pass.
 
 Here are the ones I actually played at least through character generation. Actual plays follow the summaries -- they're not great but show some mechanics.
 
