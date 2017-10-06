@@ -28,7 +28,7 @@ Note: I am only critiquing these games in a very limited way! I'm looking at it 
 
 ### Let's get started
 
-I copied and pasted the table on the website into a google sheet and sorted by number. Of the first ten, half turned out to be unsuitable for solo.
+I copied and pasted the table on the website into a google sheet and sorted by number. Of the first ten, just over half turned out to be unsuitable for solo.
 
 <i>15100 Children's Radio Hour</i> was too dependent on multiple players, and I couldn't find much of a conflict.
 
@@ -40,9 +40,11 @@ I copied and pasted the table on the website into a google sheet and sorted by n
 
 <i>15107 Platonic Mastery</i> had some interesting "Last Airbender" mechanics but I wasn't excited by the framing.
 
+<i>15109 Hounded</i> seems like it'd be possible to play solo as a horror-themed "split hats" kind of game, like I did S\lay w/Me. Unfortunately, it requires a modified deck of cards -- no problem with Python, but the instruction say there aren't enough for a full game. So a pass.
+
 Here are the ones I actually played at least through character generation. Actual plays follow the summaries -- they're not great but show some mechanics.
 
-<i>1510 Damned</i>	was interesting, but ultimately too harsh for me, both in the central conceit and the mechanics. The author kind of skirted around this point, but a single bad roll (as in "I roll two dice and don't get at least one 5+ when my opponent does") can leave your character at the mercy of the GM. This could be fine. Or it could be very, very bad.
+<i>1510 Damned</i> was interesting, but ultimately too harsh for me, both in the central conceit and the mechanics. The author kind of skirted around this point, but a single bad roll (as in "I roll two dice and don't get at least one 5+ when my opponent does") can leave your character at the mercy of the GM. This could be fine. Or it could be very, very bad.
 
 This is one I'd like to revisit with substantial flavor tweaks; there's real potential there to recreate the "motley band of heroes trudging across a dangerous landscape" fantasy novels of my childhood.
 
