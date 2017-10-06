@@ -16,13 +16,13 @@ I decided to mosey my way through the many games of The #Threeforged RPG Design 
 
 My rules are simple.
 
-1. I'll play every game I think I can. If a game's just not suitable for solo, I'll pass on it but do at least a short summary why.
+1. I'll play every game I think I can. If a game's just not suitable for solo, I'll pass on it but do at least a short summary of why.
 
 2. I'll use Pythia's generators for additional content but I'll try to keep it to a minimum.
 
 3. I'll use whatever Oracle feels right assuming it is needed.
 
-Note: I am only critiquing these games in a very limited way! I'm looking at it purely from the perspective of a solo gamer and a solo game designer looking for potentially useful tools for soloing.
+Note: I am only critiquing these games in a very limited way! I'm looking at it from the perspective of a solo gamer and of a solo game designer looking for potentially useful tools for soloing.
 
 <!--more-->
 
@@ -30,29 +30,33 @@ Note: I am only critiquing these games in a very limited way! I'm looking at it 
 
 I copied and pasted the table on the website into a google sheet and sorted by number.
 
-So of the first ten a number turned out to just not be suitable for solo, obviously in my opinion.
+So of the first ten a number turned out to just not be that suitable for solo.
 
-15100 Children's Radio Hour was too dependent on multiple players; I couldn't find much of a conflict.
+<i>15100 Children's Radio Hour</i> was too dependent on multiple players, and I couldn't find much of a conflict.
 
-15101 GHO5T has a pure token economy.
+<i>15101 GHO5T</i> has a pure token economy and conflict depends on one player actively playing against another.
 
-15103 VHS Fury was just too party conflict dependent to work for solo.
+<i>15103 VHS Fury</i> was just too party conflict dependent to work for solo.
 
-15106 Salt Crown was more of a scenario than a game; there just didn't seem to be much incentive there.
+<i>15106 Salt Crown</i> was more of a scenario than a game; there just didn't seem to be much incentive to play there for me. This was my second to last read of the night so I was probably fatigued.
 
-15107 Platonic Mastery had an interesting "Last Airbender" mechanic but I wasn't excited by the framing.
+<i>15107 Platonic Mastery</i> had some interesting "Last Airbender" mechanics but I wasn't excited by the framing.
 
-I at least attempted the rest!
+Here are the ones I actually played, at least through character generation. Actual plays follow.
 
-1510 Damned	was interesting, but ultimately too lethal for me. Plus the central conceit was kind of demotivating.
+<i>1510 Damned</i>	was interesting, but ultimately too harsh for me, both in the central conceit and the mechanics. The author kind of skirted around this point, but a single bad roll (as in "I roll two dice and don't get at least one 5+ when my opponent does") can leave your character at the mercy of the GM. This could be fine. Or it could be very, very bad.
 
-15102 The End	is the game I played the longest. It had some very nice elements, but ultimately it's a Star Trek game with a grimdark coat of paint and I think it would be better as a Star Trek game. With some solo tweaking I bet it'd be great for a Farscape like thing.
+This is one I'd like to revisit with substantial flavor tweaks; there's real potential there to recreate the "motley band of heroes trudging across a dangerous landscape" fantasy novels of my childhood.
 
-15104 State Cinema had some great ideas, but ultimately the story frame was just too depressing and yet silly -- absurd -- together. The "actual play" was essentially making a character and then realizing I didn't have the heart to actually play a scene.
+<i>15102 The End</i> is the game I played the most. It had some very nice elements, but ultimately it's a Star Trek game with a grimdark coat of paint and I think it would be better as a straight Star Trek game. There's a really interesting crew mechanic and I like the tiers of resolution but switching between the different tiers feels artificial outside the Star Trek context.
 
-15105 Wizarding was one I was very interested in, but it suffered the same issue as The End; it's a game very clearly built to model a specific experience, in this case, the Harry Potter books. It's not bad by any means, just too entrenched in that specific universe to interest me.
+With some solo tweaking I bet it'd be great for a Farscape-like thing -- that's the direction I was bending with it. Definitely deserves a revisit.
 
-Okay, and now the actual plays, such as they are.
+<i>15104 State Cinema</i> had some great ideas, but ultimately the story frame was just too depressing and yet silly -- absurd -- together. The "actual play" was essentially making a character and then realizing I didn't have the heart to actually play a scene.
+
+<i>15105 Wizarding</i> was one I was very interested in, but it had the same issue as <i>The End</i>; it's a game very clearly built to model a specific experience, in this case, the Harry Potter books. It's not bad by any means, just too entrenched in that specific universe to interest me.
+
+Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it.
 
 #### 1510 Damned
 
