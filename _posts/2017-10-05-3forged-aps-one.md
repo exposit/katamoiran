@@ -12,7 +12,7 @@ links:
     source: Half Meme Press
 ---
 
-I decided to mosey my way through The #Threeforged RPG Design Challenge, solo.
+I decided to mosey my way through the many games of The #Threeforged RPG Design Challenge, solo.
 
 My rules are simple.
 
@@ -25,6 +25,8 @@ My rules are simple.
 Note: I am only critiquing these games in a very limited way! I'm looking at it purely from the perspective of a solo gamer and a solo game designer looking for potentially useful tools for soloing.
 
 <!--more-->
+
+### Let's get started
 
 I copied and pasted the table on the website into a google sheet and sorted by number.
 
