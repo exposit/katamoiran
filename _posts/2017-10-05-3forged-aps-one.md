@@ -8,7 +8,7 @@ comments: true
 published: true
 links:
   - url: http://halfmeme.com/threeforged_winner_and_everything.html
-    title: The #Threeforged RPG Design Challenge
+    title: The Threeforged RPG Design Challenge
     source: Half Meme Press
 ---
 
