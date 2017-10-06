@@ -28,7 +28,7 @@ Note: I am only critiquing these games in a very limited way! I'm looking at it 
 
 ### Let's get started
 
-I copied and pasted the table on the website into a google sheet and sorted by number. Of the first ten, half turned out to just not be that suitable for solo.
+I copied and pasted the table on the website into a google sheet and sorted by number. Of the first ten, half turned out to be unsuitable for solo.
 
 <i>15100 Children's Radio Hour</i> was too dependent on multiple players, and I couldn't find much of a conflict.
 
@@ -54,7 +54,7 @@ With some solo tweaking I bet it'd be great for a Farscape-like thing -- that's 
 
 <i>15105 Wizarding</i> was one I was very interested in, but it had the same issue as <i>The End</i>; it's a game very clearly built to model a specific experience, in this case, the Harry Potter books. It's not bad by any means, just too entrenched in that specific universe to interest me.
 
-Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it. These are probably completely uninteresting. 
+Okay, and now the actual plays, such as they are. I left out the one for <i>State Cinema</i> since there's not much to it. These are probably completely uninteresting.
 
 #### 1510 Damned
 
