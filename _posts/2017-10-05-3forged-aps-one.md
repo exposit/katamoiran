@@ -28,9 +28,7 @@ Note: I am only critiquing these games in a very limited way! I'm looking at it 
 
 ### Let's get started
 
-I copied and pasted the table on the website into a google sheet and sorted by number.
-
-So of the first ten a number turned out to just not be that suitable for solo.
+I copied and pasted the table on the website into a google sheet and sorted by number. Of the first ten, half turned out to just not be that suitable for solo.
 
 <i>15100 Children's Radio Hour</i> was too dependent on multiple players, and I couldn't find much of a conflict.
 
@@ -38,7 +36,7 @@ So of the first ten a number turned out to just not be that suitable for solo.
 
 <i>15103 VHS Fury</i> was just too party conflict dependent to work for solo.
 
-<i>15106 Salt Crown</i> was more of a scenario than a game; there just didn't seem to be much incentive to play there for me. This was my second to last read of the night so I was probably fatigued.
+<i>15106 Salt Crown</i> felt more like a scenario than a game; there just didn't seem to be much incentive to play there for me. This was my second to last read of the night so I was fatigued and didn't do it justice.
 
 <i>15107 Platonic Mastery</i> had some interesting "Last Airbender" mechanics but I wasn't excited by the framing.
 
