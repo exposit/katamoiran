@@ -268,4 +268,4 @@ Just one game this week, because I ended up playing it from start to finish.
 <p id="mechanic" class="aside">Ultimately it was a fun character and world building exercise, and the mechanics would work if they were cleaned up, with clearer roll results.</p>
 <p id="mechanic" class="aside">To be honest, though, I think there's a wasted opportunity here -- you are literally building Tags throughout the creation process, and then they're just... not important.</p>
 <p id="mechanic" class="aside">Instead of nine stats, why not just use Tags? Let each Human have the base Human Tags, plus six more. Tags add +1 to a roll if you can explain how. Foes work in the same way; they get a base of their relevant species stat, plus one for each of their species tags that matters.</p>
-<p id="mechanic" class="aside">Anyway, fun game.</a>
+<p id="mechanic" class="aside">Anyway, fun game.</p>
