@@ -6,6 +6,7 @@ categories: ['actual play']
 tags: ['misc', 'threeforged', '3F']
 comments: true
 published: true
+extender: 'threeforged'
 links:
   - url: http://halfmeme.com/threeforged_winner_and_everything.html
     title: The Threeforged RPG Design Challenge
