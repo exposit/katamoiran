@@ -263,7 +263,7 @@ Just one game this week, because I ended up playing it from start to finish. I d
 <p id="mechanic" class="result">Rolling 1d6 3 times.<br>[  4  ] 4<br>[  1  ] 1<br>[  1  ] 1</p>
 <p id="mechanic" class="aside">We'd win Athletics, and not be laughed at or enslaved, instead becoming mercenaries. We lose Culture and are considered barbarians, and low Politics means we end up staying as provisionary members of the council. There's also more neutral results but I don't see any way to get to them.</p>
 <p id="mechanic" class="aside">I mean, if you win the track, option A, or lose the track, Option B. If it's most important and you win, C, lose, D. There's no way to have it be anything else so the final somewhat neutral option doesn't seem achievable.</p>
-<p id="mechanic" class="aside">Maybe I'm just slow; the smoke here is making me kind of light-headed.</p>
+<p id="mechanic" class="aside">Maybe I'm just having a hard time following; the smoke here is making me kind of light-headed.</p>
 <p id="mechanic" class="aside">I'm also supposed to account for what we wanted most, but it has no mechanical bearing. So... we're bummed and strive harder next time.</p>
 <p id="mechanic" class="aside">Ultimately it was a fun character and world building exercise, and the mechanics would work if they were cleaned up, with clearer roll results.</p>
 <p id="mechanic" class="aside">To be honest, though, I think there's a wasted opportunity here -- you are literally building Tags throughout the creation process, and then they're just... not important.</p>
