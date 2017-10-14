@@ -17,7 +17,7 @@ Note: I am only critiquing these games in a very limited way! I'm looking at it 
 
 <!--more-->
 
-Just one game this week, because I ended up playing it from start to finish.
+Just one game this week, because I ended up playing it from start to finish. I didn't do too badly, though I did lose the core mechanic a couple of times (tired!).
 
 <i>1511 Galactic Arena</i> has an interesting frame; you're part of the human team sent to prove we deserve to be full Galactic Council members by competing in a space tournament. This is the third or fourth game that's had pieces I think are very applicable to soloing, but more about that later.
 
