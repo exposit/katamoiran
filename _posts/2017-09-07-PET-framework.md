@@ -16,6 +16,8 @@ I wanted to discuss how the tables in the [PET framework](https://exposit.github
 
 First, a little about PET, the Player Emulator with Tags (you have no idea how long it took me to come up with that name, as lame as it is). PET is designed to offload most major choices to the dice, and to let you take control of a mix of traditional GM responsibilities and traditional player responsibilities in the measures you find interesting.
 
+<!--more-->
+
 Basically, you can throw the standard character/GM roles out the window. Move the pawns -- players, characters, npcs, world -- as you find interesting to do so, and use the provided charts to handle the parts where you're not sure what would be most interesting, don't have a strong preference, or need something to play against.
 
 The tables are designed to support this, and to help a soloer get over the first hurdle of a new game, the blank page, by providing the kind of information a GM would.
