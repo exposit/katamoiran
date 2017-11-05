@@ -22,18 +22,39 @@ roles = [
 "fighter",
 "warrior",
 "paladin",
+"psion",
+"mindblade",
+"adept",
+"mage",
+"wizard",
+"sorcerer",
+"spellsword",
+"arcane knight",
+"berserker",
 ]
 
 # every role needs at least one specialty but more is better
 specialties = {
 "healing" : ["druid", "cleric", "paladin", ],
 "curing" : ["druid", "cleric", "paladin", ],
-"dealing damage" : ["fighter", "warrior", "templar", "bard", "cleric", "monk"],
-"inspiring" : ["bard", "cleric"],
-"stealing" : ["thief", "bard"],
-"picking pockets" : ["thief", "bard"],
-"confronting evil" : ["paladin", "templar"],
-"cleaving" : ["fighter", "paladin", "warrior"],
+"dealing damage" : ["fighter", "warrior", "templar", "bard", "cleric", "monk", 'berserker', "arcane knight", "spellsword", "mindblade",],
+"inspiring" : ["bard", "cleric", ],
+"stealing" : ["thief", "bard", ],
+"picking pockets" : ["thief", "bard", ],
+"confronting evil" : ["paladin", "templar", ],
+"cleaving" : ["fighter", "paladin", "warrior", 'berserker',],
+"dodge out of the way" : ["thief", "mindblade", ],
+"channel magic through a focus" : ["arcane knight", "spellsword", "mindblade",],
+"cast a spell" : ["spellsword", ],
+"manipulate emotions" : ["psion",],
+"manipulate minds" : ["adept", "sorcerer", "psion",],
+"change something into something else" : ["mage", "wizard", "sorcerer",],
+"weave an illusion" : ["adept", "mage", "wizard", "sorcerer", "psion",],
+"look into the unknown" : ["adept", "mage", "wizard", "sorcerer", "psion",],
+"fly into a rage" : ['berserker',],
+"protect someone else" : ["arcane knight", ],
+"manifest a weapon" : ["mindblade",],
+#"" : [],
 }
 
 premise = random.choice(keywords)
@@ -156,7 +177,7 @@ social = ["Persuasion", "Assertiveness", "Hotness", "Charm", "Charisma", "Social
 
 # Aggressive/Forceful
 
-force = ["Aggression", "Force", "Hardness", "Daring", "Chutzpah", "Strength", "Attack"]
+force = ["Aggression", "Force", "Hardness", "Daring", "Combat", "Strength", "Attack"]
 
 # Calculating/Methodical
 
