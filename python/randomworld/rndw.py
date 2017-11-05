@@ -235,6 +235,8 @@ card = random.choice(cards)
 print()
 print("*** " + card[2] + " World ***")
 print()
+print("A randomly generated variant of Simple World.")
+print()
 
 print("The theme of the setting is \"" + premise + "\".")
 
@@ -267,9 +269,9 @@ for item in playbooks:
 
     print("\n")
 
-    moves = [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)]
+    moves = [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)] + [random.choice(movetypes)]
 
-    movecats = random.sample(["Explore", "Fight", "Social", "Weird"], 2) + random.sample(["Explore", "Fight", "Social", "Weird"], 2)
+    movecats = random.sample(["Explore", "Fight", "Social", "Weird"], 3) + random.sample(["Explore", "Fight", "Social", "Weird"], 2)
 
     keyword = random.choice(keywords)
 
@@ -298,10 +300,10 @@ for item in playbooks:
         if "[specialty]" in moves[i] and i == 0:
             # core class move
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(corespecialties) + "\x1B[23m")
-        if "[specialty]" in moves[i] and i == 4:
+        if "[specialty]" in moves[i] and i == 5:
             # unique keyword move
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(kwspecialties) + "\x1B[23m")
-        if "[specialty]" in moves[i] and i == 6:
+        if "[specialty]" in moves[i] and i == 7:
             # theme move
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(themespecialties) + "\x1B[23m")
         if "[specialty]" in moves[i]:
@@ -317,6 +319,7 @@ for item in playbooks:
     movecats[0] + " Move",
     movecats[1] + " Move",
     movecats[2] + " Move",
+    movecats[3] + " Move",
     keyword.title() + " Move (\x1B[3munique keyword for this playbook\x1B[23m)",
     random.choice([card[3],card[4]]).title() + " Move (\x1B[3mrelates to the core dilemma of the setting\x1B[23m)",
     premise.title() + " Move (\x1B[3mrelates to the theme of the setting\x1B[23m)"
