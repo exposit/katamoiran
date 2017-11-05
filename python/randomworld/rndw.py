@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # this is going to assume that the user has a copy of Simple World;
 # the only content directly from SW is the six lines of Move templates
 
