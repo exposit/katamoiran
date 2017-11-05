@@ -7,7 +7,7 @@ import random
 
 # giant list of keywords
 keywords = [
-"plague", "searching", "keeping", "stealing", "rose", "honor", "locate", "chase", "explore", "deliver", "hunt", "befriend", "persuade", "barter", "protect", "collect", "sleuth", "respite", "restore", "destroy", "prepare", "interrupt", "return", "passion", "redemption", "justice", "attack", "resist", "future", "secret", "revenge", "distance", "anger", "supply", "power", "desire", "choice", "phobia", "ice", "lust", "dirt", "machinery", "pride", "love", "betrayal", "duty", "mistake", "debt", "fire", "air", "death", "pain", "history", "need", "flaw", "fear", "guilt", "purity", "vice", "artifice", "romance", "war", "fire", "air", "water", "earth", "stealth", "madness", "mobius", "time", "distance", "travel", "oration", "mind", "seduction", "deduction", "spirit", "shadow", "fanatic",
+"plague", "searching", "keeping", "stealing", "rose", "honor", "locate", "chase", "explore", "deliver", "hunt", "befriend", "persuade", "barter", "protect", "collect", "sleuth", "respite", "restore", "destroy", "prepare", "interrupt", "return", "passion", "redemption", "justice", "attack", "resist", "future", "secret", "revenge", "distance", "anger", "supply", "power", "desire", "choice", "phobia", "ice", "lust", "dirt", "machinery", "pride", "love", "betrayal", "duty", "mistake", "debt", "fire", "air", "death", "pain", "history", "need", "flaw", "fear", "guilt", "purity", "vice", "artifice", "romance", "war", "fire", "air", "water", "earth", "stealth", "madness", "mobius", "time", "distance", "travel", "oration", "mind", "seduction", "deduction", "spirit", "shadow", "fanatic", "bone",
 ]
 
 # remove duplicates so we can be free with adding keywords
@@ -86,6 +86,7 @@ specialties = {
 "strike at a weakness" : ["flaw", "mistake", ],
 "give someone power over you" : ["debt", ],
 "cause unnecessary pain" : ["pain", "spy", "vice", ],
+"traffic with the undead" : ["death", "bone"],
 #"" : [],
 }
 
