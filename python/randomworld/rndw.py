@@ -256,7 +256,7 @@ movetypes = [
 "You have the ability to [do some sort of active special power]. It counts as a basic move using [statA].",
 "You have [some passive special power that has a constant effect].",
 "You have a [thing]. When applicable, it adds +1 to [statA] and [statB].",
-"When you do [specialty], mark XP.",
+"When you [specialty], mark XP.",
 "Add +1 to [statA].",
 ]
 
