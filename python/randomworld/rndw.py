@@ -233,61 +233,18 @@ for item in playbooks:
         if "[specialty]" in moves[i]:
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(pbspecialties[count]) + "\x1B[23m")
 
+    keyword = random.choice(keywords)
+
     print(item.upper())
     print()
 
     #print("Title")
 
-    print("Core Class Move")
+    titlelist = ["Core Class Move", movecats[0] + " Move", movecats[1] + " Move", movecats[2] + " Move", keyword.title() + " Move (\x1B[3munique keyword for this playbook\x1B[23m)", random.choice([card[3],card[4]]).title() + " Move (\x1B[3mrelates to the core dilemma of the setting\x1B[23m)", premise.title() + " Move (\x1B[3mrelates to the theme of the setting\x1B[23m)" ]
 
-    print(moves[0])
-
-    print()
-
-    #print("Title")
-
-    print(movecats[0] + " Move")
-
-    print(moves[1])
-
-    print()
-
-    #print("Title")
-
-    print(movecats[1] + " Move")
-
-    print(moves[2])
-
-    print()
-
-    print(movecats[2] + " Move")
-
-    print(moves[3])
-
-    print()
-
-    # keyword Move
-
-    keyword = random.choice(keywords)
-
-    print(keyword.title() + " Move (\x1B[3munique keyword for this playbook\x1B[23m)")
-
-    print(moves[4])
-
-    print()
-
-    # dilemma Move
-
-    print(random.choice([card[3],card[4]]).title() + " Move (\x1B[3mrelates to the core dilemma of the setting\x1B[23m)")
-
-    print(moves[5])
-
-    print()
-
-    # premise Move
-
-    print(premise.title() + " Move (\x1B[3mrelates to the theme of the setting\x1B[23m)")
-
-    print(moves[6])
+    for x in range(len(titlelist)):
+        print(titlelist[x])
+        print(moves[x])
+        print()
 
     count = count + 1
