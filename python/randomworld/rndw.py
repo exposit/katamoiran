@@ -7,7 +7,7 @@ import random
 
 # giant list of keywords
 keywords = [
-"plague", "searching", "keeping", "stealing", "rose", "honor", "retrieve", "locate", "chase", "explore", "deliver", "hunt", "befriend", "persuade", "barter", "protect", "collect", "sleuth", "respite", "restore", "destroy", "prepare", "interrupt", "return", "protect", "passion", "redemption", "annhilate", "justice", "attack", "resist", "future", "agent", "secret", "revenge", "distance", "anger", "supply", "power", "desire", "choice", "phobia", "ice", "lust", "dirt", "machinery", "pride", "love", "betrayal", "honor", "duty", "mistake", "debt", "fire", "air", "death", "pain", "self", "history", "need", "flaw", "fear", "guilt", "purity", "vice", "artifice", "spy", "action", "romance", "war", "exploration", "fire", "air", "water", "earth", "stealth", "madness", "mobius", "time", "distance", "travel", "oration", "mind", "seduction", "deduction", "spirit", "fierce", "evolution",
+"plague", "searching", "keeping", "stealing", "rose", "honor", "locate", "chase", "explore", "deliver", "hunt", "befriend", "persuade", "barter", "protect", "collect", "sleuth", "respite", "restore", "destroy", "prepare", "interrupt", "return", "passion", "redemption", "justice", "attack", "resist", "future", "secret", "revenge", "distance", "anger", "supply", "power", "desire", "choice", "phobia", "ice", "lust", "dirt", "machinery", "pride", "love", "betrayal", "duty", "mistake", "debt", "fire", "air", "death", "pain", "history", "need", "flaw", "fear", "guilt", "purity", "vice", "artifice", "romance", "war", "fire", "air", "water", "earth", "stealth", "madness", "mobius", "time", "distance", "travel", "oration", "mind", "seduction", "deduction", "spirit", "shadow", "fanatic",
 ]
 
 # remove duplicates so we can be free with adding keywords
@@ -33,29 +33,59 @@ roles = [
 "spellsword",
 "arcane knight",
 "berserker",
+"ranger",
+"spy",
 ]
 
 # every role needs at least one specialty but more is better
 specialties = {
-"healing" : ["druid", "cleric", "paladin", ],
-"curing" : ["druid", "cleric", "paladin", ],
-"dealing damage" : ["fighter", "warrior", "templar", "bard", "cleric", "monk", 'berserker', "arcane knight", "spellsword", "mindblade",],
-"inspiring" : ["bard", "cleric", ],
-"stealing" : ["thief", "bard", ],
-"picking pockets" : ["thief", "bard", ],
-"confronting evil" : ["paladin", "templar", ],
-"cleaving" : ["fighter", "paladin", "warrior", 'berserker',],
-"dodge out of the way" : ["thief", "mindblade", ],
+"heal someone" : ["druid", "cleric", "paladin", "keeping", "respite", "restore", "passion" ],
+"cure someone" : ["druid", "cleric", "paladin", "plague", "rose", "restore", ],
+"deal damage" : ["fighter", "warrior", "templar", "bard", "cleric", "monk", 'berserker', "arcane knight", "spellsword", "mindblade", "rose", "ranger", "destroy", "attack", "anger", "death" ],
+"inspire others" : ["bard", "cleric", "rose", "honor", "justice", "resist" ],
+"strike a death blow" : ["fighter", "warrior", "templar", "bard", "cleric", "monk", 'berserker', "arcane knight", "spellsword", "mindblade", "rose", "ranger", "destroy", "attack", "anger", "death", "war" ],
+"steal" : ["thief", "bard", "stealing", ],
+"pick pockets" : ["thief", "bard", "stealing", ],
+"hide in shadows" : ["thief", "stealth", "shadow", "spy", ],
+"confront evil" : ["paladin", "templar", "keeping", "honor", "resist", "spirit", ],
+"cleave foes" : ["fighter", "paladin", "warrior", 'berserker',],
+"dodge out of the way" : ["thief", "mindblade", "interrupt", ],
 "channel magic through a focus" : ["arcane knight", "spellsword", "mindblade",],
-"cast a spell" : ["spellsword", ],
-"manipulate emotions" : ["psion",],
-"manipulate minds" : ["adept", "sorcerer", "psion",],
+"cast a spell" : ["spellsword", "power", "choice", "madness" ],
+"manipulate emotions" : ["psion", "love", "need", "lust", "fear", "desire", "anger", "guilt", "romance", "madness", "spirit" ],
+"manipulate minds" : ["adept", "sorcerer", "psion", "madness", "mind"],
 "change something into something else" : ["mage", "wizard", "sorcerer",],
 "weave an illusion" : ["adept", "mage", "wizard", "sorcerer", "psion",],
-"look into the unknown" : ["adept", "mage", "wizard", "sorcerer", "psion",],
-"fly into a rage" : ['berserker',],
-"protect someone else" : ["arcane knight", ],
+"look into the unknown" : ["adept", "mage", "wizard", "sorcerer", "psion", "explore", "sleuth", "madness", "mind"],
+"fly into a rage" : ['berserker', "power", ],
+"protect someone else" : ["arcane knight", "protect", "paladin", "resist", "romance", "spirit"],
 "manifest a weapon" : ["mindblade",],
+"find something missing" : ["adept", "searching", "locate", "chase", "sleuth"],
+"uphold a vow" : ["paladin", "templar", "honor", "deliver", "redemption", "revenge", "pride", "love", "duty", "purity", "romance", "fanatic", "spy" ],
+"track a thing down" : ["ranger", "chase", "hunt", "spy"],
+"run prey to ground" : ["ranger", "chase", "hunt", "spy", "sleuth"],
+"socialize in a friendly way" : ["bard", "befriend", "persuade", "rose", "desire", "persuade"],
+"use persuasion" : ["persuade", "rose", "oration", ],
+"seduce someone" : ["bard", "desire", "rose", "lust", "love", "vice", "romance", "seduction" ],
+"make a bargain" : ["bard", "barter", "collect", "supply", "debt", "vice", ],
+"declare you planned for this" : ["psion", "mage", "bard", "prepare", "time", "mobius", "interrupt", "future", "past", "history", "secret", "revenge", "madness", "mind", "deduction", ],
+"get back up after getting knocked down" : ["fighter", "warrior", "return"],
+"bring wrongdoing to an end" : ["ranger", "paladin", "templar", "justice", "return", "revenge"],
+"stubbornly refuse" : ["resist", "berserker", "madness", ],
+"travel a long way" : ["distance", "ranger", ],
+"inspire fear" : ["phobia", "wizard", "sorcerer", "adept", "mindblade", "psion" ],
+"invoke ice or cold" : ["ice", "wizard", "mage", "adept", ],
+"invoke fire or heat" : ["fire", "wizard", "mage", "adept", ],
+"harness the wind or weather" : ["air", "wizard", "mage", "adept", ],
+"command water" : ["water", "wizard", "mage", "adept", ],
+"move earth" : ["dirt", "earth", "mage", "wizard", "adept", ],
+"activate a gadget" : ["machinery", "artifice", ],
+"engage in competition" : ["pride", "warrior", "berserker", ],
+"betray someone" : ["betrayal", "thief", "spy", ],
+"royally screw up" : ["mistake", "flaw", ],
+"strike at a weakness" : ["flaw", "mistake", ],
+"give someone power over you" : ["debt", ],
+"cause unnecessary pain" : ["pain", "spy", "vice", ],
 #"" : [],
 }
 
@@ -137,7 +167,6 @@ cards = [
 ]
 
 # Principles, Agenda, GM Moves
-
 agenda = ["Challenge yourself; ask difficult questions.", "Play to find out what happens."]
 
 agendalist = [
@@ -170,23 +199,18 @@ principles = principles + random.sample(principlelist, random.randint(1,len(prin
 # choose some stat names at random
 
 # Reflexive/Graceful
-
 reflex = ["Reflex", "Grace", "Cool", "Dexterity", "Quickness", "Grasp"]
 
 # Persuasive/Assertive
-
 social = ["Persuasion", "Assertiveness", "Hotness", "Charm", "Charisma", "Social", "Glib"]
 
 # Aggressive/Forceful
-
 force = ["Aggression", "Force", "Hardness", "Daring", "Combat", "Strength", "Attack"]
 
 # Calculating/Methodical
-
 mind = ["Calculation", "Precision", "Cunning", "Sharp", "Intelligence", "Mind", "Brains"]
 
 # Inquisitive/Exploratory
-
 explore = ["Inquisitiveness", "Curiousity", "Whim", "Weird", "Sensitive", "Wisdom", "Magic", "Spirit"]
 
 # but just set them to recognizable defaults for now for sanity testing
@@ -246,6 +270,23 @@ for item in playbooks:
 
     movecats = random.sample(["Explore", "Fight", "Social", "Weird"], 2) + random.sample(["Explore", "Fight", "Social", "Weird"], 2)
 
+    keyword = random.choice(keywords)
+
+    kwspecialties = []
+    for key,value in specialties.items():
+        if keyword in value:
+            kwspecialties.append(key)
+
+    themespecialties = []
+    for key,value in specialties.items():
+        if premise in value:
+            themespecialties.append(key)
+
+    corespecialties = []
+    for key,value in specialties.items():
+        if item.split()[0] in value:
+            corespecialties.append(key)
+
     for i in range(len(moves)):
         if "[statB]" in moves[i]:
             temp = random.sample(stats,2)
@@ -253,10 +294,17 @@ for item in playbooks:
             moves[i] = moves[i].replace("[statB]", temp[1])
         if "[statA]" in moves[i]:
             moves[i] = moves[i].replace("[statA]", random.choice(stats))
+        if "[specialty]" in moves[i] and i == 0:
+            # core class move
+            moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(corespecialties) + "\x1B[23m")
+        if "[specialty]" in moves[i] and i == 4:
+            # unique keyword move
+            moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(kwspecialties) + "\x1B[23m")
+        if "[specialty]" in moves[i] and i == 5:
+            # theme move
+            moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(themespecialties) + "\x1B[23m")
         if "[specialty]" in moves[i]:
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(pbspecialties[count]) + "\x1B[23m")
-
-    keyword = random.choice(keywords)
 
     print(item.upper())
     print()
