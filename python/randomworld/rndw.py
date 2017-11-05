@@ -300,7 +300,7 @@ for item in playbooks:
         if "[specialty]" in moves[i] and i == 4:
             # unique keyword move
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(kwspecialties) + "\x1B[23m")
-        if "[specialty]" in moves[i] and i == 5:
+        if "[specialty]" in moves[i] and i == 6:
             # theme move
             moves[i] = moves[i].replace("[specialty]", "\x1B[3m" + random.choice(themespecialties) + "\x1B[23m")
         if "[specialty]" in moves[i]:
@@ -311,7 +311,15 @@ for item in playbooks:
 
     #print("Title")
 
-    titlelist = ["Core Class Move", movecats[0] + " Move", movecats[1] + " Move", movecats[2] + " Move", keyword.title() + " Move (\x1B[3munique keyword for this playbook\x1B[23m)", random.choice([card[3],card[4]]).title() + " Move (\x1B[3mrelates to the core dilemma of the setting\x1B[23m)", premise.title() + " Move (\x1B[3mrelates to the theme of the setting\x1B[23m)" ]
+    titlelist = [
+    "Core Class Move",
+    movecats[0] + " Move",
+    movecats[1] + " Move",
+    movecats[2] + " Move",
+    keyword.title() + " Move (\x1B[3munique keyword for this playbook\x1B[23m)",
+    random.choice([card[3],card[4]]).title() + " Move (\x1B[3mrelates to the core dilemma of the setting\x1B[23m)",
+    premise.title() + " Move (\x1B[3mrelates to the theme of the setting\x1B[23m)"
+    ]
 
     for x in range(len(titlelist)):
         print(titlelist[x])
