@@ -500,7 +500,7 @@ time {
   border: 1px solid #ddd;
   -webkit-order: 1;
   order: 1;
-	background: #eee;
+	background: #fff;
 		font-size: 1.25em;
 }
 #tab input[type=radio], #tab div {
