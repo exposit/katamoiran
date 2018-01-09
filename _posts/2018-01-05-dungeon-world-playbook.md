@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Threeforged APs and Reviews Two
+title: Dungeon World Playbook
 date: 2018-01-05 12:32:34
 categories: ['mechanics']
 tags: ['playbook', 'dungeon world', 'the celtic bard']
