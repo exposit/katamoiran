@@ -10,7 +10,7 @@ published: true
 
 So it's been awfully quiet around here lately.
 
-I've still been doing my usual solo stuff. Writing one micro game a month for my personal OMGAM challenge. Playtesting those games. Running other long-term campaigns. Digging deep into old theory and new games.
+I've still been doing my usual solo stuff. Writing one micro game a month for my personal [OMGAM](https://exposit.github.io/katarpgs/challenge/) challenge. Playtesting those games. Running other long-term campaigns. Digging deep into old theory and new games.
 
 I just haven't been blogging about it.
 
