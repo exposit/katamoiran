@@ -22,6 +22,8 @@ A couple more playbooks, written for Dungeon World. Obviously not playtested. An
 
 [The Mutable](https://drive.google.com/open?id=1jCreBrUWqLafxGeZLAxJLSMTdK-peIu_), a reimagining of my first OSR class, a warrior who gains the abilities of the creatures who harm him and who has a very uneasy relationship with magic in general.
 
+<!--more-->
+
 > Other people cast magic; they study it, channel it, shape it like a tool.
 
 > You are magic. It’s part of you, infused into your bones, coursing through your blood, and it demands that you release it...

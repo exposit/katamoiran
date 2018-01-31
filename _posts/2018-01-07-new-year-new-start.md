@@ -14,6 +14,8 @@ I've still been doing my usual solo stuff. Writing one micro game a month for my
 
 I just haven't been blogging about it.
 
+<!--more-->
+
 Don't know why; part of it's that each game has its own page on [katarpgs](https://exposit.github.io/katarpgs/) and it seems redundant to talk about it here (also, what else would I say?). Part of it is that often a solo's obsolete -- I've got a new system, a better way of doing things, a new shiny toy -- before I have a chance to post it.
 
 And part of it's that my solos seem to be go to dark places over the holidays, which is kind of a funny way to say I get a little blue around this time of year and take it out on my characters.
