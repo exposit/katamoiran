@@ -4,7 +4,6 @@
   <div>
 {% if page.links %}
     <h3>Links In This Post:</a></h3>
-    <br>
     <ul>
       {% for link in page.links %}
         <li><a href='{{ link.url }}'>{{ link.title }} {% if link.source %}(<cite>{{ link.source }}</cite>){% endif %}</a></li>
@@ -13,6 +12,19 @@
         {% endunless %}
       {% endfor %}
     </ul>
+{% else %}
+<h3>Important Stuff:</a></h3>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.important == true %}
+      <li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+      {% unless forloop.last %}
+          <hr class="line-title"></hr>
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+</ul>
 {% endif %}
   </div>
 

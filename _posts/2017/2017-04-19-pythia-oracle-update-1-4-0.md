@@ -6,7 +6,8 @@ categories: ['pythia']
 tags: [solo, pythia, python, tool, update]
 comments: true
 published: true
-pinned: true
+pinned: false
+important: true
 links:
   - url: https://github.com/josdejong/jsoneditor
     title: json editor
