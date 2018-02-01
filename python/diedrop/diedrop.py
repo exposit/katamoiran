@@ -12,6 +12,7 @@ from PIL import ImageDraw
 from PIL import ImageFont
 import random
 import argparse
+import sys
 
 fontface = "MartelSans-Black.ttf" # change this to whatever font you drop into the fonts directory
 
@@ -35,6 +36,10 @@ for key,value in argmap.iteritems():
 parser.add_argument('--rotate', '-r', nargs='?', const=1, type=int, default=1, help="rotate the dice; default is 1 (yes)", metavar="0 or 1")
 
 parser.add_argument('--show', '-s', nargs='?', const=1, type=int, default=1, help="open the final image; default is 1 (yes)", metavar="0 or 1")
+
+if len(sys.argv)==1:
+    parser.print_help()
+    sys.exit(1)
 
 args = parser.parse_args()
 
