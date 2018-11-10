@@ -32,9 +32,10 @@ kramdown:
   syntax_highlighter: rouge
 
 #theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - feedjira
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -42,8 +43,7 @@ include:
   - _pages
   - img
   - css
-plugins:
-  - jekyll-feed
+  - _externalfeed
 
 collections:
   solos:

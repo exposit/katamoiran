@@ -1,0 +1,10 @@
+<section id="sidebar-roll" class="color2 rounded side">
+    <div>
+    <header class="major">
+        <h3>Blogs I Read</h3>
+    </header>
+    {% for e in site.externalfeed %}
+      <p><a href="{{ e.url }}" target="_new">{{ e.title }}</a> | <a href="{{ e.eurl }}" target="_new">{{ e.etitle}}</a></p>
+    {% endfor %}
+    </div>
+</section>
