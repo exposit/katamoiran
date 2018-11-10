@@ -42,7 +42,7 @@ include:
   - _pages
   - img
   - css
-plugins_dir:
+plugins:
   - jekyll-feed
 
 collections:
