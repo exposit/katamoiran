@@ -20,6 +20,8 @@ links:
 
 ---
 
+July 18, 2018
+
 A couple of links today, to the repos for [The Big List of Dungeon World Playbooks](https://exposit.github.io/dw-playbooks/) (381!) and [The Big List of Dungeon World Compendium Classes](https://exposit.github.io/dw-ccs/) (147!).
 
 And two more playbooks, written for Dungeon World. The Medusa is somewhat playtested (and lots of fun).  Feedback is more than welcome.
