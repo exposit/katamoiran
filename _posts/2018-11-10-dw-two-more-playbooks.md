@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Dungeon World Playbooks
+title: Even cMore Dungeon World Playbooks
 date: 2018-11-10 16:58:17
 categories: ['mechanics']
 tags: ['playbook', 'dungeon world', 'the medusa', 'the tormented']
@@ -16,7 +16,7 @@ links:
   - url: https://exposit.github.io/dw-playbooks/
     title: The Big List of Dungeon World Playbooks
   - url: https://exposit.github.io/dw-ccs/
-  - title: The Big List of Dungeon World Compendium Classes
+    title: The Big List of Dungeon World Compendium Classes
 
 ---
 
