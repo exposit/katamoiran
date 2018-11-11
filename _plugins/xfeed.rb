@@ -1,19 +1,25 @@
 # So here's how this pain in the ass works. You add your feeds to the blogs array. Then you run jekyll locally, visit your site locally to make sure it looks okay, and then continue as normal.
 # No, it won't update automatically. So post more frequently!
 require 'feedjira'
+require 'time'
+require 'action_view'
+
+include ActionView::Helpers::DateHelper
 
 module Jekyll
-  class MediumPostDisplay < Generator
+  class RSSPostDisplay < Generator
     safe true
     priority :high
   def generate(site)
       #jekyll_coll = Jekyll::Collection.new(site, 'externalfeed')
       #site.collections['externalfeed'] = jekyll_coll
 
-    blogs = [  'http://www.bastionland.com/feeds/posts/default?alt=rss', 'http://falsemachine.blogspot.com/feeds/posts/default',
-    'http://goblinpunch.blogspot.com/feeds/posts/default?alt=rss',
-    'http://hackslashmaster.blogspot.com/feeds/posts/default',
-    'http://necrotic-gnome-productions.blogspot.com/feeds/posts/default?alt=rss']
+    blogs = [  'http://udan-adan.blogspot.com/feeds/posts/default?alt=rss',
+          'https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss',
+          'http://www.bastionland.com/feeds/posts/default?alt=rss', 'http://falsemachine.blogspot.com/feeds/posts/default',
+          'http://goblinpunch.blogspot.com/feeds/posts/default?alt=rss',
+          'http://hackslashmaster.blogspot.com/feeds/posts/default',
+          'http://necrotic-gnome-productions.blogspot.com/feeds/posts/default?alt=rss']
 
     fileHtml = File.new("./_includes/side_roll.html", "w+")
     fileHtml.puts '<section id="sidebar-roll" class="color2 rounded side">'
@@ -29,9 +35,13 @@ module Jekyll
         guid = feed.url
         entry = feed.entries.first
         etitle = entry.title
+        etitle = etitle.split[0...7].join(' ')
         eurl = entry.url
+        pub = entry.published
+        now = Time.now.utc
+        elapsed = time_ago_in_words(pub ) + ' ago'
 
-        fileHtml.puts '<li><a href="%s" target="_new">%s</a> | <a href="%s" target="_new">%s</a></li>' % [guid, title, eurl, etitle]
+        fileHtml.puts '<li><a href="%s" target="_new">%s</a> | <a href="%s" target="_new">%s</a> | <cite>%s</cite></li>' % [guid, title, eurl, etitle, elapsed]
 
         # assigning stuff to a fake document; isn't useful because plugins are no bueno on github pages
         # path = "./_externalfeed/" + title + ".md"
