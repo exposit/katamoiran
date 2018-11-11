@@ -80,7 +80,7 @@ group: Home
 
 <section class="zero">
 
-  {% for post in site.posts offset:1 limit:3 %}
+  {% for post in site.posts offset:1 limit:4 %}
 
   <article class="zero-unit rounded">
     <header><hgroup>
@@ -133,7 +133,7 @@ group: Home
 <section>
   <article class="previous-posts-unit rounded inlinelist">
       <ul>
-        {% for post in site.posts limit:6 offset:4 %}
+        {% for post in site.posts limit:10 offset:5 %}
         <li>
           {% assign wordCount = post.content | number_of_words %}
         <time>{{ post.date | date: "%B %d, %Y" }}</time>
