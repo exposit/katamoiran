@@ -1,3 +1,5 @@
+# So here's how this pain in the ass works. You add your feeds to the blogs array. Then you run jekyll locally, visit your site locally to make sure it looks okay, and then continue as normal.
+# No, it won't update automatically. So post more frequently!
 require 'feedjira'
 
 module Jekyll
@@ -7,9 +9,6 @@ module Jekyll
   def generate(site)
       #jekyll_coll = Jekyll::Collection.new(site, 'externalfeed')
       #site.collections['externalfeed'] = jekyll_coll
-
-  #Feedjira::Feed.fetch_and_parse("https://exposit.github.io/katamoiran/feed.xml").entries.each do |e|
-  #feed = Feedjira::Feed.fetch_and_parse("https://exposit.github.io/katamoiran/feed.xml")
 
     blogs = [  'http://www.bastionland.com/feeds/posts/default?alt=rss', 'http://falsemachine.blogspot.com/feeds/posts/default',
     'http://goblinpunch.blogspot.com/feeds/posts/default?alt=rss',
@@ -34,7 +33,7 @@ module Jekyll
 
         fileHtml.puts '<li><a href="%s" target="_new">%s</a> | <a href="%s" target="_new">%s</a></li>' % [guid, title, eurl, etitle]
 
-        # below this is assigning to a fake document; isn't useful because plugins are no bueno
+        # assigning stuff to a fake document; isn't useful because plugins are no bueno on github pages
         # path = "./_externalfeed/" + title + ".md"
         # path = site.in_source_dir(path)
         # doc = Jekyll::Document.new(path, { :site => site, :collection => jekyll_coll })
@@ -46,8 +45,9 @@ module Jekyll
         # so write a real document
 
       end
-  fileHtml.puts '</ul></div></section>'
-  
+
+      fileHtml.puts '</ul></div></section>'
+
     end
   end
 end
