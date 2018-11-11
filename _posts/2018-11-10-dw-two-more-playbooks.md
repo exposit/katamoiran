@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Even More Dungeon World Playbooks
-date: 2018-11-10 16:58:17
+date: 2018-05-25 16:58:17
 categories: ['mechanics']
 tags: ['playbook', 'dungeon world', 'the medusa', 'the tormented']
 comments: true
