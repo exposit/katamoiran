@@ -3,7 +3,7 @@ layout: post
 title: Dungeon World Modern
 date: 2018-07-18 12:32:34
 categories: ['game design']
-tags: ['dungeon world', 'urban/modern/fantasy'', 'narrative', 'd6', 'theory',  'pbta', 'apocalypse world', 'rpglet']
+tags: ['dungeon world', 'urban/modern/fantasy', 'narrative', 'd6', 'theory',  'pbta', 'apocalypse world', 'rpglet']
 comments: true
 published: true
 links:
