@@ -12,7 +12,7 @@ links:
     source: katamoiran
 ---
 
-Urban/Modern/Fantasy is a CC-licensed framework for running modern settings using Dungeon World's mechanics.
+[Urban/Modern/Fantasy](https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN) is a CC-licensed framework for running modern settings using Dungeon World's mechanics.
 
 It's intended to be a much less focused alternative to the excellent modern pbtas out there that tend to be very focused on delivering a specific play experience.
 
@@ -22,7 +22,7 @@ At the core, though, it's just Dungeon World with new playbooks, compendium path
 
 <!--more-->
 
-[folder](https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN}
+[folder](https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN)
 
 * Six new path-based playbooks each built around a single stat, for a flexible mix and match approach. Want to be a Genius Celebrity Gunslinger or a Tough Field Scientist who used to be a pro Athlete? You're covered.
 
