@@ -22,7 +22,7 @@ I've been running this (somewhat) epic dungeoncrawl since, using [World of Dunge
 
 My tools are a mapper, [Trizbort](http://www.trizbort.com/), [Pythia](https://github.com/exposit/pythia-oracle) to handle the random stuff, and a markdown document I keep open in Atom to jot down notes.
 
-When the PC moves into a new room, I roll it up randomly using Pythia, consider how it fits into the current area, and describe it in context. We just split out into [Modnar's Tower](http://www.lulu.com/shop/michael-curtis/stonehell-dungeon-supplement-two-buried-secrets-ebook/ebook/product-16096486.html), though, and it's very satisfactory, enough that I am going to be purchasing Stonehell soonest.
+When the PC moves into a new room, I roll it up randomly using Pythia, consider how it fits into the current area, and describe it in context. We just split out into [Modnar's Tower](http://www.lulu.com/shop/michael-curtis/stonehell-dungeon-supplement-two-buried-secrets-ebook/ebook/product-16096486.html), though, and it's very satisfactory, enough that I am going to be purchasing Stonehell soonest [edit, just bought everything Stonehell from LuLu].
 
 ### So How's It Going?
 
