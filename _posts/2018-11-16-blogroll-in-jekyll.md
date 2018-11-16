@@ -18,9 +18,9 @@ See example to your right, in the sidebar.
 
 So I write a post, run jekyll to make sure everything compiles and that there's no weird issues with the post (something I'll do anyway), and then push it to github as usual. Running jekyll locally refreshes the blogroll's links.
 
-To use it yourself, put [xfeed.rb](https://github.com/exposit/katamoiran/blob/gh-pages/_plugins/xfeed.rb) in your _plugins directory, then work the code from [_includes/side_roll.html](https://github.com/exposit/katamoiran/blob/gh-pages/_includes/side_roll.html) into your layout in your preferred spot. or just include it as I've done on [_layouts/default.html](https://github.com/exposit/katamoiran/blob/gh-pages/_layouts/default.html).
+To use it yourself, put [xfeed.rb](https://github.com/exposit/katamoiran/blob/gh-pages/_plugins/xfeed.rb) in your _plugins directory, then work the code from [_includes/side_roll.html](https://github.com/exposit/katamoiran/blob/gh-pages/_includes/side_roll.html) into your layout in your preferred spot, or just include it as I've done on [_layouts/default.html](https://github.com/exposit/katamoiran/blob/gh-pages/_layouts/default.html).
 
-Change the links in the "blog" variable in xfeed.rb, and change "./_includes/side_roll.html" in the next line down if necessary to the page you want to remake each time the plugin runs.
+Change the links in the "blog" variable in xfeed.rb to the rss feeds you want to check, and change "./_includes/side_roll.html" in the next line down if necessary to the page you want to remake each time the plugin runs.
 
 Also, you'll need to add feedjira to your config or to your gemfile.
 
