@@ -1,5 +1,6 @@
 # So here's how this pain in the ass works. You add your feeds to the blogs array. Then you run jekyll locally, visit your site locally to make sure it looks okay, and then continue as normal.
 # No, it won't update automatically. So post more frequently!
+#
 require 'feedjira'
 require 'time'
 require 'action_view'
@@ -39,20 +40,11 @@ module Jekyll
         eurl = entry.url
         pub = entry.published
         now = Time.now.utc
-        elapsed = time_ago_in_words(pub ) + ' ago'
+        #elapsed = time_ago_in_words(pub ) + ' ago' # out-dated almost immediately
+        elapsed = pub.strftime("%b %d, %Y") # use the publication time instead
 
         fileHtml.puts '<li><a href="%s" target="_new">%s</a> | <a href="%s" target="_new">%s</a> | <cite>%s</cite></li>' % [guid, title, eurl, etitle, elapsed]
 
-        # assigning stuff to a fake document; isn't useful because plugins are no bueno on github pages
-        # path = "./_externalfeed/" + title + ".md"
-        # path = site.in_source_dir(path)
-        # doc = Jekyll::Document.new(path, { :site => site, :collection => jekyll_coll })
-        # doc.data['title'] = title;
-        # doc.data['guid'] = guid;
-        # doc.data['etitle'] = etitle;
-        # doc.data['eurl'] = eurl;
-        # jekyll_coll.docs << doc
-        # so write a real document
 
       end
 
