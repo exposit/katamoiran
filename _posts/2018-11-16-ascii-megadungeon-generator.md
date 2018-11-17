@@ -67,6 +67,11 @@ Anything lower case a map feature and will either be converted to an icon or, if
 <i> and the edited source converted to a map using icons from Tenkar's (pd) and Axebane (cc-by)</i>
 </center>
 
-And that's about it, really. I still need to add a way to number rooms and to draw some more icons. And possibly outline rooms, though I like the simple aesthetic without it.
+<center>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/numbered-output.png" alt="Generated Output" style="width: 50%; height: 50%" /><br>
+<i> and now it's numbered; you have to add them in manually</i>
+</center>
+
+And that's about it, really. I need to draw some more icons.
 
 I doubt this will be one to release into the wild, as it's nothing you couldn't do with any number of online generators. For me, knowing that the resulting map is entirely mine is worth the effort.
