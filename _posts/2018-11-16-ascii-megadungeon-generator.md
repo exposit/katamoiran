@@ -72,6 +72,6 @@ Anything lower case a map feature and will either be converted to an icon or, if
 <i> this is a new map; it's numbered, though you have to add them in manually</i>
 </center>
 
-And that's about it, really. I need to draw some more icons.
+And that's about it, really. I need to draw some more icons -- Tenkar's set is great but missing a few things. I purchased a CC-BY licensed set I might use, too.
 
 I doubt this will be one to release into the wild, as it's nothing you couldn't do with any number of online generators. For me, knowing that the resulting map is entirely mine is worth the effort.
