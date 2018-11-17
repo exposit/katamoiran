@@ -64,7 +64,7 @@ Anything lower case a map feature and will either be converted to an icon or, if
 
 <center>
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/edited-output.png" alt="Edited Output" style="width: 50%; height: 50%" /><br>
-<i> and the edited source converted to a map using icons from Tenkar's (pd) and Axebane (cc-by)</i>
+<i> and the edited source converted to a map using icons from Tenkar's (pd)</i>
 </center>
 
 <center>
