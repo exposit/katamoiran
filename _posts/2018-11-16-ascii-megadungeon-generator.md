@@ -38,7 +38,7 @@ Now, in new WoDu terms, that's a piece of prep, and can be used not only on a mi
 ... but I digress. Generator time!
 
 <center>
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/generated-ascii-source.png" alt="Generated ASCII Source" /><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/generated-ascii-source.png" alt="Generated ASCII Source" style="width: 50%; height: 50%"/><br>
 <i> what the program generates as source</i>
 </center>
 
@@ -49,7 +49,7 @@ There are no corridors, because I haven't yet programmed them in, and it's reall
 A second script converts it to an old school style map.
 
 <center>
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/generated-output.png" alt="Generated Output" /><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/generated-output.png" alt="Generated Output" style="width: 50%; height: 50%" /><br>
 <i> and the generated source converted to a map</i>
 </center>
 
@@ -58,12 +58,12 @@ ASCII is trivial to edit; there's software like Rex Editor, and just opening it 
 Anything lower case a map feature and will either be converted to an icon or, if there's no special icon defined, to a printed letter.
 
 <center>
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/edited-ascii-source.png" alt="Edited ASCII Source" /><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/edited-ascii-source.png" alt="Edited ASCII Source" style="width: 50%; height: 50%" /><br>
 <i> the same source, with some features added</i>
 </center>
 
 <center>
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/edited-output.png" alt="Edited Output" /><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/edited-output.png" alt="Edited Output" style="width: 50%; height: 50%" /><br>
 <i> and the edited source converted to a map using icons from Tenkar's (pd) and Axebane (cc-by)</i>
 </center>
 
