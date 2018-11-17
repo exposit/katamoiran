@@ -69,7 +69,7 @@ Anything lower case a map feature and will either be converted to an icon or, if
 
 <center>
 <img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/numbered-output.png" alt="Generated Output" style="width: 50%; height: 50%" /><br>
-<i> and now it's numbered; you have to add them in manually</i>
+<i> this is a new map; it's numbered, though you have to add them in manually</i>
 </center>
 
 And that's about it, really. I need to draw some more icons.
