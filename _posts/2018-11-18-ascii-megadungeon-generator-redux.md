@@ -31,9 +31,8 @@ So what do I do with it now that I've got a map? Answer -- randomly generate som
 
 But not just any old random content. No, I need connected, coherent content. Content assembled in an interesting new way.
 
-> 1 cathedral
-
-> Concept: undead rise when you mess with their stuff
+- 1 cathedral
+- Concept: undead rise when you mess with their stuff
 
 > Twist: doubled
 
