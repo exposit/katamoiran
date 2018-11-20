@@ -33,28 +33,19 @@ But not just any old random content. No, I need connected, coherent content. Con
 
 - 1 cathedral
 - Concept: undead rise when you mess with their stuff
+- Twist: doubled
+- Feature: a pile of rusty metal
 
-> Twist: doubled
+- 2 quarry
+- Concept: blindness
+- Twist: drugs
+- Feature: a person in stasis
 
-> Feature: a pile of rusty metal
-
-> 2 quarry
-
-> Concept: blindness
-
-> Twist: drugs
-
-> Feature: a person in stasis
-
-> 3 barracks
-
-> Challenge: other monsters
-
-> Concepts: undead rise when you mess with their stuff + blindness
-
-> Twist: passage to new area
-
-> Feature: a painting face down on the floor
+- 3 barracks
+- Challenge: other monsters
+- Concepts: undead rise when you mess with their stuff + blindness
+- Twist: passage to new area
+- Feature: a painting face down on the floor
 
 This is a randomly generated riff on [this](http://www.bastionland.com/2018/10/three-step-dungeons.html). Read that, it explains it way better than I could.
 
@@ -62,11 +53,9 @@ To sum up, each dungeon consists of three rooms; two that introduce a concept, l
 
 In between you might have rooms with no new concepts.
 
-> 4 catacombs
-
-> Feature: a book
-
-> Twist: fighting
+- 4 catacombs
+- Feature: a book
+- Twist: fighting
 
 Now, "concepts" in this case should probably mean things that the players should learn in a less dangerous context so they can then engage with them fairly in a more challenging one. I'm broadening that out to encompass the idea of "themes" or "motifs" as well, because that's just how my brain works.
 
@@ -78,13 +67,10 @@ The entrance room, #1, I generate as I'd normally do, grabbing a theme (City, Ha
 
 While my player's fiddling with the maps and the skull I look at my dungeon elements.
 
-> 1 cathedral
-
-> Concept: undead rise when you mess with their stuff
-
-> Twist: doubled
-
-> Feature: a pile of rusty metal
+- 1 cathedral
+- Concept: undead rise when you mess with their stuff
+- Twist: doubled
+- Feature: a pile of rusty metal
 
 When he moves west, to #18, I describe the "cathedral" -- it's a shrine, with a moon goddess statue and a headless metal golem clutching a belt kneeling in front of it.
 
@@ -94,13 +80,10 @@ Reviving the golem just takes casting a spell into him, were one so inclined. Th
 
 Onward! My player choose to explore further west, down the hall towards #17. I describe the alcove, and my hazard die suggests a local/dungeon effect, so it's time for a moonquake!
 
-> 2 quarry
-
-> Concept: blindness
-
-> Twist: drugs
-
-> Feature: a person in stasis
+- 2 quarry
+- Concept: blindness
+- Twist: drugs
+- Feature: a person in stasis
 
 The next room in my sequence is a "quarry", with a person in stasis. The twist is "drugs" and the concept I'm supposed to introduce is "blindness".
 
@@ -110,19 +93,15 @@ For "quarry" I interpret that as "a place where you can dig out things of value"
 
 In one pod there's a skeleton, from the regalia likely the evil uncle who usurped the throne and blamed the prince for a massacre. In the other, they find a girl who claims to be the usurper's daughter. The blindness here is her inability to admit her father's wrongdoing.
 
-Room 16 will combine the concepts with a new challenge.
+For "drugs", I work in that she's sick from the cryosleep drugs, and will need to be carried or otherwise healed.
 
-> 3 barracks
+- 3 barracks
+- Challenge: other monsters
+- Concepts: undead rise when you mess with their stuff + blindness
+- Twist: passage to new area
+- Feature: a painting face down on the floor
 
-> Challenge: other monsters
-
-> Concepts: undead rise when you mess with their stuff + blindness
-
-> Twist: passage to new area
-
-> Feature: a painting face down on the floor
-
-So our challenge is other monsters; some undead mages, I think, mindless ('blind') creatures stuck in a repetitive loop.
+Room 16 will combine the concepts with a new challenge, "other monsters". Some undead mages, I think, mindless ('blind') creatures stuck in a repetitive loop.
 
 Earlier, down below, we found a quicksilver well that was actually a conduit between the world down below and the moon, with a monster stuck in it (trapped essentially in transit).
 
