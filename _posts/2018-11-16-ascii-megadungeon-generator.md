@@ -4,9 +4,10 @@ title: ASCII Megadungeon Generator
 date: 2018-11-16 15:19:37
 imagefolder: 2018-11-16
 categories: ['game design']
-tags: ['dungeon world', 'world of dungeons', 'wodu', 'osr', 'megadungeon', 'python', 'random']
+tags: ['dungeon world', 'world of dungeons', 'wodu', 'osr', 'megadungeon', 'python', 'random', 'procedural dungeon']
 comments: true
 published: true
+extender: 'procedural dungeon'
 links:
   - url: http://recedingrules.blogspot.com/2014/06/public-domain-dungeon-map-icons.html
     title: Public Domain Dungeon Map Icons
