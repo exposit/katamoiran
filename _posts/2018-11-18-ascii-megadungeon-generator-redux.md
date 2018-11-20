@@ -32,19 +32,29 @@ So what do I do with it now that I've got a map? Answer -- randomly generate som
 But not just any old random content. No, I need connected, coherent content. Content assembled in an interesting new way.
 
 > 1 cathedral
+
 > Concept: undead rise when you mess with their stuff
+
 > Twist: doubled
+
 > Feature: a pile of rusty metal
 
 > 2 quarry
+
 > Concept: blindness
+
 > Twist: drugs
+
 > Feature: a person in stasis
 
 > 3 barracks
+
 > Challenge: other monsters
+
 > Concepts: undead rise when you mess with their stuff + blindness
+
 > Twist: passage to new area
+
 > Feature: a painting face down on the floor
 
 This is a randomly generated riff on [this](http://www.bastionland.com/2018/10/three-step-dungeons.html). Read that, it explains it way better than I could.
@@ -54,39 +64,43 @@ To sum up, each dungeon consists of three rooms; two that introduce a concept, l
 In between you might have rooms with no new concepts.
 
 > 4 catacombs
+
 > Feature: a book
+
 > Twist: fighting
 
-Now, "concepts" in this case should probably mean things that the players should learn in a less dangerous context so they can then engage with them fairly in a more challenging one.
-
-I'm broadening that out to encompass the idea of "themes" or "motifs" as well, because that's just how my brain works.
+Now, "concepts" in this case should probably mean things that the players should learn in a less dangerous context so they can then engage with them fairly in a more challenging one. I'm broadening that out to encompass the idea of "themes" or "motifs" as well, because that's just how my brain works.
 
 ### Putting it into practice
 
-The party has just stepped through a portal from the realms to the ruined city on the moon. Normally I would randomly generate each room as we visited it, tying it back in to the fiction as established.
-
-The nice thing about having pre-generated content (aka "prep") is that you can tie things into the entire area, not just the last room or the next room.
+The party has just stepped through a portal from the realms to the ruined city on the moon. Normally I would randomly generate each room as we visited it, tying it back in to the fiction as established. The nice thing about having pre-generated content (aka "prep") is that you can tie things into the entire area, not just the last room or the next room.
 
 The entrance room, #1, I generate as I'd normally do, grabbing a theme (City, Haunted, appropriately enough), a description (a sitting room with a map table), and a few items (a skull, a bloodstain).
 
 While my player's fiddling with the maps and the skull I look at my dungeon elements.
 
 > 1 cathedral
+
 > Concept: undead rise when you mess with their stuff
+
 > Twist: doubled
+
 > Feature: a pile of rusty metal
 
 When he moves west, to #18, I describe the "cathedral" -- it's a shrine, with a moon goddess statue and a headless metal golem clutching a belt kneeling in front of it.
 
 The concept I'm supposed to be introducing here is "undead rise when you mess with their stuff". So here's the situation; you take the belt, the undead golem will go berserk. Place the skull on the golem's neck and the hands will open, allowing one to take the belt (a +1 armor device with a Jean Grey style forcefield 1/day).
 
-Reviving the golem just takes casting a spell into him, were one so inclined. That's my "double" element; get the treasure from him, and he's treasure himself.
+Reviving the golem just takes casting a spell into him, were one so inclined. That's my "double" element; get the treasure from him, and he is treasure himself.
 
 Onward! My player choose to explore further west, down the hall towards #17. I describe the alcove, and my hazard die suggests a local/dungeon effect, so it's time for a moonquake!
 
 > 2 quarry
+
 > Concept: blindness
+
 > Twist: drugs
+
 > Feature: a person in stasis
 
 The next room in my sequence is a "quarry", with a person in stasis. The twist is "drugs" and the concept I'm supposed to introduce is "blindness".
@@ -100,9 +114,13 @@ In one pod there's a skeleton, from the regalia likely the evil uncle who usurpe
 Room 16 will combine the concepts with a new challenge.
 
 > 3 barracks
+
 > Challenge: other monsters
+
 > Concepts: undead rise when you mess with their stuff + blindness
+
 > Twist: passage to new area
+
 > Feature: a painting face down on the floor
 
 So our challenge is other monsters; some undead mages, I think, mindless ('blind') creatures stuck in a repetitive loop.
