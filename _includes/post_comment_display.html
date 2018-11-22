@@ -1,0 +1,14 @@
+<section id="post_comment_display" class="rounded color3">
+
+{% assign comments = site.data.comments | sort %}
+
+{% for comment in comments reversed %}
+  {% assign commentData = comment[1] %}
+    <div>
+      {{ commentData.message }}</br>
+      From: {{ commentData.name }}</br>
+      {{ commentData.date | date_to_long_string }}
+    </div>
+{% endfor %}
+
+<section id="post_comment_display" class="rounded color3">
