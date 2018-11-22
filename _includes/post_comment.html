@@ -1,4 +1,4 @@
-<section id="post_comment_display" class="rounded color3">
+<section id="post_comment" class="rounded color3">
   {% if site.repository and site.staticman.branch %}
   {% capture loc %}{{ page.slug }}-{{ page.date | date: "%m" }}{{ page.date | date: "%d" }}{{ page.date | date: "%y" }}{% endcapture %}
     {% if site.data.comments[loc] %}
