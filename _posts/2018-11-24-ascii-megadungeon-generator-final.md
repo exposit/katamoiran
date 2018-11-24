@@ -18,13 +18,13 @@ links:
 
 And here's the final dungeon, complete with monsters and a few more randomly generated three part dungeons.
 
-<!--more-->
-
 Same map, more or less, though cleaned up a little and some mistakes fixed.
 
 The monsters are statted up loosely for my World of Dungeons hack, though they should work fine for Dungeon World too since I included DW-style HP and monster Moves. Retroclones should work fine too.
 
 I've had reports that the monsters are somewhat disturbing, so if you're easily grossed out by body horror or parasites, you should probably pass.
+
+<!--more-->
 
 [The Moon Palace](https://exposit.github.io/katarpgs/misc/themoonpalace/)
 
