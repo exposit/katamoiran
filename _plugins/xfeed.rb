@@ -48,7 +48,7 @@ module Jekyll
 
       end
 
-      fileHtml.puts '</ul></div></section>'
+      fileHtml.puts '</ul><div class="total-posts">... and about 300 more on <a href="https://www.inoreader.com/u/alto.dizi">innoreader</a></div></div></section>'
 
     end
   end

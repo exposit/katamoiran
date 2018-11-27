@@ -1,35 +1,25 @@
 {% if page.layout == "post" %}
 
-<section id="sidebar-extender" class='rounded color2'>
+  {% if page.extender %}
 
-<h3>Related Posts</h3>
+  <section id="sidebar-extender" class='rounded color2'>
 
-<br>
+  <h3>Other Posts In This Series</h3>
 
-{% if page.extender %}
-  <div>
-    	{% for node in page.extender %}
-			<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
-      <ul>
-        	{% for post in site.categories[node] %}
-          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatehtml | truncate: 35}}</a></li>
-          {% endfor %}
-      </ul>
-      {% endfor %}
-  </div>
-{% else %}
-  <div>
-      {% for node in page.categories %}
-				<h4><a href="{{ site.baseurl }}/categories.html#ref-{{ node | join | cgi_escape | remove:'%' }}">{{ node | join:' - ' | escape }}</a>&nbsp;<span>({{ site.categories[node].size }})</span></h4>
-        <ul>
-          {% for post in site.categories[node] %}
-          <li><time>{{ post.date | date: "%m.%d.%y" }}</time>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatehtml | truncate: 35 }}</a></li>
-          {% endfor %}
-        </ul>
-      {% endfor %}
-  </div>
-{% endif %}
+  <br>
+    <ul>
+    {% assign category = page.extender %}
+    {% assign posts = site.tags[category] %}
+    {% for post in posts %}
+      {% if post.url == page.url %}
+        <li>{{ post.title }}</li>
+      {% else %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    </section>
 
-</section>
+  {% endif %}
 
 {% endif %}
