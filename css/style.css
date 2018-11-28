@@ -1,5 +1,8 @@
 /* Katamoiran css dfd8dd*/
 
+@import url(https://fonts.googleapis.com/css?family=Istok+Web:400,700),
+        url(https://fonts.googleapis.com/css?family=Catamaran:400italic,400));
+
 :root{
 
     --display-font: 'Istok Web', sans-serif;
@@ -732,3 +735,10 @@ hr {
      margin-top: 10px;
      margin-bottom: 10px;
  }
+
+ blockquote {
+    padding-left: 1em;
+    border-left: 0.2em solid #5e6c67;
+    font-family: var(--main-font), serif;
+    font-weight: 100;
+  }
