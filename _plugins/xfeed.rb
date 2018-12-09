@@ -24,7 +24,8 @@ module Jekyll
             'http://www.bastionland.com/feeds/posts/default?alt=rss', 'http://falsemachine.blogspot.com/feeds/posts/default',
             'http://goblinpunch.blogspot.com/feeds/posts/default?alt=rss',
             'http://hackslashmaster.blogspot.com/feeds/posts/default',
-            'http://necrotic-gnome-productions.blogspot.com/feeds/posts/default?alt=rss']
+            'http://necrotic-gnome-productions.blogspot.com/feeds/posts/default?alt=rss',
+            'https://meanderingbanter.blogspot.com',]
 
       fileHtml = File.new("./_includes/side_roll.html", "w+")
       fileHtml.puts '<section id="sidebar-roll" class="color2 rounded side">'
