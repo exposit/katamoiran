@@ -28,7 +28,7 @@ $ python dungeon.py 10
 And the output looks like this:
 
 <center>
-<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythia-dungeon-script-screenshot.png" alt="Pythia Dungeon Script Screenshot " style="width: 50%; height: 50%"/><br>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/pythia-dungeon-script-screenshot.png" alt="Pythia Dungeon Script Screenshot " style="width: 75%; height: 75%"/><br>
 </center>
 
 This is more or less a direct dump from Pythia's dungeon panel, in the order I usually push the buttons. The exits line is custom for this script since I tend to either have an ascii map or use the exit generator built into Pythia, ignoring extra results.
