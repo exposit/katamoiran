@@ -17,7 +17,7 @@ module Jekyll
 
     t = File.ctime("./_includes/side_roll.html")
 
-    if Time.now.utc - t > 50
+    if Time.now.utc - t > 500000
 
       blogs = [  'http://udan-adan.blogspot.com/feeds/posts/default?alt=rss',
             'https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss',
