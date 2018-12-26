@@ -8,7 +8,7 @@
 <h3>Blogs I Read</h3>
 </header>
 
-<div id="blogroll"></div>
+<ul id="blogroll"></ul>
 
 <script>
 
@@ -48,76 +48,64 @@ function stripHTML(text) {
    return tmp.innerText;
 }
 
-function makeUL(array) {
+var element = document.getElementById('blogroll');
 
-    var list = document.createElement('ul');
+for( var i=0,t = urls.length ; i < t ; ++i ){
 
-    for(var i = 0; i < array.length; i++) {
+  var xhr = new XMLHttpRequest();
 
-        feednami.load(array[i],function(result){
-          if(result.error) {
-            console.log(array[i])
-          } else {
+  xhr.open(
+      'GET',
+      'https://api.rss2json.com/v1/api.json?rss_url=' + urls[i],
+      false
+  );
 
-            var entries = result.feed.entries;
+  xhr.send(null);
 
-            var entry = entries[0];
-            var meta = result.feed.meta
+  if (xhr.status==200)
+  {
+      var data = JSON.parse(xhr.responseText);
+      var list = document.createElement('li');
 
-            var item = document.createElement('li');
-            item.setAttribute('style', 'padding-bottom:10px;')
+      if(data.status == 'ok'){
 
-            var create = document.createElement('a');
-            create.setAttribute('href', meta.link);
-            create.setAttribute('style', 'font-weight:bold;font-size:12px;')
-            create.appendChild(document.createTextNode(meta.title));
-            item.appendChild(create);
+          var entry = data.items[0];
+          var list = document.createElement('li');
+          list.setAttribute('style', 'padding-bottom:10px;')
 
-            item.appendChild(document.createElement('br'));
+          var create = document.createElement('a');
+          create.setAttribute('href', data.feed.link);
+          create.setAttribute('style', 'font-weight:bold;font-size:12px;')
+          create.appendChild(document.createTextNode(data.feed.title));
+          list.appendChild(create);
 
-            var create = document.createElement('a');
-            create.setAttribute('href', entry.link);
-            create.setAttribute('style', 'font-size:12px;')
-            create.appendChild(document.createTextNode(entry.title));
-            item.appendChild(create);
+          list.appendChild(document.createElement('br'));
 
-            item.appendChild(document.createElement('br'));
+          var create = document.createElement('a');
+          create.setAttribute('href', entry.link);
+          create.setAttribute('style', 'font-size:12px;')
+          create.appendChild(document.createTextNode(entry.title));
+          list.appendChild(create);
 
-            var content = stripHTML(entry.description)
-            content = content.substr(0, Math.min(content.length, content.indexOf(".")))
-            item.appendChild(document.createTextNode(content + '.'));
+          list.appendChild(document.createElement('br'));
 
-            item.appendChild(document.createTextNode(' '));
+          var content = stripHTML(entry.description)
+          content = content.substr(0, Math.min(content.length, content.indexOf(".")))
+          list.appendChild(document.createTextNode(content + '.'));
 
-            var times = timeSince(new Date(entry.date).getTime())
-            var create = document.createElement('cite');
-            create.appendChild(document.createTextNode(times));
-            item.appendChild(create);
+          list.appendChild(document.createTextNode(' '));
 
-            list.appendChild(item);
+          var times = timeSince(new Date(entry.pubDate).getTime())
+          var create = document.createElement('cite');
+          create.appendChild(document.createTextNode(times));
+          list.appendChild(create);
 
-          }
-        });
-    }
+          element.appendChild(list);
 
-    // Finally, return the constructed list:
-    return list;
+      }
+  };
+
 };
-
-// Add the contents of options[0] to #foo:
-document.getElementById('blogroll').appendChild(makeUL(urls));
-
-$(document).ready(function() {
-
-  feedURL = 'https://exposit.github.io/katamoiran/feed.xml'
-
-	var yql = "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL;
-
-	$.getJSON(yql, function(res) {
-		console.log(res);
-	}, "jsonp");
-
-});
 
 </script>
 
