@@ -106,6 +106,18 @@ function makeUL(array) {
 // Add the contents of options[0] to #foo:
 document.getElementById('blogroll').appendChild(makeUL(urls));
 
+$(document).ready(function() {
+
+  feedURL = 'https://exposit.github.io/katamoiran/feed.xml'
+
+	var yql = "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL;
+
+	$.getJSON(yql, function(res) {
+		console.log(res);
+	}, "jsonp");
+
+});
+
 </script>
 
 <div class="total-posts">... and about 300 more on <a href="https://www.inoreader.com/u/alto.dizi">innoreader</a></div></div></section>
