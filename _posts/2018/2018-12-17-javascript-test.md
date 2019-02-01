@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Javascript Test
+title: LOUCHE Javascript Test
 date: 2018-12-17 16:05:55
 categories: ['mechanics']
-tags: ['louche', 'javascript']
+tags: ['louche', 'javascript', 'random']
 comments: true
 published: true
 ---
