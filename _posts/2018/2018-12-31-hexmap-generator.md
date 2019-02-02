@@ -8,10 +8,6 @@ tags: ['dungeon world', 'world of dungeons', 'wodu', 'osr', 'hexmap', 'python', 
 comments: true
 published: true
 extender: 'procedural hexmap'
-links:
-  - url: http://recedingrules.blogspot.com/2014/06/public-domain-dungeon-map-icons.html
-    title: Public Domain Dungeon Map Icons
-    source: Tenkar
 ---
 
 Who loves hexmaps? Me!!!
@@ -29,4 +25,11 @@ A second script then takes the source file and adds some content to it. I'm stil
 
 I want it to be full of useful information, evocative, and easy to parse, but there's just so many cool options and so little space!
 
-A rough prototype (using small source list sizes):
+A rough prototype of the populator (using small source list sizes):
+
+<center>
+<img src="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/example.png" alt="Hexmap Populated" style="width: 50%; height: 50%"/><br>
+<i> randomly generated hex contents</i>
+</center>
+
+Anyway, still working on it, off and on. Still all over the place, and obviously there are some blanks.
