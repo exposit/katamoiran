@@ -19,7 +19,7 @@ var chart = ['Locality.~ Something specifically related to the current environme
 
 </script>
 
-<button id="getrandom" value="Random" onclick="randomElement('ranelem',chart);">I need a LOUCHE complication.</button>
+<button id="getrandom" value="Random" onclick="randomTwoPartElement('ranelem',chart);">I need a LOUCHE complication.</button>
 
 <p><span id="ranelem_head" style="font-size:16px;font-weight:bold;"></span></p>
 <p><span id="ranelem_body" style="font-size:14px;"></span></p>
