@@ -3,7 +3,7 @@ layout: post
 title: February OMGAM Singer Moon
 date: 2019-03-02 14:42:59
 categories: ['game design']
-tags: ['narrative', 'd6s', 'theory', 'rpglet', 'singer moon', one microrpg game a month challenge', 'omgam', 'pbta', 'cards', 'everway', 'weylandt']
+tags: ['narrative', 'd6s', 'theory', 'rpglet', 'singer moon', 'one microrpg game a month challenge', 'omgam', 'pbta', 'cards', 'everway', 'weylandt']
 comments: true
 published: true
 links:
