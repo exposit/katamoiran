@@ -12,7 +12,7 @@ links:
   source: katamoiran rpgs (drivethru)
 ---
 
-I made this! From the drive through page:
+I made this! From the drivethru page:
 
 Urban/Modern/Fantasy is a toolkit for running modern adventures using the rules laid out in Dungeon World. It's a framework for running many different modern stories without any particular playstyle focus or assumptions built-in beyond the usual urban fantasy tropes and those inherent in Dungeon World (which you should read before UMF).
 
