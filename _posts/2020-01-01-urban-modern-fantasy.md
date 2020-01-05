@@ -6,6 +6,7 @@ categories: ['game design']
 tags: ['dungeon world', 'modern', 'urban modern fantasy']
 comments: true
 published: true
+important: true
 links:
 - url: https://www.drivethrurpg.com/product/297607/Urban-Modern-Fantasy
   title: Urban Modern Fantasy

@@ -8,10 +8,13 @@
 
       <ol class="tree">
 
+        {% assign year = 'now' | date: "%Y"  %}
+
 {% for post in site.posts %}
     {% assign currentdate = post.date | date: "%B %Y" %}
+    {% assign currentyear = post.date | date: "%Y" %}
       {% if currentdate != date %}{% unless forloop.first %}</ol>{% endunless %}{% endif %}
-      {% if currentdate != date %}
+      {% if currentdate != date  and year == currentyear or "2019" == currentyear %}
         {% if forloop.first %}
                 <li>
                   <label for="folder{{forloop.index}}"><h3>{{ currentdate }} &raquo;</h3></label> <input type="checkbox" checked id="folder{{forloop.index}}" />
@@ -23,7 +26,9 @@
         {% endif %}
         {% assign date = currentdate %}
       {% endif %}
-      <li class="file"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | | date: "%d" }} {{ post.title | truncatehtml | truncate: 35 }}</a></li>
+      {% if year == currentyear  or "2019" == currentyear %}
+        <li class="file"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | | date: "%d" }} {{ post.title | truncatehtml | truncate: 35 }}</a></li>
+      {% endif %}
       {% if forloop.last %}
           </ol>
         </li>
