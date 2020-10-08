@@ -12,8 +12,8 @@ links:
   title: Calypso Revised
   source: katamoiran rpgs (itch.io)
 - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
-   title: Calypso (original)
-   source: katarpgs
+  title: Calypso (original)
+  source: katarpgs
 ---
 
 I finally finished the revision on Calypso! From the itch.io page (I will be uploading it to drivethru soonish as well):
