@@ -47,7 +47,7 @@ I discovered, as I refined and edited and playtested in light of the way I play 
 
 Calypso does not create a "traditional" experience, despite being inspired by several very traditional systems. All of the output comes from you, from how you interpret the prompts, which isn't at all unusual -- but Calypso makes no effort to conceal this, or to pretend that you are not the architect of your own challenges. 
 
-The system is just there to help define your context, the fiction that surrounds your game, as quickly as posssible so you can get to playing, and to encourage momentum with a framework. And to inspire you to write just a little more when you feel uninspired.
+The system is just there to help define your premise and build context, the fiction that surrounds your game, as quickly as posssible so you can get to playing, and to encourage momentum with a framework. And to inspire you to write just a little more when you feel uninspired.
 
 I'm thrilled with how it turned out, and I hope everyone likes it! :)
 
