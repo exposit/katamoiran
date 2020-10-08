@@ -10,9 +10,9 @@ important: true
 links:
 - url: https://katamoiran.itch.io/calypso
   title: Calypso Revised
-  source: katamoiran rpgs (itch.io)
+  source: katamoiran rpgs at itch.io
 - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
-  title: Calypso (original)
+  title: Calypso, original
   source: katarpgs
 ---
 
