@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calypsso Revised Released
+title: Calypso Revised Released
 date: 2020-10-07 22:20:57
 categories: ['game design', 'soloing']
 tags: ['calypso', 'pbta', 'lady blackbird']
