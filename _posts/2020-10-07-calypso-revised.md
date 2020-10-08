@@ -3,7 +3,7 @@ layout: post
 title: Calypsso Revised Released
 date: 2020-10-07 22:20:57
 categories: ['game design', 'soloing']
-tags: ['calypso']
+tags: ['calypso', 'pbta', 'lady blackbird']
 comments: true
 published: true
 important: true
