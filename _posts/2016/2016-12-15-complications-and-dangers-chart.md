@@ -6,6 +6,7 @@ categories: ['soloing']
 tags: [solo, 'solo gaming', tool, emulator, 'random chart', 'solo frameworks' ]
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/complications-dangers-chart'
 ---
 
 I love *Lady Blackbird* and I am having a passionate thing with *Ghost/Echo* and I am fondly affectionate towards *Otherkind*.

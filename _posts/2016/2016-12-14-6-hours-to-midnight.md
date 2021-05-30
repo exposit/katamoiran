@@ -19,6 +19,7 @@ links:
   - url: https://exposit.github.io/katarpgs/superlite/6hourstomidnight/
     title: 6 Hours to Midnight
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/six-hours-to-midnight'
 ---
 
 I got it into my head that I should simultaneously write an oracle game, run a playthrough of it, and learn how to make LaTex make it pretty.

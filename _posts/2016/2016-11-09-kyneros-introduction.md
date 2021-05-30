@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "a sandbox world with a Rome-after-the-Fall feel"
+redirect_to: 'https://www.hedonic.ink/kyneros-introduction'
 ---
 
 For Kyneros, I knew I wanted to feature psionics heavily, along with open world exploration.  Basically a psionics-based world built as a sandbox, as randomly generated as I could make it.

@@ -10,6 +10,7 @@ links:
 - url: https://exposit.github.io/katarpgs/superlite/lightandshadow/
   title: Light and Shadow
   source: katamoiran rpgs
+redirect_to: 'https://www.hedonic.ink/january-omgam-light-and-shadow'
 ---
 
 Here's January's game, [Light and Shadow](https://exposit.github.io/katarpgs/superlite/lightandshadow/), inspired by my current UMF campaign and Otherkin. It owes a lot to 6 Hours to Midnight, but is much less heavily themed, with a stronger character generation and a more open structure.

@@ -9,6 +9,7 @@ comments: false
 published: true
 extender: 'dunscaith'
 tagline: "and that's when things got dangerous -- and more than a bit weird"
+redirect_to: 'https://www.hedonic.ink/dunscaith-session-3'
 ---
 
 I always have to really push myself to run combats -- it's not that I don't like the combat part, it's just that combat is always a real challenge to run for me. It requires focus, which I generally don't have a lot of, and it requires following rules, which I generally fail at. I tend to think of it as a fail state.

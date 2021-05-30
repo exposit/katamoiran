@@ -13,6 +13,7 @@ links:
     source: katamoiran
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia Oracle
+redirect_to: 'https://www.hedonic.ink/pythia-chart-dungeon-effects'
 ---
 
 Have you ever been in a situation where you REALLY REALLY want to touch that altar or swim in that limpid pool or drink from that totally not suspicious, convenient, and obviously refreshing fountain in the middle of an otherwise inhospitable dungeon?

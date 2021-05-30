@@ -11,6 +11,7 @@ links:
     source: David Solis
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/writing-dice-with-glyphs'
 ---
 
 In between letting *Heirs* simmer in the back of my brain and working on a new thing about dungeon delving, I've been messing around with card games, which led me to Writer's Dice, which turns out to be a very tidy tool for handling one of the core dilemmas of soloing-- "What happens next?".

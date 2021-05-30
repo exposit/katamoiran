@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "the first part of the adventure of Kai Valeyn, a statue with no history"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-1'
 ---
 
 Rambling in Hindsight: I'm posting this but it's actually from a good while ago -- only my second or third attempt at a campaign. I'd actually decided not to post it given that I was using my personal Mythic panel and Pythia core used FU, but now that Mythic is part of Pythia it doesn't seem like it would confuse anyone.

@@ -6,6 +6,7 @@ categories: ['site']
 tags: [intro, general, site]
 comments: false
 published: true
+redirect_to: 'https://www.hedonic.ink/here-we-go'
 ---
 
 #### pen and paper and python

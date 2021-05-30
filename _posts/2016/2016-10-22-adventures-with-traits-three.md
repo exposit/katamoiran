@@ -6,6 +6,7 @@ categories: ['mechanics', 'soloing']
 tags: [solo, house rules, scarlet heroes, traits, solo gaming, mechanics]
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/adventures-with-traits-three'
 ---
 
 So I got to thinking, why use any special abilities at all? Why not just go ahead and make *everything a trait*. So I did. Should I probably just finish slogging through FATE? Probably. But this is more fun.

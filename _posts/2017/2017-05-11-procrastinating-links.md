@@ -16,6 +16,7 @@ links:
   - url: http://story-games.com/forums/discussion/19618/ornithopter-world-troupe-play-powered-by-the-apocalypse
     title: Ornithopter World Troupe Play
     source: story-games
+redirect_to: 'https://www.hedonic.ink/procrastination-and-links'
 ---
 
 Down to the last bits for my latest game; just need a playtest and some quotes and some random tables and maybe another (few dozen) passes on the fluffy stuff. By "last" I mean "kinda close to last", I guess.

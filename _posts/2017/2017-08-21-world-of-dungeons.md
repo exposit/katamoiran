@@ -13,6 +13,7 @@ links:
   - url: http://mightyatom.blogspot.com/2012/06/world-of-dungeons.html
     title: World of Dungeons and hacks
     source: one seven design
+redirect_to: 'https://www.hedonic.ink/world-of-dungeons-overview'
 ---
 
 Inspired by [West Marches](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/) and [Steelshod](https://www.reddit.com/r/MostlyWrites/comments/6ihbhi/steelshod_table_of_contents_resources/?st=j6mhnrdo&sh=2b30f766), I decided to run a campaign with many different characters exploring a build-as-you-go sandbox.

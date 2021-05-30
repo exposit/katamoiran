@@ -10,6 +10,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/oneroll
     title: One Roll scripts
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/who-do-i-owe-and-why-chart'
 ---
 
 Here's a random table to see who your rogue (or starship mechanic or fighter or desperate client) owes and why and what'll happen if they don't pay up.

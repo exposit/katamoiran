@@ -10,6 +10,7 @@ links:
   - url: https://www.kickstarter.com/projects/2080350433/blades-in-the-dark
     title: Blades in the Dark
     source: One Seven Designs
+redirect_to: 'https://www.hedonic.ink/i-bought-blades-in-the-dark'
 ---
 
 I have been eying this game for months. Putting it on the "when I get time to play" and "maybe when it's finally released" pile. But the sheer awesomeness of *Lady Blackbird* and *Stranger Things* meant I had to get it now. HAD TO.

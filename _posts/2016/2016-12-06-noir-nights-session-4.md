@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'noir nights'
 tagline: "an unexpected ally makes a move"
+redirect_to: 'https://www.hedonic.ink/noir-nights-session-4'
 ---
 
 So much action -- my poor vampire hero's being bounced around like a ping-pong ball. And his best ally right now is a sun-based mage. And the woman's he depended on for a life line in this crazy surreal experience is out for the count.

@@ -13,6 +13,7 @@ links:
 - url: https://exposit.github.io/katarpgs/superlite/conflictsandcomplications/
   title: The Serpent's Eye Adventure
   source: katamoiran rpgs
+redirect_to: 'https://www.hedonic.ink/june-omgam-conflicts-complications'
 ---
 
 Inspired by the 200 Word RPG contest, I thought it would be fun to challenge myself to write at least one microRPG a month for the next year.

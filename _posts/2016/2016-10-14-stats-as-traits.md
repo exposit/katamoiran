@@ -9,6 +9,7 @@ published: true
 links:
   - url: http://www.drivethrurpg.com/product/127180/Scarlet-Heroes
     title: Scarlet Heroes
+redirect_to: 'https://www.hedonic.ink/dispensing-with-attributes'
 ---
 
 I've said it before: I don't really like attributes. I'm interested in making characters and playing to see what happens to them, and attributes just seem to get in the way of that.

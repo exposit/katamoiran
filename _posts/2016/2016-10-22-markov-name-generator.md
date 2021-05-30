@@ -12,6 +12,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/markov
     title: Markov Name Generator script
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/markov-name-generator'
 ---
 
 Similar in spirit to this [Procedural Name Generator](https://www.samcodes.co.uk/project/markov-namegen/) except much less sophisticated, far fewer data files, and, overall, much much less awesome. But the ability to run it locally is important to me and I didn't feel like reinstalling haxe or figuring it out. Now I will probably go reinstall haxe.

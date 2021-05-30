@@ -10,6 +10,7 @@ links:
   - url: http://www.lastgaspgrimoire.com/category/role-playing/
     title: roleplaying category
     source: Last Gasp Grimoire (NSFW)
+redirect_to: 'https://www.hedonic.ink/further-adventures-with-traits'
 ---
 
 Inspired by a post at [Last Gasp](http://www.lastgaspgrimoire.com/category/role-playing/ )(link has some NSFW content, LotFP alert) on turning things into dice progressions, I decided to see how many systems I could convert into traits. Hahaha. It turns out *everything* can be represented by traits if you look at it hard enough.

@@ -13,6 +13,7 @@ links:
   - url: http://www.lumpley.com/archive/148.html
     title: Otherkind Dice
     source: Lumpley
+redirect_to: 'https://www.hedonic.ink/rolling-d6s'
 ---
 
 One thing I've been having a lot of trouble wrapping my brain around is the probabilities when rolling d6s and not adding them together, but looking at the face value of each. If I roll 2d6 and need a 5 or better to succeed, what are the odds I will? What if I manage to add another die? What if I need a 4 or better? What if "even" is what I want, not 4+?

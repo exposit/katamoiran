@@ -11,6 +11,7 @@ links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia-Oracle
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/pythia-pythy-panel-overview'
 ---
 
 Pythy is a Pythia panel that uses a Markov chain to create new sentences and sentence fragments based on a source or your existing play log.

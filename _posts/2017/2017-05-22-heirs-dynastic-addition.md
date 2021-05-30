@@ -13,6 +13,7 @@ links:
   - url: https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/
     title: Heirs of Sea and Shadow
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/dynasties-in-heirs'
 ---
 
 When I finished the first draft of [Heirs of Sea and Shadow](https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/) I was proud of myself, but I was also mad at myself over the title.

@@ -10,6 +10,7 @@ links:
 - url: https://exposit.github.io/katarpgs/superlite/playeremulator/
   title: Player Emulator
   source: katamoiran rpgs
+redirect_to: 'https://www.hedonic.ink/player-emulator-framework'
 ---
 
 I wanted to discuss how the tables in the [PET framework](https://exposit.github.io/katarpgs/superlite/playeremulator/) work, since I think they might be a bit intimidating.

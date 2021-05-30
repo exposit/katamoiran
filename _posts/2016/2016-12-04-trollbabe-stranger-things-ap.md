@@ -22,6 +22,7 @@ links:
     title: Slay With Me Actual Play
     source: katamoiran
 redirect_from: "/actual%20play/2016/12/04/trollbabe-stranger-things-ap.html"
+redirect_to: 'https://www.hedonic.ink/trollbabe-stranger-things-actual-play'
 ---
 
 A short log in which I demonstrate that I might, in fact, have some sort of multiple personality disorder. Not that that's a surprise to me -- my GM notes are littered with notes to my future self like "Hahaha, this is where they discover she's a traitor!" and "Oh, he's a ghost, that's so evil, I bet the party freaks out!". Past-me is hilarious but disturbingly pleased at tormenting my players.

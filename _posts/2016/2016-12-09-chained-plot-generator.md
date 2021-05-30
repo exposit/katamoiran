@@ -14,6 +14,7 @@ links:
   - url: https://github.com/exposit/pythia-oracle/blob/master/resources/panels/generators/plot.py
     title: Chained Plot Python Code
     source: Pythia-Oracle
+redirect_to: 'https://www.hedonic.ink/chained-plot-generator'
 ---
 
 Just a quick post to explain how I'm using a stack of chained plots in solo play.

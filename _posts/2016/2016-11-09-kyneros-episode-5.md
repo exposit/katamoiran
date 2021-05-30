@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "the journey to the ruined mage city continues; an unexpected storm interrupts"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-5'
 ---
 
 Rambling in Hindsight: In more recent games, I always split sessions (and scenes) with three asterisks (I used dashes for a while but they screw up the LaTex). Fascinating, I know.

@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "the rocky approach to the medusa's cave"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-7'
 ---
 
 Rambling in Hindsight: This is the final log for the Kyneros campaign (so far). At the time, I got distracted and left off right after a minor fight, and right before a big dungeon crawl. I think I might have ended up writing the first mapping panel or something to prep and just never got back to it.

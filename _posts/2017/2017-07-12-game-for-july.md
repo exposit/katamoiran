@@ -10,6 +10,7 @@ links:
 - url: https://exposit.github.io/katarpgs/superlite/pychic/
   title: Psychic
   source: katamoiran rpgs
+redirect_to: 'https://www.hedonic.ink/july-omgam-psy-chic'
 ---
 
 Here's July's game, [Psy*chic](https://exposit.github.io/katarpgs/superlite/psychic/), based on the tv show "Psych".

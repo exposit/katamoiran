@@ -13,6 +13,7 @@ links:
   - url: https://exposit.github.io/katarpgs/lite/heirsofseaandshadow/
     title: Heirs of Sea and Shadow
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/heirs-of-sea-and-shadow'
 ---
 
 I'm a huge fan of [Against the Wicked City](http://udan-adan.blogspot.co.uk/) and his series of [posts](http://www.metafilter.com/163987/Romance-and-Romantic-Fantasy-in-Tabletop-Roleplaying-Games) (metafilter index to the posts) on romantic fantasy.

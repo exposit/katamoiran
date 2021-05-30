@@ -6,6 +6,7 @@ categories: ['soloing']
 tags: [solo, solo gaming, tool, emulator, igms, igmsr, 'solo frameworks']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/imaginary-gm-system-redux-igmsr'
 ---
 
 So, after a bit more reading and thinking, I've come up with a modified version of my iGM system using two d6s (and inspired by Apocalypse World's "10+/6-" mechanic) that I think serves the same general purpose as my original concept, but with a clearer way to handle the outcomes as they come up in play.

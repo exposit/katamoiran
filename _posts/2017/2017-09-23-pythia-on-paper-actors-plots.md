@@ -11,6 +11,7 @@ links:
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia-Oracle
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/pythia-on-paper-actors-plots'
 ---
 
 This is part of my attempt to convert some of <a href="https://exposit.github.io/pythia-oracle/">Pythia's</a> more useful random generators into rollable charts.

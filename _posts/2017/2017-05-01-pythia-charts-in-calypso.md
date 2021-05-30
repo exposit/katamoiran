@@ -10,6 +10,7 @@ links:
   - url: https://exposit.github.io/katamoiran/img/posts/2017-02-20/TheCalypsoCompendium.pdf
     title: The Calypso Compendium
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/pythia-charts-in-calypso'
 ---
 
 As I may have mentioned a time or two, I often convert from Pythia to pen and paper as the whim strikes me. But I can't remember if I actually covered which Pythia charts ended up "making the cut" to be included in [*The Calypso Compendium*]({{ site.baseurl }}/img/posts/2017-02-20/TheCalypsoCompendium.pdf).

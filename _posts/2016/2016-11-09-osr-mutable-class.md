@@ -10,6 +10,7 @@ links:
   - url: https://lurkerablog.wordpress.com/2012/05/15/zaks-awesome-psionics-system-plus-some-scrawling-from-me/
     title: Zak's Awesome Psionics System
     source: lurkerablog
+redirect_to: 'https://www.hedonic.ink/osr-mutable-class'
 ---
 
 test

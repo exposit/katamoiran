@@ -6,6 +6,7 @@ categories: ['site']
 tags: [site]
 comments: false
 published: true
+redirect_to: 'https://www.hedonic.ink/category-minor-updates'
 ---
 
 Substantial additions to the site, but not much oomph to show for it, I'm afraid. Mainly, I redid categories so they're more accurate and top level, then made landing pages for each category to show just posts from that category.

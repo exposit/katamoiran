@@ -9,6 +9,7 @@ comments: false
 published: true
 extender: 'dunscaith'
 tagline: "an illness, and a journey"
+redirect_to: 'https://www.hedonic.ink/dunscaith-session-4'
 ---
 
 I was hoping for one more shot at the dungeon but it ended up not happening. Oh well! There will be plenty of ruins and adventures in the wilderness of the Isle of Wings. I hope.

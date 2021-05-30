@@ -30,6 +30,7 @@ links:
     source: katamoiran
 tagline: "6 Against the Dark & 6 Days to Adventure & 6 Feet Under"
 redirect_from: "/game%20design/d6%20games/2016/12/23/6-against-the-dark.html"
+redirect_to: 'https://www.hedonic.ink/two-for-christmas'
 ---
 
 *Edit 2/08: I somehow missed linking this earlier, but here's a noir version using a different resolution mechanic and a different scene structure, [6 Feet Under](https://exposit.github.io/katarpgs/superlite/6feetunder/). The tips below still apply.*

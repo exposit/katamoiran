@@ -9,6 +9,7 @@ comments: false
 published: true
 extender: 'dunscaith'
 tagline: "bandits, a village, and a local goddess as our heroes take a short detour"
+redirect_to: 'https://www.hedonic.ink/dunscaith-session-5'
 ---
 
 <!--more-->

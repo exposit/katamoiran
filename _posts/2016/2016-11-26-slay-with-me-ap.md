@@ -17,6 +17,7 @@ links:
     title: Stances 101
     source: Deeper in the Game
 redirect_from: "/actual%20play/2016/11/26/slay-with-me-ap.html"
+redirect_to: 'https://www.hedonic.ink/slay-with-me-actual-play'
 ---
 
 *This ended up being quite the ramble -- skip to the <a href="#relevantstuff">relevant stuff</a> if you'd like.*

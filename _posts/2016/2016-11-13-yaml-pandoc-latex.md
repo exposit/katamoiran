@@ -22,6 +22,7 @@ links:
   - url: https://fonts.google.com/
     title: Cormorant, Lora, or Trirong
     source: Google Fonts
+redirect_to: 'https://www.hedonic.ink/pretty-pdfs-from-play-logs'
 ---
 
 I've been experimenting with logforms and the way the logs out of Pythia are displayed. I like being able to read my logs as pdfs, and pandoc makes a very pretty "book" almost by default out of markdown, but I wanted a couple of things that were much harder to accomplish than expected.

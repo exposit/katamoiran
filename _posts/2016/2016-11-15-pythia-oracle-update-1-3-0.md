@@ -15,6 +15,7 @@ links:
     title: Pythia Changelog v. 1.3.0
   - url: https://github.com/josdejong/jsoneditor
     title: json editor
+redirect_to: 'https://www.hedonic.ink/pythia-oracle-update-1-3-0'
 ---
 
 Version 1.3.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. Not too many new features, but some major tweaks under the hood. I rewrote the core display routine, ripped out the concept of "modes" entirely, and made a bunch of convenience tweaks.

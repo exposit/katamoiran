@@ -23,6 +23,7 @@ links:
     title: Legend & Truth v2 (No System) pdf
     source: katamoiran
 redirect_from: "/solo%20frameworks/2016/11/26/legend-and-truth.html"
+redirect_to: 'https://www.hedonic.ink/legends-and-truth'
 ---
 
 *Inspired by a suggestion on the google+ group for shared solo gaming, I spent the afternoon designing. Yes. The* whole *afternoon. I made you a <a href="{{ site.baseurl }}/img/posts/{{page.imagefolder}}/LegendTruth_v1.pdf">pdf</a> of this post.*

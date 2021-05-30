@@ -11,6 +11,7 @@ links:
   - url: http://halfmeme.com/threeforged_winner_and_everything.html
     title: The Threeforged RPG Design Challenge
     source: Half Meme Press
+redirect_to: 'https://www.hedonic.ink/threeforged-aps-and-reviews'
 ---
 
 I decided to mosey my way through the many games of The #Threeforged RPG Design Challenge, solo.

@@ -9,6 +9,7 @@ comments: false
 published: true
 extender: 'dunscaith'
 tagline: "kidnapped, hauled across the ocean, and thrown into a dark hole in the ground -- and then things take a turn for the worse"
+redirect_to: 'https://www.hedonic.ink/dunscaith-session-1'
 ---
 
 This is about as non-narrative as I get. I tried not to "direct" things as much as I could, letting the story just unfold. It was hard. I don't think I succeeded very well.

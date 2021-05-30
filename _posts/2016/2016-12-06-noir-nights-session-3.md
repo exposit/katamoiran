@@ -13,6 +13,7 @@ links:
     title: Spotlight on Triggers & Secrets
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers
     title: Pythia Oracle Help
+redirect_to: 'https://www.hedonic.ink/noir-nights-session-3'
 ---
 
 This one's pretty combat heavy so it runs a bit longer; just read the dark text if you're not interested in my terrible math skills. Or read both and bask in your superior ability to add things together correctly and not forget to add in damage modifiers. It wouldn't be so bad if I forgot to do it consistently, you know?

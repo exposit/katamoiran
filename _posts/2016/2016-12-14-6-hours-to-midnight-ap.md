@@ -12,6 +12,7 @@ links:
     title: 6 Hours to Midnight
     source: katamoiran
 redirect_from: "/actual%20play/6%20hours%20to%20midnight/2016/12/14/6-hours-to-midnight-ap.html"
+redirect_to: 'https://www.hedonic.ink/six-hours-to-midnight-actual-play'
 ---
 
 An experimental playthrough of my oracle game, <a href="https://exposit.github.io/katarpgs/superlite/6hourstomidnight/">*6 Hours to Midnight*</a>.

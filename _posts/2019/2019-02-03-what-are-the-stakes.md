@@ -6,6 +6,7 @@ categories: ['mechanics']
 tags: ['table', 'javascript', 'random']
 comments: true
 published: false
+
 ---
 
 More fun with javascript. This one is a simple stakes generator, to tell you what's at risk in a conflict.

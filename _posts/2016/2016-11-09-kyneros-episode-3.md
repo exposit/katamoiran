@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "preparing for the journey -- and an unwelcome addition to the party"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-3'
 ---
 
 Rambling in Hindsight: It's trivial to document your mechanics if you're working in Pythia, but you're not limited to the format I've used for these logs -- there are actually six or seven different log formats. Just want to export the narrative? Sure. Export a file ready for LaTex? No problem. Want one with collapsing javascript for hiding mechanics? Yep. Plus just plain markdown and just plain html. And you can make your own (or remove ones you don't want) easily.

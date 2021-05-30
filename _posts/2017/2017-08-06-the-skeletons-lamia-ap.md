@@ -11,6 +11,7 @@ links:
   - url: http://bullypulpitgames.com/games/the-skeletons/
     title: The Skeletons
     source: Bully Pulpit Games
+redirect_to: 'https://www.hedonic.ink/the-skeletons-lamia-variant-ap'
 ---
 
 You know I had to make a variant for The Skeletons; I had this vision of a lamia, trapped in a cave, awaiting challengers and petitioners in search of an oracle.

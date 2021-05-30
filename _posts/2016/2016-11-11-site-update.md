@@ -10,6 +10,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/gh-pages
     title: rgk theme
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/site-redesign'
 ---
 
 I cobbled together a new [theme](https://github.com/exposit/katamoiran/tree/gh-pages) for the site, spiffed the place up a little, reorganized a few areas, and generally made it (hopefully) a lot easier to find the content you might be interested in.

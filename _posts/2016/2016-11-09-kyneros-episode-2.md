@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "a plan is made, a bargain struck"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-2'
 ---
 
 Rambling in Hindsight: I had all sorts of grand ambitions for this -- I was going to use *The Wilderness Survival Guide* (my own home-brewed adaptation, of course) and track things like rations and encumbrance and heatstroke. It quickly became obvious in play that I was hopeless at remembering stuff like that. Fortunately Pythia has space for tracking things. Doesn't help when you're looking right at it and *still* forget to increment or decrement the meter, though.

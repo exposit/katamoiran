@@ -10,6 +10,7 @@ links:
   - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/calypso-scenario-excerpt'
 ---
 
 I thought it might be helpful to put up an excerpt of a Scenario from [*The Calypso Compendium*](https://exposit.github.io/katarpgs/lite/calypsocompendium/).

@@ -7,6 +7,7 @@ tags: ['prototype', 'physical']
 imagefolder: 2017-09-02
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/solo-folio-prototype'
 ---
 
 I love folders and packets and tiny things that unfold to be useful ones. But I have no real use case for a portable soloing system. I'm so rarely away from my computer it's probably frightening, haha.

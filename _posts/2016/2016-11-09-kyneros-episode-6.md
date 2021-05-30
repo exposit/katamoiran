@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "the remaining party approaches the ruined city"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-6'
 ---
 
 Rambling in Hindsight: You'll have noticed by now that I was really bad at Scarlet Heroes, especially combat; it takes me ages to learn a new system and when I get rolling on the fiction I forget things. I won't start doing damage correctly (and somewhat consistently) for like three more campaigns -- about the same time I added notes to my tracker on the mechanics.

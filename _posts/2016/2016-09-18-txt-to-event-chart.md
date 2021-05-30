@@ -18,6 +18,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/seedparser
     title: Mythic-style Seed Charts
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/creating-mythic-style-charts'
 ---
 
 Inspired by the great Mythic-style charts on the [Lone Wolf Roleplaying google+ community](https://plus.google.com/u/0/communities/116965157741523529510) over the last few days, I wrote a simple script that uses <strike>nltk</strike> [TextBlob](http://textblob.readthedocs.io/en/dev/index.html) and python to take a text file, sort it by word type, and output each type as a separate, numbered chart.

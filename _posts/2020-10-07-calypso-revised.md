@@ -14,6 +14,7 @@ links:
 - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
   title: Calypso, original
   source: katarpgs
+redirect_to: 'https://www.hedonic.ink/calypso-revised-released'
 ---
 
 I finally finished the revision on Calypso! From the itch.io page (I will be uploading it to drivethru soonish as well):

@@ -19,6 +19,7 @@ links:
   - url: http://www.drivethrurpg.com/product/114457/Always-Never-Now?term=always+never+now&test_epoch=0
     title: Always/Never/Now
     source: Will Hindmarch
+redirect_to: 'https://www.hedonic.ink/2016-12-02-week-recap'
 ---
 
 Week in recap, no particular order. Just to keep the posting going on this blog and to remind myself I have, in fact, achieved stuff.

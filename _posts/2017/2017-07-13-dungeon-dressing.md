@@ -13,6 +13,7 @@ links:
     source: katamoiran
   - url: https://exposit.github.io/pythia-oracle/
     title: Pythia Oracle
+redirect_to: 'https://www.hedonic.ink/pythia-chart-dungeon-dressing'
 ---
 
 Here's a d66 chart of Dungeon Dressing pulled from [A Simple Solo Delve](https://exposit.github.io/katarpgs/superlite/simplesolo/). It's sanitized and relatively pithy.

@@ -11,6 +11,7 @@ links:
     title: Pythia Oracle
   - url: https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md
     title: Pythia Oracle Changelog
+redirect_to: 'https://www.hedonic.ink/pythia-oracle-update-1-0-0'
 ---
 
 Version 1.0.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is up on github. This release comes with a whole bunch of new features. And bugfixes. See the [Changelog](https://github.com/exposit/pythia-oracle/blob/master/CHANGELOG.md) for a full (ish) list. (Yes, I know I haven't updated these notices between 0.6.0 and now).

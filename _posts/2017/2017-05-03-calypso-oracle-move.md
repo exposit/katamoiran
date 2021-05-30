@@ -10,6 +10,7 @@ links:
   - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/calypso-oracle-move'
 ---
 
 So here's the revamped oracle from *The Calypso Compendium* [update]({{ site.baseurl }}/2017/04/23/the-calypso-compendium-update/) I posted a week ago.

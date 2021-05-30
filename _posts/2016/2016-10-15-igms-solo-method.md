@@ -11,6 +11,7 @@ links:
     title: Story Games forum 1845
   - url: http://lumpley.com/index.php/anyway/thread/259
     title: Lumpley's forum 259
+redirect_to: 'https://www.hedonic.ink/imaginary-gm-system-igms'
 ---
 
 Largely inspired by reading old Forge posts and threads on game theory from the years 2005 to 2008. What can I say, I'm a little behind the times.

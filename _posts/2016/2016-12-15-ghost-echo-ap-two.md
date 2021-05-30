@@ -14,6 +14,7 @@ links:
     title: Ghost/Echo
     source: One Seven Design
 redirect_from: "/actual%20play/sharedscifi/wraith/2016/12/15/ghost-echo-ap-two.html"
+redirect_to: 'https://www.hedonic.ink/wraith-session-two'
 ---
 
 #SharedScifi

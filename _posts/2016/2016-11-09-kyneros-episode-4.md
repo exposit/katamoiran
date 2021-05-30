@@ -8,6 +8,7 @@ comments: false
 published: true
 extender: 'kyneros'
 tagline: "the journey begins; a fight"
+redirect_to: 'https://www.hedonic.ink/kyneros-episode-4'
 ---
 
 Rambling in Hindsight: Not much to say about this one, except that I was using Scarlet Heroes' wilderness journey framework and I kept rolling up encounters. I highly recommend it, especially combined with a terrain generator for point crawls.

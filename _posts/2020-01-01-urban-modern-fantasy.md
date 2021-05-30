@@ -11,6 +11,7 @@ links:
 - url: https://www.drivethrurpg.com/product/297607/Urban-Modern-Fantasy
   title: Urban Modern Fantasy
   source: katamoiran rpgs (drivethru)
+redirect_to: 'https://www.hedonic.ink/urban-modern-fantasy-released'
 ---
 
 I made this! From the drivethru page:

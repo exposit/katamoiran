@@ -9,6 +9,7 @@ comments: false
 published: true
 extender: 'dunscaith'
 tagline: "an ally is made and mysteries are discovered"
+redirect_to: 'https://www.hedonic.ink/dunscaith-session-2'
 ---
 
 This is where I start to get a bit bored with the dungeon crawl in general. The old prisoner seemed unlikely to provide much of interest, at least not right away, and I couldn't think of a way for Fin to approach the NPC party (or be able to offer them much if he did so). Fortunately things started looking up immediately after we went down a level.

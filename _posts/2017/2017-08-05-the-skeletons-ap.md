@@ -11,6 +11,7 @@ links:
   - url: http://bullypulpitgames.com/games/the-skeletons/
     title: The Skeletons
     source: Bully Pulpit Games
+redirect_to: 'https://www.hedonic.ink/the-skeletons-ap'
 ---
 
 A game for 1-6 players where you take the role of a skeleton cursed to protect a tomb throughout the ages.

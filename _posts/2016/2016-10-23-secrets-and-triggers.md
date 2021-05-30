@@ -12,6 +12,7 @@ links:
     title: Pythia Oracle
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers
     title: Pythia Oracle Help
+redirect_to: 'https://www.hedonic.ink/secrets-and-triggers'
 ---
 
 I wanted to highlight one of my favorite parts of [Pythia](https://exposit.github.io/pythia-oracle/) today! The ["Secrets & Triggers"](https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers) panel in the Oracle Stack.

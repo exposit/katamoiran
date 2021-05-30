@@ -12,6 +12,7 @@ links:
   - url: http://www.drivethrurpg.com/product/170689/Blades-in-the-Dark-Digital-Edition-Early-Access
     title: Blades in the Dark
     source: One Seven Design
+redirect_to: 'https://www.hedonic.ink/noir-nights-introduction'
 ---
 
 *Noir Nights* is all about the two-fisted, hard-boiled noir action! Okay, not really, I'm pretty bad at all of that stuff. But I am practicing. Heck, the body count is already like twice what it normally is in one of my sessions! (Yes, that means two people died.)
