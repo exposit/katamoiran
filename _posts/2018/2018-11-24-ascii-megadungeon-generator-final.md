@@ -14,6 +14,7 @@ links:
   - url: https://exposit.github.io/katarpgs/misc/themoonpalace/
     title: The Moon Palace
     source: katarpgs
+redirect_to: 'https://www.hedonic.ink/ascii-megadungeon-generator-final'
 ---
 
 And here's the final dungeon, complete with monsters and a few more randomly generated three part dungeons.

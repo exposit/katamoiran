@@ -6,6 +6,7 @@ categories: ['writing']
 tags: ['narrative', 'novel', 'writing', 'theory']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/writing-tools'
 ---
 
 Here's a quick rundown on my writing environment, just because I'm super pleased with it. I use a Mac, so some of these are mac or linux only, but the basic flow is pretty universal.

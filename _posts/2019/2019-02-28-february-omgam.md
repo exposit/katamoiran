@@ -1,15 +1,28 @@
 ---
 layout: post
 title: February OMGAM Singer Moon
-date: 2019-03-02 14:42:59
-categories: ['game design']
-tags: ['narrative', 'd6s', 'theory', 'rpglet', 'singer moon', 'one microrpg game a month challenge', 'omgam', 'pbta', 'cards', 'everway', 'weylandt']
+date: 2019-03-02T14:42:59.000Z
+categories:
+  - game design
+tags:
+  - narrative
+  - d6s
+  - theory
+  - rpglet
+  - singer moon
+  - one microrpg game a month challenge
+  - omgam
+  - pbta
+  - cards
+  - everway
+  - weylandt
 comments: true
 published: true
 links:
-- url: https://exposit.github.io/katarpgs/superlite/singermoon/
-  title: Singer Moon
-  source: katamoiran rpgs
+  - url: 'https://exposit.github.io/katarpgs/superlite/singermoon/'
+    title: Singer Moon
+    source: katamoiran rpgs
+redirect_to: 'https://www.hedonic.ink/february-omgam-singer-moon'
 ---
 
 Here's February's game, [Singer Moon](https://exposit.github.io/katarpgs/superlite/singermoon/). It's a stripped down, barebones, pbta variation on an unpublished game I've been working on for a while, tentatively called Weylandt.

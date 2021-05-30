@@ -27,6 +27,7 @@ links:
     title: Concentric Game Design
     source: lumpley
 redirect_from: "/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html"
+redirect_to: 'https://www.hedonic.ink/secrets-and-shadows'
 ---
 
 *Edit 1/25: I made a science fiction version loosely inspired by the SF of the 70s and 80s, [Starfarer](https://exposit.github.io/katarpgs/superlite/starfarer/).*

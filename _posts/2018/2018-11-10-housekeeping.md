@@ -6,6 +6,7 @@ categories: ['site']
 tags: ['misc', 'housekeeping']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/housekeeping'
 ---
 
 I am not a good blogger. I like the easy social candy of Discord too much.  That said, with the demise of G+ on the horizon and a few projects that deserve their own discussion, I'm ready to start blogging again.

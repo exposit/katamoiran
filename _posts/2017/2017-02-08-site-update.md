@@ -6,6 +6,7 @@ categories: ['site']
 tags: [site]
 comments: false
 published: true
+redirect_to: 'https://www.hedonic.ink/broken-links'
 ---
 
 Sorry about any broken links. Hopefully I caught all of them.

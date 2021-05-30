@@ -11,6 +11,7 @@ links:
   - url: https://exposit.github.io/katarpgs/lite/calypsocompendium/
     title: The Calypso Compendium
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/calypso-compendium-updated'
 ---
 
 *See the original post [here]({{ site.baseurl }}/2017/02/20/the-calypso-compendium/).*

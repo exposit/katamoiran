@@ -12,6 +12,7 @@ links:
   - url: http://recedingrules.blogspot.com/2014/06/public-domain-dungeon-map-icons.html
     title: Public Domain Dungeon Map Icons
     source: Tenkar
+redirect_to: 'https://www.hedonic.ink/ascii-megadungeon-generator'
 ---
 
 I'm making a megadungeon. I've written up seven pitches and pitched them to my potential players (more on this later). All solid pitches, too, gleaned from my campaign archives.

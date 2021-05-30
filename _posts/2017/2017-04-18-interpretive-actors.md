@@ -7,6 +7,7 @@ tags: [solo, pythia, tutorial, actor]
 series: "Pythia Spotlight"
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/interpretive-actors'
 ---
 
 Just a post to show off how I've been generating actors lately in Pythia. The very nice thing about using a program is it's very easy to change up your methods if something isn't working, or to generate a new result if the first (or tenth) isn't really catching your imagination.

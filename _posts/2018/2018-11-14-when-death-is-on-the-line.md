@@ -7,6 +7,7 @@ categories: ['game design']
 tags: ['dungeon world', 'world of dungeons', 'wodu', 'heartbreaker', 'osr', 'megadungeon', 'stonehell']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/when-is-death-on-the-line'
 ---
 
 There's been a bit of discussion lately about fairness and lethality, in your preferred flavor of playing pretend, so I thought I'd discuss my thoughts on it.

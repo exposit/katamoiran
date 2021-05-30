@@ -6,6 +6,7 @@ categories: ['mechanics', 'soloing']
 tags: [oracle, random table, mechanics]
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/chaos-oracle'
 ---
 
 I've probably posted this before, but I thought it'd be fun in case I didn't. This is cribbed from Pythia's fu panel, which is stuffed full of different oracles.

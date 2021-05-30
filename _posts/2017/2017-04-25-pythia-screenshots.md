@@ -20,6 +20,7 @@ links:
   - url: https://exposit.github.io/katamoiran/2016/12/14/6-hours-to-midnight-ap/
     title: 6 Hours to Midnight
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/some-pythia-screenshots'
 ---
 
 I thought it might be useful to put up some screenshots of Pythia with actual content. These are taken in Pythia, using the screenshot feature (triggered by being in debug mode and typing a tilde into the main text box).

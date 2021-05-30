@@ -13,6 +13,7 @@ links:
   - url: http://www.onesevendesign.com/ladyblackbird/
     title: Lady Blackbird
     source: One Seven Designs
+redirect_to: 'https://www.hedonic.ink/2017-02-18-week-recap'
 ---
 
 As always, just some quick notes to remind myself I'm achieving stuff. Some game related, some not.

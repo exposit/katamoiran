@@ -6,6 +6,7 @@ categories: ['mechanics']
 tags: ['motifs', 'threads']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/threads-motifs'
 ---
 
 I could have sworn I wrote a post on this, but because I can't find it I'll write it again (or for the first time maybe). This is also going into my game inspired by World of Dungeons. Eventually.

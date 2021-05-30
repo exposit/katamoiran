@@ -17,7 +17,7 @@ links:
     title: The Big List of Dungeon World Playbooks
   - url: https://exposit.github.io/dw-ccs/
     title: The Big List of Dungeon World Compendium Classes
-
+redirect_to: 'https://www.hedonic.ink/even-more-dungeon-world-playbooks'
 ---
 
 July 18, 2018

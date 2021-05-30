@@ -1,11 +1,16 @@
 ---
 layout: post
 title: What's About to Happen?
-date: 2019-02-03 11:46:02
-categories: ['mechanics']
-tags: ['table', 'javascript', 'random']
+date: 2019-02-03T11:46:02.000Z
+categories:
+    - mechanics
+tags:
+    - table
+    - javascript
+    - random
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/what-s-about-to-happen/'
 ---
 
 More fun with javascript. This one is a 100 element list of random things that can just happen while delving, exploring, or having a cup of tea.

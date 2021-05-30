@@ -12,6 +12,7 @@ links:
     title: Pythia Oracle
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md#secrets--triggers
     title: Pythia Oracle Help
+redirect_to: 'https://www.hedonic.ink/pc-moves-chart'
 ---
 
 So about six months ago I wrote a framework for emulating PCs, with the idea that you would play solo as usual, but when it came time for your PC to do something, you'd use a chart (along with some more complicated mechanics for modifiers and timing) to determine what the PC did.

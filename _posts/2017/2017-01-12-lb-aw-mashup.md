@@ -19,6 +19,7 @@ links:
   - url: http://mightyatom.blogspot.com/2011/05/apocalypse-world-guide-to-hard-moves.html
     title: Hard & Soft Moves Explained
     source: Mighty Atom
+redirect_to: 'https://www.hedonic.ink/apocalypse-world-lady-blackbird-mashup'
 ---
 
 **Update: a refined version is available [here](https://exposit.github.io/katamoiran/game%20design/secrets%20and%20shadows/2017/01/16/secrets-and-shadows.html).**

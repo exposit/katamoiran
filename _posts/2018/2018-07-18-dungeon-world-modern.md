@@ -10,6 +10,7 @@ links:
   - url: https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN
     title: Urban/Modern/Fantasy
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/dungeon-world-modern'
 ---
 
 [Urban/Modern/Fantasy](https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN) is a CC-licensed framework for running modern settings using Dungeon World's mechanics.

@@ -6,6 +6,7 @@ categories: ['site']
 tags: ['misc', 'python']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/blogroll-in-jekyll'
 ---
 
 I figured out a way to have a (somewhat) easy to keep current blogroll on Jekyll. The issue is that Jekyll is static -- the pages are generated when you upload them to github, and they don't change again until you update again, say, by pushing a new post or a typo fix.

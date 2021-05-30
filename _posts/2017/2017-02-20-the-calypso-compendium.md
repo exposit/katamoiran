@@ -21,6 +21,7 @@ links:
   - url: http://lumpley.com/index.php/anyway/thread/594
     title: Concentric Game Design
     source: lumpley
+redirect_to: 'https://www.hedonic.ink/the-calypso-compendium'
 ---
 
 *3/13: Updated core mechanic, added more generators, more explanation, more character options. Same download link.*

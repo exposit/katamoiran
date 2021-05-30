@@ -17,6 +17,7 @@ links:
     title: Pythia Changelog v. 1.4.0
   - url: https://github.com/exposit/pythia-oracle/blob/master/HELP.md
     title: Pythia Help
+redirect_to: 'https://www.hedonic.ink/pythia-oracle-update-1-4-0'
 ---
 
 Version 1.4.0 of [Pythia Oracle](https://exposit.github.io/pythia-oracle/) is finally finalized. Ha. No changes from the last commit except to update the various tags and markers to the current version number -- make it official, so to speak.

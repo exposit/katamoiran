@@ -13,6 +13,7 @@ links:
   - url: http://www.storyforgecards.com/DealAPlot.pdf
     title: Deal-a-Plot Cards
     source: Story Forge Cards
+redirect_to: 'https://www.hedonic.ink/minor-python-tools'
 ---
 
 I dusted off a couple of scripts and pushed them to the repo. The first is a diedrop generator, for those times when you really need to drop a bunch of dice on a flat surface but can't do it physically. The second set creates plot problem and complications based on the (very dated) 1930s [deal-a-plot cards](http://www.storyforgecards.com/DealAPlot.pdf) found here.

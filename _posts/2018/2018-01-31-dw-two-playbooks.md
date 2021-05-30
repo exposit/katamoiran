@@ -16,6 +16,7 @@ links:
   - url: https://drive.google.com/open?id=14SoLRpWNp7ZWtT8ZJiGyhSzItJAiha09
     title: The Celtic Bard
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/more-dungeon-world-playbooks'
 ---
 
 A couple more playbooks, written for Dungeon World. Obviously not playtested. And feedback is more than welcome.

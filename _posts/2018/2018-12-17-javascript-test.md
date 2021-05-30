@@ -6,6 +6,7 @@ categories: ['mechanics']
 tags: ['louche', 'javascript', 'random']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/louche-javascript-test'
 ---
 
 A little proof of concept javascript thing to randomly pick an element from a list and display it. In this case, a complication from my [post](https://exposit.github.io/katamoiran/2018/11/29/complication-panic/) a couple of weeks ago.

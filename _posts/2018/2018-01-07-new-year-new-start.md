@@ -6,6 +6,7 @@ categories: ['site']
 tags: ['misc', 'new year']
 comments: true
 published: true
+redirect_to: 'https://www.hedonic.ink/new-year-new-start'
 ---
 
 So it's been awfully quiet around here lately.

@@ -8,6 +8,7 @@ tags: ['dungeon world', 'world of dungeons', 'wodu', 'osr', 'hexmap', 'python', 
 comments: true
 published: true
 extender: 'procedural hexmap'
+redirect_to: 'https://www.hedonic.ink/procedural-hexmap-generator'
 ---
 
 Who loves hexmaps? Me!!!

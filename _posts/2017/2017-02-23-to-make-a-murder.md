@@ -11,6 +11,7 @@ links:
   - url: https://lostpangolin.files.wordpress.com/2016/10/nsaabh.pdf
     title: Nine Steps and a Bloody Heart
     source: Lost Pangolin
+redirect_to: 'https://www.hedonic.ink/to-make-a-murder'
 ---
 
 Just a quick brainstorm of a framework for running narrative but yet still (slightly?) objective mysteries, solo.

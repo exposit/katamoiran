@@ -16,6 +16,7 @@ links:
   - url: https://exposit.github.io/katamoiran/2017/02/20/the-calypso-compendium/
     title: The Calypso Compendium
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/writing-with-pythia'
 ---
 
 So, finding myself between projects, I decided to write a novel. Well, another one, but let's not talk about that, hahaha.

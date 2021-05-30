@@ -12,6 +12,7 @@ links:
   - url: http://recedingrules.blogspot.com/2014/06/public-domain-dungeon-map-icons.html
     title: Public Domain Dungeon Map Icons
     source: Tenkar
+redirect_to: 'https://www.hedonic.ink/ascii-megadungeon-generator-redux'
 ---
 
 I cleaned up my python projects folder, and in the process found four more random dungeon generators, one of which already outputs to ascii. So I made a few adjustments to bring it into line with the "convert to an image" script, and now I have two options when I want to generate a base map.

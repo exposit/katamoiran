@@ -10,6 +10,7 @@ links:
   - url: http://www.onesevendesign.com/dw/world_of_dungeons_1979_bw.pdf
     title: World of Dungeons
     source: one seven design
+redirect_to: 'https://www.hedonic.ink/wodu-and-spot-checks'
 ---
 
 I've been running a play-by-post duet of Urban/Modern/Fantasy (my modern take on Dungeon World) for the past few months. We're winding down; the hero is approaching tenth level, has conquered his major demons, and has just one left to confront.

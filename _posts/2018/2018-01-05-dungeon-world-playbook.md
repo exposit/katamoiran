@@ -10,6 +10,7 @@ links:
   - url: https://drive.google.com/open?id=14SoLRpWNp7ZWtT8ZJiGyhSzItJAiha09
     title: The Celtic Bard
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/dungeon-world-playbook'
 ---
 
 So I've been running a small play-by-post in Discord for a couple of friends over the last couple of months. We're using Dungeon World to handle the mechanics, and it's a wonderful system for this sort of thing -- introducing D&D players to a more narrative style, in a framework (chat) that lends itself to essentially writing off-the-cuff fiction as you play (can you say "my cup of tea"?)

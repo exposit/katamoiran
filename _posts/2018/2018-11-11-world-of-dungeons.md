@@ -15,6 +15,7 @@ links:
   - url: https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN
     title: Urban/Modern/Fantasy
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/world-of-dungeons'
 ---
 
 A few weeks ago, in my [UMF](https://drive.google.com/drive/folders/1QOsM3iExEsvbkE1etMBmUNY9S4Ie_gnN) playtest (a chat-based duet that has since reached over 564,000 words), I provided an interesting side quest -- a dangerous realm fashioned of pure chaos into a fantasy world, bound by fairytale logic and containing the trapped souls of 113 people who had been unmade, erased from reality wholecloth.

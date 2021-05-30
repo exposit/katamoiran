@@ -10,6 +10,7 @@ links:
   - url: https://twistedcities.wordpress.com/2018/11/28/the-chills-technique/
     title: CHILLS
     source: Twisted Cities
+redirect_to: 'https://www.hedonic.ink/complication-panic'
 ---
 
 I am in love with the ++/+-/-- resolution mechanic, aka, pbta. I am currently running World of Dungeons, which uses a very light, very simplified pbta mechanic, and no explicit GM moves -- if it's your turn in the conversation, it's just... your turn. Make your move.

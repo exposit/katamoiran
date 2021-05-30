@@ -11,6 +11,7 @@ links:
   - url: https://github.com/exposit/katamoiran/tree/master/python/pythia-scripts
     title: pythia scripts
     source: katamoiran
+redirect_to: 'https://www.hedonic.ink/pythia-dungeon-script'
 ---
 
 I pulled some of Pythia's dungeon building tools out and put them into a simple python script. The output is saved to a text file in the folder where you've got the script.
