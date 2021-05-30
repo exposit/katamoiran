@@ -3,18 +3,6 @@ layout: default
 group: Home
 ---
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces&display=swap" rel="stylesheet">
-
-<section class="pinned">
-  <article class="hero-unit rounded color3">
-    <h1 class='post-title' style="font-size: 22px; font-family: 'Fraunces', serif;">
-      <span>Hi there!</span> I'm now posting over at <a href="https://www.hedonic.ink">hedonic.ink.</a> Come on over and see what's new!
-    </h1>
-  </article>
-</section>
-
-
 {% for post in site.posts %}
 {% if post.pinned %}
 <section class="pinned">
